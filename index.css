@@ -49,7 +49,11 @@
     grid-column: 3;
     grid-row: 1 / span 2;
 
-    background-color: green;
+    background-color: white;
+}
+
+.right-panel-grid {
+
 }
 
 .pop-up {
