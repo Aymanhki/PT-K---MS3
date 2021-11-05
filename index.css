@@ -48,12 +48,8 @@
 .right-panel {
     grid-column: 3;
     grid-row: 1 / span 2;
-
-    background-color: white;
-}
-
-.right-panel-grid {
-
+    margin: 10px;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .pop-up {
