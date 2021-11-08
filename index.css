@@ -49,8 +49,8 @@
 .right-panel {
     grid-column: 3;
     grid-row: 1 / span 2;
-
-    background-color: green;
+    margin: 10px;
+    border-radius: 10px 10px 10px 10px;
 }
 
 .pop-up {
