@@ -231,13 +231,15 @@ ul {
     grid-row: 3;
 }
 
-#doughnut
+.doughnut
 {
     position: absolute;
-    display: flexbox;
+    /*display: flexbox;*/
     align-items: center;
     justify-content: center;
     width: 100%;
+    height: 100%;
+    /*maintainAspectRatio : false*/
 }
 
 .pop-up {

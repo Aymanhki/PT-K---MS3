@@ -41,5 +41,5 @@ $(document).ready(function(){
     // }
 
     var chart = new Chart(ctx).Doughnut(data);
-    chart.width = 100;
+
 });
