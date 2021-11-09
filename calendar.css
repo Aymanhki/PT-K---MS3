@@ -46,11 +46,19 @@ ul {
 
 /* month header */
 .month {
+   
     padding: 70px 25px;
     top: 50%;
     width: 100%;
     text-align: center;
 }
+
+.month .prev {
+    display: inline-block;
+    padding: 10px;
+}
+
+
 
 .month ul {
     margin: 0;
@@ -59,6 +67,7 @@ ul {
 }
 
 .month ul li {
+    display: inline-block;
     color: white;
     font-size: 20px;
     letter-spacing: 4px;
@@ -66,14 +75,9 @@ ul {
     font-weight: 800;
 }
 
-/* prev and next button */
-.month .prev {
-    float: left;
-    padding: 10px;
-}
-
+/* next button */
 .month .next {
-    float: right;
+    display: inline-block;
     padding: 10px;
 }
 
