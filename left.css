@@ -1,0 +1,76 @@
+.category {
+    border: medium solid;
+    border-radius: 15px;
+    background-color: white;
+    width: 100%;
+    height: 30%;
+    margin-bottom: 5%;
+
+    text-align: center;
+    text-decoration: underline;
+    font-family: "Courier New", monospace;
+    font-size: 1.5625em;
+    font-weight: bold;
+    
+    cursor: pointer;
+    transition-duration: 0.5s;
+}
+
+.category:hover {
+    color: white;
+    background-color: border;
+}
+
+.accommodation {
+    color: #1d7403;
+    border-color: #1d7403;
+}
+
+.accommodation:hover {
+    background-color: #1d7403;
+}
+
+.entertainment {
+    color: #7948ff;
+    border-color: #7948ff;
+}
+
+.entertainment:hover {
+    background-color: #7948ff;
+}
+
+.food {
+    color: #f09a1a;
+    border-color: #f09a1a;
+}
+
+.food:hover {
+    background-color: #f09a1a;
+}
+
+.health {
+    color: #ff0000;
+    border-color: #ff0000;
+}
+
+.health:hover {
+    background-color: #ff0000;
+}
+
+.personal {
+    color: #0043fc;
+    border-color: #0043fc;
+}
+
+.personal:hover {
+    background-color: #0043fc;
+}
+
+.utilities {
+    color: #684f2f;
+    border-color: #684f2f;
+}
+
+.utilities:hover {
+    background-color: #684f2f;
+}
