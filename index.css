@@ -19,7 +19,7 @@
     margin: 10px;
     border-radius: 10px 10px 10px 10px;
     background-color: white;
-    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3), -2px -2px 2px 2px rgba(0, 0, 0, 0.3);
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1), -2px -2px 2px 2px rgba(0, 0, 0, 0.1);
 }
 
 .left-top {
@@ -223,8 +223,6 @@ ul {
 .right-panel {
     grid-column: 3;
     grid-row: 1 / span 2;
-
-
 }
 
 #doughnut
