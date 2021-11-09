@@ -14,23 +14,24 @@
 
 .grid-panel {
     padding: 10px;
-    border-radius: 5px;
+
+
+    margin: 10px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3), -2px -2px 2px 2px rgba(0, 0, 0, 0.3);
 }
 
 .left-top {
     position: relative;
     grid-column: 1;
     grid-row: 1;
-
-    background-color: pink;
 }
 
 .left-panel {
     grid-column: 1;
     grid-row: 2;
     overflow: scroll;
-
-    background-color: gray;
 }
 
 /* toggle switch for month and year */
@@ -110,7 +111,6 @@ input:checked + .toggle .toggle__handler{
     grid-row: 1;
     position: relative;
 
-    background-color: yellow;
 }
 
 .center-panel {
@@ -118,7 +118,6 @@ input:checked + .toggle .toggle__handler{
     grid-column: 2;
     grid-row: 2;
 
-    background-color: red;
 }
 
 /*calendar content*/
@@ -224,10 +223,7 @@ ul {
 .right-panel {
     grid-column: 3;
     grid-row: 1 / span 2;
-     margin: 10px;
-     border-radius: 10px 10px 10px 10px;
-    background-color: white;
-    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3), -2px -2px 2px 2px rgba(0, 0, 0, 0.3);
+
 
 }
 
