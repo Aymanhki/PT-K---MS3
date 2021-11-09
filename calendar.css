@@ -46,18 +46,26 @@ ul {
 
 /* month header */
 .month {
-   
     padding: 70px 25px;
     top: 50%;
     width: 100%;
     text-align: center;
 }
 
+.month .btn {
+    border: none;
+    background-color: inherit;
+    color: seagreen;
+    font-size: 20px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
 .month .prev {
+
     display: inline-block;
     padding: 10px;
 }
-
 
 
 .month ul {
