@@ -1,0 +1,113 @@
+.center-header {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row: 1;
+    position: relative;
+}
+
+.center-panel {
+    position: relative;
+    grid-column: 2;
+    grid-row-start: 2;
+    grid-row-end: 4;
+}
+
+/*calendar content*/
+/*removing the dots in lists*/
+ul {
+    list-style-type: none;
+}
+
+.calendar-content {
+    
+    align-items: center;
+    display: inline-flex;
+    
+    justify-content: center;
+    margin: 0 auto;
+    width: 100%;
+
+}
+
+.calendar-header {
+    position: relative;
+    align-items: center;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.calendar {
+    border-radius: 4px;
+    
+    width: 100%;
+}
+
+/* month header */
+.month {
+    padding: 70px 25px;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+}
+
+.month ul {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.month ul li {
+    color: white;
+    font-size: 20px;
+    letter-spacing: 4px;
+    color: seagreen;
+    font-weight: 800;
+}
+
+/* prev and next button */
+.month .prev {
+    float: left;
+    padding: 10px;
+}
+
+.month .next {
+    float: right;
+    padding: 10px;
+}
+
+/* week day headings */
+.week-day {
+    display: flex;
+    justify-content: space-between;
+    font-weight: 800;
+    padding: 10px 0px;
+
+}
+
+.week-day li {
+    display: inline-block;
+    width: 13.6%;
+    color: rgb(94, 89, 84);
+    text-align: center;
+}
+
+/* days */
+.days {
+    padding: 10px 0;
+    background: #eee;
+    margin: 0;
+}
+
+.days li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13.6%;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #777;
+}
