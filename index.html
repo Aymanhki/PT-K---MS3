@@ -16,7 +16,11 @@
     <body>
        <div class="grid-container-app app">
            <div class="grid-panel left-top">
-               <input class="pop-up-close" type="button" value="Pop-up Switch">
+               <!--the switch for monthly and yearly-->
+               <div class="toggleWrapper" aria-labelledby="view-group">
+                <input type="checkbox" id="dn" class="dn" value="view-checked">
+                <label for="dn" class="toggle"><span class="toggle__handler"></span></label>
+            </div>
            </div>
            <!--I'm testing my scrollbar here gang, it'll be-->
            <div class="grid-panel left-panel"><p>Left panel.</p>
@@ -27,8 +31,72 @@
             <p>But you couldn’t, you didn’t, and now you’re paying the price, you goddamn idiot. I will shit fury all over you and you will drown in it.</p>
             <p>You’re fucking dead, kiddo.</p>
            </div>
-           <div class="grid-panel center-header">Center header</div>
-           <div class="grid-panel center-panel">Center panel</div>
+           <!--centre header-->
+           <div class="grid-panel center-header">Center header
+               <div class="calendar-content">
+                    <div class="calendar-header">
+                        <h2 class="month">
+                            <ul>
+                                <li class="prev">&#10094</li>
+                                <li class="next">&#10095</li>
+                                <li>November<br><span style="font-size:18px">2021</span></li>
+                            </ul>
+                        </h2>
+                    </div>
+               </div>
+            
+           </div>
+           <div class="grid-panel center-panel">Center panel
+               <!--calendar-->
+               <div class="calendar-content">
+                <div class="calendar">
+                    <div class="current-month">
+                        <ul class="week-day">
+                            <li>Sun</li>
+                            <li>Mon</li>
+                            <li>Tue</li>
+                            <li>Wed</li>
+                            <li>Thu</li>
+                            <li>Fri</li>
+                            <li>Sat</li>
+                        </ul>
+                        <ul class="days">
+                            <li>1</li>
+                            <li>2</li>
+                            <li>3</li>
+                            <li>4</li>
+                            <li>5</li>
+                            <li>6</li>
+                            <li>7</li>
+                            <li>8</li>
+                            <li>9</li>
+                            <li>10</li>
+                            <li>11</li>
+                            <li>12</li>
+                            <li>13</li>
+                            <li>14</li>
+                            <li>15</li>
+                            <li>16</li>
+                            <li>17</li>
+                            <li>18</li>
+                            <li>19</li>
+                            <li>20</li>
+                            <li>21</li>
+                            <li>22</li>
+                            <li>23</li>
+                            <li>24</li>
+                            <li>25</li>
+                            <li>26</li>
+                            <li>27</li>
+                            <li>28</li>
+                            <li>29</li>
+                            <li>30</li>
+                        </ul>
+                    </div>
+                   
+                </div>
+            </div>
+           </div>
            <div class="grid-panel right-panel"></div>
            <div class="pop-up">pop-up</div>
        </div>
