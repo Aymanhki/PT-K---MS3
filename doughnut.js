@@ -1,6 +1,6 @@
 
 $(document).ready(function(){
-    var ctx = $(".doughnut").get(0).getContext("2d");
+    var ctx = $("#doughnut").get(0).getContext("2d");
 
     var data = [
         {
