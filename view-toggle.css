@@ -66,7 +66,7 @@ input:checked + .toggle:after{
 	color: rgb(94, 89, 84);
 }
 input:checked + .toggle .toggle__handler{
-	width: 4.7vw;
+	width: 4.65vw;
 	-webkit-transform: translateX(5vw);
 	transform: translateX(5vw);
 	border-color: #fff;
