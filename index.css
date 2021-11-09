@@ -108,7 +108,7 @@ input:checked + .toggle .toggle__handler{
 }
 .center-header {
     grid-column-start: 2;
-    grid-column-end: 4;
+    grid-column-end: 3;
     grid-row: 1;
     position: relative;
 }
@@ -226,12 +226,17 @@ ul {
 }
 
 .right-bottom {
+    position: relative;
     grid-column: 3;
     grid-row: 3;
 }
 
-.doughnut
+#doughnut
 {
+    position: absolute;
+    display: flexbox;
+    align-items: center;
+    justify-content: center;
     width: 100%;
 }
 
