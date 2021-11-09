@@ -11,8 +11,3 @@ p {
   color: pink;
   margin-left: 100px;
 }
-
-.right-panel {
-  background-color: white;
-  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3), -2px -2px 2px 2px rgba(0, 0, 0, 0.3);
-}
