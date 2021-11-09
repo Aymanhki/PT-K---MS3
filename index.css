@@ -224,8 +224,17 @@ ul {
 .right-panel {
     grid-column: 3;
     grid-row: 1 / span 2;
-    margin: 10px;
-    border-radius: 10px 10px 10px 10px;
+     margin: 10px;
+     border-radius: 10px 10px 10px 10px;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.3), -2px -2px 2px 2px rgba(0, 0, 0, 0.3);
+
+}
+
+#doughnut
+{
+    width: 264px;
+    height: 50vh;
 }
 
 .pop-up {
@@ -256,3 +265,4 @@ ul {
 ::-webkit-scrollbar-thumb {
     background: transparent;
 }
+

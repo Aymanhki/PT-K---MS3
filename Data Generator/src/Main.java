@@ -1,8 +1,9 @@
 import java.io.*;
+import java.util.Scanner;
 
 public class Main
 {
-    private final static String[] HEADERS = {"Title", "Date", "Category", "Income/Expense", "Amount"};
+    private final static String[] HEADERS = {"Title", "Day", "Month", "Year", "Category", "Income/Expense", "Amount"};
     private final static String[] CATEGORIES = {"Entertainment", "Utilities", "Personal", "Food", "Accommodation", "Health"};
     private final static String[] CATEGORY_TYPE = {"Income", "Expense"};
     private final static int NUM_OF_TRANSACTION = 1000;
@@ -53,11 +54,16 @@ public class Main
                 } while (TITLES[randomTitle] == null);
 
                 String date = dateGenerator();
+                Scanner dateParser = new Scanner(date);
+                dateParser.useDelimiter("/");
+                String day = String.valueOf(dateParser.nextInt());
+                String month = String.valueOf(dateParser.nextInt());
+                String year = String.valueOf(dateParser.nextInt());
                 String category = CATEGORIES[randomInt(0, CATEGORIES.length)];
                 String categoryType = CATEGORY_TYPE[randomInt(0, CATEGORY_TYPE.length)];
                 String amount = String.format("%.2f", randomDouble(MINIMUM_TRANSACTION_AMOUNT, MAXIMUM_TRANSACTION_AMOUNT));
 
-                out.print(title + "," + date + "," + category + "," + categoryType + "," + amount + "\n");
+                out.print(title + "," + day + "," + month + "," + year + "," + category + "," + categoryType + "," + amount + "\n");
             }
 
             out.close();
