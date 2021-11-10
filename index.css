@@ -41,7 +41,8 @@
 }
 
 .right-bottom {
-    position: relative;
+    
+    justify-items: center;
     grid-column: 3;
     grid-row: 3;
 }
