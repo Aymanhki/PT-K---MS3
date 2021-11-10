@@ -22,7 +22,8 @@
     <script src="toggle.js"></script>
     <script src="Chart.js"></script>
     <script src="jquery-2.1.4.min.js"></script>
-    <script type="text/javascript" src="doughnut.js"></script>
+    <script type ="text/javascript" src="doughnut.js"></script>
+
 </head>
 
 <body>
@@ -50,7 +51,9 @@
 
         <!--centre header-->
         <div class="grid-panel right-bottom">
-            <canvas id="doughnut"></canvas>
+            <div class = "doughnut-container">
+                <canvas id="doughnut"></canvas>
+            </div>
         </div>
 
         <div class="grid-panel center-header">
@@ -71,6 +74,7 @@
             <!--calendar-->
             <div class="calendar-content">
                 <div class="calendar">
+
                     <div class="current-month">
                         <ol class="week-day">
                             <li>Sun</li>
@@ -113,11 +117,25 @@
                             <li class="days"><span>29</span></li>
                             <li class="days"><span>30</span></li>
                         </ol>
+<!--
+                    <link href="./calendar2.css" rel="stylesheet" />
+                    <script src="./calendar.js"></script>
+                    <div class="calendar-grid">
+                        <div class="day-name"><span style="grid-column: 1">Sunday</span></div>
+                        <div class="day-name"><span style="grid-column: 2">Monday</span></div>
+                        <div class="day-name"><span style="grid-column: 3">Tuesday</span></div>
+                        <div class="day-name"><span style="grid-column: 4">Wednesday</span></div>
+                        <div class="day-name"><span style="grid-column: 5">Thursday</span></div>
+                        <div class="day-name"><span style="grid-column: 6">Friday</span></div>
+                        <div class="day-name"><span style="grid-column: 7">Saturday</span></div>
+-->
                     </div>
                 </div>
             </div>
         </div>
-        <div class="pop-up">pop-up</div>
+        <!-- Keep this for pop up widget  
+            <div class="pop-up">pop-up</div>
+        -->
 
     </div>
 

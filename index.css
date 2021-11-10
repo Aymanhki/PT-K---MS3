@@ -9,14 +9,14 @@
     grid-row-gap: 5px;
 
     grid-template-columns: 1fr 3fr 1fr;
-    grid-template-rows: 150px 1fr 1fr;
+    grid-template-rows: 120px 1fr 1fr;
 }
 
 .grid-panel {
     padding: 10px;
 
     margin: 10px;
-    border-radius: 10px 10px 10px 10px;
+    border-radius: 15px;
     background-color: white;
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1), -2px -2px 2px 2px rgba(0, 0, 0, 0.1);
 }
@@ -34,6 +34,7 @@
     overflow: scroll;
 }
 
+
 .right-top {
     grid-column: 3;
     grid-row: 2;
@@ -46,13 +47,14 @@
     grid-row: 3;
 }
 
-.doughnut
+.doughnut-container
 {
-    
-    /*display: flexbox;*/
-    width: 100%;
-    height: 100%;
-    /*maintainAspectRatio : false*/
+    /*position: absolute;*/
+    /*align-items: center;*/
+    /*justify-content: center;*/
+    height:40vh;
+    width: 20vw;
+
 }
 
 .pop-up {
