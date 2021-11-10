@@ -25,6 +25,7 @@
     position: relative;
     grid-column: 1;
     grid-row: 1;
+    overflow: visible;
 }
 
 .left-panel {
