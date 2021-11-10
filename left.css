@@ -73,3 +73,14 @@
 .utilities:hover {
     background-color: #684f2f;
 }
+
+.addCat {
+    color: #000000;
+    border-color: #000000;
+    text-decoration: none;
+    font-size: 8vw;
+}
+
+.addCat:hover {
+    background-color: #000000;
+}
