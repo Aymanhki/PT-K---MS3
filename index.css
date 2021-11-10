@@ -9,7 +9,7 @@
     grid-row-gap: 5px;
 
     grid-template-columns: 1fr 3fr 1fr;
-    grid-template-rows: 120px 1fr 1fr;
+    grid-template-rows: 80px 1fr 1fr;
 }
 
 .grid-panel {
@@ -46,6 +46,13 @@
     justify-items: center;
     grid-column: 3;
     grid-row: 3;
+}
+
+.header-divider {
+    grid-row:  1;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    border-bottom: 1px solid grey;
 }
 
 .doughnut-container
