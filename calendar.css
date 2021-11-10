@@ -11,6 +11,9 @@
     grid-column: 2;
     grid-row-start: 2;
     grid-row-end: 4;
+    overflow: scroll;
+    align-items: center;
+    justify-items: center;
 }
 
 /*calendar content*/
@@ -97,28 +100,33 @@ li {
     
     display: grid;
     grid-template-columns: repeat(7, 1fr);
+    
+    
 }
 
 .week-day > * {
     
     text-align: center;
+    
+    position: relative;
     padding-right: 50px;
+    left: 50%;
+    min-width:80px;
 }
 
 .days-grid, .days {
     align-content: center;
     position: relative;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
-    border-top: solid 1px grey;
+    
+    
+    
 }
 
 .days {
     
     position: relative;
     min-height: 100px;
-    
+    min-width: 80px;
     font-size: 16px;
     border: solid 1px rgb(202, 200, 200);
 }
@@ -129,6 +137,6 @@ li {
     align-items: center;
     position: absolute;
     left: 50%;
-    width: 1fr;
+    width: 100px;
     
 }
