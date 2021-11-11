@@ -63,6 +63,12 @@ li {
     padding: 10px;
 }
 
+.btn:hover{
+    border-radius: 3px;
+    color: white;
+    background-color: rgb(41, 48, 47);
+    font-weight: bolder;
+}
 
 .month ul {
     margin: 0;
