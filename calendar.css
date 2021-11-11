@@ -1,20 +1,17 @@
+/* --------------------------------------------------------------------------------------------------------- */
+/* ------------------------------------ top panel stuffs --------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------- */
+
 .center-header {
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row: 1;
     position: relative;
+    align-content: center;
     overflow: visible;
+    border: solid 1px red;
 }
 
-.center-panel {
-    
-    grid-column: 2;
-    grid-row-start: 2;
-    grid-row-end: 4;
-    overflow: scroll;
-    align-items: center;
-    justify-items: center;
-}
 
 /*calendar content*/
 /*removing the dots in lists*/
@@ -31,13 +28,17 @@ li {
     height: 100%;
 }
 
-.calendar-header {
-    position: absolute;
-    align-items: center;
-    height: 100px;
-    display: flex;
+.calendar-content .calendar-header {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: inherit;
     justify-content: center;
+    height: 100px;
+    display: inline-flex;
+    align-self: center;
     width: 100%;
+    border: solid 1px red;
+    
 }
 
 
@@ -53,7 +54,8 @@ li {
 .month .btn {
     border: none;
     background-color: inherit;
-    font-size: 20px;
+    font-size: 3vw;
+    text-size-adjust: auto;
     font-weight: 800;
     cursor: pointer;
 }
@@ -72,8 +74,9 @@ li {
 }
 
 .month ul li {
-    display: inline-block;
-    font-size: 24px;
+    display: inline-flex;
+    font-size: 3vw;
+    text-size-adjust: auto;
     letter-spacing: 4px;
     font-weight: 800;
 }
@@ -87,54 +90,75 @@ li {
 
 /* week day headings */
 .week-day {
-    
-    place-items: center;
     font-size: 18px;
     font-weight: 800;
     padding-bottom: 5px;
     padding-top: 10px;
 }
 
-/* days */
-.week-day, .days-grid {
+/* --------------------------------------------------------------------------------------------------------- */
+/* ------------------------------------ center panel stuffs ------------------------------------------------ */
+/* --------------------------------------------------------------------------------------------------------- */
+
+.center-panel {
+    position: relative;
+    /* grid placement stuff */
+    grid-column: 2;
+    grid-row-start: 2;
+    grid-row-end: 4;
+
+    /* content stuff */
+    overflow: scroll;
     
+}
+
+/* calendar grid setup */
+.week-day, .days-grid {
+    position: sticky;
     display: grid;
     grid-template-columns: repeat(7, 1fr);
     
-    
+    justify-content: center;
+    padding-right: 10px;
+    padding-left: 10px;
 }
 
+
+/* days of the week headings stuff */
 .week-day > * {
-    
+    position: relative;
+    text-justify: center;
+    min-width: 50px;
     text-align: center;
     
-    position: relative;
-    padding-right: 50px;
-    left: 50%;
-    min-width:80px;
-}
-
-.days-grid, .days {
-    align-content: center;
-    position: relative;
-    
-    
     
 }
 
-.days {
+
+/*actual calendar blocking */
+.days-grid{
+    
+    justify-self: center;
+    position: inherit;
+    
+}
+
+/* days in calendar */
+.days-grid .days {
     
     position: relative;
+    background-color: white;
+    
     min-height: 100px;
-    min-width: 80px;
+    min-width: 50px;
     font-size: 16px;
+    padding-top: 5px;
     border: solid 1px rgb(202, 200, 200);
+    
 }
 
 .days > span {
-    display: inline-block;
-    justify-content: center;
-    align-items: center;
+    
     position: absolute;
     left: 50%;
     width: 100px;

@@ -23,8 +23,10 @@
 
 .left-top {
     position: relative;
-    grid-column: 1;
+    grid-column-start: 1;
+    grid-column-end: 2;
     grid-row: 1;
+    justify-items: end;
     overflow: visible;
 }
 
@@ -33,6 +35,9 @@
     grid-row-start: 2;
     grid-row-end: 4;
     overflow: scroll;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
 }
 
 
@@ -59,7 +64,6 @@
 }
 
 .pop-up {
-    
     position: fixed;   
     left: 50%;
     top: 50%;
