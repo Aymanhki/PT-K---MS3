@@ -164,7 +164,7 @@ li {
 }
 
 .days > span {
-    display: flexbox;
+    display: inline-flexbox;
     
     align-items: center;
     position: absolute;

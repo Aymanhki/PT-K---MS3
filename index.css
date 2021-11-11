@@ -8,7 +8,7 @@
     grid-column-gap: 5px;
     grid-row-gap: 5px;
 
-    grid-template-columns: 0.6fr 3fr 1fr;
+    grid-template-columns: 0.6fr 3fr 0.4fr;
     grid-template-rows: 90px 1fr 1fr;
 }
 
@@ -55,10 +55,11 @@
 
 .doughnut-container
 {
+    
     /*position: absolute;*/
     /*align-items: center;*/
     /*justify-content: center;*/
-    height:40vh;
+    height: 40vh;
     width: 20vw;
 
 }
