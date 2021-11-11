@@ -9,7 +9,6 @@
     position: relative;
     align-content: center;
     overflow: visible;
-    border: solid 1px red;
 }
 
 
@@ -24,30 +23,28 @@ li {
     list-style: none;
 }
 
-.current-month {
-    height: 100%;
-}
 
 .calendar-content .calendar-header {
-    padding-top: 20px;
-    padding-bottom: 20px;
-    position: inherit;
-    justify-content: center;
-    height: 100px;
-    display: inline-flex;
-    align-self: center;
+    
+    position: relative;
+    place-items: center;
+    height: 90px;
+    display: flex;
     width: 100%;
-    border: solid 1px red;
+    height: auto;
     
 }
 
 
-
 /* month header */
 .month {
-    padding: 70px 25px;
-    top: 50%;
-    width: 100%;
+    position: inherit;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: solid 1px rgb(202, 200, 200);
+    width: 98%;
+    height: 90px;
     text-align: center;
 }
 
@@ -55,13 +52,13 @@ li {
     border: none;
     background-color: inherit;
     font-size: 3vw;
+    text-anchor: middle;
     text-size-adjust: auto;
     font-weight: 800;
     cursor: pointer;
 }
 
 .month .prev {
-
     display: inline-block;
     padding: 10px;
 }
@@ -74,7 +71,8 @@ li {
 }
 
 .month ul li {
-    display: inline-flex;
+    position: inherit;
+    display: inline-block;
     font-size: 3vw;
     text-size-adjust: auto;
     letter-spacing: 4px;
@@ -88,13 +86,6 @@ li {
     padding: 10px;
 }
 
-/* week day headings */
-.week-day {
-    font-size: 18px;
-    font-weight: 800;
-    padding-bottom: 5px;
-    padding-top: 10px;
-}
 
 /* --------------------------------------------------------------------------------------------------------- */
 /* ------------------------------------ center panel stuffs ------------------------------------------------ */
@@ -108,26 +99,44 @@ li {
     grid-row-end: 4;
 
     /* content stuff */
-    overflow: scroll;
+    overflow: hidden;
     
+}
+
+.current-month {
+    display: flexbox;
+    margin-right: auto;
+    margin-left: auto;
+    justify-self: center;
+    height: 70vh;
+    width: auto;
+}
+
+/* week day headings */
+.week-day {
+    font-size: 18px;
+    font-weight: 800;
+    padding-bottom: 5px;
+    padding-top: 10px;
 }
 
 /* calendar grid setup */
 .week-day, .days-grid {
-    position: sticky;
+    position: inherit;
     display: grid;
     grid-template-columns: repeat(7, 1fr);
+    padding-right: 0.01px;
+    padding-left: 0.01px;
+    margin-right: auto;
+    margin-left: auto;
     
-    justify-content: center;
-    padding-right: 10px;
-    padding-left: 10px;
 }
 
 
 /* days of the week headings stuff */
 .week-day > * {
     position: relative;
-    text-justify: center;
+
     min-width: 50px;
     text-align: center;
     
@@ -137,30 +146,28 @@ li {
 
 /*actual calendar blocking */
 .days-grid{
-    
-    justify-self: center;
-    position: inherit;
-    
+    height: 100%;
+    grid-template-rows: repeat(5, 1fr);
 }
 
 /* days in calendar */
 .days-grid .days {
     
     position: relative;
-    background-color: white;
-    
-    min-height: 100px;
+    min-height: 50px;
     min-width: 50px;
     font-size: 16px;
-    padding-top: 5px;
+    background-color: white;
+    padding: 5px;
     border: solid 1px rgb(202, 200, 200);
     
 }
 
 .days > span {
+    display: flexbox;
     
+    align-items: center;
     position: absolute;
-    left: 50%;
-    width: 100px;
-    
+    text-align: center;
+    width: 100%;
 }
