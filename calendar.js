@@ -63,7 +63,7 @@ function clearCalendar() {
 
 function createNonMonthDay(date, month, year) {
     let dateElement = createDate(date, month, year)
-    dateElement.innerHTML = `<span style="color:rgb(211, 211, 211)">${date}</span>`;
+    dateElement.innerHTML = `<span style="color:rgb(180, 180, 180)">${date}</span>`;
     dateElement.onclick = clickOnDate(date, month, year);
     return dateElement
 }
