@@ -36,8 +36,12 @@ function loadCalendarDays(month, year) {
     console.log(numDays)
     let dayOfWeek = (tmpDate.getDay()+1)%7
     console.log(dayOfWeek)
+
+    let prevMonthDays = daysInMonth(month-1, year)
+    let nextMonthDays = daysInMonth(month+1, year)
+
     for (let i = 1; i <= dayOfWeek; i++) {
-        let nonMonthDate = createNonMonthDay(0, 0, 0)
+        let nonMonthDate = createNonMonthDay(prevMonthDays-dayOfWeek+i, month, year)
         daysGrid.appendChild(nonMonthDate)
     }
 
@@ -47,8 +51,8 @@ function loadCalendarDays(month, year) {
     }
 
 
-    for (let i = 0; i < 42 - (dayOfWeek) - numDays; i++) {
-        let nonMonthDate = createNonMonthDay(0, 0, 0)
+    for (let i = 1; i <= 42 - (dayOfWeek) - numDays; i++) {
+        let nonMonthDate = createNonMonthDay(i, month + 2, year)
         daysGrid.appendChild(nonMonthDate)
     }
 }
@@ -59,8 +63,8 @@ function clearCalendar() {
 
 function createNonMonthDay(date, month, year) {
     let dateElement = createDate(date, month, year)
-    dateElement.innerHTML = ""
-
+    dateElement.innerHTML = `<span style="color:rgb(211, 211, 211)">${date}</span>`;
+    dateElement.onclick = clickOnDate(date, month, year);
     return dateElement
 }
 
