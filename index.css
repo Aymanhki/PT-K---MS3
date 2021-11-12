@@ -8,8 +8,8 @@
     grid-column-gap: 5px;
     grid-row-gap: 5px;
 
-    grid-template-columns: 1fr 3fr 1fr;
-    grid-template-rows: 120px 1fr 1fr;
+    grid-template-columns: 0.6fr 3fr 0.4fr;
+    grid-template-rows: 90px 1fr 1fr;
 }
 
 .grid-panel {
@@ -23,8 +23,10 @@
 
 .left-top {
     position: relative;
-    grid-column: 1;
+    grid-column-start: 1;
+    grid-column-end: 2;
     grid-row: 1;
+    justify-items: end;
     overflow: visible;
 }
 
@@ -33,6 +35,9 @@
     grid-row-start: 2;
     grid-row-end: 4;
     overflow: scroll;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
 }
 
 
@@ -50,16 +55,16 @@
 
 .doughnut-container
 {
+    
     /*position: absolute;*/
     /*align-items: center;*/
     /*justify-content: center;*/
-    height:40vh;
+    height: 40vh;
     width: 20vw;
 
 }
 
 .pop-up {
-    
     position: fixed;   
     left: 50%;
     top: 50%;

@@ -11,13 +11,13 @@
 	position: absolute;
 	left: -99em;
 }
-.toggle{
+.left-top .toggle{
 	cursor: pointer;
 	display: inline-block;
 	position: relative;
 	width: 10vw;
 	height: 35px;
-	background: rgb(94, 89, 84);
+	background: rgb(179, 177, 175);
 	border-radius: 5px;
 	-webkit-transition: all 200ms cubic-bezier(0.445, 0.05, 0.55, 0.95);
 	transition: all 200ms cubic-bezier(0.445, 0.05, 0.55, 0.95);
@@ -34,7 +34,7 @@
 .toggle:before{
 	content: "MONTH";
 	left: 0.8vw;
-	color: rgb(94, 89, 84);
+	color: rgb(179, 177, 175);
 }
 .toggle:after{
 	content: "YEAR";
@@ -46,27 +46,27 @@
 	position: relative;
 	z-index: 1;
 	background: #fff;
-	width: 5vw;
+	width: 50%;
 	height: 29px;
 	border-radius: 3px;
 	top: 3px;
-	left: 0.2vw;
+	left: 0.14vw;
 	-webkit-transition: all 200ms cubic-bezier(0.445, 0.05, 0.55, 0.95);
 	transition: all 200ms cubic-bezier(0.445, 0.05, 0.55, 0.95);
 	-webkit-transform: translateX(0px);
 	transform: translateX(0px);
 }
 input:checked + .toggle{
-	background: rgb(94, 89, 84);
+	background: rgb(179, 177, 175);
 }
 input:checked + .toggle:before{
 	color: #fff;
 }
 input:checked + .toggle:after{
-	color: rgb(94, 89, 84);
+	color: rgb(179, 177, 175);
 }
 input:checked + .toggle .toggle__handler{
-	width: 4.65vw;
+	width: 4.7vw;
 	-webkit-transform: translateX(5vw);
 	transform: translateX(5vw);
 	border-color: #fff;

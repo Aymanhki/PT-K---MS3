@@ -1,17 +1,16 @@
+/* --------------------------------------------------------------------------------------------------------- */
+/* ------------------------------------ top panel stuffs --------------------------------------------------- */
+/* --------------------------------------------------------------------------------------------------------- */
+
 .center-header {
     grid-column-start: 2;
     grid-column-end: 3;
     grid-row: 1;
     position: relative;
+    align-content: center;
     overflow: visible;
 }
 
-.center-panel {
-    
-    grid-column: 2;
-    grid-row-start: 2;
-    grid-row-end: 4;
-}
 
 /*calendar content*/
 /*removing the dots in lists*/
@@ -24,43 +23,52 @@ li {
     list-style: none;
 }
 
-.current-month {
-    height: 100%;
-}
 
-.calendar-header {
-    position: absolute;
-    align-items: center;
-    height: 100px;
+.calendar-content .calendar-header {
+    
+    position: relative;
+    place-items: center;
+    height: 90px;
     display: flex;
-    justify-content: center;
     width: 100%;
+    height: auto;
+    
 }
-
 
 
 /* month header */
 .month {
-    padding: 70px 25px;
-    top: 50%;
-    width: 100%;
+    position: inherit;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-bottom: solid 1px rgb(202, 200, 200);
+    width: 98%;
+    height: 90px;
     text-align: center;
 }
 
 .month .btn {
     border: none;
     background-color: inherit;
-    font-size: 20px;
+    font-size: 3vw;
+    text-anchor: middle;
+    text-size-adjust: auto;
     font-weight: 800;
     cursor: pointer;
 }
 
 .month .prev {
-
     display: inline-block;
     padding: 10px;
 }
 
+.btn:hover{
+    border-radius: 3px;
+    color: white;
+    background-color: rgb(41, 48, 47);
+    font-weight: bolder;
+}
 
 .month ul {
     margin: 0;
@@ -69,8 +77,10 @@ li {
 }
 
 .month ul li {
+    position: inherit;
     display: inline-block;
-    font-size: 24px;
+    font-size: 3vw;
+    text-size-adjust: auto;
     letter-spacing: 4px;
     font-weight: 800;
 }
@@ -82,53 +92,88 @@ li {
     padding: 10px;
 }
 
+
+/* --------------------------------------------------------------------------------------------------------- */
+/* ------------------------------------ center panel stuffs ------------------------------------------------ */
+/* --------------------------------------------------------------------------------------------------------- */
+
+.center-panel {
+    position: relative;
+    /* grid placement stuff */
+    grid-column: 2;
+    grid-row-start: 2;
+    grid-row-end: 4;
+
+    /* content stuff */
+    overflow: hidden;
+    
+}
+
+.current-month {
+    display: flexbox;
+    margin-right: auto;
+    margin-left: auto;
+    justify-self: center;
+    height: 70vh;
+    width: auto;
+}
+
 /* week day headings */
 .week-day {
-    
-    place-items: center;
     font-size: 18px;
     font-weight: 800;
     padding-bottom: 5px;
     padding-top: 10px;
 }
 
-/* days */
+/* calendar grid setup */
 .week-day, .days-grid {
-    
+    position: inherit;
     display: grid;
     grid-template-columns: repeat(7, 1fr);
+    padding-right: 0.01px;
+    padding-left: 0.01px;
+    margin-right: auto;
+    margin-left: auto;
+    
 }
 
+
+/* days of the week headings stuff */
 .week-day > * {
-    
+    position: relative;
+
+    min-width: 50px;
     text-align: center;
-    padding-right: 50px;
+    
+    
 }
 
-.days-grid, .days {
-    align-content: center;
-    position: relative;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 10px;
-    border-top: solid 1px grey;
+
+/*actual calendar blocking */
+.days-grid{
+    height: 100%;
+    grid-template-rows: repeat(5, 1fr);
 }
 
-.days {
+/* days in calendar */
+.days-grid .days {
     
     position: relative;
-    min-height: 100px;
-    
+    min-height: 50px;
+    min-width: 50px;
     font-size: 16px;
+    background-color: white;
+    padding: 5px;
     border: solid 1px rgb(202, 200, 200);
+    
 }
 
 .days > span {
-    display: inline-block;
-    justify-content: center;
+    display: inline-flexbox;
+    
     align-items: center;
     position: absolute;
-    left: 50%;
-    width: 1fr;
-    
+    text-align: center;
+    width: 100%;
 }
