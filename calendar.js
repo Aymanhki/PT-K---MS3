@@ -33,10 +33,10 @@ function loadCalendarDays(month, year) {
 
     let tmpDate = new Date(year, month, 0)
     let numDays = daysInMonth(month, year)
-
-    let dayOfWeek = tmpDate.getDay()
-
-    for (let i = 0; i <= dayOfWeek; i++) {
+    console.log(numDays)
+    let dayOfWeek = (tmpDate.getDay()+1)%7
+    console.log(dayOfWeek)
+    for (let i = 1; i <= dayOfWeek; i++) {
         let nonMonthDate = createNonMonthDay(0, 0, 0)
         daysGrid.appendChild(nonMonthDate)
     }
@@ -47,7 +47,7 @@ function loadCalendarDays(month, year) {
     }
 
 
-    for (let i = 0; i < 42 - (dayOfWeek + 1) - numDays; i++) {
+    for (let i = 0; i < 42 - (dayOfWeek) - numDays; i++) {
         let nonMonthDate = createNonMonthDay(0, 0, 0)
         daysGrid.appendChild(nonMonthDate)
     }
