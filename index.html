@@ -15,16 +15,16 @@
 
 
     <!--CSS for App structures-->
-    <link href="./index.css" rel="stylesheet" />
+    <link rel="stylesheet" href="./index.css"/>
     <link rel="stylesheet" href="./view-toggle.css">
     <link rel="stylesheet" href="./calendar.css">
     <!--CSS for each sections-->
 
-    <script src="toggle.js"></script>
-    <script src="Chart.js"></script>
     <script src="jquery-2.1.4.min.js"></script>
     <script type ="text/javascript" src="doughnut.js"></script>
-
+    <script src="view-toggle.js"></script>
+    <script src="Chart.js"></script>
+    <script src="calendar.js"></script>
 </head>
 
 <body>
@@ -63,9 +63,13 @@
                 <div class="calendar-header">
                     <h2 class="month">
                         <ul>
-                            <li class="prev"><button class="btn">&#10094</button></a></li>
-                            <li>November 2021</li>
-                            <li class="next"><button class="btn">&#10095</button></li>
+                            <li class="prev"><button class="btn" id="calendar-prev">&#10094</button></a></li>
+                            <li >
+                                <span id="calendar-header-year">2021</span>
+                                <br>
+                                <span id="calendar-header-month">November</span>
+                            </li>
+                            <li class="next"><button class="btn" id="calendar-next">&#10095</button></li>
                         </ul>
                     </h2>
                 </div>

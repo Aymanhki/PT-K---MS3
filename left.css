@@ -75,13 +75,13 @@
 }
 
 .addCat {
-    color: #000000;
-    border-color: #000000;
+    color: #7c7c7c;
+    border-color: #7c7c7c;
     text-decoration: none;
     font-size: 8vw;
 
 }
 
 .addCat:hover {
-    background-color: #000000;
+    background-color: #7c7c7c;
 }

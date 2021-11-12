@@ -1,39 +1,143 @@
 // calendar.js
 
-$(document).ready(function() {
+const CALENDAR_DAY_GRID_ID = "days-of-week";
+const CALENDAR_HEADER_YEAR_ID = "calendar-header-year";
+const CALENDAR_HEADER_MONTH_ID = "calendar-header-month";
 
-    const d = new Date();
-    const month = new Array(["January", "February", "March", "April", "May", "June",
-                   "July", "August", "September", "October", "November", "December"]);
-    const day = new Array(["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]);
+const CALENDAR_HEADER_PREV_ID = "calendar-prev";
+const CALENDAR_HEADER_NEXT_ID = "calendar-next";
 
-    var current = new Array(31);
-    current[d.getDate() - 1] = d.getDay();
-    for (var i = d.getDate() - 2; i >= 0; i--) {
-        if (current[i + 1] == 0) {
-            current[i] = 6;
-        }
-        else {
-            current[i] = current[i + 1] - 1;
-        }
-    }
-    for (var i = d.getDate(); i < 31; i++) {
-        if (current[i - 1] == 6) {
-            current[i] = 0;
-        }
-        else {
-            current[i] = current[i - 1] + 1;
-        }
+const MONTH_START = 0;
+const MONTH_END = 11;
+
+//Global variables for controlling calendar
+let year;
+let month;
+let isMonthView = true;
+
+
+
+const MONTHS = ["January", "February", "March", "April", "May", "June",
+    "July", "August", "September", "October", "November", "December"];
+const DAYS = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+
+function daysInMonth(month, year) {
+    let d = new Date(year, month + 1, 0)
+    return d.getDate();
+}
+
+function loadCalendarDays(month, year) {
+    //Draw day grid
+    let daysGrid = document.getElementById(CALENDAR_DAY_GRID_ID);
+    clearCalendar();
+
+    let tmpDate = new Date(year, month, 0)
+    let numDays = daysInMonth(month, year)
+
+    let dayOfWeek = tmpDate.getDay()
+
+    for (let i = 0; i <= dayOfWeek; i++) {
+        let nonMonthDate = createNonMonthDay(0, 0, 0)
+        daysGrid.appendChild(nonMonthDate)
     }
 
-    var monthLength = 31;
-    if (d.getMonth() == 3 || d.getMonth() == 5 || d.getMonth() == 8 || d.getMonth() == 10) {
-        monthLength--;
+    for (let i = 1; i <= numDays; i++) {
+        let currentMonthDate = createCurrentMonthDay(i, month + 1, year)
+        daysGrid.appendChild(currentMonthDate)
     }
-    else if (d.getMonth() == 1) {
-        monthLength = 28;
-        if (d.getFullYear() % 4 == 0) {
-            monthLength++;
-        }
+
+
+    for (let i = 0; i < 42 - (dayOfWeek + 1) - numDays; i++) {
+        let nonMonthDate = createNonMonthDay(0, 0, 0)
+        daysGrid.appendChild(nonMonthDate)
     }
-});
+}
+
+function clearCalendar() {
+    document.getElementById(CALENDAR_DAY_GRID_ID).innerHTML = "";
+}
+
+function createNonMonthDay(date, month, year) {
+    let dateElement = createDate(date, month, year)
+    dateElement.innerHTML = ""
+
+    return dateElement
+}
+
+function createCurrentMonthDay(date, month, year) {
+    let dateElement = createDate(date, month, year)
+    dateElement.innerHTML = `<span>${date}</span>`;
+    dateElement.onclick = clickOnDate(date, month, year);
+    return dateElement
+}
+
+function clickOnDate (date, month, year) {
+    return () => {
+        alert(`Open day view of ${date}-${month}-${year}`)
+    }
+}
+
+function createDate(date, month, year) {
+    var dateElement = document.createElement("li");
+    dateElement.setAttribute("id", `${date}-${month}-${year}`)
+    dateElement.classList.add("days")
+
+
+    return dateElement
+}
+
+function setCalendarMonthViewHeader (month, year) {
+    let yearView = document.getElementById(CALENDAR_HEADER_YEAR_ID);
+    let monthView = document.getElementById(CALENDAR_HEADER_MONTH_ID);
+
+    yearView.innerText = `${year}`;
+    monthView.innerText = `${MONTHS[month]}`;
+}
+
+function setHeaderArrowListener () {
+    if (isMonthView) {
+        let prevBtn = $(`#${CALENDAR_HEADER_PREV_ID}`);
+        let nextBtn = $(`#${CALENDAR_HEADER_NEXT_ID}`);
+
+        prevBtn.on("click", prevMonth)
+        nextBtn.on("click", nextMonth)
+    }
+}
+
+function nextMonth () {
+    if (month == MONTH_END) {
+        month = MONTH_START;
+        year ++;
+    } else {
+        month ++;
+    }
+    reloadCalendar();
+}
+
+function prevMonth () {
+    if (month == MONTH_START) {
+        month = MONTH_END;
+        year --;
+    } else {
+        month --;
+    }
+    reloadCalendar();
+}
+
+function reloadCalendar () {
+    setCalendarMonthViewHeader (month, year)
+    loadCalendarDays(month, year);
+}
+
+$(document).ready(function () {
+    let currentDay = new Date();
+
+    year = currentDay.getFullYear();
+    month = currentDay.getMonth();
+
+    console.info(currentDay.toLocaleDateString())
+
+    
+    setHeaderArrowListener();
+    reloadCalendar ();
+})
