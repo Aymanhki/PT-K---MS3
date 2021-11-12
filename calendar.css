@@ -65,8 +65,8 @@ li {
 
 .btn:hover{
     border-radius: 3px;
-    color: white;
-    background-color: rgb(41, 48, 47);
+    color: rgb(160, 160, 160);
+    
     font-weight: bolder;
 }
 
@@ -120,6 +120,7 @@ li {
 
 /* week day headings */
 .week-day {
+    border-radius: 10px;
     font-size: 18px;
     font-weight: 800;
     padding-bottom: 5px;
@@ -152,6 +153,7 @@ li {
 
 /*actual calendar blocking */
 .days-grid{
+    
     height: 100%;
     grid-template-rows: repeat(6, 1fr);
 }
@@ -164,13 +166,13 @@ li {
     min-width: 50px;
     font-size: 16px;
     background-color: white;
-    padding: 5px;
+    padding-top: 5px;
     border: solid 1px rgb(202, 200, 200);
     
 }
 
 .days > span {
-    display: inline-flexbox;
+    display: inline;
     
     align-items: center;
     position: absolute;
