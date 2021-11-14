@@ -69,21 +69,6 @@
 
 }
 
-.pop-up {
-    position: fixed;   
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
-
-    padding: 10px;
-
-    border-style: inset;
-    border-width: 1px;
-    border-radius: 5px;
-
-    background-color: white;
-}
-
 ::-webkit-scrollbar {
     width: 1px;
     height: 1px;

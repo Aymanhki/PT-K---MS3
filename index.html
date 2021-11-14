@@ -16,9 +16,11 @@
 
     <!--CSS for App structures-->
     <link rel="stylesheet" href="./index.css"/>
-    <link rel="stylesheet" href="./view-toggle.css">
-    <link rel="stylesheet" href="./calendar.css">
+    <link rel="stylesheet" href="./view-toggle.css"/>
+    <link rel="stylesheet" href="./calendar.css"/>
     <!--CSS for each sections-->
+    <link rel="stylesheet" href="./left.css"/>
+    <link rel="stylesheet" href="./popups.css"/>
 
     <!--JS library-->
     <script type ="text/javascript" src="jquery-2.1.4.min.js"></script>
@@ -34,6 +36,7 @@
     <script type ="text/javascript" src="view-toggle.js"></script>
     <script type ="text/javascript" src="Chart.js"></script>
     <script type ="text/javascript" src="calendar.js"></script>
+    <script type ="text/javascript" src="popups.js"></script>
 
 
 </head>
@@ -50,14 +53,13 @@
             </div>
         </div>
         <div class="left-panel">
-            <link href="./left.css" rel="stylesheet" />
             <button class="category accommodation" type="button">Accommodation</button>
             <button class="category entertainment" type="button">Entertainment</button>
             <button class="category food" type="button">Food</button>
             <button class="category health" type="button">Health</button>
             <button class="category personal" type="button">Personal</button>
             <button class="category utilities" type="button">Utilities</button>
-            <button class="category addCat" type="button">+</button>
+            <button class="addCat" type="button">+</button>
         </div>
 
         <div class="grid-panel right-top"></div>
@@ -107,8 +109,31 @@
                 </div>
             </div>
         </div>
-        <!-- Keep this for pop up widget  
-            <div class="pop-up">pop-up</div>
+        <!-- 
+        <div class="pop-up">
+        <button class="close" type="button">X</button>
+
+        <label for="amount">Amount</label>
+        <input type="number" id="amount" name="amount" placeholder="87.50">
+
+        <label for="type">Expense/Income</label>
+        <select id="type" name="type">
+            <option value="expense">Expense</option>
+            <option value="income">Income</option>
+        </select>
+
+        <label for="cat">Category</label>
+        <select id="cat" name="category">
+            <option value="accommodation">Accommodation</option>
+            <option value="entertainment">Entertainment</option>
+            <option value="food">Food</option>
+            <option value="health">Health</option>
+            <option value="personal">Personal</option>
+            <option value="utilities">Utilities</option>
+        </select>
+
+        <input type="submit" value="Submit">
+        </div>
         -->
 
     </div>

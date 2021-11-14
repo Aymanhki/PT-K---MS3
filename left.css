@@ -1,6 +1,6 @@
 .category {
     border: medium solid;
-    border-radius: 12px;
+    border-radius: 15px;
     background-color: white;
     width: 100%;
     aspect-ratio: 1.05/1;
@@ -75,13 +75,26 @@
 }
 
 .addCat {
+    border: medium solid;
+    border-radius: 15px;
+    background-color: white;
     color: #7c7c7c;
     border-color: #7c7c7c;
+    width: 100%;
+    aspect-ratio: 1.05/1;
+    margin-bottom: 18%;
+    text-justify: center;
+    text-align: center;
     text-decoration: none;
+    font-family: "Courier New", monospace;
     font-size: 8vw;
-
+    font-weight: bold;
+    
+    cursor: pointer;
+    transition-duration: 0.5s;
 }
 
 .addCat:hover {
+    color: white;
     background-color: #7c7c7c;
 }
