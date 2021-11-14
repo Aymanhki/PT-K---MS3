@@ -72,8 +72,12 @@ function createCurrentMonthDay(date, month, year) {
 }
 
 function clickOnDate (date, month, year) {
+    selectedDay = date;
+    selectedMonth = month;
+    selectedYear = year;
     return () => {
         alert(`Open day view of ${date}-${month}-${year}`)
+        
     }
 }
 
