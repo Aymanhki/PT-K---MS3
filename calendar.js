@@ -37,6 +37,7 @@ function daysInMonth(month, year) {
 function loadCalendarDays(month, year) {
     //Draw day grid
     let daysGrid = document.getElementById(CALENDAR_DAY_GRID_ID);
+    daysGrid.style.gridTemplateColumns = "repeat(7, 1fr)";
     clearCalendar();
 
     let tmpDate = new Date(year, month, 0)
@@ -87,9 +88,16 @@ function createCurrentMonthDay(date, month, year) {
 }
 
 function clickOnDate (date, month, year) {
-    return () => {
-        alert(`Open day view of ${date}-${month}-${year}`)
+    let sw_ym = document.getElementById(SWITCH_YM);
+    if(sw_ym.checked) {
+        
     }
+    else {
+        return () => {
+            alert(`Open day view of ${date}-${month}-${year}`)
+        }
+    }
+    
 }
 
 function createDate(date, month, year) {
@@ -139,9 +147,11 @@ function setHeaderArrowListener () {
 function nextMonth () {
     let sw_ym = document.getElementById(SWITCH_YM);
     if(sw_ym.checked) {
+        clearCalendar()
         year ++;
         clearCalendarHeaders();
         setCalendarYearViewHeader(month, year);
+        createMonthlyForYearView (year)
     }
     else {
         if (month == MONTH_END) {
@@ -159,9 +169,11 @@ function nextMonth () {
 function prevMonth () {
     let sw_ym = document.getElementById(SWITCH_YM);
     if(sw_ym.checked) {
+        clearCalendar()
         year --;
         clearCalendarHeaders();
         setCalendarYearViewHeader(month, year);
+        createMonthlyForYearView (year)
     }
     else {
         if (month == MONTH_START) {
@@ -213,9 +225,68 @@ function checkState() {
     if(sw_ym.checked) {
         clearCalendar();
         setCalendarYearViewHeader(month, year);
+        createMonthlyForYearView(year);
     }
     else {
         reloadCalendar();
         setCalendarMonthViewHeader(month, year);
     }
+}
+
+/* -------------------------------------------- the year view ---------------------------------- */
+function createMonthlyForYearView (year) {
+    let daysGrid = document.getElementById(CALENDAR_DAY_GRID_ID);
+    daysGrid.style.gridTemplateColumns = "repeat(4, 1fr)";
+    var mon = 0
+    for( let i = 0; i < 12; i++ ) {
+        let fourFinal = document.createElement("ol")
+        let fourMonths = document.createElement("li")
+        let monthTitle = document.createElement("li")
+        monthTitle.innerText = `${MONTHS[mon]}`
+        monthTitle.setAttribute("class", value = "monthTitleYearView")
+        fourMonths.appendChild(monthTitle)
+        fourMonths.appendChild(createOneMonthGrid(mon, year))
+        mon ++;
+        fourFinal.appendChild(fourMonths)
+        daysGrid.appendChild(fourMonths)
+    }
+    
+    
+}
+
+function createOneMonthGrid (month, year) {
+    let monthFinal = document.createElement("li")
+    var monthGrid = document.createElement("ol")
+    monthGrid.setAttribute("class", value = "month-days-grid")
+    monthFinal.setAttribute("class", value = "month-grid")
+
+    let tmpDate = new Date(year, month, 0)
+    let numDays = daysInMonth(month, year)
+    console.log(numDays)
+    let dayOfWeek = (tmpDate.getDay()+1)%7
+    console.log(dayOfWeek)
+
+    let prevMonthDays = daysInMonth(month-1, year)
+    let nextMonthDays = daysInMonth(month+1, year)
+
+
+    for (let i = 1; i <= dayOfWeek; i++) {
+        let nonMonthDate = createNonMonthDay(prevMonthDays-dayOfWeek+i, month, year)
+        monthGrid.appendChild(nonMonthDate)
+    }
+
+    for (let i = 1; i <= numDays; i++) {
+        let currentMonthDate = createCurrentMonthDay(i, month + 1, year)
+        monthGrid.appendChild(currentMonthDate)
+    }
+
+
+    for (let i = 1; i <= 42 - (dayOfWeek) - numDays; i++) {
+        let nonMonthDate = createNonMonthDay(i, month + 2, year)
+        monthGrid.appendChild(nonMonthDate)
+    }
+
+    monthFinal.appendChild(monthGrid)
+
+    return monthFinal
 }

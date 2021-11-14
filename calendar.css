@@ -103,19 +103,13 @@ li {
     grid-column: 2;
     grid-row-start: 2;
     grid-row-end: 4;
-
     /* content stuff */
-    overflow: hidden;
-    
+    overflow-y: scroll;
+    overflow-x: scroll;
 }
 
 .current-month {
-    display: flexbox;
-    margin-right: auto;
-    margin-left: auto;
-    justify-self: center;
-    height: 70vh;
-    width: auto;
+    height: 80vh;
 }
 
 /* week day headings */
@@ -136,7 +130,6 @@ li {
     padding-left: 0.01px;
     margin-right: auto;
     margin-left: auto;
-    
 }
 
 
@@ -153,14 +146,12 @@ li {
 
 /*actual calendar blocking */
 .days-grid{
-    
     height: 100%;
     grid-template-rows: repeat(6, 1fr);
 }
 
 /* days in calendar */
 .days-grid .days {
-    
     position: relative;
     min-height: 50px;
     min-width: 50px;
@@ -173,9 +164,46 @@ li {
 
 .days > span {
     display: inline;
-    
     align-items: center;
     position: absolute;
     text-align: center;
     width: 100%;
+}
+
+/* --------------------------------------------- yearly view -----------------------------------------------------*/
+.month-days-grid {
+    position: inherit;
+    display: grid;   
+    grid-template-columns: repeat(7, 1fr);
+    padding: 0.001px;
+    border: solid medium blue;
+
+}
+
+.days-grid .month-grid {
+    position: relative;
+    display: inline-flex;
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    border: solid 1px red;
+}
+
+.month-days-grid .days {
+    position: inherit;
+    display: flex;
+    border: none;
+    min-width: 35px;
+    min-height: 35px;
+    aspect-ratio: 1/1;
+    
+    
+}
+
+.monthTitleYearView {
+    grid-column-start: 1;
+    grid-column-end: 7;
+    font-weight: 700;
+    position: relative;
+    text-align: center;
 }
