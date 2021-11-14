@@ -53,6 +53,11 @@
     grid-row: 3;
 }
 
+.canvas{
+    width: 100%;
+    height: auto;
+}
+
 .doughnut-container
 {
     
