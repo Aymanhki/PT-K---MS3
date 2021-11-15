@@ -152,6 +152,7 @@ function setHeaderArrowListener () {
 
 function nextMonth () {
     let sw_ym = document.getElementById(SWITCH_YM);
+    //changes behaviour if in year or month view
     if(sw_ym.checked) {
         clearCalendar()
         year ++;
@@ -173,6 +174,7 @@ function nextMonth () {
 }
 
 function prevMonth () {
+    //changes behaviour if in year or month view
     let sw_ym = document.getElementById(SWITCH_YM);
     if(sw_ym.checked) {
         clearCalendar()
@@ -200,6 +202,7 @@ function reloadCalendar () {
 }
 
 function setWeekHeaders () {
+    //sets the weekly mon-sun headers
     let week_grid = document.getElementById(CALENDAR_WEEK_HEADER);
     for (let i = 0; i < 7; i++) {
         var day = document.createElement("li")
@@ -207,8 +210,8 @@ function setWeekHeaders () {
         day.innerHTML = `<span>${day_lab}</span>`
         week_grid.appendChild(day)
     }//for
-}
-//setWeekHeaders
+}//setWeekHeaders
+
 $(document).ready(function () {
     let currentDay = new Date();
 
@@ -224,26 +227,36 @@ $(document).ready(function () {
 
 /* -------------------------------------------- the switch for the month and yearly view ---------------------------------- */
 function checkState() {
+    //handles when the toggle button is pressed
     let sw_ym = document.getElementById(SWITCH_YM);
     console.log(sw_ym.checked);
+    //clears the month/year headers
     clearCalendarHeaders();
 
     if(sw_ym.checked) {
+        //creates the yearly view
         clearCalendar();
         setCalendarYearViewHeader(month, year);
         createMonthlyForYearView(year);
     }
     else {
+        //returns to monthly view
         reloadCalendar();
         setCalendarMonthViewHeader(month, year);
     }
-}
+}//checkState
 
 /* -------------------------------------------- the year view ---------------------------------- */
 function createMonthlyForYearView (year) {
+    //creates the whole one month view
+
+    //grabs the day-grid element in the calendar
     let daysGrid = document.getElementById(CALENDAR_DAY_GRID_ID);
+    //changes the grid layout from 7 - 4 (to display 4 months per row)
     daysGrid.style.gridTemplateColumns = "repeat(4, 1fr)";
     var mon = 0
+
+    //loops through all 12 months to make the grid
     for( let i = 0; i < 12; i++ ) {
         let fourFinal = document.createElement("ol")
         let fourMonths = document.createElement("li")
@@ -258,14 +271,18 @@ function createMonthlyForYearView (year) {
     }
     
     
-}
+}//createMonthlyForYearView
 
 function createOneMonthGrid (month, year) {
+    //creates one month for the whole year view
+
+    //place the one month first into an "ol" element then into an "li" that the days-grid accepts
     let monthFinal = document.createElement("li")
     var monthGrid = document.createElement("ol")
     monthGrid.setAttribute("class", value = "month-days-grid")
     monthFinal.setAttribute("class", value = "month-grid")
 
+    //same process as load calendar days
     let tmpDate = new Date(year, month, 0)
     let numDays = daysInMonth(month, year)
     console.log(numDays)
@@ -292,7 +309,8 @@ function createOneMonthGrid (month, year) {
         monthGrid.appendChild(nonMonthDate)
     }
 
+    //placing the "ol" element into the final "li" to be passed by the function
     monthFinal.appendChild(monthGrid)
 
     return monthFinal
-}
+}//createOneMonthGrid

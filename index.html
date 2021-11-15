@@ -18,13 +18,14 @@
     <link rel="stylesheet" href="./index.css"/>
     <link rel="stylesheet" href="./view-toggle.css">
     <link rel="stylesheet" href="./calendar.css">
+    <link rel="stylesheet" href="./dataReader.css">
     <!--CSS for each sections-->
 
     <script src="jquery-2.1.4.min.js"></script>
     <script type ="text/javascript" src="doughnut.js"></script>
-    <script src="view-toggle.js"></script>
     <script src="Chart.js"></script>
     <script src="calendar.js"></script>
+    <script src="DataReader.js"></script>
 </head>
 
 <body>
@@ -82,10 +83,8 @@
                 <div class="calendar">
 
                     <div class="current-month">
-                        <ol class="week-day" id="week-labels">
-                            
-                        </ol>
-                        <ol class="days-grid" id="days-of-week"></ol>
+                        <ol class="week-day" id="week-labels"></ol> <!--week headers-->
+                        <ol class="days-grid" id="days-of-week"></ol> <!--days in the month-->
                     </div>
                 </div>
             </div>
@@ -95,7 +94,12 @@
         -->
 
     </div>
-
+    <!-- ---------------------------reading in the csv file--------------------------------- -->
+    <!-- <form id="myForm" class="dataReader">
+        <input type="file" id="csvFile" accept=".csv" files = "./FakeData.csv">
+        <br />
+        <input type="submit" value="Submit">
+    </form> -->
 
 </body>
 
