@@ -1,62 +1,54 @@
 'use strict'
 
-
-
-let categories = [];
-
-
-for(let i=0; i<data.length; i++)
-{
-    if(!categories.includes(data[i].Category) && data[i].Category !== undefined)
-    {
-        categories.push(data[i].Category);
-    }
-}
-
-for(let i=0; i<categories.length; i++)
-{
-
-    let total = 0;
-    for(let j=0; j<data.length; j++)
-    {
-        if(data[j][CATEGORY_INDEX] === categories[i])
-        {
-            total += parseFloat(data[j][AMOUNT_INDEX]);
-        }
-    }
-    categories[i] = [categories[i], total];
-
-}
-
-function getRandomColor() {
-    let letters = '0123456789ABCDEF';
-    let color = '#';
-    for (let i = 0; i < 6; i++) {
-        color += letters[Math.floor(Math.random() * 16)];
-    }
-    return color;
-}
-
-for(let i=0; i<categories.length; i++)
-{
-    categories[i].push(getRandomColor());
-    categories[i].push(getRandomColor());
-}
-
 let object = {
     table: []
 }
 
-for(let i=0; i<categories.length; i++)
+let categories = [];
+function getTotals()
 {
-    object.table.push
-    ({
-        label: categories[i][0],
-        value: categories[i][1],
-        color: categories[i][2],
-        highlight: categories[i][3]
-    });
+
+
+
+
+    for(let i=0; i<data.length; i++)
+    {
+        if(!categories.includes(data[i].Category) && data[i].Category !== undefined)
+        {
+            categories.push(data[i].Category);
+        }
+    }
+
+    for(let i=0; i<categories.length; i++)
+    {
+
+        let total = 0;
+        for(let j=0; j<data.length; j++)
+        {
+            if(data[j].Category === categories[i])
+            {
+                total += data[j].Amount;
+            }
+        }
+        categories[i] = [categories[i], total];
+
+    }
+
+    function getRandomColor() {
+
+        let color = 'rgb('+Math.random()*255+', '+Math.random()*255+', '+Math.random()*255+')';
+        return color;
+    }
+
+    const RGB_Linear_Shade=(p,c)=>{
+        var i=parseInt,r=Math.round,[a,b,c,d]=c.split(","),P=p<0,t=P?0:255*p,P=P?1+p:1-p;
+        return"rgb"+(d?"a(":"(")+r(i(a[3]=="a"?a.slice(5):a.slice(4))*P+t)+","+r(i(b)*P+t)+","+r(i(c)*P+t)+(d?","+d:")");
+    }
+
+    for(let i=0; i<categories.length; i++)
+    {
+        let color = getRandomColor();
+        categories[i].push(color);
+        categories[i].push(RGB_Linear_Shade( 0.5, color));
+    }
 }
-
-exports.object = object;
-
