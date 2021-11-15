@@ -51,8 +51,9 @@ function readTextFile(file, callback) {
 readTextFile("./FakeData.json", function(text)
 {
     data = JSON.parse(text);
-    getTotals();
+    getCategoryTotals();
     drawDoughnut();
+    drawLine();
 });
 
 

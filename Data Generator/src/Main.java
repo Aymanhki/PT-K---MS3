@@ -56,8 +56,8 @@ public class Main
                 String date = dateGenerator();
                 Scanner dateParser = new Scanner(date);
                 dateParser.useDelimiter("/");
-                String day = String.valueOf(dateParser.nextInt());
                 String month = String.valueOf(dateParser.nextInt());
+                String day = String.valueOf(dateParser.nextInt());
                 String year = String.valueOf(dateParser.nextInt());
                 String category = CATEGORIES[randomInt(0, CATEGORIES.length)];
                 String categoryType = CATEGORY_TYPE[randomInt(0, CATEGORY_TYPE.length)];

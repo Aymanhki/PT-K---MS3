@@ -1,22 +1,12 @@
-'use strict'
 
+let doughnutLabels = [];
+let doughnutColors = [];
 function drawDoughnut()
 {
     $(document).ready(function(){
         let ctx = $("#doughnut").get(0).getContext('2d');
 
-        for(let i=0; i<categories.length; i++)
-        {
-            object.table.push
-            ({
-                label: categories[i][0],
-                data: categories[i][1],
-                backgroundColor: categories[i][2],
-                highlight: categories[i][3]
-            });
-        }
 
-        let doughnutLabels = []
         for(let i=0; i<categories.length; i++)
         {
             doughnutLabels.push(categories[i][0])
@@ -34,13 +24,7 @@ function drawDoughnut()
             dataSum += doughnutData[i];
         }
 
-        let doughnutDataPercentage = []
-        for(let i=0; i<categories.length; i++)
-        {
-            doughnutDataPercentage.push((doughnutData[i]*100/dataSum) + "%")
-        }
 
-        let doughnutColors = []
         for(let i=0; i<categories.length; i++)
         {
             doughnutColors.push(categories[i][2])
@@ -51,9 +35,6 @@ function drawDoughnut()
         {
             doughnutHighlights.push(categories[i][3])
         }
-
-
-
 
         const data = {
             labels: doughnutLabels,
@@ -72,15 +53,15 @@ function drawDoughnut()
                 callbacks: {
                     label: function (tooltipItem, data) {
                         //get the concerned dataset
-                        var dataset = data.datasets[0];
+                        let dataset = data.datasets[0];
                         //calculate the total of this data set
-                        var total = dataset.data.reduce(function (previousValue, currentValue, currentIndex, array) {
+                        let total = dataset.data.reduce(function (previousValue, currentValue, currentIndex, array) {
                             return previousValue + currentValue;
                         });
                         //get the current items value
-                        var currentValue = dataset.data[tooltipItem.index];
+                        let currentValue = dataset.data[tooltipItem.index];
                         //calculate the percentage based on the total and current item, also this does a rough rounding to give a whole number
-                        var percentage = Math.floor(((currentValue / total) * 100) + 0.5);
+                        let percentage = Math.floor(((currentValue / total) * 100) + 0.5);
 
                         return " " + data.labels[tooltipItem.index]+": " + percentage + "%";
                     }

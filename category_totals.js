@@ -5,15 +5,19 @@ let object = {
 }
 
 let categories = [];
-function getTotals()
+
+function getRandomColor()
 {
+    return 'rgb('+Math.random()*255+', '+Math.random()*255+', '+Math.random()*255+')';
+}
 
-
+function getCategoryTotals()
+{
 
 
     for(let i=0; i<data.length; i++)
     {
-        if(!categories.includes(data[i].Category) && data[i].Category !== undefined)
+        if(!categories.includes(data[i].Category) && data[i].Category !== undefined && data[i].Month === month)
         {
             categories.push(data[i].Category);
         }
@@ -31,16 +35,11 @@ function getTotals()
             }
         }
         categories[i] = [categories[i], total];
-
     }
 
-    function getRandomColor() {
 
-        let color = 'rgb('+Math.random()*255+', '+Math.random()*255+', '+Math.random()*255+')';
-        return color;
-    }
 
-    const RGB_Linear_Shade=(p,c)=>{
+    function RGB_Linear_Shade(p,c) {
         var i=parseInt,r=Math.round,[a,b,c,d]=c.split(","),P=p<0,t=P?0:255*p,P=P?1+p:1-p;
         return"rgb"+(d?"a(":"(")+r(i(a[3]=="a"?a.slice(5):a.slice(4))*P+t)+","+r(i(b)*P+t)+","+r(i(c)*P+t)+(d?","+d:")");
     }
@@ -49,6 +48,6 @@ function getTotals()
     {
         let color = getRandomColor();
         categories[i].push(color);
-        categories[i].push(RGB_Linear_Shade( 0.5, color));
+        categories[i].push(RGB_Linear_Shade( 0.3, color));
     }
 }

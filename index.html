@@ -32,12 +32,14 @@
     <script type ="text/javascript" src="dataQueries.js"></script>
     <script type="text/javascript" src="category_totals.js"></script>
 
-    <!--JS web interaction-->
-    <script type ="text/javascript" src="Chart.min.js"></script>
-    <script type ="text/javascript" src="doughnut.js"></script>
     <script type ="text/javascript" src="view-toggle.js"></script>
     <script type ="text/javascript" src="calendar.js"></script>
     <script type ="text/javascript" src="popups.js"></script>
+
+    <!--JS web interaction-->
+    <script type ="text/javascript" src="Chart.min.js"></script>
+    <script type ="text/javascript" src = "line_graph.js"></script>
+    <script type ="text/javascript" src="doughnut.js"></script>
 
 
 </head>
@@ -63,14 +65,20 @@
             <button class="addCat" type="button">+</button>
         </div>
 
-        <div class="grid-panel right-top"></div>
+        <div class="grid-panel right-top">
+            <div class = "line-container">
+                <canvas id="line"></canvas>
+            </div>
+        </div>
 
-        <!--centre header-->
         <div class="grid-panel right-bottom">
             <div class = "doughnut-container">
                 <canvas id="doughnut"></canvas>
             </div>
         </div>
+
+        <!--centre header-->
+
         <!--  --------------------------- DATES FOR MONTH VIEW ------------------------------------ -->
         <div class="center-header">
             <div class="calendar-content">
