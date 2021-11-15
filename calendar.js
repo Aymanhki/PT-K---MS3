@@ -94,8 +94,8 @@ function clickOnDate (clicked_date, clicked_month,clicked_year) {
             month = clicked_month-1
             date = clicked_date
             year = clicked_year
-            reloadCalendar()
             sw_ym.checked = false;
+            checkState()
         }
     }
     else {
