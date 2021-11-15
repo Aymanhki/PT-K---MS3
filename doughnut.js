@@ -25,8 +25,8 @@ $(document).ready(function(){
             label: "CSS"
         }
     ];
-    let categoriesFile = require('category_totals.js');
-    data = categoriesFile.object.table;
+    // let categoriesFile = require('category_totals.js');
+    // data = categoriesFile.object.table;
     let chart = new Chart(ctx).Doughnut(data);
 
 

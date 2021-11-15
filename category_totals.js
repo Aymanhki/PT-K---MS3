@@ -1,21 +1,15 @@
 'use strict'
-let fs = require('fs');
-let dataFile = fs.readFileSync('FakeData.csv', "utf-8");
-let dataLines = dataFile.split('\n');
-let data = [];
+
+
+
 let categories = [];
-let CATEGORY_INDEX = 4;
-let AMOUNT_INDEX = 6;
-for(let i=1; i<dataLines.length; i++)
-{
-    data.push(dataLines[i].split(','));
-}
+
 
 for(let i=0; i<data.length; i++)
 {
-    if(!categories.includes(data[i][CATEGORY_INDEX]) && data[i][CATEGORY_INDEX] !== undefined)
+    if(!categories.includes(data[i].Category) && data[i].Category !== undefined)
     {
-        categories.push(data[i][CATEGORY_INDEX]);
+        categories.push(data[i].Category);
     }
 }
 
