@@ -148,6 +148,7 @@ li {
 .days-grid{
     height: 100%;
     grid-template-rows: repeat(6, 1fr);
+    justify-content: center;
 }
 
 /* days in calendar */
@@ -175,8 +176,11 @@ li {
     position: inherit;
     display: grid;   
     grid-template-columns: repeat(7, 1fr);
+    width: 100%;
+    height: 100%;
     padding: 0.001px;
-    border: solid medium blue;
+    border-radius: 8px;
+    border: solid 1px rgba(128, 128, 128, 0.568);
 
 }
 
@@ -185,18 +189,18 @@ li {
     display: inline-flex;
     width: 100%;
     height: auto;
-    padding: 10px;
-    border: solid 1px red;
+    padding: 20px;
+    justify-content: center;
 }
 
 .month-days-grid .days {
     position: inherit;
     display: flex;
     border: none;
-    min-width: 35px;
+    width: 100%;
+    min-width: 25px;
     min-height: 35px;
-    aspect-ratio: 1/1;
-    
+    height: 100%;
     
 }
 

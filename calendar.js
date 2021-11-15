@@ -87,14 +87,20 @@ function createCurrentMonthDay(date, month, year) {
     return dateElement
 }
 
-function clickOnDate (date, month, year) {
+function clickOnDate (clicked_date, clicked_month,clicked_year) {
     let sw_ym = document.getElementById(SWITCH_YM);
     if(sw_ym.checked) {
-        
+        return () => {
+            month = clicked_month-1
+            date = clicked_date
+            year = clicked_year
+            reloadCalendar()
+            sw_ym.checked = false;
+        }
     }
     else {
         return () => {
-            alert(`Open day view of ${date}-${month}-${year}`)
+            alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}`)
         }
     }
     
