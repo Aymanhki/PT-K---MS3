@@ -13,7 +13,6 @@
     color: black;
     background-color: white;
 
-    font-family: "Courier New", monospace;
     padding: 15px 15px 15px 15px;
 
     display: none;
@@ -69,7 +68,6 @@ input[type=submit]:hover {
     background-color: grey;
     
     text-align: center;
-    font-family: "Ariel", sans-serif;
     font-size: 1vw;
     font-weight: bold;
 
