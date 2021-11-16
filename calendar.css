@@ -161,7 +161,7 @@ li {
     min-height: 50px;
     min-width: 50px;
     font-size: 20px;
-    background-color: white;
+    background-color: inherit;
     padding-top: 5px;
     border: solid 1px rgb(202, 200, 200);
     

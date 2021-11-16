@@ -2,10 +2,14 @@
     font-family: 'Product Sans';
 }
 
+body {
+    background-color: rgb(229, 233, 236) ;
+}
+
 .app {
     width: 100vw;
     height: 100vh;
-    background-color: rgb(229, 233, 236) ;
+    
 }
 
 .grid-container-app {
@@ -24,7 +28,7 @@
     margin-left: 20px;
     margin-right: 10px;
     border-radius: 15px;
-    background-color: rgb(231, 233, 240);
+    background-color: rgb(255, 255, 255);
     border-bottom: solid 10px rgb(204, 204, 204);
     border-top: solid 10px white;
 
