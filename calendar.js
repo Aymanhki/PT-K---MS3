@@ -43,9 +43,8 @@ function loadCalendarDays(month, year) {
 
     let tmpDate = new Date(year, month, 0)
     let numDays = daysInMonth(month, year)
-    console.log(numDays)
+
     let dayOfWeek = (tmpDate.getDay()+1)%7
-    console.log(dayOfWeek)
 
     let prevMonthDays = daysInMonth(month-1, year)
     let nextMonthDays = daysInMonth(month+1, year)
@@ -245,7 +244,6 @@ $(document).ready(function () {
 function checkState() {
     //handles when the toggle button is pressed
     let sw_ym = document.getElementById(SWITCH_YM);
-    console.log(sw_ym.checked);
     //clears the month/year headers
     clearCalendarHeaders();
 
@@ -302,9 +300,8 @@ function createOneMonthGrid (month, year) {
     //same process as load calendar days
     let tmpDate = new Date(year, month, 0)
     let numDays = daysInMonth(month, year)
-    console.log(numDays)
+
     let dayOfWeek = (tmpDate.getDay()+1)%7
-    console.log(dayOfWeek)
 
     let prevMonthDays = daysInMonth(month-1, year)
     let nextMonthDays = daysInMonth(month+1, year)
