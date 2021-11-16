@@ -102,11 +102,11 @@ function clickOnDate (clicked_date, clicked_month, clicked_year) {
         return () => {
             let purchases = document.getElementById(`${clicked_date}-${clicked_month}-${clicked_year}`);
             if(purchases) {
-                
+                console.log("purchase found");
                 alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n ${purchases.innerHTML}`)
             }
             else{
-                alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n ${purchases}`)
+                alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n`)
             }
             
         }
@@ -116,16 +116,10 @@ function clickOnDate (clicked_date, clicked_month, clicked_year) {
 
 function createDate(date, month, year) {
     var dateElement = document.createElement("li");
-    let purchases = document.createElement("ol");
-    purchases.setAttribute("id", `${date}-${month}-${year}`)
-    dateElement.classList.add("days")
-    dateElement.appendChild(purchases)
-
-    // purchaseData.forEach(element => {
-    //     if(element.Year == year && (element.Month == month && element.Day == date)) {
-    //         console.log(element.Amount);
-    //     }
-    // })
+    var purchases = document.createElement("ol");
+    purchases.setAttribute(name = "id", value = `${date}-${month}-${year}`);
+    dateElement.appendChild(purchases);
+    dateElement.classList.add("days");
 
     return dateElement
 }
