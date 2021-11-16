@@ -1,17 +1,16 @@
 .category {
-    border: medium solid;
-    border-radius: 15px;
+    border: 2px solid;
+    border-radius: 12px;
     background-color: white;
     width: 100%;
     aspect-ratio: 1.05/1;
     margin-bottom: 18%;
     text-justify: center;
     text-align: center;
-    text-decoration: underline;
     font-family: "Courier New", monospace;
     font-size: 1.00vw;
     font-weight: bold;
-    
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.192);
     cursor: pointer;
     transition-duration: 0.5s;
 }
@@ -75,8 +74,8 @@
 }
 
 .addCat {
-    border: medium solid;
-    border-radius: 15px;
+    border: 2px solid;
+    border-radius: 12px;
     background-color: white;
     color: #7c7c7c;
     border-color: #7c7c7c;
@@ -85,9 +84,8 @@
     margin-bottom: 18%;
     text-justify: center;
     text-align: center;
-    text-decoration: none;
     font-family: "Courier New", monospace;
-    font-size: 8vw;
+    font-size: 6vw;
     font-weight: bold;
     
     cursor: pointer;
