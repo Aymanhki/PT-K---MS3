@@ -276,6 +276,7 @@ function createMonthlyForYearView (year) {
         fourMonths.appendChild(createOneMonthGrid(mon, year))
         mon ++;
         fourFinal.appendChild(fourMonths)
+        fourMonths.setAttribute("class", value = "whole-month")
         daysGrid.appendChild(fourMonths)
     }
     

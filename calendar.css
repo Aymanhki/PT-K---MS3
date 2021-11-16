@@ -181,11 +181,12 @@ li {
     padding: 0.001px;
     border-radius: 8px;
     border: solid 1px rgba(128, 128, 128, 0.301);
+    border-top: none;
 
 }
 
 .month-days-grid:hover {
-    box-shadow: 1px 1px 8px 8px rgb(212, 212, 212);
+    box-shadow: 1px 1px 20px 8px rgb(212, 212, 212);
 }
 
 .days-grid .month-grid {
@@ -193,9 +194,11 @@ li {
     display: flex;
     width: 100%;
     height: 100%;
-    padding: 20px;
+
     justify-content: center;
+    
 }
+
 
 .month-days-grid .days {
     position: inherit;
@@ -215,4 +218,11 @@ li {
     font-weight: 700;
     position: relative;
     text-align: center;
+}
+.whole-month {
+    position: relative;
+    display: inline-flexbox;
+    padding: 20px 20px 20px 20px;
+    align-items: center;
+    justify-content: center;
 }
