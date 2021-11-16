@@ -1,11 +1,9 @@
 // this is for the add transaction and category pop-ups
 
-let pop_up_transaction = $(".pop-up");
-
 let funcOpenTransac = function () {
-    pop_up_transaction.show();
+    document.getElementById('addTransac').style.display = 'block';
 }
 
 let funcCloseTransac = function () {
-    pop_up_transaction.hide();
+    document.getElementById('addTransac').style.display = 'none';
 }
