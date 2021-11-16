@@ -1,6 +1,6 @@
 
-let doughnutLabels = [];
-let doughnutColors = [];
+var doughnutLabels = [];
+var doughnutColors = [];
 function drawDoughnut()
 {
     $(document).ready(function(){

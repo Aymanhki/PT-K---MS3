@@ -1,7 +1,7 @@
 .category {
     border: 2px solid;
     border-radius: 12px;
-    background-color: white;
+    background-color: doughnutColors;
     width: 100%;
     aspect-ratio: 1.05/1;
     margin-bottom: 18%;
@@ -20,7 +20,7 @@
 }
 
 .accommodation {
-    color: #1d7403;
+    color: rgb(29, 116, 3);
     border-color: #1d7403;
 }
 
@@ -29,7 +29,7 @@
 }
 
 .entertainment {
-    color: #7948ff;
+    color: rgb(121, 72, 255);
     border-color: #7948ff;
 }
 
@@ -38,7 +38,7 @@
 }
 
 .food {
-    color: #f09a1a;
+    color: rgb(240, 154, 26);
     border-color: #f09a1a;
 }
 
@@ -47,7 +47,7 @@
 }
 
 .health {
-    color: #ff0000;
+    color: rgb(255, 0, 0);
     border-color: #ff0000;
 }
 
@@ -56,7 +56,7 @@
 }
 
 .personal {
-    color: #0043fc;
+    color: rgb(0, 67, 252);
     border-color: #0043fc;
 }
 
@@ -65,7 +65,7 @@
 }
 
 .utilities {
-    color: #684f2f;
+    color: rgb(109, 83, 49);
     border-color: #684f2f;
 }
 

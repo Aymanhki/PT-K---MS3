@@ -1,5 +1,6 @@
 * {
     font-family: 'Product Sans';
+    scroll-behavior: smooth;
 }
 
 body {

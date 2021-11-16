@@ -37,7 +37,7 @@ function getCategoryTotals()
         categories[i] = [categories[i], total];
     }
 
-
+    categories.sort()
 
     function RGB_Linear_Shade(p,c) {
         var i=parseInt,r=Math.round,[a,b,c,d]=c.split(","),P=p<0,t=P?0:255*p,P=P?1+p:1-p;
@@ -46,8 +46,9 @@ function getCategoryTotals()
 
     for(let i=0; i<categories.length; i++)
     {
-        let color = getRandomColor();
-        categories[i].push(color);
-        categories[i].push(RGB_Linear_Shade( 0.3, color));
+        let color = ["rgb(29, 116, 3)", "rgb(121, 72, 255)", "rgb(240, 154, 26)", "rgb(255, 0, 0)", "rgb(0, 67, 252)", "rgb(109, 83, 49)"];
+        categories[i].push(color[i]);
+        categories[i].push(RGB_Linear_Shade( 0.3, color[i]));
     }
+    
 }

@@ -9,7 +9,8 @@
     height: auto;
     
     border-radius: 15px;
-    box-shadow: 2px 2px 20px 2px rgba(126, 126, 126, 0.466), -2px -2px 20px 2px rgba(161, 161, 161, 0.5);
+    border-bottom: solid 10px rgb(196, 196, 196);
+    box-shadow: 1px 1px 10px 1px rgba(126, 126, 126, 0.466), -1px -1px 10px 1px rgba(161, 161, 161, 0.5);
 
     color: black;
     background-color: white;
@@ -75,9 +76,9 @@ input[type=submit]:hover {
     transform: translate(-50%, -50%);
     width: 30px;
     aspect-ratio: 1/1;
-
+    border: none;
     border-radius: 15px;
-    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1), -2px -2px 2px 2px rgba(0, 0, 0, 0.1);
+    /* box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1), -2px -2px 2px 2px rgba(0, 0, 0, 0.1); */
     
     color: rgb(255, 255, 255);
     background-color: rgb(90, 124, 168);

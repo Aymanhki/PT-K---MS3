@@ -24,6 +24,7 @@
 	box-shadow:         inset 0 0 10px 0 #5d5d5da2;
 }
 .toggle:before, .toggle:after{
+	text-align: center;
 	position: absolute;
 	line-height: 32px;
 	font-size: 1.0vw;
@@ -34,11 +35,13 @@
 }
 .toggle:before{
 	content: "MONTH";
+	font-weight: bold;
 	left: 0.8vw;
 	color: rgb(179, 177, 175);
 }
 .toggle:after{
 	content: "YEAR";
+	font-weight: bold;
 	right:1.2vw;
 	color: #fff;
 }
