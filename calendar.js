@@ -122,6 +122,11 @@ function createDate(date, month, year) {
     dateElement.classList.add("days")
     dateElement.appendChild(purchases)
 
+    // purchaseData.forEach(element => {
+    //     if(element.Year == year && (element.Month == month && element.Day == date)) {
+    //         console.log(element.Amount);
+    //     }
+    // })
 
     return dateElement
 }
@@ -210,7 +215,6 @@ function prevMonth () {
 function reloadCalendar () {
     setCalendarMonthViewHeader (month, year)
     loadCalendarDays(month, year);
-    file.onload();
 }
 
 function setWeekHeaders () {

@@ -11,7 +11,8 @@ function csvToArray(str, delimiter = ",") {
     const rows = str.slice(str.indexOf("\n")+1).split("\n");
 
     const arr = rows.map(function(row){
-        const values = row.split(delimiter);
+        //when delimiting, only oin commas not in quotes
+        const values = row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
         const el = headers.reduce(function (object, header, index) {
             object[header] =  values[index];
             return object;
@@ -21,25 +22,21 @@ function csvToArray(str, delimiter = ",") {
     return arr;
 }
 
+var text;
+var purchaseData;
 file.onload = function() {
-    const text = this.responseText;
-    const data = csvToArray(text);
-    data.forEach(element => {
+    text = this.responseText;
+    text = text.replace(/(?:\r\n|\r|\n)/g, '\n');
+    purchaseData = csvToArray(text);
+    purchaseData.forEach(element => {
         element.Day = parseInt(element.Day);
         element.Month = parseInt(element.Month);
         element.Year = parseInt(element.Year);
         element.Amount = parseFloat(element.Amount);
-        let purchase_day = document.getElementById(`${element.Day}-${element.Month}-${element.Year}`);
-        if (purchase_day) {
-            console.log(`purchase logged ${element.Day}-${element.Month}-${element.Year}`)
-            let purchase = document.createElement("li");
-            purchase.innerText = `purchase`;
-            purchase_day.appendChild(purchase);
-        }
+
         
 
     });
-    console.log(data[0])
 }
 file.open("GET", "FakeData.csv");
 file.send();
