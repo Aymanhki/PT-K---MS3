@@ -6,50 +6,65 @@
     top: 50%;
     transform: translate(-50%, -50%);
     width: 35%;
+    height: auto;
     
     border-radius: 15px;
-    box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1), -2px -2px 2px 2px rgba(0, 0, 0, 0.1);
+    box-shadow: 2px 2px 20px 2px rgba(126, 126, 126, 0.466), -2px -2px 20px 2px rgba(161, 161, 161, 0.5);
 
     color: black;
     background-color: white;
 
-    padding: 15px 15px 15px 15px;
+    text-indent: 7px;
+    font-family: 'Product Sans';
+    font-size: 12px;
+    font-weight: 550;
 
-    display: none;
+    padding: 15px 15px 15px 15px;
+    
+
+
 }
 
 input[type="number"], input[type="text"], select {
     width: 97%;
     padding: 10px 10px;
     margin: 10px 10px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    color: rgb(112, 112, 112);
+    background-color: rgb(225, 230, 236);
+    font-size: 12px;
 
-    color: black;
-    background-color: white;
-
-    border: thin solid black;
+    border: solid 1.5px black;
+    border-radius: 6px;
     box-sizing: border-box;
 
     outline: none;
 }
+input[type="number"]:hover, input[type="text"]:hover, select:hover{
+    box-shadow: 1px 1px 4px 4px rgba(151, 168, 223, 0.507);
+}
 
 input[type="submit"] {
-    width: 97%;
+    width: 25%;
     padding: 10px 10px;
-    margin: 10px 10px;
-    display: inline-block;
-
-    color: rgb(81, 82, 82);
-    background-color: grey;
-
-    border: medium solid grey;
-    
+    margin-bottom: 20px;
+    font-size: 12px;
+    position: relative;
+    color: rgb(255, 255, 255);
+    background-color: rgb(123, 150, 238);
+    border-radius: 6px;
+    border: medium solid rgb(123, 150, 238);
+    font-weight: 400;
     cursor: pointer;
-    transition-duration: 0.5s;
+    transition-duration: 0.2s;
+    transform: translate(-50%, 0);
+    left: 50%;
 }
 
 input[type=submit]:hover {
     color: grey;
-    background-color: rgb(81, 82, 82);
+    background-color: rgb(158, 206, 255);
     border-color:rgb(81, 82, 82);
 }
 
@@ -64,10 +79,11 @@ input[type=submit]:hover {
     border-radius: 15px;
     box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.1), -2px -2px 2px 2px rgba(0, 0, 0, 0.1);
     
-    color: black;
-    background-color: grey;
+    color: rgb(255, 255, 255);
+    background-color: rgb(90, 124, 168);
     
     text-align: center;
+
     font-size: 1vw;
     font-weight: bold;
 
