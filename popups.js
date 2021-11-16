@@ -7,3 +7,11 @@ let funcOpenTransac = function () {
 let funcCloseTransac = function () {
     document.getElementById('addTransac').style.display = 'none';
 }
+
+let funcOpenCat = function () {
+    document.getElementById('addCateg').style.display = 'block';
+}
+
+let funcCloseCat = function () {
+    document.getElementById('addCateg').style.display = 'none';
+}

@@ -19,7 +19,7 @@
     display: none;
 }
 
-input[type="number"], select {
+input[type="number"], input[type="text"], select {
     width: 97%;
     padding: 10px 10px;
     margin: 10px 10px;

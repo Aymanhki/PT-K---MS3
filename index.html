@@ -61,7 +61,7 @@
             <button onclick="funcOpenTransac()" class="category health" type="button">Health</button>
             <button onclick="funcOpenTransac()" class="category personal" type="button">Personal</button>
             <button onclick="funcOpenTransac()" class="category utilities" type="button">Utilities</button>
-            <button class="addCat" type="button">+</button>
+            <button onclick="funcOpenCat()" class="addCat" type="button">+</button>
         </div>
 
         <div class="grid-panel right-top">
@@ -122,7 +122,7 @@
             <button onclick="funcCloseTransac()" class="close" type="button">X</button>
 
             <label for="amount">Amount</label>
-            <input type="number" id="amount" name="amount" placeholder="87.50">
+            <input type="number" id="amount" name="amount" placeholder="87.50, 703, 12.67...">
 
             <label for="type">Expense/Income</label>
             <select id="type" name="type">
@@ -139,6 +139,18 @@
                 <option value="personal">Personal</option>
                 <option value="utilities">Utilities</option>
             </select>
+
+            <input type="submit" value="Submit">
+        </div>
+
+        <div class="pop-up" id="addCateg">
+            <button onclick="funcCloseCat()" class="close" type="button">X</button>
+
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" placeholder="Savings, Gifts, Miscellaneous...">
+
+            <label for="color">Expense/Income</label>
+            <input type="text" id="color" name="color" placeholder="#fff, lightblue...">
 
             <input type="submit" value="Submit">
         </div>
