@@ -1,51 +1,83 @@
-$(document).ready(function(){
 
-    var ctx1 = $("#doughnut").get(0).getContext('2d');
+let doughnutLabels = [];
+let doughnutColors = [];
+function drawDoughnut()
+{
+    $(document).ready(function(){
+        let ctx = $("#doughnut").get(0).getContext('2d');
 
 
-    var data1 = {
-        labels : ["match1", "match2", "match3", "match4", "match5"],
-        data : [10, 50, 25, 70, 40],
-        backgroundColor : ["#DEB887", "#A9A9A9", "#DC143C", "#F4A460", "#2E8B57"],
-        borderColor : ["#CDA776", "#989898", "#CB252B", "#E39371", "#1D7A46"],
-        borderWidth : [1, 1, 1, 1, 1]
-    };
-
-    var data = [
+        for(let i=0; i<categories.length; i++)
         {
-            value: 270,
-            color: "cornflowerblue",
-            highlight: "lightskyblue",
-            label: "JavaScript"
-        },
-        {
-            value: 50,
-            color: "lightgreen",
-            highlight: "yellowgreen",
-            label: "HTML"
-        },
-        {
-            value: 40,
-            color: "orange",
-            highlight: "darkorange",
-            label: "CSS"
+            doughnutLabels.push(categories[i][0])
         }
-    ];
 
-    var options1 = {
-        title : {
-            display : true,
-            position : "top",
-            text : "Doughnut Chart - TeamA Score",
-            fontSize : 18,
-            fontColor : "#111"
-        },
-        legend : {
-            display : true,
-            position : "bottom"
+        let doughnutData = []
+        for(let i=0; i<categories.length; i++)
+        {
+            doughnutData.push(categories[i][1])
         }
-    };
 
-    var chart1 = new Chart(ctx1).Doughnut(data);
+        let dataSum = 0;
+        for(let i=0; i<categories.length; i++)
+        {
+            dataSum += doughnutData[i];
+        }
 
-});
+
+        for(let i=0; i<categories.length; i++)
+        {
+            doughnutColors.push(categories[i][2])
+        }
+
+        let doughnutHighlights = []
+        for(let i=0; i<categories.length; i++)
+        {
+            doughnutHighlights.push(categories[i][3])
+        }
+
+        const data = {
+            labels: doughnutLabels,
+            datasets: [{
+                data: doughnutData,
+                backgroundColor: doughnutColors,
+                hoverBackgroundColor: doughnutHighlights,
+                hoverOffset: 5
+            }]
+        };
+
+        const options = {
+            responsive: true,
+            maintainAspectRatio: false,
+            tooltips: {
+                callbacks: {
+                    label: function (tooltipItem, data) {
+                        //get the concerned dataset
+                        let dataset = data.datasets[0];
+                        //calculate the total of this data set
+                        let total = dataset.data.reduce(function (previousValue, currentValue, currentIndex, array) {
+                            return previousValue + currentValue;
+                        });
+                        //get the current items value
+                        let currentValue = dataset.data[tooltipItem.index];
+                        //calculate the percentage based on the total and current item, also this does a rough rounding to give a whole number
+                        let percentage = Math.floor(((currentValue / total) * 100) + 0.5);
+
+                        return " " + data.labels[tooltipItem.index]+": " + percentage + "%";
+                    }
+                }
+            },
+
+        };
+
+        const config = {
+            type: 'doughnut',
+            data: data,
+            options: options
+        };
+
+        let chart = new Chart(ctx, config);
+
+
+    });
+}

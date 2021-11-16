@@ -48,10 +48,15 @@ function readTextFile(file, callback) {
 
 }
 
-readTextFile("./FakeData.json", function(text){
+readTextFile("./FakeData.json", function(text)
+{
     data = JSON.parse(text);
-    console.log(data);
+    getCategoryTotals();
+    drawDoughnut();
+    drawLine();
 });
+
+
 
 //-------------------------------
 // Sanitize data 

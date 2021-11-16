@@ -75,13 +75,25 @@
 }
 
 .addCat {
+    border: 2px solid;
+    border-radius: 12px;
+    background-color: white;
     color: #7c7c7c;
     border-color: #7c7c7c;
-    text-decoration: none;
-    font-size: 8vw;
-
+    width: 100%;
+    aspect-ratio: 1.05/1;
+    margin-bottom: 18%;
+    text-justify: center;
+    text-align: center;
+    font-family: "Courier New", monospace;
+    font-size: 6vw;
+    font-weight: bold;
+    
+    cursor: pointer;
+    transition-duration: 0.5s;
 }
 
 .addCat:hover {
+    color: white;
     background-color: #7c7c7c;
 }

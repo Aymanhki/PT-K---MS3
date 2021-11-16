@@ -97,6 +97,7 @@ function clickOnDate (clicked_date, clicked_month, clicked_year) {
             sw_ym.checked = false;
             checkState()
         }
+
     }
     else {
         return () => {

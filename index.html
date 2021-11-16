@@ -15,17 +15,33 @@
 
     <!--CSS for App structures-->
     <link rel="stylesheet" href="./index.css"/>
-    <link rel="stylesheet" href="./view-toggle.css">
-    <link rel="stylesheet" href="./calendar.css">
-    <link rel="stylesheet" href="./dataReader.css">
+    <link rel="stylesheet" href="./view-toggle.css"/>
+    <link rel="stylesheet" href="./calendar.css"/>
     <!--CSS for each sections-->
+    <link rel="stylesheet" href="./left.css"/>
+    <link rel="stylesheet" href="./popups.css"/>
 
+    <!--JS library-->
+    <script type ="text/javascript" src="jquery-2.1.4.min.js"></script>
+    <!--JS files-->
+    <!--JS files for global variables-->
+    <script type ="text/javascript" src="globalVariables.js"></script>
+    <!--JS data for the app-->
+    <script type ="text/javascript" src="dataGenerator.js"></script>
+    <script type ="text/javascript" src="dataQueries.js"></script>
+    <script type="text/javascript" src="category_totals.js"></script>
+
+    <script type ="text/javascript" src="view-toggle.js"></script>
+    <script type ="text/javascript" src="calendar.js"></script>
+    <script type ="text/javascript" src="popups.js"></script>
+
+    <!--JS web interaction-->
     <script src="DataReader.js"></script>
-    <script src="jquery-2.1.4.min.js"></script>
+    <script type ="text/javascript" src="Chart.min.js"></script>
+    <script type ="text/javascript" src = "line_graph.js"></script>
     <script type ="text/javascript" src="doughnut.js"></script>
-    <script src="Chart.js"></script>
-    <script src="calendar.js"></script>
-    
+
+
 </head>
 
 <body>
@@ -40,24 +56,29 @@
             </div>
         </div>
         <div class="left-panel">
-            <link href="./left.css" rel="stylesheet" />
-            <button class="category accommodation" type="button">Accommodation</button>
-            <button class="category entertainment" type="button">Entertainment</button>
-            <button class="category food" type="button">Food</button>
-            <button class="category health" type="button">Health</button>
-            <button class="category personal" type="button">Personal</button>
-            <button class="category utilities" type="button">Utilities</button>
-            <button class="category addCat" type="button">+</button>
+            <button onclick="funcOpenTransac()" class="category accommodation" type="button">Accommodation</button>
+            <button onclick="funcOpenTransac()" class="category entertainment" type="button">Entertainment</button>
+            <button onclick="funcOpenTransac()" class="category food" type="button">Food</button>
+            <button onclick="funcOpenTransac()" class="category health" type="button">Health</button>
+            <button onclick="funcOpenTransac()" class="category personal" type="button">Personal</button>
+            <button onclick="funcOpenTransac()" class="category utilities" type="button">Utilities</button>
+            <button onclick="funcOpenCat()" class="addCat" type="button">+</button>
         </div>
 
-        <div class="grid-panel right-top"></div>
+        <div class="grid-panel right-top">
+            <div class = "line-container">
+                <canvas id="line"></canvas>
+            </div>
+        </div>
 
-        <!--centre header-->
         <div class="grid-panel right-bottom">
             <div class = "doughnut-container">
                 <canvas id="doughnut"></canvas>
             </div>
         </div>
+
+        <!--centre header-->
+
         <!--  --------------------------- DATES FOR MONTH VIEW ------------------------------------ -->
         <div class="center-header">
             <div class="calendar-content">
@@ -89,9 +110,43 @@
                 </div>
             </div>
         </div>
-        <!-- Keep this for pop up widget  
-            <div class="pop-up">pop-up</div>
-        -->
+
+        <div class="pop-up" id="addTransac">
+            <button onclick="funcCloseTransac()" class="close" type="button">X</button>
+
+            <label for="amount">Amount</label>
+            <input type="number" id="amount" name="amount" placeholder="87.50, 703, 12.67...">
+
+            <label for="type">Expense/Income</label>
+            <select id="type" name="type">
+                <option value="expense">Expense</option>
+                <option value="income">Income</option>
+            </select>
+
+            <label for="cat">Category</label>
+            <select id="cat" name="category">
+                <option value="accommodation">Accommodation</option>
+                <option value="entertainment">Entertainment</option>
+                <option value="food">Food</option>
+                <option value="health">Health</option>
+                <option value="personal">Personal</option>
+                <option value="utilities">Utilities</option>
+            </select>
+
+            <input type="submit" value="Submit">
+        </div>
+
+        <div class="pop-up" id="addCateg">
+            <button onclick="funcCloseCat()" class="close" type="button">X</button>
+
+            <label for="name">Name</label>
+            <input type="text" id="name" name="name" placeholder="Savings, Gifts, Miscellaneous...">
+
+            <label for="color">Expense/Income</label>
+            <input type="text" id="color" name="color" placeholder="#fff, lightblue...">
+
+            <input type="submit" value="Submit">
+        </div>
 
     </div>
     <!-- ---------------------------reading in the csv file--------------------------------- -->

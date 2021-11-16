@@ -11,7 +11,7 @@ public class Main
     private final static double MAXIMUM_TRANSACTION_AMOUNT = 9999.99;
     private final static int MINIMUM_DATE_YEAR = 2000;
     private final static int MAXIMUM_DATE_YEAR = 2021;
-    private final static String OUTPUT_FILE_NAME = "Fake Data.csv";
+    private final static String OUTPUT_FILE_NAME = "FakeData.csv";
     private final static String TITLES_FILE_NAME = "titles.txt";
     private static final String[] TITLES = new String[NUM_OF_TRANSACTION];
 
@@ -50,14 +50,14 @@ public class Main
 
                 do {
                     randomTitle = randomInt(0, TITLES.length);
-                    title = "\"" + TITLES[randomTitle] + "\"";
-                } while (TITLES[randomTitle] == null);
 
+                } while (TITLES[randomTitle] == null);
+                title = TITLES[randomTitle].replace(',', '-');
                 String date = dateGenerator();
                 Scanner dateParser = new Scanner(date);
                 dateParser.useDelimiter("/");
-                String day = String.valueOf(dateParser.nextInt());
                 String month = String.valueOf(dateParser.nextInt());
+                String day = String.valueOf(dateParser.nextInt());
                 String year = String.valueOf(dateParser.nextInt());
                 String category = CATEGORIES[randomInt(0, CATEGORIES.length)];
                 String categoryType = CATEGORY_TYPE[randomInt(0, CATEGORY_TYPE.length)];
