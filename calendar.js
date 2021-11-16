@@ -1,4 +1,5 @@
 // calendar.js
+
 //calendar element ids
 const CALENDAR_DAY_GRID_ID = "days-of-week";
 const CALENDAR_HEADER_YEAR_ID = "calendar-header-year";
@@ -87,7 +88,7 @@ function createCurrentMonthDay(date, month, year) {
     return dateElement
 }
 
-function clickOnDate (clicked_date, clicked_month,clicked_year) {
+function clickOnDate (clicked_date, clicked_month, clicked_year) {
     let sw_ym = document.getElementById(SWITCH_YM);
     if(sw_ym.checked) {
         return () => {
@@ -100,7 +101,15 @@ function clickOnDate (clicked_date, clicked_month,clicked_year) {
     }
     else {
         return () => {
-            alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}`)
+            let purchases = document.getElementById(`${clicked_date}-${clicked_month}-${clicked_year}`);
+            if(purchases) {
+                
+                alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n ${purchases.innerHTML}`)
+            }
+            else{
+                alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n ${purchases}`)
+            }
+            
         }
     }
     
@@ -108,8 +117,10 @@ function clickOnDate (clicked_date, clicked_month,clicked_year) {
 
 function createDate(date, month, year) {
     var dateElement = document.createElement("li");
-    dateElement.setAttribute("id", `${date}-${month}-${year}`)
+    let purchases = document.createElement("ol");
+    purchases.setAttribute("id", `${date}-${month}-${year}`)
     dateElement.classList.add("days")
+    dateElement.appendChild(purchases)
 
 
     return dateElement
@@ -199,6 +210,7 @@ function prevMonth () {
 function reloadCalendar () {
     setCalendarMonthViewHeader (month, year)
     loadCalendarDays(month, year);
+    file.onload();
 }
 
 function setWeekHeaders () {
@@ -244,6 +256,7 @@ function checkState() {
         reloadCalendar();
         setCalendarMonthViewHeader(month, year);
     }
+    file.onload();
 }//checkState
 
 /* -------------------------------------------- the year view ---------------------------------- */

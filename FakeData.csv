@@ -1,4 +1,5 @@
-Title,Day,Month,Year,Category,Income/Expense,Amount
+Title,Month,Day,Year,Category,Income/Expense,Amount
+"purchase",11,1,2021,Utilities,Expense,200.00
 "Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 125122740760 49.63 CAD @ 1.000000",9,24,2007,Utilities,Expense,4897.62
 "Point of Sale - INTERAC RETAIL PURCHASE 000001001569 LONDON DRUGS 66",6,19,2002,Food,Expense,5361.14
 "Internet Banking INTERNET TRANSFER 000000274521",9,22,2011,Food,Income,6924.86
