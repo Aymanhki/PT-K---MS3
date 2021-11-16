@@ -51,7 +51,7 @@ li {
 .month .btn {
     border: none;
     background-color: inherit;
-    font-size: min(max(3vw, 3vh), 30px);
+    font-size: 30px;
     text-anchor: middle;
     text-size-adjust: auto;
     font-weight: 800;
