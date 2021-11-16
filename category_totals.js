@@ -44,9 +44,10 @@ function getCategoryTotals()
         return"rgb"+(d?"a(":"(")+r(i(a[3]=="a"?a.slice(5):a.slice(4))*P+t)+","+r(i(b)*P+t)+","+r(i(c)*P+t)+(d?","+d:")");
     }
 
+    let colorArray = ["#1d7403", "#7948ff", "#f09a1a", "#ff0000", "#0043fc", "#684f2f"];
     for(let i=0; i<categories.length; i++)
     {
-        let color = getRandomColor();
+        let color = colorArray[i];
         categories[i].push(color);
         categories[i].push(RGB_Linear_Shade( 0.3, color));
     }
