@@ -1,11 +1,11 @@
 * {
-    font-family: Helvetica;
+    font-family: 'Product Sans';
 }
 
 .app {
     width: 100vw;
     height: 100vh;
-    background-color: rgb(221, 221, 221);
+    background-color: rgb(229, 233, 236) ;
 }
 
 .grid-container-app {
@@ -21,9 +21,14 @@
     padding: 10px;
 
     margin: 10px;
+    margin-left: 20px;
+    margin-right: 10px;
     border-radius: 15px;
-    background-color: white;
-    box-shadow: 2px 2px 10px 2px rgba(0, 0, 0, 0.1), -2px -2px 10px 2px rgba(0, 0, 0, 0.1);
+    background-color: rgb(231, 233, 240);
+    border-bottom: solid 10px rgb(204, 204, 204);
+    border-top: solid 10px white;
+
+    box-shadow: 1px 1px 20px 1px rgba(0, 0, 0, 0.1), -1px -1px 10px 1px rgba(0, 0, 0, 0.1);
 }
 
 .left-top {
@@ -33,6 +38,7 @@
     grid-row: 1;
     justify-items: end;
     overflow: visible;
+    margin-left: 15px;
 }
 
 .left-panel {
@@ -43,6 +49,11 @@
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 10px;
+    border-radius: 7px;
+    background-color: rgb(229, 233, 235);
+    margin-left: 10px;
+    margin-bottom: 10px;
+    box-shadow: inset 0 0 10px 0 #5d5d5d77;
 }
 
 

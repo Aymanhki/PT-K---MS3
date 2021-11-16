@@ -80,6 +80,7 @@ li {
     position: inherit;
     display: inline-block;
     font-size: min(max(3vw, 3vh), 30px);
+    font-weight: bold;
     text-size-adjust: auto;
     letter-spacing: 4px;
     font-weight: 800;
@@ -106,6 +107,7 @@ li {
     /* content stuff */
     overflow-y: scroll;
     overflow-x: scroll;
+
 }
 
 .current-month {
@@ -130,6 +132,7 @@ li {
     padding-left: 0.01px;
     margin-right: auto;
     margin-left: auto;
+    
 }
 
 
@@ -149,6 +152,7 @@ li {
     height: 100%;
     grid-template-rows: repeat(6, 1fr);
     justify-content: center;
+    
 }
 
 /* days in calendar */
@@ -156,7 +160,7 @@ li {
     position: relative;
     min-height: 50px;
     min-width: 50px;
-    font-size: 16px;
+    font-size: 20px;
     background-color: white;
     padding-top: 5px;
     border: solid 1px rgb(202, 200, 200);
@@ -217,7 +221,8 @@ li {
 .monthTitleYearView {
     grid-column-start: 1;
     grid-column-end: 7;
-    font-weight: 800;
+    font-size: 18px;
+    font-weight: bold;
     position: relative;
     text-align: center;
     border-radius: 1px;
