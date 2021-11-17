@@ -172,7 +172,14 @@ function nextMonth () {
         year ++;
         clearCalendarHeaders();
         setCalendarYearViewHeader(month, year);
-        createMonthlyForYearView (year)
+        createMonthlyForYearView (year);
+        //--------------------- these will need to be adjusted for yearly view change (go by year change rather than month) -------
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
+        //---------------------------------------------------------------------------------------------
     }
     else {
         if (month == MONTH_END) {
@@ -182,13 +189,13 @@ function nextMonth () {
             month ++;
         }
         reloadCalendar();
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
     }
-    reloadCalendar();
-    getCategoryTotals();
-    doughnutChart.destroy();
-    lineChart.destroy();
-    drawDoughnut();
-    drawLine();
+    
     
 }
 
@@ -200,7 +207,14 @@ function prevMonth () {
         year --;
         clearCalendarHeaders();
         setCalendarYearViewHeader(month, year);
-        createMonthlyForYearView (year)
+        createMonthlyForYearView (year);
+        //--------------------- these will need to be adjusted for yearly view change (go by year change rather than month) -------
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
+        //---------------------------------------------------------------------------------------------
     }
     else {
         if (month == MONTH_START) {
@@ -209,15 +223,15 @@ function prevMonth () {
         } else {
             month --;
         }
-
+        reloadCalendar();
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
     }
 
-    reloadCalendar();
-    getCategoryTotals();
-    doughnutChart.destroy();
-    lineChart.destroy();
-    drawDoughnut();
-    drawLine();
+    
 }
 
 function reloadCalendar () {
