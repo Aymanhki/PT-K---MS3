@@ -102,12 +102,13 @@ li {
     position: relative;
     /* grid placement stuff */
     grid-column: 2;
-    grid-row-start: 2;
+    grid-row-start: 1;
     grid-row-end: 4;
     /* content stuff */
     overflow-y: scroll;
     overflow-x: scroll;
     margin-bottom: 20px;
+    margin-top: 10px;
 }
 
 .current-month {
