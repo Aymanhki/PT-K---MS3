@@ -149,7 +149,7 @@
 /* --------------------------------------CATEGORY 2----------------------------------------------------- */
 
 .entertainment:hover + #catt2 {
-    transition: 0.9s;
+    transition: 0.6s;
     z-index: -1;
     height: 3.4vw;
     
@@ -190,7 +190,7 @@
 /* --------------------------------------CATEGORY 2----------------------------------------------------- */
 
 .food:hover + #catt3 {
-    transition: 0.9s;
+    transition: 0.6s;
     z-index: -1;
     height: 3.4vw;
     
@@ -231,7 +231,7 @@
 /* --------------------------------------CATEGORY 4----------------------------------------------------- */
 
 .health:hover + #catt4 {
-    transition: 0.9s;
+    transition: 0.6s;
     z-index: -1;
     height: 3.4vw;
     
@@ -272,7 +272,7 @@
 /* --------------------------------------CATEGORY 5----------------------------------------------------- */
 
 .personal:hover + #catt5 {
-    transition: 0.9s;
+    transition: 0.6s;
     z-index: -1;
     height: 3.4vw;
     
@@ -313,7 +313,7 @@
 /* --------------------------------------CATEGORY 6----------------------------------------------------- */
 
 .utilities:hover + #catt6 {
-    transition: 0.9s;
+    transition: 0.6s;
     z-index: -1;
     height: 3.4vw;
     
