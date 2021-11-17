@@ -51,6 +51,7 @@ function readTextFile(file, callback) {
 readTextFile("./FakeData.json", function(text)
 {
     data = JSON.parse(text);
+    sanitize (data);
     getCategoryTotals();
     drawDoughnut();
     drawLine();
@@ -64,3 +65,17 @@ readTextFile("./FakeData.json", function(text)
 // TODO: add transactionID to each transaction
 //-------------------------------
 
+function sanitize (data) {
+    
+    extractCategoryList(data)
+}
+
+function extractCategoryList (data) {
+    for(let i=0; i<data.length; i++)
+    {
+        if(!categories.includes(data[i].Category) && data[i].Category !== undefined && data[i].Month === month)
+        {
+            categories.push(data[i].Category);
+        }
+    }
+}
