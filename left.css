@@ -1,3 +1,12 @@
+:root {
+    --cat1c: rgb(29, 116, 3);
+    --cat2c: rgb(121, 72, 255);
+    --cat3c: rgb(240, 154, 26);
+    --cat4c: rgb(255, 0, 0);
+    --cat5c: rgb(0, 67, 252);
+    --cat6c: rgb(109, 83, 49);
+}
+
 .category {
     border: 2px solid;
     border-radius: 12px;
@@ -130,7 +139,9 @@
 }
 
 #catt1 {
+    font-size: 0.9vw;
     z-index: -5;
+    color: var(--cat1c);
     position: relative;
     overflow: hidden;
     display: flex;
@@ -171,6 +182,8 @@
 }
 
 #catt2 {
+    color: var(--cat2c);
+    font-size: 0.9vw;
     z-index: -5;
     position: relative;
     overflow: hidden;
@@ -212,6 +225,8 @@
 }
 
 #catt3 {
+    color: var(--cat3c);
+    font-size: 0.9vw;
     z-index: -5;
     position: relative;
     overflow: hidden;
@@ -253,6 +268,8 @@
 }
 
 #catt4 {
+    color: var(--cat4c);
+    font-size: 0.9vw;
     z-index: -5;
     position: relative;
     overflow: hidden;
@@ -294,6 +311,8 @@
 }
 
 #catt5 {
+    color: var(--cat5c);
+    font-size: 0.9vw;
     z-index: -5;
     position: relative;
     overflow: hidden;
@@ -335,6 +354,8 @@
 }
 
 #catt6 {
+    color: var(--cat6c);
+    font-size: 0.9vw;
     z-index: -5;
     position: relative;
     overflow: hidden;

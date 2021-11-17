@@ -51,7 +51,7 @@ li {
 .month .btn {
     border: none;
     background-color: inherit;
-    font-size: 30px;
+    font-size: 40px;
     text-anchor: middle;
     text-size-adjust: auto;
     font-weight: 800;
@@ -79,13 +79,17 @@ li {
 .month ul li {
     position: inherit;
     display: inline-block;
-    font-size: min(max(3vw, 3vh), 30px);
+    font-size: 40px;
+    line-height: 38px;
     font-weight: bold;
     text-size-adjust: auto;
     letter-spacing: 4px;
     font-weight: 800;
 }
 
+.break-header {
+    font-size: 2px;
+}
 
 /* next button */
 .month .next {
