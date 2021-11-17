@@ -4,7 +4,8 @@ let object = {
     table: []
 }
 
-let categories = [];
+//Moved to globalVariables
+//let categories = [];
 
 function getRandomColor()
 {
@@ -13,15 +14,6 @@ function getRandomColor()
 
 function getCategoryTotals()
 {
-
-
-    for(let i=0; i<data.length; i++)
-    {
-        if(!categories.includes(data[i].Category) && data[i].Category !== undefined && data[i].Month === month)
-        {
-            categories.push(data[i].Category);
-        }
-    }
 
     for(let i=0; i<categories.length; i++)
     {
