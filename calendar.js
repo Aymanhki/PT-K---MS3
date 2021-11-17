@@ -317,10 +317,12 @@ function createOneMonthGrid (month, year) {
     let nextMonthDays = daysInMonth(month+1, year)
 
     // Remove comment if you want to show dates of previous month in year view
-    // for (let i = 1; i <= dayOfWeek; i++) {
-    //     let nonMonthDate = createNonMonthDay(prevMonthDays-dayOfWeek+i, month, year)
-    //     monthGrid.appendChild(nonMonthDate)
-    // }
+    for (let i = 1; i <= dayOfWeek; i++) {
+        let nonMonthDate = createNonMonthDay(prevMonthDays-dayOfWeek+i, month, year)
+        nonMonthDate.innerHTML = ""
+
+        monthGrid.appendChild(nonMonthDate)
+    }
 
     for (let i = 1; i <= numDays; i++) {
         let currentMonthDate = createCurrentMonthDay(i, month + 1, year)
@@ -328,11 +330,12 @@ function createOneMonthGrid (month, year) {
     }
 
 
-    // Remove comment if you want to show dates of next month in year view
-    // for (let i = 1; i <= 42 - (dayOfWeek) - numDays; i++) {
-    //     let nonMonthDate = createNonMonthDay(i, month + 2, year)
-    //     monthGrid.appendChild(nonMonthDate)
-    // }
+    //Remove comment if you want to show dates of next month in year view
+    for (let i = 1; i <= 42 - (dayOfWeek) - numDays; i++) {
+        let nonMonthDate = createNonMonthDay(i, month + 2, year)
+        nonMonthDate.innerHTML = ""
+        monthGrid.appendChild(nonMonthDate)
+    }
 
     //placing the "ol" element into the final "li" to be passed by the function
     monthFinal.appendChild(monthGrid)
