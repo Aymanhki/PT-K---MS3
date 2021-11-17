@@ -4,7 +4,6 @@ let object = {
     table: []
 }
 
-//Moved to globalVariables
 //let categories = [];
 
 function getRandomColor()
@@ -20,6 +19,18 @@ function RGB_Linear_Shade(p,c) {
 function getCategoryTotals()
 {
 
+   categories = [];
+    for(let i=0; i<data.length; i++)
+    {
+        //TODO: the last condition in this if statement throws an error in estimated 1 out of 10 lunches, what I
+        // suspect is that the page sometimes the browser gets to this point before the month variable
+        // is initialized in calendar.js, Kevin, I think you know how to fix this.
+        if(!categories.includes(data[i].Category) && data[i].Category !== undefined && data[i].Month == month && data[i].Year == year)
+        {
+            categories.push(data[i].Category);
+        }
+    }
+
     for(let i=0; i<categories.length; i++)
     {
 
@@ -34,16 +45,10 @@ function getCategoryTotals()
         categories[i] = [categories[i], total];
     }
 
-    categories.sort()
-
-
-
-
+    let colors = ['rgba(116,26,51,255)', 'rgba(179,66,50,255)', 'rgba(210,143,52,255)', 'rgba(212,185,94,255)', 'rgba(78,162,162,255)', 'rgba(26,134,147,255)']
     for(let i=0; i<categories.length; i++)
     {
-        let color = ["rgb(29, 116, 3)", "rgb(121, 72, 255)", "rgb(240, 154, 26)", "rgb(255, 0, 0)", "rgb(0, 67, 252)", "rgb(109, 83, 49)"];
-        categories[i].push(color[i]);
-        categories[i].push(RGB_Linear_Shade( 0.3, color[i]));
+        categories[i].push(colors[i]);
+        categories[i].push(RGB_Linear_Shade( 0.3, colors[i]));
     }
-    
 }

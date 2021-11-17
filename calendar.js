@@ -109,7 +109,9 @@ function clickOnDate (clicked_date, clicked_month, clicked_year) {
                 alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n ${purchases.innerHTML}`)
             }
             else{
-                alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n`)
+                openDayView(clicked_date, clicked_month, clicked_year);
+
+                //alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n`)
             }
             
         }
@@ -181,7 +183,12 @@ function nextMonth () {
         }
         reloadCalendar();
     }
-    
+    reloadCalendar();
+    getCategoryTotals();
+    doughnutChart.destroy();
+    lineChart.destroy();
+    drawDoughnut();
+    drawLine();
     
 }
 
@@ -202,10 +209,15 @@ function prevMonth () {
         } else {
             month --;
         }
-        reloadCalendar();
+
     }
-    
-    
+
+    reloadCalendar();
+    getCategoryTotals();
+    doughnutChart.destroy();
+    lineChart.destroy();
+    drawDoughnut();
+    drawLine();
 }
 
 function reloadCalendar () {

@@ -21,7 +21,7 @@
     <!--CSS for each sections-->
     <link rel="stylesheet" href="./left.css"/>
     <link rel="stylesheet" href="./popups.css"/>
-
+    <link rel="stylesheet" href="day-view-popup.css">
     <!--JS library-->
     <script type ="text/javascript" src="jquery-2.1.4.min.js"></script>
     <!--JS files-->
@@ -41,7 +41,7 @@
     <script type ="text/javascript" src="Chart.min.js"></script>
     <script type ="text/javascript" src = "line_graph.js"></script>
     <script type ="text/javascript" src="doughnut.js"></script>
-
+    <script type ="text/javascript" src="day-view-popup.js"></script>
 
 </head>
 
@@ -66,17 +66,25 @@
             <button onclick="funcOpenCat()" class="addCat" type="button">+</button>
         </div>
 
-        <div class="grid-panel right-top">
-            <div class = "line-container">
-                <canvas id="line"></canvas>
+        <div class="right-panel">
+            <div class="grid-panel right-panel day-view-popup" id="day-popup">
+                <div class="day-view-popup-overlay"></div>
+                <div class="day-view-popup-content" id="day-Transactions-Content">
+
+                </div>
+            </div>
+            <div class="grid-panel right-panel right-top">
+                <div class = "line-container">
+                    <canvas id="line"></canvas>
+                </div>
+            </div>
+            <div class="grid-panel right-panel right-bottom">
+                <div class = "doughnut-container">
+                    <canvas id="doughnut"></canvas>
+                </div>
             </div>
         </div>
 
-        <div class="grid-panel right-bottom">
-            <div class = "doughnut-container">
-                <canvas id="doughnut"></canvas>
-            </div>
-        </div>
 
         <!--centre header-->
 
@@ -88,9 +96,9 @@
                         <ul>
                             <li class="prev"><button class="btn" id="calendar-prev">&#10094</button></a></li>
                             <li >
-                                <span id="calendar-header-year">2021</span>
-                                <br>
                                 <span id="calendar-header-month">November</span>
+
+                                <span id="calendar-header-year">2021</span>
                             </li>
                             <li class="next"><button class="btn" id="calendar-next">&#10095</button></li>
                         </ul>

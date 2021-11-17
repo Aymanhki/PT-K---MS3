@@ -1,3 +1,4 @@
+let lineChart;
 function drawLine()
 {
     $(document).ready(function ()
@@ -16,7 +17,7 @@ function drawLine()
 
         for(let i=0; i<data.length; i++)
         {
-            if(data[i].Month === month)
+            if(data[i].Month === month && data[i].Year === year)
             {
                 monthTransactions.push(data[i]);
             }
@@ -26,15 +27,16 @@ function drawLine()
         for(let i=0; i<data.length; i++)
         {
             let lastMonth = 0;
-            if(month-1 === 0)
-            {
-                lastMonth = 12;
-            }
-            else
-            {
+            let lastYear = 0;
+            if (month === 0) {
+                lastMonth = 11;
+                lastYear = year -1;
+            } else {
                 lastMonth = month-1;
+                lastYear = year;
             }
-            if(data[i].Month === lastMonth)
+
+            if(data[i].Month === lastMonth && data[i].Year === lastYear)
             {
                 lastMonthTransactions.push(data[i]);
             }
@@ -168,17 +170,18 @@ function drawLine()
                 // }
 
                     {
-                        label: "Last Month",
-                        data: lastMonthAmounts,
-                        backgroundColor: RGB_Linear_Shade(0.7, getRandomColor())
-                    },
-                    {
                         label: "This Month",
                         data: amounts,
-                        backgroundColor: RGB_Linear_Shade(0.7, getRandomColor())
+                        backgroundColor: 'rgba(0, 0, 0, 0.5)',
+                        tension: 0.5
 
                     },
-
+                    {
+                        label: "Last Month",
+                        data: lastMonthAmounts,
+                        backgroundColor: 'rgba(180, 180, 180, 0.5)',
+                        tension: 0.5
+                    },
                 ]
         };
 
@@ -197,7 +200,7 @@ function drawLine()
             options: options
         };
 
-        let chart = new Chart(ctx, config);
+        lineChart = new Chart(ctx, config);
 
 
     });
