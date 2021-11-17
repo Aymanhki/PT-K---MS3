@@ -3,6 +3,7 @@
     border-radius: 12px;
     background-color: white;
     width: 100%;
+    min-width: none;
     aspect-ratio: 1.05/1;
     text-justify: center;
     text-align: center;
