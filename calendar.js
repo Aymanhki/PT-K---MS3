@@ -18,10 +18,11 @@ const MONTH_END = 11;
 const SWITCH_YM = "tog";
 
 
+//Moved to global variables
 //Global variables for controlling calendar
-let year;
-let month;
-let isMonthView = true;
+// let year;
+// let month;
+// let isMonthView = true;
 
 
 
@@ -96,6 +97,7 @@ function clickOnDate (clicked_date, clicked_month, clicked_year) {
             year = clicked_year
             sw_ym.checked = false;
             checkState()
+            reloadCalendar()
         }
 
     }
