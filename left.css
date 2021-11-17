@@ -1,13 +1,12 @@
 .category {
     border: 2px solid;
     border-radius: 12px;
-    background-color: doughnutColors;
+    background-color: white;
     width: 100%;
     aspect-ratio: 1.05/1;
-    margin-bottom: 18%;
     text-justify: center;
     text-align: center;
-
+    z-index: 50;
     font-size: 2vw;
     font-weight: bold;
     box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.363);
@@ -16,19 +15,24 @@
 }
 
 .category:hover {
+    
     color: white;
+
 }
 
 .accommodation {
+    z-index: inherit;
     color: rgb(29, 116, 3);
     border-color: #1d7403;
 }
 
 .accommodation:hover {
     background-color: #1d7403;
+    
 }
 
 .entertainment {
+    z-index: inherit;
     color: rgb(121, 72, 255);
     border-color: #7948ff;
 }
@@ -38,6 +42,7 @@
 }
 
 .food {
+    z-index: inherit;
     color: rgb(240, 154, 26);
     border-color: #f09a1a;
 }
@@ -90,32 +95,258 @@
     cursor: pointer;
     transition-duration: 0.5s;
 }
+.cat-pop {
+    font-weight: bold;
+    font-size: 1vw;
+}
 
 .addCat:hover {
     color: white;
     background-color: #7c7c7c;
 }
 
+/* --------------------------------------CATEGORY 1----------------------------------------------------- */
+
+.accommodation:hover + #catt1 {
+    transition: 0.6s;
+    z-index: -1;
+    height: 3.4vw;
+    
+}
+
+.accommodation:hover ~ .cat1 {
+    transition: 0.6s;
+}
+
+.cat1 {
+    transition: 0.6s;
+    position: relative;
+    display: flexbox;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 18%;
+}
+
 #catt1 {
-    display: none;
+    z-index: -5;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 90%;
+    height: 0;
+    margin-bottom: -18%;
+    text-align: center;
+    align-items: end;
+    transition: .6s;
+    left: 50%;
+    transform: translate(-50%, 0);
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.363);
+}
+
+/* --------------------------------------CATEGORY 2----------------------------------------------------- */
+
+.entertainment:hover + #catt2 {
+    transition: 0.9s;
+    z-index: -1;
+    height: 3.4vw;
+    
+}
+
+.entertainment:hover ~ .cat2 {
+    transition: 0.6s;
+}
+
+.cat2 {
+    transition: 0.6s;
+    position: relative;
+    display: flexbox;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 18%;
 }
 
 #catt2 {
-    display: none;
+    z-index: -5;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 90%;
+    height: 0;
+    margin-bottom: -18%;
+    text-align: center;
+    align-items: end;
+    transition: .6s;
+    left: 50%;
+    transform: translate(-50%, 0);
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.363);
+}
+
+/* --------------------------------------CATEGORY 2----------------------------------------------------- */
+
+.food:hover + #catt3 {
+    transition: 0.9s;
+    z-index: -1;
+    height: 3.4vw;
+    
+}
+
+.food:hover ~ .cat3 {
+    transition: 0.6s;
+}
+
+.cat3 {
+    transition: 0.6s;
+    position: relative;
+    display: flexbox;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 18%;
 }
 
 #catt3 {
-    display: none;
+    z-index: -5;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 90%;
+    height: 0;
+    margin-bottom: -18%;
+    text-align: center;
+    align-items: end;
+    transition: .6s;
+    left: 50%;
+    transform: translate(-50%, 0);
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.363);
+}
+
+/* --------------------------------------CATEGORY 4----------------------------------------------------- */
+
+.health:hover + #catt4 {
+    transition: 0.9s;
+    z-index: -1;
+    height: 3.4vw;
+    
+}
+
+.health:hover ~ .cat4 {
+    transition: 0.6s;
+}
+
+.cat4 {
+    transition: 0.6s;
+    position: relative;
+    display: flexbox;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 18%;
 }
 
 #catt4 {
-    display: none;
+    z-index: -5;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 90%;
+    height: 0;
+    margin-bottom: -18%;
+    text-align: center;
+    align-items: end;
+    transition: .6s;
+    left: 50%;
+    transform: translate(-50%, 0);
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.363);
+}
+
+/* --------------------------------------CATEGORY 5----------------------------------------------------- */
+
+.personal:hover + #catt5 {
+    transition: 0.9s;
+    z-index: -1;
+    height: 3.4vw;
+    
+}
+
+.personal:hover ~ .cat5 {
+    transition: 0.6s;
+}
+
+.cat5 {
+    transition: 0.6s;
+    position: relative;
+    display: flexbox;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 18%;
 }
 
 #catt5 {
-    display: none;
+    z-index: -5;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 90%;
+    height: 0;
+    margin-bottom: -18%;
+    text-align: center;
+    align-items: end;
+    transition: .6s;
+    left: 50%;
+    transform: translate(-50%, 0);
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.363);
+}
+
+/* --------------------------------------CATEGORY 6----------------------------------------------------- */
+
+.utilities:hover + #catt6 {
+    transition: 0.9s;
+    z-index: -1;
+    height: 3.4vw;
+    
+}
+
+.utilities:hover ~ .cat6 {
+    transition: 0.6s;
+}
+
+.cat6 {
+    transition: 0.6s;
+    position: relative;
+    display: flexbox;
+    height: auto;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 18%;
 }
 
 #catt6 {
-    display: none;
+    z-index: -5;
+    position: relative;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 90%;
+    height: 0;
+    margin-bottom: -18%;
+    text-align: center;
+    align-items: end;
+    transition: .6s;
+    left: 50%;
+    transform: translate(-50%, 0);
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.363);
 }
