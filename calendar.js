@@ -179,7 +179,7 @@ function nextMonth () {
         }
         reloadCalendar();
     }
-    
+
     
 }
 
@@ -209,6 +209,7 @@ function prevMonth () {
 function reloadCalendar () {
     setCalendarMonthViewHeader (month, year)
     loadCalendarDays(month, year);
+    getCategoryTotals();
 }
 
 function setWeekHeaders () {
