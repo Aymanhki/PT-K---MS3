@@ -205,7 +205,7 @@ li {
     background-color: inherit;
     padding-top: 5px;
     border: solid 1px rgb(202, 200, 200);
-    
+    cursor: pointer;
 }
 
 .days > span {

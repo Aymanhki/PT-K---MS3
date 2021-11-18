@@ -6,11 +6,11 @@ public class Main
     private final static String[] HEADERS = {"Title", "Day", "Month", "Year", "Category", "Income/Expense", "Amount"};
     private final static String[] CATEGORIES = {"Entertainment", "Utilities", "Personal", "Food", "Accommodation", "Health"};
     private final static String[] CATEGORY_TYPE = {"Income", "Expense"};
-    private final static int NUM_OF_TRANSACTION = 1000;
+    private final static int NUM_OF_TRANSACTION = 100000;
     private final static double MINIMUM_TRANSACTION_AMOUNT = 0.1;
     private final static double MAXIMUM_TRANSACTION_AMOUNT = 9999.99;
-    private final static int MINIMUM_DATE_YEAR = 2000;
-    private final static int MAXIMUM_DATE_YEAR = 2021;
+    private final static int MINIMUM_DATE_YEAR = 2018;
+    private final static int MAXIMUM_DATE_YEAR = 2023;
     private final static String OUTPUT_FILE_NAME = "FakeData.csv";
     private final static String TITLES_FILE_NAME = "titles.txt";
     private static final String[] TITLES = new String[NUM_OF_TRANSACTION];
@@ -64,6 +64,7 @@ public class Main
                 String amount = String.format("%.2f", randomDouble(MINIMUM_TRANSACTION_AMOUNT, MAXIMUM_TRANSACTION_AMOUNT));
 
                 out.print(title + "," + day + "," + month + "," + year + "," + category + "," + categoryType + "," + amount + "\n");
+                //System.out.println(i+": "+title + "," + day + "," + month + "," + year + "," + category + "," + categoryType + "," + amount + "\n");
             }
 
             out.close();
@@ -100,7 +101,7 @@ public class Main
     {
         String dateGenerated;
 
-        String generatedMonth = String.valueOf(randomInt(1, 12));
+        String generatedMonth = String.valueOf(randomInt(0, 12));
         int monthChecker = Integer.parseInt(generatedMonth);
 
         if(monthChecker < 10)

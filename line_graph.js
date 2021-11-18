@@ -1,3 +1,4 @@
+let lineChart;
 function drawLine()
 {
     $(document).ready(function ()
@@ -13,12 +14,31 @@ function drawLine()
         }
 
         let monthTransactions = [];
-        console.log(data[0].Month);
+
         for(let i=0; i<data.length; i++)
         {
-            if(data[i].Month === month)
+            if(data[i].Month === month && data[i].Year === year)
             {
                 monthTransactions.push(data[i]);
+            }
+        }
+        let lastMonthTransactions = [];
+
+        for(let i=0; i<data.length; i++)
+        {
+            let lastMonth = 0;
+            let lastYear = 0;
+            if (month === 0) {
+                lastMonth = 11;
+                lastYear = year -1;
+            } else {
+                lastMonth = month-1;
+                lastYear = year;
+            }
+
+            if(data[i].Month === lastMonth && data[i].Year === lastYear)
+            {
+                lastMonthTransactions.push(data[i]);
             }
         }
 
@@ -29,118 +49,139 @@ function drawLine()
             amounts.push(monthTransactions[i].Amount);
         }
 
-        let foodAmounts = [];
+        let lastMonthAmounts = []
 
-        for(let i=0; i<monthTransactions.length; i++)
+        for(let i=0; i<lastMonthTransactions.length; i++)
         {
-            if(monthTransactions[i].Category === doughnutLabels[0])
-            {
-                foodAmounts.push(monthTransactions[i].Amount);
-            }
-
+            lastMonthAmounts.push(lastMonthTransactions[i].Amount);
         }
-
-        let personalAmounts = [];
-
-        for(let i=0; i<monthTransactions.length; i++)
-        {
-            if(monthTransactions[i].Category === doughnutLabels[1])
-            {
-                personalAmounts.push(monthTransactions[i].Amount);
-            }
-
-        }
-
-        let utilitiesAmounts = [];
-
-        for(let i=0; i<monthTransactions.length; i++)
-        {
-            if(monthTransactions[i].Category === doughnutLabels[2])
-            {
-                utilitiesAmounts.push(monthTransactions[i].Amount);
-            }
-
-        }
-
-        let entertainmentAmounts = [];
-
-        for(let i=0; i<monthTransactions.length; i++)
-        {
-            if(monthTransactions[i].Category === doughnutLabels[3])
-            {
-                entertainmentAmounts.push(monthTransactions[i].Amount);
-            }
-
-        }
-
-        let healthAmount = [];
-
-        for(let i=0; i<monthTransactions.length; i++)
-        {
-            if(monthTransactions[i].Category === doughnutLabels[4])
-            {
-                healthAmount.push(monthTransactions[i].Amount);
-            }
-
-        }
-
-        let accommodationAmounts = [];
-
-        for(let i=0; i<monthTransactions.length; i++)
-        {
-            if(monthTransactions[i].Category === doughnutLabels[5])
-            {
-                accommodationAmounts.push(monthTransactions[i].Amount);
-            }
-
-        }
+        //
+        // let foodAmounts = [];
+        //
+        // for(let i=0; i<monthTransactions.length; i++)
+        // {
+        //     if(monthTransactions[i].Category === doughnutLabels[0])
+        //     {
+        //         foodAmounts.push(monthTransactions[i].Amount);
+        //     }
+        //
+        // }
+        //
+        // let personalAmounts = [];
+        //
+        // for(let i=0; i<monthTransactions.length; i++)
+        // {
+        //     if(monthTransactions[i].Category === doughnutLabels[1])
+        //     {
+        //         personalAmounts.push(monthTransactions[i].Amount);
+        //     }
+        //
+        // }
+        //
+        // let utilitiesAmounts = [];
+        //
+        // for(let i=0; i<monthTransactions.length; i++)
+        // {
+        //     if(monthTransactions[i].Category === doughnutLabels[2])
+        //     {
+        //         utilitiesAmounts.push(monthTransactions[i].Amount);
+        //     }
+        //
+        // }
+        //
+        // let entertainmentAmounts = [];
+        //
+        // for(let i=0; i<monthTransactions.length; i++)
+        // {
+        //     if(monthTransactions[i].Category === doughnutLabels[3])
+        //     {
+        //         entertainmentAmounts.push(monthTransactions[i].Amount);
+        //     }
+        //
+        // }
+        //
+        // let healthAmount = [];
+        //
+        // for(let i=0; i<monthTransactions.length; i++)
+        // {
+        //     if(monthTransactions[i].Category === doughnutLabels[4])
+        //     {
+        //         healthAmount.push(monthTransactions[i].Amount);
+        //     }
+        //
+        // }
+        //
+        // let accommodationAmounts = [];
+        //
+        // for(let i=0; i<monthTransactions.length; i++)
+        // {
+        //     if(monthTransactions[i].Category === doughnutLabels[5])
+        //     {
+        //         accommodationAmounts.push(monthTransactions[i].Amount);
+        //     }
+        //
+        // }
 
         const monthData = {
             labels: labels,
             datasets:
                 [
-                {
-                    label: doughnutLabels[0],
-                    data: foodAmounts,
-                    borderColor: doughnutColors[0],
-                    backgroundColor: doughnutColors[0],
-                    fill: false
-                },
-                {
-                    label: doughnutLabels[1],
-                    data: personalAmounts,
-                    borderColor: doughnutColors[1],
-                    backgroundColor: doughnutColors[1],
-                    fill: false
-                },
-                {
-                    label: doughnutLabels[2],
-                    data: utilitiesAmounts,
-                    borderColor: doughnutColors[2],
-                    backgroundColor: doughnutColors[2],
-                    fill: false
-                },
-                {
-                    label: doughnutLabels[3],
-                    data: entertainmentAmounts,
-                    borderColor: doughnutColors[3],
-                    backgroundColor: doughnutColors[3],
-                    fill: false
-                },
-                {
-                    label: doughnutLabels[4],
-                    data: healthAmount,
-                    borderColor: doughnutColors[4],
-                    backgroundColor: doughnutColors[4],
-                    fill: false
-                },
-                {
-                    label: doughnutLabels[5],
-                    data: accommodationAmounts,
-                    borderColor: doughnutColors[5],
-                    backgroundColor: doughnutColors[5],
-                    fill: false
-                }
+                // {
+                //     label: doughnutLabels[0],
+                //     data: foodAmounts,
+                //     borderColor: doughnutColors[0],
+                //     backgroundColor: doughnutColors[0],
+                //     fill: false
+                // },
+                // {
+                //     label: doughnutLabels[1],
+                //     data: personalAmounts,
+                //     borderColor: doughnutColors[1],
+                //     backgroundColor: doughnutColors[1],
+                //     fill: false
+                // },
+                // {
+                //     label: doughnutLabels[2],
+                //     data: utilitiesAmounts,
+                //     borderColor: doughnutColors[2],
+                //     backgroundColor: doughnutColors[2],
+                //     fill: false
+                // },
+                // {
+                //     label: doughnutLabels[3],
+                //     data: entertainmentAmounts,
+                //     borderColor: doughnutColors[3],
+                //     backgroundColor: doughnutColors[3],
+                //     fill: false
+                // },
+                // {
+                //     label: doughnutLabels[4],
+                //     data: healthAmount,
+                //     borderColor: doughnutColors[4],
+                //     backgroundColor: doughnutColors[4],
+                //     fill: false
+                // },
+                // {
+                //     label: doughnutLabels[5],
+                //     data: accommodationAmounts,
+                //     borderColor: doughnutColors[5],
+                //     backgroundColor: doughnutColors[5],
+                //     fill: false
+                // }
+
+                    {
+                        label: "This Month",
+                        data: amounts,
+                        backgroundColor: 'rgba(0, 0, 0, 0.5)',
+                        tension: 0.5
+
+                    },
+                    {
+                        label: "Last Month",
+                        data: lastMonthAmounts,
+                        backgroundColor: 'rgba(180, 180, 180, 0.5)',
+                        tension: 0.5
+                    },
                 ]
         };
 
@@ -159,7 +200,7 @@ function drawLine()
             options: options
         };
 
-        let chart = new Chart(ctx, config);
+        lineChart = new Chart(ctx, config);
 
 
     });

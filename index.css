@@ -86,6 +86,16 @@ body {
     justify-items: center;
     grid-column: 3;
     grid-row: 3;
+
+}
+
+.right-panel {
+    grid-column: 3;
+    grid-row-start: 2;
+    grid-row-end: 4;
+    padding-right: 10px;
+    padding-top: 10px;
+    margin: 0;
 }
 
 .line-container{
@@ -101,13 +111,11 @@ body {
 
 .doughnut-container
 {
-    
     /*position: absolute;*/
     /*align-items: center;*/
     /*justify-content: center;*/
     height: 40vh;
     width: 20vw;
-
 }
 
 ::-webkit-scrollbar {

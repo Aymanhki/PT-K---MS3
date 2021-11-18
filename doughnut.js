@@ -1,16 +1,11 @@
 
-var doughnutLabels = [];
-var doughnutColors = [];
+let doughnutLabels = ['Health','Utilities','Personal','Entertainment','Food', 'Accommodation'];
+let doughnutColors = [];
+let doughnutChart;
 function drawDoughnut()
 {
     $(document).ready(function(){
         let ctx = $("#doughnut").get(0).getContext('2d');
-
-
-        for(let i=0; i<categories.length; i++)
-        {
-            doughnutLabels.push(categories[i][0])
-        }
 
         let doughnutData = []
         for(let i=0; i<categories.length; i++)
@@ -25,6 +20,7 @@ function drawDoughnut()
         }
 
 
+        doughnutColors = [];
         for(let i=0; i<categories.length; i++)
         {
             doughnutColors.push(categories[i][2])
@@ -76,8 +72,10 @@ function drawDoughnut()
             options: options
         };
 
-        let chart = new Chart(ctx, config);
+        doughnutChart = new Chart(ctx, config);
 
 
     });
 }
+
+

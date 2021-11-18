@@ -45,10 +45,11 @@
     z-index: inherit;
     color: rgb(121, 72, 255);
     border-color: #7948ff;
+
 }
 
 .entertainment:hover {
-    background-color: #7948ff;
+    background-color: rgba(212,185,94,255);
 }
 
 .food {
@@ -58,34 +59,35 @@
 }
 
 .food:hover {
-    background-color: #f09a1a;
+
+    background-color: rgba(78,162,162,255);
 }
 
 .health {
-    color: rgb(255, 0, 0);
-    border-color: #ff0000;
+    color: rgba(116,26,51,255);
+    border-color: rgba(116,26,51,255);
 }
 
 .health:hover {
-    background-color: #ff0000;
+    background-color: rgba(116,26,51,255);
 }
 
 .personal {
-    color: rgb(0, 67, 252);
-    border-color: #0043fc;
+    color: rgba(210,143,52,255);
+    border-color: rgba(210,143,52,255);
 }
 
 .personal:hover {
-    background-color: #0043fc;
+    background-color: rgba(210,143,52,255);
 }
 
 .utilities {
-    color: rgb(109, 83, 49);
-    border-color: #684f2f;
+    color: rgba(179,66,50,255);
+    border-color: rgba(179,66,50,255);
 }
 
 .utilities:hover {
-    background-color: #684f2f;
+    background-color: rgba(179,66,50,255);
 }
 
 .addCat {

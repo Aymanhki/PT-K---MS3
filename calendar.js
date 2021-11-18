@@ -18,10 +18,11 @@ const MONTH_END = 11;
 const SWITCH_YM = "tog";
 
 
+//Moved to global variables
 //Global variables for controlling calendar
-let year;
-let month;
-let isMonthView = true;
+// let year;
+// let month;
+// let isMonthView = true;
 
 let dates = [];
 
@@ -118,12 +119,23 @@ function clickOnDate (clicked_date, clicked_month, clicked_year) {
             year = clicked_year
             sw_ym.checked = false;
             checkState()
+            reloadCalendar()
         }
 
     }
     else {
         return () => {
-            alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n`)
+
+            let purchases = document.getElementById(`${clicked_date}-${clicked_month}-${clicked_year}`);
+            if(purchases) {
+                console.log("purchase found");
+                alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n ${purchases.innerHTML}`)
+            }
+            else{
+                openDayView(clicked_date, clicked_month, clicked_year);
+
+                //alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n`)
+            }
             
         }
     }
@@ -183,7 +195,14 @@ function nextMonth () {
         year ++;
         clearCalendarHeaders();
         setCalendarYearViewHeader(month, year);
-        createMonthlyForYearView (year)
+        createMonthlyForYearView (year);
+        //--------------------- these will need to be adjusted for yearly view change (go by year change rather than month) -------
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
+        //---------------------------------------------------------------------------------------------
     }
     else {
         if (month == MONTH_END) {
@@ -193,6 +212,11 @@ function nextMonth () {
             month ++;
         }
         reloadCalendar();
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
     }
 
     
@@ -206,7 +230,14 @@ function prevMonth () {
         year --;
         clearCalendarHeaders();
         setCalendarYearViewHeader(month, year);
-        createMonthlyForYearView (year)
+        createMonthlyForYearView (year);
+        //--------------------- these will need to be adjusted for yearly view change (go by year change rather than month) -------
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
+        //---------------------------------------------------------------------------------------------
     }
     else {
         if (month == MONTH_START) {
@@ -216,8 +247,13 @@ function prevMonth () {
             month --;
         }
         reloadCalendar();
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
     }
-    
+
     
 }
 
@@ -323,9 +359,11 @@ function createOneMonthGrid (month, year) {
     let prevMonthDays = daysInMonth(month-1, year)
     let nextMonthDays = daysInMonth(month+1, year)
 
-
+    // Remove comment if you want to show dates of previous month in year view
     for (let i = 1; i <= dayOfWeek; i++) {
         let nonMonthDate = createNonMonthDay(prevMonthDays-dayOfWeek+i, month, year)
+        nonMonthDate.innerHTML = ""
+
         monthGrid.appendChild(nonMonthDate)
     }
 
@@ -335,8 +373,10 @@ function createOneMonthGrid (month, year) {
     }
 
 
+    //Remove comment if you want to show dates of next month in year view
     for (let i = 1; i <= 42 - (dayOfWeek) - numDays; i++) {
         let nonMonthDate = createNonMonthDay(i, month + 2, year)
+        nonMonthDate.innerHTML = ""
         monthGrid.appendChild(nonMonthDate)
     }
 
