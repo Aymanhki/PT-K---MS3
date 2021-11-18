@@ -197,7 +197,7 @@ li {
 .days-grid .days {
     position: relative;
     display: grid;
-    overflow-y: auto;
+    overflow-y: hidden;
     justify-content: center;
     min-height: 50px;
     min-width: 50px;
