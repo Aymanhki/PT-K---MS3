@@ -74,7 +74,7 @@
 
 .personal {
     color: var(--cat5c);
-    border-color: rgba(210,143,52,255);
+    border-color:var(--cat5c);
 }
 
 .personal:hover {
