@@ -27,6 +27,7 @@ li {
 .calendar-content .calendar-header {
     
     position: relative;
+    
     place-items: center;
     height: 90px;
     display: flex;
@@ -39,6 +40,7 @@ li {
 /* month header */
 .month {
     position: inherit;
+    margin-top: -5px;
     align-items: center;
     margin-left: auto;
     margin-right: auto;

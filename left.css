@@ -1,10 +1,10 @@
 :root {
-    --cat1c: rgb(29, 116, 3);
-    --cat2c: rgb(121, 72, 255);
-    --cat3c: rgb(240, 154, 26);
-    --cat4c: rgb(255, 0, 0);
-    --cat5c: rgb(0, 67, 252);
-    --cat6c: rgb(109, 83, 49);
+    --cat6c: rgba(116,26,51,255);
+    --cat5c: rgba(179,66,50,255);
+    --cat4c: rgba(210,143,52,255);
+    --cat3c: rgba(212,185,94,255);
+    --cat2c: rgba(78,162,162,255);
+    --cat1c: rgba(26,134,147,255);
 }
 
 .category {
@@ -32,62 +32,62 @@
 
 .accommodation {
     z-index: inherit;
-    color: rgb(29, 116, 3);
-    border-color: #1d7403;
+    color: var(--cat1c);
+    border-color: var(--cat1c);
 }
 
 .accommodation:hover {
-    background-color: #1d7403;
+    background-color: var(--cat1c);
     
 }
 
 .entertainment {
     z-index: inherit;
-    color: rgb(121, 72, 255);
-    border-color: #7948ff;
+    color: var(--cat2c);
+    border-color: var(--cat2c);
 
 }
 
 .entertainment:hover {
-    background-color: rgba(212,185,94,255);
+    background-color: var(--cat2c);
 }
 
 .food {
     z-index: inherit;
-    color: rgb(240, 154, 26);
-    border-color: #f09a1a;
+    color: var(--cat3c);
+    border-color: var(--cat3c);
 }
 
 .food:hover {
 
-    background-color: rgba(78,162,162,255);
+    background-color: var(--cat3c);
 }
 
 .health {
-    color: rgba(116,26,51,255);
-    border-color: rgba(116,26,51,255);
+    color: var(--cat4c);
+    border-color: var(--cat4c);
 }
 
 .health:hover {
-    background-color: rgba(116,26,51,255);
+    background-color: var(--cat4c);
 }
 
 .personal {
-    color: rgba(210,143,52,255);
+    color: var(--cat5c);
     border-color: rgba(210,143,52,255);
 }
 
 .personal:hover {
-    background-color: rgba(210,143,52,255);
+    background-color: var(--cat5c);
 }
 
 .utilities {
-    color: rgba(179,66,50,255);
-    border-color: rgba(179,66,50,255);
+    color: var(--cat6c);
+    border-color: var(--cat6c);
 }
 
 .utilities:hover {
-    background-color: rgba(179,66,50,255);
+    background-color: var(--cat6c);
 }
 
 .addCat {
