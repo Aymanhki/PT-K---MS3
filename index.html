@@ -41,12 +41,6 @@
     <script type ="text/javascript" src="Chart.min.js"></script>
     <script type ="text/javascript" src = "line_graph.js"></script>
     <script type ="text/javascript" src="doughnut.js"></script>
-    <script type ="text/javascript" src="left_categories.js"></script>
-
-    <!-- ICONS -->
-    <script src="https://kit.fontawesome.com/0372856320.js" crossorigin="anonymous"></script>
-
-
     <script type ="text/javascript" src="day-view-popup.js"></script>
 
 </head>
@@ -63,66 +57,19 @@
             </div>
         </div>
         <div class="left-panel">
-            <div class="cat1"> <!-- ----------------------------------------------------------------------------------Accomodation-->
-                
-                <button onclick="funcOpenTransac()" class="category accommodation" type="button">
-                    <i class="fas fa-bed fa-2x"></i> 
-                </button> 
-                <div class = "cat-pop" id="catt1">Price.</div>
-                
-            </div>
-
-            <div class="cat2"> <!-- ----------------------------------------------------------------------------------Entertainment -->
-                <button onclick="funcOpenTransac()" class="category entertainment" type="button">
-                    <i class="fas fa-gamepad fa-2x"></i>
-                </button> 
-                <div class = "cat-pop" id="catt2">Price</div>
-            </div>
-            
-            <div class="cat3"> <!-- ----------------------------------------------------------------------------------Food-->
-                <button onclick="funcOpenTransac()" class="category food" type="button">
-                    <i class="fas fa-hamburger fa-2x"></i>
-                </button> 
-                <div class = "cat-pop" id="catt3">Price</div>
-            </div>
-            
-            <div class="cat4"> <!-- ----------------------------------------------------------------------------------Health-->
-                <button onclick="funcOpenTransac()" class="category health" type="button">
-                    <i class="fas fa-medkit fa-2x"></i>
-                </button> 
-                <div class = "cat-pop" id="catt4">Price</div>
-            </div>
-            
-            <div class="cat5"> <!-- ----------------------------------------------------------------------------------Personal-->
-                <button onclick="funcOpenTransac()" class="category personal" type="button">
-                    <i class="fas fa-smile fa-2x"></i>
-                </button> 
-                <div class = "cat-pop" id="catt5">Price</div>
-            </div>
-            
-            <div class="cat6"> <!-- ----------------------------------------------------------------------------------Utilities-->
-                <button onclick="funcOpenTransac()" class="category utilities" type="button">
-                    <i class="fas fa-tools fa-2x"></i>
-                </button>
-                <div class = "cat-pop" id="catt6">Price</div>
-            </div>
-            
+            <button onclick="funcOpenTransac()" class="category accommodation" type="button">Accommodation</button>
+            <button onclick="funcOpenTransac()" class="category entertainment" type="button">Entertainment</button>
+            <button onclick="funcOpenTransac()" class="category food" type="button">Food</button>
+            <button onclick="funcOpenTransac()" class="category health" type="button">Health</button>
+            <button onclick="funcOpenTransac()" class="category personal" type="button">Personal</button>
+            <button onclick="funcOpenTransac()" class="category utilities" type="button">Utilities</button>
             <button onclick="funcOpenCat()" class="addCat" type="button">+</button>
-        </div>
-
-
-        <div class="grid-panel right-top">
-            <div class = "line-container">
-                <h3 class="right-top-panel">Expenses</h3>
-                <canvas id="line"></canvas>
-            </div>
         </div>
 
         <div class="right-panel">
             <div class="grid-panel right-panel day-view-popup" id="day-popup">
                 <div class="day-view-popup-overlay"></div>
                 <div class="day-view-popup-content" id="day-Transactions-Content">
-
 
                 </div>
             </div>
@@ -144,9 +91,7 @@
         <!--  --------------------------- DATES FOR MONTH VIEW ------------------------------------ -->
         <div class="center-header">
             <div class="calendar-content">
-
-               <!-- ----------------old placement of header------------------------ -->
-<!--                 <div class="calendar-header">
+                <div class="calendar-header">
                     <h2 class="month">
                         <ul>
                             <li class="prev"><button class="btn" id="calendar-prev">&#10094</button></a></li>
@@ -158,25 +103,11 @@
                             <li class="next"><button class="btn" id="calendar-next">&#10095</button></li>
                         </ul>
                     </h2>
-                </div> -->
-
+                </div>
             </div>
         </div>
 
         <div class="grid-panel center-panel id=cent_panel">
-            <div class="calendar-header">
-                <h2 class="month">
-                    <ul>
-                        <li class="prev"><button class="btn" id="calendar-prev">&#10094</button></a></li>
-                        <li >
-                            <span id="calendar-header-year">2021</span>
-                            <br class="break-header">
-                            <span id="calendar-header-month">November</span>
-                        </li>
-                        <li class="next"><button class="btn" id="calendar-next">&#10095</button></li>
-                    </ul>
-                </h2>
-            </div>
             <!--calendar-->
             <div class="calendar-content">
                 <div class="calendar">

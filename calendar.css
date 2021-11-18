@@ -51,7 +51,7 @@ li {
 .month .btn {
     border: none;
     background-color: inherit;
-    font-size: 40px;
+    font-size: 30px;
     text-anchor: middle;
     text-size-adjust: auto;
     font-weight: 800;
@@ -79,55 +79,18 @@ li {
 .month ul li {
     position: inherit;
     display: inline-block;
-    font-size: 40px;
-    line-height: 38px;
+    font-size: min(max(3vw, 3vh), 30px);
     font-weight: bold;
     text-size-adjust: auto;
     letter-spacing: 4px;
     font-weight: 800;
 }
 
-.break-header {
-    font-size: 2px;
-}
 
 /* next button */
 .month .next {
     display: inline-block;
     padding: 10px;
-}
-
-/* --------------------------------------------------------------------------------------------------------- */
-/* ------------------------------------ day events stuffs ------------------------------------------------ */
-/* --------------------------------------------------------------------------------------------------------- */
-
-
-.transaction-ind {
-    position: inherit;
-    display: inline;
-    width: 9px;
-    height: 9px;
-    border-radius: 50%;
-    padding: 0px 0 0 0;
-    gap: 0px;
-    margin: 1px;
-}
-
-
-.transaction {
-    position: relative;
-    display: grid;
-    border-radius: 0px;
-    padding: 0 0 0 0;
-    justify-content: center;
-    align-content: center;
-    transform: rotate(90deg);
-    
-}
-
-.transaction > span {
-    position: absolute;
-    width: 100%;
 }
 
 
@@ -139,13 +102,12 @@ li {
     position: relative;
     /* grid placement stuff */
     grid-column: 2;
-    grid-row-start: 1;
+    grid-row-start: 2;
     grid-row-end: 4;
     /* content stuff */
     overflow-y: scroll;
     overflow-x: scroll;
     margin-bottom: 20px;
-    margin-top: 10px;
 }
 
 .current-month {
@@ -196,9 +158,6 @@ li {
 /* days in calendar */
 .days-grid .days {
     position: relative;
-    display: grid;
-    overflow-y: hidden;
-    justify-content: center;
     min-height: 50px;
     min-width: 50px;
     font-size: 20px;
