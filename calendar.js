@@ -133,7 +133,7 @@ function clickOnDate (clicked_date, clicked_month, clicked_year) {
 function createDate(date, month, year) {
     var dateElement = document.createElement("li");
     var purchases = document.createElement("ol");
-    purchases.setAttribute("id", value = `${date}-${month}-${year}`);
+    
     dateElement.appendChild(purchases);
     dateElement.classList.add("days");
 
@@ -228,9 +228,8 @@ function reloadCalendar () {
     for(let i = 0; i < dates.length; i++) {
         lookForTransactions(dates[i]);
     }
-    
 
-    getCategoryTotals();
+
 }
 
 function setWeekHeaders () {
@@ -350,6 +349,10 @@ function createOneMonthGrid (month, year) {
 //------------------------------------------------------------------------------------------------------------
 //--------------------------------- create a days spendings --------------------------------------------------
 //------------------------------------------------------------------------------------------------------------
+lookForTransactions = function(day){
+
+}
+
 $( window ).on( "load", function() {
     //---------- drawing calendar events --------------------
     let currMonth = month;
