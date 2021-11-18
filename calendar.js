@@ -405,9 +405,11 @@ $( window ).on( "load", function() {
         // newSpending.innerText = `${transaction.Amount.toFixed(2)}`;
         // console.log(categories2);
         // console.log(transaction.Category);
-        let category = categories.find(categories => categories.categoryID === transaction.Category);
-        // console.log(category);
-        newSpending.setAttribute("style", value = `background-color: green`);
+
+        // let category = categories2.find(categories => categories2.categoryID === transaction.Category);
+        // console.log(categories2);
+        
+        newSpending.setAttribute("style", value = `background-color: green;`);
         return newSpending;
 
     }
@@ -428,14 +430,7 @@ $( window ).on( "load", function() {
         date.appendChild(transactions_all);
     }
 
-    categories2 = categories.map(item => {
-        return {
-            categoryID: item[0],
-            amount: item[1],
-            color: item[2],
-            color2: item[3]
-        };
-    });
+    
     // console.log(categories2);
 
     for(let i = 0; i < dates.length; i++) {
