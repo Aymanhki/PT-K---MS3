@@ -387,8 +387,8 @@ lookForTransactions = function(day){
 }
 
 $( window ).on( "load", function() {
-    console.log(categories);
-    console.log(data);
+    // console.log(categories);
+    // console.log(data);
     //---------- drawing calendar events --------------------
     let currMonth = month;
     let currYear = year;
@@ -404,7 +404,7 @@ $( window ).on( "load", function() {
         
         // newSpending.innerText = `${transaction.Amount.toFixed(2)}`;
         // console.log(categories2);
-        console.log(transaction.Category);
+        // console.log(transaction.Category);
         let category = categories.find(categories => categories.categoryID === transaction.Category);
         // console.log(category);
         newSpending.setAttribute("style", value = `background-color: green`);
@@ -436,7 +436,7 @@ $( window ).on( "load", function() {
             color2: item[3]
         };
     });
-    console.log(categories2);
+    // console.log(categories2);
 
     for(let i = 0; i < dates.length; i++) {
         lookForTransactions(dates[i]);
