@@ -126,16 +126,10 @@ function clickOnDate (clicked_date, clicked_month, clicked_year) {
     else {
         return () => {
 
-            let purchases = document.getElementById(`${clicked_date}-${clicked_month}-${clicked_year}`);
-            if(purchases) {
-                console.log("purchase found");
-                alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n ${purchases.innerHTML}`)
-            }
-            else{
+           
                 openDayView(clicked_date, clicked_month, clicked_year);
 
                 //alert(`Open day view of ${clicked_date}-${clicked_month}-${clicked_year}\n`)
-            }
             
         }
     }
@@ -281,7 +275,6 @@ function setWeekHeaders () {
 
 $(document).ready(function () {
     let currentDay = new Date();
-
     year = currentDay.getFullYear();
     month = currentDay.getMonth();
 
@@ -394,9 +387,22 @@ lookForTransactions = function(day){
 }
 
 $( window ).on( "load", function() {
+    console.log(categories)
     //---------- drawing calendar events --------------------
     let currMonth = month;
     let currYear = year;
+
+    categories2 = categories.map(item => {
+        return {
+            categoryID: item[0],
+            amount: item[1],
+            color: item[2],
+            color2: item[3]
+        };
+    });
+    
+
+
     drawTransaction = function(day, transaction) {
         //adding a transaction to a day element
 
@@ -414,7 +420,10 @@ $( window ).on( "load", function() {
         let date = document.getElementById(`${day.day}-${day.month}-${day.year}`);
         let transactions_all = document.createElement("ol");
         transactions_all.setAttribute("class", "transaction");
-        let transactions = data.filter(data => data.Day === day.day);
+        console.log(data);
+        let transactions = data;
+        console.log(transactions)
+        transactions = transactions.filter(transactions => transactions.Day === day.day);
         transactionsFinal = transactions.filter(transactions => transactions.Month === day.month);
         transactionsFinal.forEach(element => {
             let transaction_ind = drawTransaction(day, element);
@@ -423,14 +432,7 @@ $( window ).on( "load", function() {
         date.appendChild(transactions_all);
     }
 
-    categories2 = categories.map(item => {
-        return {
-            categoryID: item[0],
-            amount: item[1],
-            color: item[2],
-            color2: item[3]
-        };
-    });
+    
 
     for(let i = 0; i < dates.length; i++) {
         lookForTransactions(dates[i]);
