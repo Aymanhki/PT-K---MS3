@@ -24,8 +24,6 @@ const SWITCH_YM = "tog";
 // let month;
 // let isMonthView = true;
 
-let dates = [];
-
 
 
 const MONTHS = ["January", "February", "March", "April", "May", "June",
@@ -79,34 +77,14 @@ function clearCalendar() {
 function createNonMonthDay(date, month, year) {
     let dateElement = createDate(date, month, year)
     dateElement.innerHTML = `<span style="color:rgb(180, 180, 180)">${date}</span>`;
-    dates.push({
-        //pushing a new date element in the date array
-        //will hold the transactions later on
-        day: date,
-        month: month,
-        year: year,
-        spot: dateElement,
-        curr: false
-    });
     dateElement.onclick = clickOnDate(date, month, year);
-    dateElement.setAttribute("id", value = `${date}-${month}-${year}`);
     return dateElement
 }
 
 function createCurrentMonthDay(date, month, year) {
     let dateElement = createDate(date, month, year)
-    dates.push({
-        //pushing a new date element in the date array
-        //used to hold transactions later on
-        day: date,
-        month: month,
-        year: year,
-        spot: dateElement,
-        curr: true
-    });
     dateElement.innerHTML = `<span>${date}</span>`;
     dateElement.onclick = clickOnDate(date, month, year);
-    dateElement.setAttribute("id", value = `${date}-${month}-${year}`);
     return dateElement
 }
 
@@ -125,7 +103,6 @@ function clickOnDate (clicked_date, clicked_month, clicked_year) {
     }
     else {
         return () => {
-
             let purchases = document.getElementById(`${clicked_date}-${clicked_month}-${clicked_year}`);
             if(purchases) {
                 console.log("purchase found");
@@ -145,7 +122,7 @@ function clickOnDate (clicked_date, clicked_month, clicked_year) {
 function createDate(date, month, year) {
     var dateElement = document.createElement("li");
     var purchases = document.createElement("ol");
-    
+    purchases.setAttribute(name = "id", value = `${date}-${month}-${year}`);
     dateElement.appendChild(purchases);
     dateElement.classList.add("days");
 
@@ -218,7 +195,7 @@ function nextMonth () {
         drawDoughnut();
         drawLine();
     }
-
+    
     
 }
 
@@ -258,14 +235,8 @@ function prevMonth () {
 }
 
 function reloadCalendar () {
-    dates = [];
     setCalendarMonthViewHeader (month, year)
     loadCalendarDays(month, year);
-    for(let i = 0; i < dates.length; i++) {
-        lookForTransactions(dates[i]);
-    }
-
-
 }
 
 function setWeekHeaders () {
@@ -385,54 +356,3 @@ function createOneMonthGrid (month, year) {
 
     return monthFinal
 }//createOneMonthGrid
-
-//------------------------------------------------------------------------------------------------------------
-//--------------------------------- create a days spendings --------------------------------------------------
-//------------------------------------------------------------------------------------------------------------
-lookForTransactions = function(day){
-
-}
-
-$( window ).on( "load", function() {
-    //---------- drawing calendar events --------------------
-    let currMonth = month;
-    let currYear = year;
-    drawTransaction = function(day, transaction) {
-        //adding a transaction to a day element
-
-        let newSpending = document.createElement("li");
-        newSpending.setAttribute('class', "transaction-ind");
-        
-        // newSpending.innerText = `${transaction.Amount.toFixed(2)}`;
-        let category = categories2.find(categories2 => categories2.categoryID === transaction.Category);
-        newSpending.setAttribute("style", value = `background-color: ${category.color};`);
-        return newSpending;
-
-    }
-
-    lookForTransactions = function(day) {
-        let date = document.getElementById(`${day.day}-${day.month}-${day.year}`);
-        let transactions_all = document.createElement("ol");
-        transactions_all.setAttribute("class", "transaction");
-        let transactions = data.filter(data => data.Day === day.day);
-        transactionsFinal = transactions.filter(transactions => transactions.Month === day.month);
-        transactionsFinal.forEach(element => {
-            let transaction_ind = drawTransaction(day, element);
-            transactions_all.appendChild(transaction_ind);
-        });
-        date.appendChild(transactions_all);
-    }
-
-    categories2 = categories.map(item => {
-        return {
-            categoryID: item[0],
-            amount: item[1],
-            color: item[2],
-            color2: item[3]
-        };
-    });
-
-    for(let i = 0; i < dates.length; i++) {
-        lookForTransactions(dates[i]);
-    }
-});
