@@ -45,7 +45,7 @@ function getCategoryTotals()
         categories[i] = [categories[i], total];
     }
 
-    let colors = ['rgba(116,26,51,255)', 'rgba(179,66,50,255)', 'rgba(210,143,52,255)', 'rgba(212,185,94,255)', 'rgba(78,162,162,255)', 'rgba(26,134,147,255)']
+    let colors = ['rgba(116,26,51)', 'rgba(179,66,50)', 'rgba(210,143,52)', 'rgba(212,185,94)', 'rgba(78,162,162)', 'rgba(26,134,147)']
     for(let i=0; i<categories.length; i++)
     {
         categories[i].push(colors[i]);

@@ -4,17 +4,26 @@
     height: 0;
     opacity: 0;
     margin:0;
-    transition: all 450ms ease-in-out;
-    transform: translate(50%) scale(0);
+    transition: all 300ms ease-in-out;
+
     z-index: 1;
 
 }
-.day-view-popup .day-view-popup-overlay {
-    position: fixed;
-    width: 100%;
-    height: 100%;
-    z-index: 2;
+.day-view-popup-overlay {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    transition: all 300ms ease-in-out;
+    pointer-events: none;
 }
+
+
 
 .day-view-popup .day-view-popup-content {
     position: relative;
@@ -24,8 +33,11 @@
 
 .day-view-popup .day-view-close-button {
     position: relative;
-    right: 10px;
-    top: 20px;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    left: 90%;
+    grid-column-start: 1;
+    grid-column-end: 4;
     width: 30px;
     height: 30px;
     background: #222;
@@ -42,30 +54,48 @@
     cursor: pointer;
 }
 .day-view-popup.active {
-    height: 89.5vh;
-    width: 21.5vw;
+    height: 96vh;
+    width: 23vw;
     opacity: 1;
-    transition: all 450ms ease-in-out;
-    transform: translate(0%, 0%) scale(1);
+    transition: all 300ms ease-in-out;
+
+}
+
+.day-view-popup-overlay.active {
+    opacity: 1;
+    transition: all 300ms ease-in-out;
+    cursor: pointer;
+    pointer-events: all;
 }
 
 .day-view-date {
-    font-size: 20px;
+    position: relative;
+    font-size: 18px;
     text-align: center;
-    width:80%;
+    width:100%;
     padding: 10px;
-    margin: 0;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    margin-top: 10px;
+    margin-left: 0;
 
 }
 
-
 .last-day {
+    position: relative;
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
     border: none;
     font-size: 40px;
     text-align: center;
     background-color: inherit;
     text-anchor: middle;
     font-weight: 800;
+    margin-top: 10px;
     cursor: pointer;
 
 }
@@ -77,12 +107,18 @@
 }
 
 .next-day {
+    position: relative;
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
     border: none;
     font-size: 40px;
     text-align: center;
     background-color: inherit;
     text-anchor: middle;
     font-weight: 800;
+    margin-top: 10px;
     cursor: pointer;
 }
 
@@ -93,5 +129,238 @@
 }
 
 .day-view-date-list{
-    margin:500px;
+    display: grid;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto 1fr;
+    width: 100%;
+    height: 100%;
+
+}
+
+.day-view-transactions-section {
+    overflow: scroll;
+    position: center;
+    height: 60vh;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row: 3;
+    border-radius: 10px;
+    box-shadow: inset 0 11px 8px -10px #CCC, inset 0 -11px 8px -10px #CCC;
+}
+
+.day-transactions-grid
+{
+    display: grid;
+    position: center;
+    grid-column-gap: 5px;
+    grid-row-gap: 5px;
+    grid-template-columns: auto auto auto;
+    grid-template-rows: auto auto auto;
+    height: 12vh;
+    width: 18vw;
+    opacity: 1;
+    margin: 30px;
+    border-radius: 15px;
+
+}
+
+.day-view-transaction-category {
+    font-size: 1.2vw;
+    color: black;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    padding: 10px;
+
+}
+
+.day-view-transaction-amount {
+    font-size: 1vw;
+    text-align: right;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 3;
+    grid-row-end: 4;
+    padding-right: 10px;
+}
+
+.day-view-transaction-title {
+    font-size: 0.7vw;
+    text-align: left;
+    height: 3.5vh;
+    padding-left: 10px;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    box-shadow: inset 0 11px 8px -10px rgba(255, 255, 255, 0.1), inset 0 -11px 8px -10px rgba(255, 255, 255, 0.1);
+
+}
+
+.day-view-edit-button {
+    font-size: 1vw;
+    border: none;
+    position: center;
+    background-color: white;
+    color: black;
+    text-align: center;
+    height: 4vh;
+    width: 5vw;
+    padding-right: 10px;
+    padding-left: 10px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1), -1px -1px 1px 1px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+    margin-left: 33%;
+    border-radius: 10px;
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row: 4;
+}
+
+.day-view-edit-button:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 1px 1px 20px 1px rgba(255, 255, 255, 0.5), -1px -1px 20px 1px rgba(255, 255, 255, 0.5);
+}
+
+.day-view-totals-section
+{
+    font-size: 1.1vw;
+    text-align: right;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    padding-top: 8vh;
+    padding-right: 0.3vw;
+    box-shadow: inset 0 11px 8px -10px rgba(0, 0, 0, 0.1);
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row-start: 5;
+    grid-row-end: 6;
+    margin: 10px;
+
+}
+
+.day-view-buttons {
+    width: 0;
+    height: 0;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    background-color: white;
+    grid-column-start: 1;
+    grid-column-end: 4;
+    grid-row: 4;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.2), -1px -1px 10px 1px rgba(0, 0, 0, 0.2);
+    margin-top: 10px;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 300ms ease-in-out;
+
+}
+
+.day-view-buttons.active {
+    width: 100%;
+    height: 100%;
+    opacity: 1;
+    pointer-events: all;
+    transition: all 300ms ease-in-out;
+}
+
+.day-view-buttons .day-view-cancel-mode-buttons {
+    opacity: 0;
+    grid-column: 1;
+    grid-row: 1;
+    width: 0;
+    height: 0;
+}
+
+.day-view-buttons.active .day-view-cancel-mode-buttons {
+    font-size: 1vw;
+    border: none;
+    position: center;
+    background-color: white;
+    color: black;
+    text-align: center;
+    height: 4vh;
+    width: 5vw;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1), -1px -1px 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 25%;
+    opacity: 1;
+}
+
+.day-view-buttons.active .day-view-cancel-mode-buttons:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 1px 1px 20px 1px rgba(255, 255, 255, 0.5), -1px -1px 20px 1px rgba(255, 255, 255, 0.5);
+}
+
+.day-view-buttons .day-view-add-mode-buttons {
+    opacity: 0;
+    grid-column: 2;
+    grid-row: 1;
+    width: 0;
+    height: 0;
+}
+
+.day-view-buttons.active .day-view-add-mode-buttons {
+
+    font-size: 1vw;
+    border: none;
+    position: center;
+    background-color: white;
+    color: black;
+    text-align: center;
+    height: 4vh;
+    width: 5vw;
+    margin-top: 10px;
+    margin-left: 25%;
+    padding-right: 10px;
+    padding-left: 10px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.1), -1px -1px 1px 1px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    opacity: 1;
+
+}
+
+.day-view-buttons.active .day-view-add-mode-buttons:hover {
+    background-color: black;
+    color: white;
+    box-shadow: 1px 1px 20px 1px rgba(255, 255, 255, 0.5), -1px -1px 20px 1px rgba(255, 255, 255, 0.5);
+}
+
+
+
+
+.day-view-delete-button {
+    position: relative;
+    left: 50%;
+    width: 30px;
+    height: 30px;
+    background: red;
+    color: white;
+    font-size: 25px;;
+    line-height: 27px;
+    text-align: center;
+    opacity: 0;
+    transition: all 300ms ease-in-out;
+    border-radius: 100%;
+    grid-column: 4;
+    grid-row: 1;
+}
+
+.day-view-delete-button.active {
+    opacity: 1;
+    transition: all 300ms ease-in-out;
+}
+
+.day-view-delete-button:hover {
+    background: rgba(255, 0, 0, 0.7);
+    cursor: pointer;
 }
