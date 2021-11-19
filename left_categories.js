@@ -8,7 +8,6 @@ getCatPopTotals = function() {
             cat_pop.innerText = "";
             cat_pop.innerText = `${category[i][0]}\n${category[i][1].toFixed(2)}`
         }
-        console.log(categories);
         
         
     });
