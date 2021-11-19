@@ -32,6 +32,9 @@ let new_transac = function() {
     }
 
     console.log(newTransac);
+    if(amt!= "" && name != "") {
+        funcCloseTransac();
+    }
 
 
 
