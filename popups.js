@@ -5,11 +5,6 @@ let funcOpenTransac = function () {
     document.getElementById('directory').style.display = 'none';
 }
 
-let funcOpenTransac2 = function (valueToSelect) {
-    document.getElementById("addTransac").style.display = 'block';
-    document.getElementById("transacCat").value = valueToSelect;
-}
-
 let funcCloseTransac = function () {
     document.getElementById('addTransac').style.display = 'none';
 }
@@ -22,8 +17,9 @@ let funcCloseCat = function () {
     document.getElementById('addCateg').style.display = 'none';
 }
 
-let funcOpenDir = function () {
+let funcOpenDir = function (valueToSelect) {
     document.getElementById('directory').style.display = 'block';
+    document.getElementById("transacCat").value = valueToSelect;
 }
 
 let funcCloseDir = function () {
