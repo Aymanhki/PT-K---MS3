@@ -4,6 +4,11 @@ let funcOpenTransac = function () {
     document.getElementById('addTransac').style.display = 'block';
 }
 
+let funcOpenTransac2 = function (valueToSelect) {
+    document.getElementById("addTransac").style.display = 'block';
+    document.getElementById("transacCat").value = valueToSelect;
+}
+
 let funcCloseTransac = function () {
     document.getElementById('addTransac').style.display = 'none';
 }
