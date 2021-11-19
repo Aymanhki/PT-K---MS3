@@ -52,6 +52,7 @@ readTextFile("./FakeData.json", function(text)
 {
     data = JSON.parse(text);
     sanitize (data);
+    drawAllTransactions();
     getCategoryTotals();
     drawDoughnut();
     drawLine();

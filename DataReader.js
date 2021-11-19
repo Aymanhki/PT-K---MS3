@@ -37,8 +37,6 @@ file.onload = function() {
         element.Year = parseInt(element.Year);
         element.Amount = parseFloat(element.Amount);
 
-        
-
     });
 }
 file.open("GET", "FakeData.csv");

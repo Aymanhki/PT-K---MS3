@@ -386,7 +386,7 @@ lookForTransactions = function(day){
 
 }
 
-$( window ).on( "load", function() {
+function drawAllTransactions() {
     // console.log(categories);
     // console.log(data);
     //---------- drawing calendar events --------------------
@@ -443,4 +443,4 @@ $( window ).on( "load", function() {
         lookForTransactions(dates[i]);
     }
     
-});
+}
