@@ -3,7 +3,7 @@ let thisMonth;
 let thisYear;
 let MAX_TITLE_LENGTH = 60;
 
-let transactions = [];
+let transactions_dayView = [];
 
 
 function openDayView(day, month, year)
@@ -25,12 +25,12 @@ function closeDayView()
 function loadDayView()
 {
 
-    transactions = [];
+    transactions_dayView = [];
     for(let i=0; i<data.length; i++)
     {
         if(data[i].Day === thisDay && data[i].Month === thisMonth && data[i].Year === thisYear)
         {
-            transactions.push(data[i]);
+            transactions_dayView.push(data[i]);
         }
     }
 
@@ -42,7 +42,7 @@ function loadDayView()
     let dateDiv = "<div class='grid-panel right-panel day-view-date'>"+dateFormat+"</div>";
     let transactionsDiv = viewDayTransactions();
     let editBtn = "<button class='day-view-edit-button' onclick='editMode()'>Edit</button>";
-    let cancelEdit = "<button class='day-view-cancel-mode-buttons' onclick='closeEditMode()'>Cancel</button>";
+    let cancelEdit = "<button class='day-view-cancel-mode-buttons' onclick='closeEditMode()'>Exit</button>";
     let addTransaction = "<button class='day-view-add-mode-buttons' onclick='funcOpenTransac()'>Add +</button>";
     let editPopUp = "<div class='day-view-buttons' id='edit-button-popup'>"+cancelEdit+addTransaction+"</div>";
     let totalSection = getDayTotal();
@@ -80,11 +80,11 @@ function deleteTransaction(index)
 
     for(let i=0; i<data.length; i++)
     {
-        if(data[i].Day === transactions[index].Day &&
-            data[i].Month === transactions[index].Month &&
-            data[i].Year === transactions[index].Year &&
-            data[i].Amount === transactions[index].Amount &&
-            data[i].Category === transactions[index].Category)
+        if(data[i].Day === transactions_dayView[index].Day &&
+            data[i].Month === transactions_dayView[index].Month &&
+            data[i].Year === transactions_dayView[index].Year &&
+            data[i].Amount === transactions_dayView[index].Amount &&
+            data[i].Category === transactions_dayView[index].Category)
         {
             toRemove = data[i];
         }
@@ -99,15 +99,15 @@ function getDayTotal()
 {
     let dayTotal = 0;
 
-    for(let i=0; i<transactions.length; i++)
+    for(let i=0; i<transactions_dayView.length; i++)
     {
-        if(transactions[i].Income.Expense === "Income")
+        if(transactions_dayView[i].Income.Expense === "Income")
         {
-            dayTotal += transactions[i].Amount;
+            dayTotal += transactions_dayView[i].Amount;
         }
         else
         {
-            dayTotal -= transactions[i].Amount;
+            dayTotal -= transactions_dayView[i].Amount;
         }
     }
     let totalSection = "";
@@ -133,26 +133,26 @@ function viewDayTransactions()
     let dayTransactions = "<div class='day-view-transactions-section'>";
 
 
-    for(let i=0; i<transactions.length; i++)
+    for(let i=0; i<transactions_dayView.length; i++)
     {
-        let color = getCategoryColor(transactions[i]);
+        let color = getCategoryColor(transactions_dayView[i]);
         let colorArr = color.slice(color.indexOf("(")+1, color.indexOf(")")).split(",");
         color = "rgba("+colorArr[0]+","+ colorArr[1]+","+ colorArr[2]+","+ 0.3+")";
         let shadowColor = "rgba("+colorArr[0]+","+ colorArr[1]+","+ colorArr[2]+","+ 1+")";
-        let categoryName = "<div class = day-view-transaction-category>"+transactions[i].Category+"</div>";
+        let categoryName = "<div class = day-view-transaction-category>"+transactions_dayView[i].Category+"</div>";
         let amount = "";
 
         let deleteBtn = "<delete class='day-view-delete-button'  id='delete-transaction-btn' onclick=deleteTransaction("+i+")>-</delete>";
-        if(transactions[i].Income.Expense === "Income")
+        if(transactions_dayView[i].Income.Expense === "Income")
         {
-            amount = "<div class = day-view-transaction-amount style='color: green;'>+$"+transactions[i].Amount+"</div>";
+            amount = "<div class = day-view-transaction-amount style='color: green;'>+$"+transactions_dayView[i].Amount+"</div>";
         }
         else
         {
-            amount = "<div class = day-view-transaction-amount style='color: red;'>-$"+transactions[i].Amount+"</div>";
+            amount = "<div class = day-view-transaction-amount style='color: red;'>-$"+transactions_dayView[i].Amount+"</div>";
         }
         let titleShortened = "";
-        let titleString = transactions[i].Title;
+        let titleString = transactions_dayView[i].Title;
         for(let i=0; i<titleString.length && i<MAX_TITLE_LENGTH; i++)
         {
             titleShortened += titleString.charAt(i);

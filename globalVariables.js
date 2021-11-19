@@ -21,5 +21,5 @@ let selectedYear;
 //Global variables for controlling calendar
 let year;
 let month;
-let day;
+
 let isMonthView = true;
