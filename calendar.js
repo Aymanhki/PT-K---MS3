@@ -258,7 +258,7 @@ function reloadCalendar () {
     for(let i = 0; i < dates.length; i++) {
         lookForTransactions(dates[i]);
     }
-
+    getCatPopTotals();
 
 }
 
@@ -387,19 +387,12 @@ lookForTransactions = function(day){
 }
 
 $( window ).on( "load", function() {
-    console.log(categories)
+    // console.log(categories);
+    // console.log(data);
     //---------- drawing calendar events --------------------
     let currMonth = month;
     let currYear = year;
 
-    categories2 = categories.map(item => {
-        return {
-            categoryID: item[0],
-            amount: item[1],
-            color: item[2],
-            color2: item[3]
-        };
-    });
     
 
 
@@ -410,8 +403,19 @@ $( window ).on( "load", function() {
         newSpending.setAttribute('class', "transaction-ind");
         
         // newSpending.innerText = `${transaction.Amount.toFixed(2)}`;
-        let category = categories2.find(categories2 => categories2.categoryID === transaction.Category);
-        newSpending.setAttribute("style", value = `background-color: ${category.color};`);
+        // console.log(categories2);
+        // console.log(transaction.Category);
+
+        // let category = categories2.find(categories => categories2.categoryID === transaction.Category);
+        // console.log(categories2);
+        console.log(transaction);
+        if(transaction.Income.Expense === "Expense") {
+            newSpending.setAttribute("style", value = `background-color: red;`);
+        }
+        else {
+            newSpending.setAttribute("style", value = `background-color: green;`);
+        }
+        
         return newSpending;
 
     }
@@ -420,11 +424,11 @@ $( window ).on( "load", function() {
         let date = document.getElementById(`${day.day}-${day.month}-${day.year}`);
         let transactions_all = document.createElement("ol");
         transactions_all.setAttribute("class", "transaction");
-        console.log(data);
         let transactions = data;
-        console.log(transactions)
         transactions = transactions.filter(transactions => transactions.Day === day.day);
-        transactionsFinal = transactions.filter(transactions => transactions.Month === day.month);
+        transactionsFinal = transactions.filter(transactions => transactions.Month === month);
+        transactionsFinal = transactionsFinal.filter(transactions => transactions.Year === day.year);
+        // console.log(transactionsFinal);
         transactionsFinal.forEach(element => {
             let transaction_ind = drawTransaction(day, element);
             transactions_all.appendChild(transaction_ind);
@@ -433,8 +437,10 @@ $( window ).on( "load", function() {
     }
 
     
+    // console.log(categories2);
 
     for(let i = 0; i < dates.length; i++) {
         lookForTransactions(dates[i]);
     }
+    
 });

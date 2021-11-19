@@ -44,11 +44,14 @@ function getCategoryTotals()
         }
         categories[i] = [categories[i], total];
     }
+    // categories.sort()
+    // console.log(categories);
 
     let colors = ['rgba(116,26,51)', 'rgba(179,66,50)', 'rgba(210,143,52)', 'rgba(212,185,94)', 'rgba(78,162,162)', 'rgba(26,134,147)']
     for(let i=0; i<categories.length; i++)
     {
         categories[i].push(colors[i]);
         categories[i].push(RGB_Linear_Shade( 0.3, colors[i]));
+        // categories[i].push(color[i]);
     }
 }
