@@ -47,7 +47,12 @@ input[type="number"], input[type="text"], input[type="color"], select {
 
     outline: none;
 }
-input[type="number"]:hover, input[type="text"]:hover, select:hover{
+
+input[type="color"] {
+    height: 40px;
+}
+
+input[type="number"]:hover, input[type="text"]:hover, input[type="color"]:hover, select:hover{
     box-shadow: 1px 1px 4px 4px rgba(151, 168, 223, 0.507);
 }
 
