@@ -15,3 +15,10 @@ let funcOpenCat = function () {
 let funcCloseCat = function () {
     document.getElementById('addCateg').style.display = 'none';
 }
+
+let new_Transac = function() {
+    let amt = document.getElementById("transacAmt");
+    let type = documnet.getElementById("transacType");
+    let category = document.getElementById(transacCat);
+    let name = document.getElementById("tranacName");
+}

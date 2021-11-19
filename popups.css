@@ -15,7 +15,8 @@
     color: black;
     background-color: white;
 
-    text-indent: 7px;
+    text-indent: 12px;
+    line-height: 0px;
     font-family: 'Product Sans';
     font-size: 12px;
     font-weight: 550;
@@ -26,11 +27,15 @@
 
 }
 
+.popup-header {
+    margin-bottom: 20px;
+}
+
 input[type="number"], input[type="text"], select {
     width: 97%;
     padding: 10px 10px;
     margin: 10px 10px;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     padding-bottom: 10px;
     color: rgb(112, 112, 112);
     background-color: rgb(225, 230, 236);
@@ -49,6 +54,8 @@ input[type="number"]:hover, input[type="text"]:hover, select:hover{
 input[type="submit"] {
     width: 25%;
     padding: 10px 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
     margin-bottom: 20px;
     font-size: 12px;
     position: relative;
