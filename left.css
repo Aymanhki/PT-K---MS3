@@ -43,51 +43,51 @@
 
 .entertainment {
     z-index: inherit;
-    color: var(--cat2c);
-    border-color: var(--cat2c);
+    color: var(--cat3c);
+    border-color: var(--cat3c);
 
 }
 
 .entertainment:hover {
-    background-color: var(--cat2c);
+    background-color: var(--cat3c);
 }
 
 .food {
     z-index: inherit;
-    color: var(--cat3c);
-    border-color: var(--cat3c);
+    color: var(--cat2c);
+    border-color: var(--cat2c);
 }
 
 .food:hover {
 
-    background-color: var(--cat3c);
+    background-color: var(--cat2c);
 }
 
 .health {
-    color: var(--cat4c);
-    border-color: var(--cat4c);
-}
-
-.health:hover {
-    background-color: var(--cat4c);
-}
-
-.personal {
-    color: var(--cat5c);
-    border-color:var(--cat5c);
-}
-
-.personal:hover {
-    background-color: var(--cat5c);
-}
-
-.utilities {
     color: var(--cat6c);
     border-color: var(--cat6c);
 }
 
-.utilities:hover {
+.health:hover {
     background-color: var(--cat6c);
+}
+
+.personal {
+    color: var(--cat4c);
+    border-color:var(--cat4c);
+}
+
+.personal:hover {
+    background-color: var(--cat4c);
+}
+
+.utilities {
+    color: var(--cat5c);
+    border-color: var(--cat5c);
+}
+
+.utilities:hover {
+    background-color: var(--cat5c);
 }
 
 .addCat {
