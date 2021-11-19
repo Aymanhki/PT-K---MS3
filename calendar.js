@@ -212,6 +212,7 @@ function nextMonth () {
         drawDoughnut();
         drawLine();
     }
+    getCatPopTotals();
 
     
 }
@@ -247,6 +248,7 @@ function prevMonth () {
         drawDoughnut();
         drawLine();
     }
+    getCatPopTotals();
 
     
 }

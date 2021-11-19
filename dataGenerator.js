@@ -54,6 +54,7 @@ readTextFile("./FakeData.json", function(text)
     sanitize (data);
     drawAllTransactions();
     getCategoryTotals();
+    getCatPopTotals();
     drawDoughnut();
     drawLine();
 });
