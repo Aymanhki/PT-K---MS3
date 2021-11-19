@@ -184,7 +184,7 @@
 }
 
 #catt2 {
-    color: var(--cat2c);
+    color: var(--cat3c);
     font-size: 0.9vw;
     z-index: -5;
     position: relative;
@@ -227,7 +227,7 @@
 }
 
 #catt3 {
-    color: var(--cat3c);
+    color: var(--cat2c);
     font-size: 0.9vw;
     z-index: -5;
     position: relative;
@@ -270,7 +270,7 @@
 }
 
 #catt4 {
-    color: var(--cat4c);
+    color: var(--cat6c);
     font-size: 0.9vw;
     z-index: -5;
     position: relative;
@@ -313,7 +313,7 @@
 }
 
 #catt5 {
-    color: var(--cat5c);
+    color: var(--cat4c);
     font-size: 0.9vw;
     z-index: -5;
     position: relative;
@@ -356,7 +356,7 @@
 }
 
 #catt6 {
-    color: var(--cat6c);
+    color: var(--cat5c);
     font-size: 0.9vw;
     z-index: -5;
     position: relative;
