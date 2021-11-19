@@ -417,7 +417,7 @@ function drawAllTransactions() {
         }
         
         return newSpending;
-
+        getCatPopTotals();
     }
 
     lookForTransactions = function(day) {
