@@ -2,6 +2,7 @@
 
 let funcOpenTransac = function () {
     document.getElementById('addTransac').style.display = 'block';
+    document.getElementById('directory').style.display = 'none';
 }
 
 let funcCloseTransac = function () {
@@ -14,6 +15,23 @@ let funcOpenCat = function () {
 
 let funcCloseCat = function () {
     document.getElementById('addCateg').style.display = 'none';
+}
+
+let funcOpenDir = function () {
+    document.getElementById('directory').style.display = 'block';
+}
+
+let funcCloseDir = function () {
+    document.getElementById('directory').style.display = 'none';
+}
+
+let funcOpenEdit = function () {
+    document.getElementById('editor').style.display = 'block';
+    document.getElementById('directory').style.display = 'none';
+}
+
+let funcCloseEdit = function () {
+    document.getElementById('editor').style.display = 'none';
 }
 
 let new_transac = function() {

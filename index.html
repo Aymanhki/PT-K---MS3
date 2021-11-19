@@ -66,7 +66,7 @@
         <div class="left-panel">
             <div class="cat1"> <!-- ----------------------------------------------------------------------------------Accomodation-->
 
-                <button onclick="funcOpenTransac()" class="category accommodation" type="button">
+                <button onclick="funcOpenDir()" class="category accommodation" type="button">
                     <i class="fas fa-bed fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt1">Accomodation</div>
@@ -74,35 +74,35 @@
             </div>
 
             <div class="cat2"> <!-- ----------------------------------------------------------------------------------Entertainment -->
-                <button onclick="funcOpenTransac()" class="category entertainment" type="button">
+                <button onclick="funcOpenDir()" class="category entertainment" type="button">
                     <i class="fas fa-gamepad fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt2">Entertainment</div>
             </div>
 
             <div class="cat3"> <!-- ----------------------------------------------------------------------------------Food-->
-                <button onclick="funcOpenTransac()" class="category food" type="button">
+                <button onclick="funcOpenDir()" class="category food" type="button">
                     <i class="fas fa-hamburger fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt3">Food</div>
             </div>
 
             <div class="cat4"> <!-- ----------------------------------------------------------------------------------Health-->
-                <button onclick="funcOpenTransac()" class="category health" type="button">
+                <button onclick="funcOpenDir()" class="category health" type="button">
                     <i class="fas fa-medkit fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt4">Health</div>
             </div>
 
             <div class="cat5"> <!-- ----------------------------------------------------------------------------------Personal-->
-                <button onclick="funcOpenTransac()" class="category personal" type="button">
+                <button onclick="funcOpenDir()" class="category personal" type="button">
                     <i class="fas fa-smile fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt5">Personal</div>
             </div>
 
             <div class="cat6"> <!-- ----------------------------------------------------------------------------------Utilities-->
-                <button onclick="funcOpenTransac()" class="category utilities" type="button">
+                <button onclick="funcOpenDir()" class="category utilities" type="button">
                     <i class="fas fa-tools fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt6">Utilites</div>
@@ -184,7 +184,9 @@
                 </div>
             </div>
         </div>
+
         <div class="day-view-popup-overlay" id="day-popup-overlay" onclick=closeDayView()></div>
+
         <div class="pop-up" id="addTransac" style="display:none;">
             <button onclick="funcCloseTransac()" class="close" type="button">X</button>
             <h2 class="popup-header">Add Transaction</h2>
@@ -223,9 +225,39 @@
             <input type="text" id="name" name="name" placeholder="Savings, Gifts, Miscellaneous...">
 
 
-            <label for="color">Color</label>
-
+            <label for="color">COLOR</label>
             <input type="color" id="color" name="color">
+
+            <input type="submit" value="Submit">
+        </div>
+
+        <div class="pop-up" id="directory" style="display:none;">
+            <button onclick="funcCloseDir()" class="close" type="button">X</button>
+
+            <br>
+
+            <button onclick="funcOpenTransac()" class="choice" type="button">Add Transaction</button>
+
+            <br>
+
+            <button onclick="funcOpenEdit()" class="choice" type="button">Edit Category</button>
+        </div>
+
+        <div class="pop-up" id="editor" style="display:none;">
+            <button onclick="funcCloseEdit()" class="close" type="button">X</button>
+
+            <h2 class="popup-header">Edit Category</h2>
+
+            <label for="name">NEW NAME</label>
+            <input type="text" id="name" name="name" placeholder="Savings, Gifts, Miscellaneous...">
+
+
+            <label for="color">NEW COLOR</label>
+            <input type="color" id="color" name="color">
+
+            <input type="submit" value="Delete Category">
+
+            <br>
 
             <input type="submit" value="Submit">
         </div>

@@ -22,9 +22,6 @@
     font-weight: 550;
 
     padding: 15px 15px 15px 15px;
-    
-
-
 }
 
 .popup-header {
@@ -76,6 +73,31 @@ input[type="submit"] {
 }
 
 input[type=submit]:hover {
+    color: grey;
+    background-color: rgb(158, 206, 255);
+    border-color:rgb(81, 82, 82);
+}
+
+.choice {
+    width: 25%;
+    padding: 10px 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    font-size: 12px;
+    position: relative;
+    color: rgb(255, 255, 255);
+    background-color: rgb(123, 150, 238);
+    border-radius: 6px;
+    border: medium solid rgb(123, 150, 238);
+    font-weight: 400;
+    cursor: pointer;
+    transition-duration: 0.2s;
+    transform: translate(-50%, 0);
+    left: 50%;
+}
+
+.choice:hover {
     color: grey;
     background-color: rgb(158, 206, 255);
     border-color:rgb(81, 82, 82);
