@@ -91,21 +91,8 @@
 }
 
 .addCat {
-    border: 2px solid;
-    border-radius: 12px;
-    background-color: white;
     color: #7c7c7c;
     border-color: #7c7c7c;
-    width: 100%;
-    aspect-ratio: 1.05/1;
-    margin-bottom: 18%;
-    text-justify: center;
-    text-align: center;
-    font-size: 6vw;
-    font-weight: bold;
-    
-    cursor: pointer;
-    transition-duration: 0.5s;
 }
 .cat-pop {
     font-weight: bold;
