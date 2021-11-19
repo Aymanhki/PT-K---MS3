@@ -186,18 +186,22 @@
         <div class="day-view-popup-overlay" id="day-popup-overlay" onclick=closeDayView()></div>
         <div class="pop-up" id="addTransac" style="display:none;">
             <button onclick="funcCloseTransac()" class="close" type="button">X</button>
+            <h2 class="popup-header">Add Transaction</h2>
 
-            <label for="amount">AMOUNT</label>
-            <input type="number" id="amount" name="amount" placeholder="87.50, 703, 12.67...">
+            <label for="transacName" >NAME</label>
+            <input type="text" id="transacName" name="name">
 
-            <label for="type">EXPENSE/INCOME</label>
-            <select id="type" name="type">
+            <label for="transacAmt">AMOUNT</label>
+            <input type="number" id="transacAmt" name="amount" placeholder="87.50, 703, 12.67...">
+
+            <label for="transacType">EXPENSE/INCOME</label>
+            <select id="transacType" name="type">
                 <option value="expense">EXPENSE</option>
                 <option value="income">INCOME</option>
             </select>
 
-            <label for="cat">CATEGORY</label>
-            <select id="cat" name="category">
+            <label for="transacCat">CATEGORY</label>
+            <select id="transacCat" name="category">
                 <option value="accommodation">Accommodation</option>
                 <option value="entertainment">Entertainment</option>
                 <option value="food">Food</option>
@@ -206,11 +210,13 @@
                 <option value="utilities">Utilities</option>
             </select>
 
-            <input type="submit" value="Submit">
+            <input type="submit" onclick="new_transac()" value="Submit">
         </div>
 
         <div class="pop-up" id="addCateg" style="display:none;">
             <button onclick="funcCloseCat()" class="close" type="button">X</button>
+
+            <h2 class="popup-header">Add Category</h2>
 
             <label for="name">NAME</label>
             <input type="text" id="name" name="name" placeholder="Savings, Gifts, Miscellaneous...">

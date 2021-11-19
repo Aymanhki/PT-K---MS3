@@ -408,7 +408,7 @@ function drawAllTransactions() {
 
         // let category = categories2.find(categories => categories2.categoryID === transaction.Category);
         // console.log(categories2);
-        console.log(transaction);
+    
         if(transaction.Income.Expense === "Expense") {
             newSpending.setAttribute("style", value = `background-color: red;`);
         }
