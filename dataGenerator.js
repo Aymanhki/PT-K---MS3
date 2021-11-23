@@ -36,21 +36,25 @@ function makeCategory (categoryID, name, icon, color, notes) {
 //--------------------------------
 
 function readTextFile(file, callback) {
-    var rawFile = new XMLHttpRequest();
-    rawFile.overrideMimeType("application/json");
-    rawFile.open("GET", file, true);
-    rawFile.onreadystatechange = function() {
-        if (rawFile.readyState === 4 && rawFile.status == "200") {
-            callback(rawFile.responseText);
-        }
-    }
-    rawFile.send();
+    // var rawFile = new XMLHttpRequest();
+    // rawFile.overrideMimeType("application/json");
+    // rawFile.open("GET", file, true);
+    // rawFile.onreadystatechange = function() {
+    //     if (rawFile.readyState === 4 && rawFile.status == "200") {
+    //         callback(rawFile.responseText);
+    //     }
+    // }
+    // rawFile.send();
+
+    callback();
 
 }
 
+$(document).ready(()=> {
 readTextFile("./FakeData.json", function(text)
 {
-    data = JSON.parse(text);
+    //data = JSON.parse(text);
+    data = fakeData;
     sanitize (data);
     drawAllTransactions();
     getCategoryTotals();
@@ -59,7 +63,7 @@ readTextFile("./FakeData.json", function(text)
     drawLine();
 });
 
-
+})
 
 //-------------------------------
 // Sanitize data 
