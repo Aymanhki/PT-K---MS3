@@ -18,40 +18,49 @@ function RGB_Linear_Shade(p,c) {
 
 function getCategoryTotals()
 {
-
-   categories = [];
-    for(let i=0; i<data.length; i++)
-    {
-        //TODO: the last condition in this if statement throws an error in estimated 1 out of 10 lunches, what I
-        // suspect is that the page sometimes the browser gets to this point before the month variable
-        // is initialized in calendar.js, Kevin, I think you know how to fix this.
-        if(!categories.includes(data[i].Category) && data[i].Category !== undefined && data[i].Month == month && data[i].Year == year)
+        categories = [];
+        if(isMonthView)
         {
-            categories.push(data[i].Category);
-        }
-    }
-
-    for(let i=0; i<categories.length; i++)
-    {
-
-        let total = 0;
-        for(let j=0; j<data.length; j++)
-        {
-            if(data[j].Category === categories[i])
+            for(let i=0; i<data.length; i++)
             {
-                total += data[j].Amount;
+                if(!categories.includes(data[i].Category) && data[i].Category !== undefined && data[i].Month == month && data[i].Year == year)
+                {
+                    categories.push(data[i].Category);
+                }
+            }
+
+        }
+        else
+        {
+            for(let i=0; i<data.length; i++)
+            {
+                if(!categories.includes(data[i].Category) && data[i].Category !== undefined && data[i].Year == year)
+                {
+                    categories.push(data[i].Category);
+                }
             }
         }
-        categories[i] = [categories[i], total];
-    }
-    // categories.sort()
-    // console.log(categories);
 
-    let colors = ['rgba(116,26,51)', 'rgba(179,66,50)', 'rgba(210,143,52)', 'rgba(212,185,94)', 'rgba(78,162,162)', 'rgba(26,134,147)']
-    for(let i=0; i<categories.length; i++)
-    {
-        categories[i].push(colors[i]);
-        categories[i].push(RGB_Linear_Shade( 0.3, colors[i]));
-        // categories[i].push(color[i]);
-    }
+        for(let i=0; i<categories.length; i++)
+        {
+            let total = 0;
+            for(let j=0; j<data.length; j++)
+            {
+                if(data[j].Category === categories[i])
+                {
+                    total += data[j].Amount;
+                }
+            }
+            categories[i] = [categories[i], total];
+        }
+
+
+        let colors = ['rgba(116,26,51)', 'rgba(179,66,50)', 'rgba(210,143,52)', 'rgba(212,185,94)', 'rgba(78,162,162)', 'rgba(26,134,147)']
+        for(let i=0; i<categories.length; i++)
+        {
+            categories[i].push(colors[i]);
+            categories[i].push(RGB_Linear_Shade( 0.3, colors[i]));
+        }
+
+
 }

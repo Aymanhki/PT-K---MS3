@@ -299,11 +299,23 @@ function checkState() {
         clearCalendar();
         setCalendarYearViewHeader(month, year);
         createMonthlyForYearView(year);
+        isMonthView = false;
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
     }
     else {
         //returns to monthly view
         reloadCalendar();
         setCalendarMonthViewHeader(month, year);
+        isMonthView = true;
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
     }
     file.onload();
 }//checkState

@@ -19,7 +19,6 @@ function drawDoughnut()
             dataSum += doughnutData[i];
         }
 
-
         doughnutColors = [];
         for(let i=0; i<categories.length; i++)
         {
@@ -73,7 +72,6 @@ function drawDoughnut()
         };
 
         doughnutChart = new Chart(ctx, config);
-
 
     });
 }
