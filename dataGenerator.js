@@ -35,31 +35,33 @@ function makeCategory (categoryID, name, icon, color, notes) {
 // Load data from files
 //--------------------------------
 
-function readTextFile(file, callback) {
-    var rawFile = new XMLHttpRequest();
-    rawFile.overrideMimeType("application/json");
-    rawFile.open("GET", file, true);
-    rawFile.onreadystatechange = function() {
-        if (rawFile.readyState === 4 && rawFile.status == "200") {
-            callback(rawFile.responseText);
-        }
-    }
-    rawFile.send();
+// function readTextFile(file, callback) {
+//     // var rawFile = new XMLHttpRequest();
+//     // rawFile.overrideMimeType("application/json");
+//     // rawFile.open("GET", file, true);
+//     // rawFile.onreadystatechange = function() {
+//     //     if (rawFile.readyState === 4 && rawFile.status == "200") {
+//     //         callback(rawFile.responseText);
+//     //     }
+//     // }
+//     // rawFile.send();
 
-}
+//     callback();
 
-readTextFile("./FakeData.json", function(text)
-{
-    data = JSON.parse(text);
+// }
+
+$(document).ready(()=> {
+
+    //data = JSON.parse(text);
+    data = fakeData;
     sanitize (data);
     drawAllTransactions();
     getCategoryTotals();
     getCatPopTotals();
     drawDoughnut();
     drawLine();
-});
 
-
+})
 
 //-------------------------------
 // Sanitize data 
