@@ -60,6 +60,9 @@ let new_transac = function() {
     console.log(newTransac);
     if(amt.trim()!= "" && name.trim() != "") {
         funcCloseTransac();
+        document.getElementById("transacAmt").value = "";
+        document.getElementById("transacName").value = "";
+        document.getElementById("transacDate").value = "";
     }
     else {
         if( amt === "" ) {
@@ -73,6 +76,8 @@ let new_transac = function() {
             document.getElementById("transacName").className = '';
         }, 500);
     }
+
+    
 
 }
 
