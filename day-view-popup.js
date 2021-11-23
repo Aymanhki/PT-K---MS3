@@ -59,6 +59,7 @@ function editMode()
     for(let i=0; i<document.getElementsByTagName("delete").length; i++)
     {
         document.getElementsByTagName("delete")[i].classList.toggle("active");
+        
     }
 
 }
@@ -92,6 +93,7 @@ function deleteTransaction(index)
     let indexToRemove = data.indexOf(toRemove);
     data.splice(indexToRemove, 1);
     loadDayView();
+    reloadCalendar();
     editMode();
 }
 
