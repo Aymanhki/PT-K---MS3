@@ -50,7 +50,8 @@ function readTextFile(file, callback) {
 
 readTextFile("./FakeData.json", function(text)
 {
-    data = JSON.parse(text);
+    //data = JSON.parse(text);
+    data = fakeData;
     sanitize (data);
     drawAllTransactions();
     getCategoryTotals();
