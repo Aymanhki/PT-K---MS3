@@ -37,8 +37,8 @@
     <script type ="text/javascript" src="view-toggle.js"></script>
     <script type ="text/javascript" src="calendar.js"></script>
     <script type ="text/javascript" src="popups.js"></script>
-    
 
+    
     <!--JS web interaction-->
     <!-- <script src="DataReader.js"></script> -->
     <script type ="text/javascript" src="Chart.min.js"></script>
@@ -63,7 +63,6 @@
             <div class="toggleWrapper">
                 <input type="checkbox" onclick="checkState()" id="tog" unchecked>
                 <label for="tog" class="toggle"><span class="toggle__handler"></span></label>
-                <h5 style="font-weight: 900; margin-top: 10px; font-size: large; text-align: center; color: grey; margin-right: 2px; border: solid 1px grey; border-radius: 8px; margin-bottom: 0px;">Add transaction</h5>
 
             </div>
         </div>
@@ -237,7 +236,7 @@
             </select>
 
             <label for="transacDate" >DATE</label>
-            <input type="date" id="transacDate" name="date" value="2021-11-27">
+            <input type="date" id="transacDate" name="date">
             
             <input type="submit" onclick="new_transac()" value="Submit">
             </div>
@@ -255,12 +254,6 @@
 
             <label for="color">COLOR</label>
             <input type="color" id="color" name="color">
-
-            <label for="catIcon">ICON</label>
-            <select name="icon" id="catIcon">
-                <option value="address-book">&#xf2b9; address-book</option>
-                <option value="fas fa-basketball-ball" class="fas fa-basketball-ball">basketball</option>
-            </select>
 
             <input type="submit" value="Submit">
         </div>
