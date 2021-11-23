@@ -3,6 +3,7 @@
 let funcOpenTransac = function () {
     document.getElementById('addTransac').style.display = 'block';
     document.getElementById('directory').style.display = 'none';
+    document.getElementById('editor').style.display = 'none';
 }
 
 let funcCloseTransac = function () {
@@ -18,8 +19,11 @@ let funcCloseCat = function () {
 }
 
 let funcOpenDir = function (valueToSelect) {
-    document.getElementById('directory').style.display = 'block';
+    // document.getElementById('directory').style.display = 'block';
     document.getElementById("transacCat").value = valueToSelect;
+    document.getElementById('addTransac').style.display = 'block';
+    document.getElementById('directory').style.display = 'none';
+
 }
 
 let funcCloseDir = function () {
@@ -29,6 +33,7 @@ let funcCloseDir = function () {
 let funcOpenEdit = function () {
     document.getElementById('editor').style.display = 'block';
     document.getElementById('directory').style.display = 'none';
+    document.getElementById('addTransac').style.display = 'none';
 }
 
 let funcCloseEdit = function () {
@@ -42,19 +47,33 @@ let new_transac = function() {
     let category = document.getElementById("transacCat");
     var catVal = category.options[category.selectedIndex].value;
     let name = document.getElementById("transacName").value;
+    let date = document.getElementById("transacDate").value;
 
     let newTransac = {
         amt: amt,
         type: typeVal,
         category: catVal,
-        name: name
+        name: name,
+        date: date
     }
 
     console.log(newTransac);
-    if(amt!= "" && name != "") {
+    if(amt.trim()!= "" && name.trim() != "") {
         funcCloseTransac();
     }
-
-
+    else {
+        if( amt === "" ) {
+            document.getElementById("transacAmt").className = 'error';
+        }
+        if(  name.trim() === "" ) {
+            document.getElementById("transacName").className = 'error';
+        }
+        setTimeout(function() {
+            document.getElementById("transacAmt").className = '';
+            document.getElementById("transacName").className = '';
+        }, 500);
+    }
 
 }
+
+

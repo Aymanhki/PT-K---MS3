@@ -65,7 +65,7 @@
         </div>
         <div class="left-panel">
             <div class="cat1"> <!-- ----------------------------------------------------------------------------------Accomodation-->
-                <button onclick="funcOpenDir('accommodation')" class="category accommodation" type="button">
+                <button onclick="funcOpenDir('accommodation')" class="category accommodation" type="button" title="add transaction">
                     <i class="fas fa-bed fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt1">Accomodation</div>
@@ -73,35 +73,35 @@
             </div>
 
             <div class="cat2"> <!-- ----------------------------------------------------------------------------------Entertainment -->
-                <button onclick="funcOpenDir('entertainment')" class="category entertainment" type="button">
+                <button onclick="funcOpenDir('entertainment')" class="category entertainment" type="button" title="add transaction">
                     <i class="fas fa-gamepad fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt2">Entertainment</div>
             </div>
 
             <div class="cat3"> <!-- ----------------------------------------------------------------------------------Food-->
-                <button onclick="funcOpenDir('food')" class="category food" type="button">
+                <button onclick="funcOpenDir('food')" class="category food" type="button" title="add transaction">
                     <i class="fas fa-hamburger fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt3">Food</div>
             </div>
 
             <div class="cat4"> <!-- ----------------------------------------------------------------------------------Health-->
-                <button onclick="funcOpenDir('health')" class="category health" type="button">
+                <button onclick="funcOpenDir('health')" class="category health" type="button" title="add transaction">
                     <i class="fas fa-medkit fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt4">Health</div>
             </div>
 
             <div class="cat5"> <!-- ----------------------------------------------------------------------------------Personal-->
-                <button onclick="funcOpenDir('personal')" class="category personal" type="button">
+                <button onclick="funcOpenDir('personal')" class="category personal" type="button" title="add transaction">
                     <i class="fas fa-smile fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt5">Personal</div>
             </div>
 
             <div class="cat6"> <!-- ----------------------------------------------------------------------------------Utilities-->
-                <button onclick="funcOpenDir('utilities')" class="category utilities" type="button">
+                <button onclick="funcOpenDir('utilities')" class="category utilities" type="button" title="add transaction">
                     <i class="fas fa-tools fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt6">Utilites</div>
@@ -186,9 +186,27 @@
 
         <div class="day-view-popup-overlay" id="day-popup-overlay" onclick=closeDayView()></div>
 
+        <div class="pop-up" id="directory" style="display:none;">
+            <button onclick="funcCloseDir()" class="close2" type="button">X</button>
+
+            <br>
+
+            <button onclick="funcOpenTransac()" class="choice popup-header" type="button">Add Transaction</button>
+
+            <br>
+
+            <button onclick="funcOpenEdit()" class="choice popup-header" type="button">Edit Category</button>
+        </div>
+
+
         <div class="pop-up" id="addTransac" style="display:none;">
-            <button onclick="funcCloseTransac()" class="close" type="button">X</button>
-            <h2 class="popup-header">Add Transaction</h2>
+            <div class="tab">
+                <button class="tablinks active" onclick="funcOpenTransac()"><h2>Add Transaction</h2></button>
+                <button class="tablinks" onclick="funcOpenEdit()" ><h2>Edit Category</h2></button>
+            </div>
+            <div class="tabcontent">
+                <button onclick="funcCloseTransac()" class="close" type="button">X</button>
+            <!-- <h2 class="popup-header">Add Transaction</h2> -->
 
             <label for="transacName" >NAME</label>
             <input type="text" id="transacName" name="name">
@@ -212,10 +230,15 @@
                 <option value="utilities">Utilities</option>
             </select>
 
+            <label for="transacDate" >DATE</label>
+            <input type="date" id="transacDate" name="date">
+            
             <input type="submit" onclick="new_transac()" value="Submit">
+            </div>
+            
         </div>
 
-        <div class="pop-up" id="addCateg" style="display:none;">
+        <div class="pop-up tabcontent" id="addCateg" style="display:none;">
             <button onclick="funcCloseCat()" class="close" type="button">X</button>
 
             <h2 class="popup-header">Add Category</h2>
@@ -230,22 +253,12 @@
             <input type="submit" value="Submit">
         </div>
 
-        <div class="pop-up" id="directory" style="display:none;">
-            <button onclick="funcCloseDir()" class="close" type="button">X</button>
-
-            <br>
-
-            <button onclick="funcOpenTransac()" class="choice" type="button">Add Transaction</button>
-
-            <br>
-
-            <button onclick="funcOpenEdit()" class="choice" type="button">Edit Category</button>
-        </div>
-
-        <div class="pop-up" id="editor" style="display:none;">
+        <div class="pop-up tabcontent" id="editor" style="display:none;">
             <button onclick="funcCloseEdit()" class="close" type="button">X</button>
-
-            <h2 class="popup-header">Edit Category</h2>
+            <div class="tab">
+                <button class="tablinks" onclick="funcOpenTransac()"><h2>Add Transaction</h2></button>
+                <button class="tablinks active" onclick="funcOpenEdit()" ><h2>Edit Category</h2></button>
+            </div>
 
             <label for="name">NEW NAME</label>
             <input type="text" id="name" name="name" placeholder="Savings, Gifts, Miscellaneous...">
