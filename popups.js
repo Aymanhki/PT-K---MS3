@@ -42,7 +42,7 @@ let funcCloseEdit = function () {
 
 let new_transac = function() {
     let amt = document.getElementById("transacAmt").value;
-    let num = parseFloat(amt);
+    let num = parseFloat(parseFloat(amt).toFixed(2));
     let type = document.getElementById("transacType");
     var typeVal = type.options[type.selectedIndex].value;
     let category = document.getElementById("transacCat");
@@ -70,6 +70,11 @@ let new_transac = function() {
         document.getElementById("transacDate").value = "";
 
         data.push(newTransac);
+        reloadCalendar();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
         
     }
     else {
@@ -85,7 +90,7 @@ let new_transac = function() {
         }, 500);
     }
 
-    reloadCalendar();
+    
 
 }
 
