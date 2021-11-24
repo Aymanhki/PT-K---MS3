@@ -63,7 +63,6 @@ let new_transac = function() {
         Year: year
     }
 
-    console.log(newTransac);
     if(amt.trim()!= "" && name.trim() != "") {
         funcCloseTransac();
         document.getElementById("transacAmt").value = "";
@@ -71,8 +70,6 @@ let new_transac = function() {
         document.getElementById("transacDate").value = "";
 
         data.push(newTransac);
-        console.log(data[data.length-2]);
-        console.log(data[data.length-1]);
         
     }
     else {
