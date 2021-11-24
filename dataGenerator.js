@@ -55,6 +55,7 @@ $(document).ready(()=> {
     //data = JSON.parse(text);
     data = fakeData;
     sanitize (data);
+    initCalendar();
     drawAllTransactions();
     getCategoryTotals();
     getCatPopTotals();
