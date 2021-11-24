@@ -275,17 +275,16 @@ function setWeekHeaders () {
     }//for
 }//setWeekHeaders
 
-$(document).ready(function () {
+function initCalendar () {
     let currentDay = new Date();
     year = currentDay.getFullYear();
     month = currentDay.getMonth();
 
     console.info(currentDay.toLocaleDateString())
-
     
     setHeaderArrowListener();
     reloadCalendar ();
-})
+}
 
 /* -------------------------------------------- the switch for the month and yearly view ---------------------------------- */
 function checkState() {

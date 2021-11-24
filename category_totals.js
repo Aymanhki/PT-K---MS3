@@ -44,13 +44,27 @@ function getCategoryTotals()
         for(let i=0; i<categories.length; i++)
         {
             let total = 0;
-            for(let j=0; j<data.length; j++)
+            if(isMonthView)
             {
-                if(data[j].Category === categories[i])
+                for(let j=0; j<data.length; j++)
                 {
-                    total += data[j].Amount;
+                    if(data[j].Category === categories[i] && data[j].Month == month && data[j].Year == year)
+                    {
+                        total += data[j].Amount;
+                    }
                 }
             }
+            else
+            {
+                for(let j=0; j<data.length; j++)
+                {
+                    if(data[j].Category === categories[i] && data[j].Year == year)
+                    {
+                        total += data[j].Amount;
+                    }
+                }
+            }
+
             categories[i] = [categories[i], total];
         }
 
