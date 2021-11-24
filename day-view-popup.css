@@ -3,7 +3,7 @@
     width: 0;
     height: 0;
     opacity: 0;
-    margin:0;
+    margin:auto;
     transition: all 300ms ease-in-out;
 
     z-index: 1;
@@ -54,8 +54,8 @@
     cursor: pointer;
 }
 .day-view-popup.active {
-    height: 92vh;
     width: 21vw;
+    height: 93vh;
     opacity: 1;
     transition: all 300ms ease-in-out;
 
