@@ -42,19 +42,25 @@ let funcCloseEdit = function () {
 
 let new_transac = function() {
     let amt = document.getElementById("transacAmt").value;
+    let num = parseFloat(amt);
     let type = document.getElementById("transacType");
     var typeVal = type.options[type.selectedIndex].value;
     let category = document.getElementById("transacCat");
     var catVal = category.options[category.selectedIndex].value;
     let name = document.getElementById("transacName").value;
-    let date = document.getElementById("transacDate").value;
+    let date = new Date(document.getElementById("transacDate").value);
+    let day = date.getDate()+1;
+    let month = date.getMonth();
+    let year = date.getFullYear();
 
     let newTransac = {
-        amt: amt,
-        type: typeVal,
-        category: catVal,
-        name: name,
-        date: date
+        Amount: num,
+        Category: catVal,
+        Day: day,
+        Income: {Expense: typeVal},
+        Month: month,
+        Title: name,
+        Year: year
     }
 
     console.log(newTransac);
@@ -63,6 +69,11 @@ let new_transac = function() {
         document.getElementById("transacAmt").value = "";
         document.getElementById("transacName").value = "";
         document.getElementById("transacDate").value = "";
+
+        data.push(newTransac);
+        console.log(data[data.length-2]);
+        console.log(data[data.length-1]);
+        
     }
     else {
         if( amt === "" ) {
@@ -77,7 +88,7 @@ let new_transac = function() {
         }, 500);
     }
 
-    
+    reloadCalendar();
 
 }
 
