@@ -1,5 +1,5 @@
 
-let doughnutLabels = ['Health','Utilities','Personal','Entertainment','Food', 'Accommodation'];
+let doughnutLabels = ['Accommodation', 'Entertainment', 'Food', 'Health', 'Personal', 'Utilities'];
 let doughnutColors = [];
 let doughnutChart;
 function drawDoughnut()
