@@ -1,5 +1,0 @@
-complete = fix run
-
-fix = python3 -m http.server
-
-run = start chrome http://localhost:8000/index.html
