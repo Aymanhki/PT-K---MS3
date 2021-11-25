@@ -132,11 +132,6 @@ let submitCat = function() {
         funcCloseCat();
         document.getElementById('catName').value = "";
         icon.selectedIndex = 0;
-        console.log({
-            name: name,
-            icon: iconVal,
-            color: color
-        });
 
         let catNew = document.createElement("div");
         catNew.setAttribute("class", "cat7");
@@ -167,14 +162,20 @@ let submitCat = function() {
         let add = document.getElementById("add_button");
         left.insertBefore(catNew, add);
 
+        let option = document.createElement("option");
+        option.setAttribute("value", name);
+        option.innerText = name;
+        document.getElementById("transacCat").appendChild(option);
+
+
+
+
         let newCat = [name,
             0.00,
             color,
             color];
         doughnutLabels.push(name);
         categories.push(newCat);
-        console.log(categories[categories.length - 2])
-        console.log(categories[categories.length - 1])
         getCategoryTotals();
         doughnutChart.destroy();
         lineChart.destroy();
