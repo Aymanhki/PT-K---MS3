@@ -124,18 +124,18 @@
             <div class="grid-panel right-panel right-top">
                 <h3 class="right-top-panel">Change in Worth</h3>
                 <p id="graph-description-label"></p>
-
                 <div class = "line-container">
-                    <canvas id="line"></canvas>
+                    <canvas id="line" onclick="swapLineGraph()"></canvas>
                 </div>
+                <div class="grid-panel right-panel right-top line-calendar-cover" id="LCC" onclick="swapLineGraphBack()"></div>
             </div>
+
             <div class="grid-panel right-panel right-bottom">
                 <div class = "doughnut-container">
                     <canvas id="doughnut" onclick="swapDoughnut()">
                     </canvas>
                 </div>
                 <div class="grid-panel right-panel right-bottom doughnut-calendar-cover" id="DCC"></div>
-
             </div>
 
         </div>
@@ -152,6 +152,13 @@
         <div class='grid-panel center-panel big-doughnut' id='big-dough'>
             <div class='swap-doughnut-close-button' onclick=swapDoughnutBack()>&times;</div>
             <canvas id="doughnut-but-bigger"></canvas>
+        </div>
+
+        <div class='grid-panel center-panel big-line-graph' id='big-line'>
+            <div class='swap-line-close-button' onclick=swapLineGraphBack()>&times;</div>
+            <h3 class="center-panel-but-for-bigger" >Change in Worth</h3>
+            <p class ='GDLBBB' id="graph-description-label-but-bigger"></p>
+            <canvas id="line-but-bigger"></canvas>
         </div>
 
         <div class="grid-panel center-panel">

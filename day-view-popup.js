@@ -22,6 +22,8 @@ function closeDayView()
     document.getElementById("day-popup-overlay").classList.remove("active");
     document.getElementById("big-dough").classList.remove("active");
     document.getElementById("DCC").classList.remove("active");
+    document.getElementById("big-line").classList.remove("active");
+    document.getElementById("LCC").classList.remove("active");
 }
 
 function loadDayView()
