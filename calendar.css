@@ -271,7 +271,7 @@ li {
 }
 .whole-month {
     position: relative;
-    display: inline-flexbox;
+    /*display: inline-flexbox;*/
     padding: 20px 20px 20px 20px;
     align-items: center;
     justify-content: center;
