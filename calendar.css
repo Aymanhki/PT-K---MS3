@@ -193,7 +193,7 @@ li {
 }
 
 /* days in calendar */
-.days-grid .days {
+.days {
     position: relative;
     display: grid;
     overflow-y: hidden;

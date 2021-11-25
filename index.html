@@ -130,12 +130,14 @@
                 </div>
             </div>
             <div class="grid-panel right-panel right-bottom">
-                <div class="grid-panel right-panel right-bottom doughnut-calendar-cover" id="DCC"></div>
                 <div class = "doughnut-container">
                     <canvas id="doughnut" onclick="swapDoughnut()">
                     </canvas>
                 </div>
+                <div class="grid-panel right-panel right-bottom doughnut-calendar-cover" id="DCC"></div>
+
             </div>
+
         </div>
 
 
@@ -145,6 +147,11 @@
         <div class="center-header">
             <div class="calendar-content">
             </div>
+        </div>
+
+        <div class='grid-panel center-panel big-doughnut' id='big-dough'>
+            <div class='swap-doughnut-close-button' onclick=swapDoughnutBack()>&times;</div>
+            <canvas id="doughnut-but-bigger"></canvas>
         </div>
 
         <div class="grid-panel center-panel">
@@ -168,10 +175,7 @@
                     <div class="current-month">
                         <ol class="week-day" id="week-labels"></ol> <!--week headers-->
                         <ol class="days-grid" id="days-of-week"></ol> <!--days in the month-->
-                        <div class='grid-panel center-panel big-doughnut' id='big-dough'>
-                            <div class='swap-doughnut-close-button' onclick=swapDoughnutBack()>&times;</div>
-                            <canvas id="doughnut-but-bigger"></canvas>
-                        </div>
+                       
                     </div>
 
                 </div>
