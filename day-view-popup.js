@@ -93,6 +93,7 @@ function deleteTransaction(index)
     let indexToRemove = data.indexOf(toRemove);
     data.splice(indexToRemove, 1);
     loadDayView();
+    getCategoryTotals();
     reloadCalendar();
     editMode();
 }
