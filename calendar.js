@@ -316,6 +316,7 @@ function checkState() {
         drawDoughnut();
         drawLine();
     }
+    getCatPopTotals();
     file.onload();
 }//checkState
 
