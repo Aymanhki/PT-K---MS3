@@ -132,26 +132,62 @@ let submitCat = function() {
         funcCloseCat();
         document.getElementById('catName').value = "";
         icon.selectedIndex = 0;
-        console.log({
-            name: name,
-            icon: iconVal,
-            color: color
-        });
 
         let catNew = document.createElement("div");
         catNew.setAttribute("class", "cat7");
         let newButton = document.createElement("button");
-        newButton.setAttribute("class", `category ${name}`);
-        let pullOut = document.createElement("i");
-        pullOut.setAttribute("class", `${iconVal}`);
+        newButton.setAttribute("class", `category new`);
+        newButton.setAttribute("onclick", `funcOpenTransac()`);
+        let sign = document.createElement("i");
+        sign.style.color = color;
+        let pullOut = document.createElement("div");
+        pullOut.setAttribute("class", "cat-pop");
+        pullOut.setAttribute("id", "catt7")
+        pullOut.innerText = name;
+        pullOut.style.color = color;
+        sign.setAttribute("class", `${iconVal}`);
         newButton.setAttribute("style", `border-color: ${color};`);
 
-        newButton.appendChild(pullOut);
+        var css = `new:hover{background-color: ${color};}`;
+        var style = document.createElement('style');
+
+        style.appendChild(document.createTextNode(css));
+
+        newButton.appendChild(style);
+
+        newButton.appendChild(sign);
         catNew.appendChild(newButton);
+        catNew.appendChild(pullOut);
 
         let left = document.getElementById('left_panel');
         let add = document.getElementById("add_button");
         left.insertBefore(catNew, add);
+
+
+        let newData = {
+            Amount: 10,
+            Category: name,
+            Day: 1,
+            Income: {Expense: 'Income'},
+            Month: 1,
+            Title: "random added",
+            Year: 2019
+        };
+        data.push(newData);
+        console.log(data[data.length-1]);
+
+        let newCat = [name,
+            0.00,
+            color,
+            color];
+        doughnutLabels.push(name);
+        categories.push(newCat);
+        getCategoryTotals();
+        getCatPopTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
     }
 }
 
