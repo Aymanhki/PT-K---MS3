@@ -273,7 +273,7 @@ input[type=submit]:hover {
     display: inline-flex;
     position: relative;
     width: auto;
-    height: 20vh;
+    height: auto;
     border-radius: 6px;
     border: solid 1px black;
     padding-left: 1px;
@@ -292,6 +292,8 @@ input[type=submit]:hover {
     width: auto;
     aspect-ratio: 1/1;
     text-align: center;
+    align-self: center;
+    justify-self: center;
     font-size: 7vw;
 }
 
