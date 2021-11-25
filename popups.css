@@ -100,13 +100,19 @@
     color: black;
     background-color: white;
 
-    text-indent: 12px;
     line-height: 0px;
     font-family: 'Product Sans';
     font-size: 12px;
     font-weight: 550;
 
     padding: 15px 15px 15px 15px;
+}
+
+.pop-up label {
+    padding-left: 14px;
+    width: 100%;
+    padding-right: 14px;
+    display: block;
 }
 
 .popup-header {
@@ -256,4 +262,113 @@ input[type=submit]:hover {
 @keyframes shake {
     0% { left: -5px; }
     100% {  right: -5px;  }
+}
+
+#catIcon {
+    position: absolute;
+    left: -99em;
+}
+
+.icons-to-select {
+    display: inline-flex;
+    position: relative;
+    width: auto;
+    height: auto;
+    border-radius: 6px;
+    border: solid 1px black;
+    padding-left: 1px;
+    padding-right: 1px;
+    margin-left: 10px;
+    margin-right: 10px;
+    align-items: center;
+    justify-content: center;
+    aspect-ratio: 1/1;
+}
+
+.icons-to-select2 {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    position: relative;
+    overflow-y: scroll;
+    width: auto;
+    height: 25vh;
+    border-radius: 6px;
+    border: solid 1px black;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(225, 230, 236);
+    /* margin-left: 10px;
+    margin-right: 10px; */
+}
+
+.icons-to-select2 li {
+    position: relative;
+    display: grid;
+
+}
+
+.icons-to-select2 button:hover {
+    cursor: pointer;
+    offset: 0.9px;
+    box-shadow: 1px 1px 8px 1px rgba(179, 179, 179, 0.543);
+}
+
+.icons-to-select2 button {
+    border-radius: 3px;
+    position: inherit;
+    width: 100%;
+    height: 100%;
+    aspect-ratio: 1/1;
+    font-size: 5vw;
+    color: grey;
+    background-color: rgb(235, 240, 245);
+    /* text-align: center; */
+    /* padding-left: 5px;
+    padding-right: 5px; */
+    /* left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%); */
+}
+
+/* .option-showed {
+    top: 0;
+    transform: translate(-50% 0);
+} */
+
+.iconSelections {
+    /* margin: 10px 10px 10px 10px; */
+    margin-bottom: 20px;
+    margin-right: 10px;
+    display: grid;
+    grid-template-columns: .5fr 1fr;
+    align-items: flex-start;
+    overflow-y: visible;
+    height: 30vh;
+    padding: 0px;
+}
+
+.iconSelections li {
+    width: auto;
+    height: auto;
+    aspect-ratio: 1/1;
+    position: relative;
+    display: block;
+    margin: 5px;
+}
+
+.iconOption {
+    position: relative;
+    border: solid 1px black;
+    
+}
+.selected {
+    display: inline-block;
+    border: solid 1px blue;
+    color: rgb(165, 165, 165);
+    position: absolute;
+    font-size: 7vw;
+    height: auto;
+    width: auto;
 }
