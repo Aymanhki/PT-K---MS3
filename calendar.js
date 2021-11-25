@@ -424,7 +424,7 @@ function drawAllTransactions() {
         // console.log(categories2);
         let catName = transaction.Category;
         let catNum = -1;
-        for(let i=0; i<doughnutLabels.length && catNum !== -1; i++)
+        for(let i=0; i<doughnutLabels.length && catNum === -1; i++)
         {
             if(catName === doughnutLabels[i])
             {
