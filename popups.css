@@ -280,9 +280,16 @@ input[type=submit]:hover {
     padding-right: 1px;
     margin-left: 10px;
     margin-right: 10px;
-    align-items: center;
-    justify-content: center;
     aspect-ratio: 1/1;
+}
+.icons-to-select li {
+    padding-right: 10px;
+    padding-left: 10px;
+    height: 100%;
+    aspect-ratio: 1/1;
+    border: solid 1px red;
+    text-align: center;
+    font-size: 12vw;
 }
 
 .icons-to-select2 {
@@ -363,12 +370,14 @@ input[type=submit]:hover {
     border: solid 1px black;
     
 }
-.selected {
-    display: inline-block;
+/* .selected-icon {
+    display: flex;
     border: solid 1px blue;
     color: rgb(165, 165, 165);
     position: absolute;
-    font-size: 7vw;
     height: auto;
-    width: auto;
-}
+    padding-right: 5px;
+    padding-left: 5px;
+    width: 100%;
+    aspect-ratio: 1/1;
+} */

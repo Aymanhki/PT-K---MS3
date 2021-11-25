@@ -94,4 +94,29 @@ let new_transac = function() {
 
 }
 
+let selectedIcon =  function(x) {
+    let icon = document.getElementById('catIcon');
+    icon.selectedIndex = x-1;
+    console.log(x);
+    console.log(icon.options[icon.selectedIndex]);
+    let options = {
+        1: "fas fa-baby-carriage fa-lg",
+        2: "fas fa-bone fa-lg",
+        3: "fas fa-car fa-lg",
+        4: "fas fa-cat fa-lg",
+        5: "fas fa-crow fa-lg",
+        6: "fas fa-faucet fa-lg",
+        7: "fas fa-gem fa-lg",
+        8: "fas fa-guitar fa-lg",
+        9: "fas fa-luggage-cart fa-lg",
+        10: "fas fa-mug-hot fa-lg",
+        11: "fas fa-plane fa-lg",
+        12: "fas fa-piggy-bank fa-lg"
+    };
+    let selected = document.getElementById('selected_icon');
+    selected.className = `selected-icon ${options[x]}`;
+    console.log(selected.className);
+
+}
+
 

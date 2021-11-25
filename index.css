@@ -42,7 +42,6 @@ body {
     grid-row: 1;
     justify-items: end;
     overflow: visible;
-    margin-left: 20px;
 }
 
 .left-panel {
