@@ -431,7 +431,7 @@ function drawAllTransactions() {
                 catNum = i;
             }
         }
-        console.log(catName, catNum, colors[catNum]);
+        // console.log(catName, catNum, colors[catNum]);
         let coloValue = 'background-color:'+colors[catNum]+';';
         newSpending.setAttribute("style", value = coloValue);
         return newSpending;
