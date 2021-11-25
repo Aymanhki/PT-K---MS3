@@ -66,7 +66,7 @@
 
             </div>
         </div>
-        <div class="left-panel">
+        <div class="left-panel" id="left_panel">
             <div class="cat1"> <!-- ----------------------------------------------------------------------------------Accomodation-->
                 <button onclick="funcOpenDir('Accommodation')" class="category accommodation" type="button" title="add transaction">
                     <i class="fas fa-bed fa-2x"></i>
@@ -110,7 +110,7 @@
                 <div class = "cat-pop" id="catt6">Utilites</div>
             </div>
 
-            <button onclick="funcOpenCat()" class="category addCat" type="button">+</button>
+            <button onclick="funcOpenCat()" id="add_button" class="category addCat" type="button">+</button>
         </div>
 
 
@@ -249,27 +249,27 @@
             <h2 class="popup-header">Add Category</h2>
 
             <label for="catName">NAME</label>
-            <input type="text" id="name" name="name" placeholder="Savings, Gifts, Miscellaneous...">
+            <input type="text" id="catName" name="name" placeholder="Savings, Gifts, Miscellaneous...">
 
 
             <label for="catColor">COLOR</label>
-            <input type="color" id="color" name="color">
+            <input type="color" id="catColor" name="color">
 
             <div class="icon-select">
                 <label for="catIcon">ICON</label>
-                <select name="icon" id="catIcon">
-                    <option value="icon1">option 1</option>
-                    <option value="icon2">option 2</option>
-                    <option value="icon3">option 3</option>
-                    <option value="icon4">option 4</option>
-                    <option value="icon5">option 5</option>
-                    <option value="icon6">option 6</option>
-                    <option value="icon7">option 7</option>
-                    <option value="icon8">option 8</option>
-                    <option value="icon9">option 9</option>
-                    <option value="icon10">option 10</option>
-                    <option value="icon11">option 11</option>
-                    <option value="icon12">option 12</option>
+                <select name="icon" id="catIcon" selected = "option 1">
+                    <option value="fas fa-baby-carriage fa-lg">option 1</option>
+                    <option value="fas fa-bone fa-lg">option 2</option>
+                    <option value="fas fa-car fa-lg">option 3</option>
+                    <option value="fas fa-cat fa-lg">option 4</option>
+                    <option value="fas fa-crow fa-lg">option 5</option>
+                    <option value="fas fa-faucet fa-lg">option 6</option>
+                    <option value="fas fa-gem fa-lg">option 7</option>
+                    <option value="fas fa-guitar fa-lg">option 8</option>
+                    <option value="fas fa-luggage-cart fa-lg">option 9</option>
+                    <option value="fas fa-mug-hot fa-lg">option 10</option>
+                    <option value="fas fa-plane fa-lg">option 11</option>
+                    <option value="fas fa-piggy-bank fa-lg">option 12</option>
                 </select>
                 <div class="iconSelections"> 
                     <ol class="icons-to-select">
@@ -293,7 +293,7 @@
                 
             </div>
 
-            <input type="submit" value="Submit">
+            <input type="submit" onclick="submitCat()" value="Submit">
         </div>
 
         <div class="pop-up tabcontent" id="editor" style="display:none;">
@@ -304,17 +304,17 @@
             </div>
 
             <label for="name">NEW NAME</label>
-            <input type="text" id="name" name="name" placeholder="Savings, Gifts, Miscellaneous...">
+            <input type="text" id="editName" name="name" placeholder="Savings, Gifts, Miscellaneous...">
 
 
             <label for="color">NEW COLOR</label>
-            <input type="color" id="color" name="color">
+            <input type="color" id="editColor" name="color">
 
-            <input type="submit" value="Delete Category">
+            <input type="submit" onclick="deleteCategory()" value="Delete Category">
 
             <br>
 
-            <input type="submit" value="Submit">
+            <input type="submit" onclick="submitEdit()" value="Submit">
         </div>
 
     </div>

@@ -97,8 +97,6 @@ let new_transac = function() {
 let selectedIcon =  function(x) {
     let icon = document.getElementById('catIcon');
     icon.selectedIndex = x-1;
-    console.log(x);
-    console.log(icon.options[icon.selectedIndex]);
     let options = {
         1: "fas fa-baby-carriage fa-lg",
         2: "fas fa-bone fa-lg",
@@ -115,8 +113,52 @@ let selectedIcon =  function(x) {
     };
     let selected = document.getElementById('selected_icon');
     selected.className = `selected-icon ${options[x]}`;
-    console.log(selected.className);
 
 }
 
+let submitCat = function() {
+    let name = document.getElementById('catName').value;
+    let color = document.getElementById('catColor').value;
+    let icon = document.getElementById('catIcon');
+    var iconVal = icon.options[icon.selectedIndex].value;
 
+    if(name.trim() === ''){
+        document.getElementById('catName').className = 'error';
+        setTimeout(function() {
+            document.getElementById("catName").className = '';
+        }, 500);
+    }
+    else {
+        funcCloseCat();
+        document.getElementById('catName').value = "";
+        icon.selectedIndex = 0;
+        console.log({
+            name: name,
+            icon: iconVal,
+            color: color
+        });
+
+        let catNew = document.createElement("div");
+        catNew.setAttribute("class", "cat7");
+        let newButton = document.createElement("button");
+        newButton.setAttribute("class", `category ${name}`);
+        let pullOut = document.createElement("i");
+        pullOut.setAttribute("class", `${iconVal}`);
+        newButton.setAttribute("style", `border-color: ${color};`);
+
+        newButton.appendChild(pullOut);
+        catNew.appendChild(newButton);
+
+        let left = document.getElementById('left_panel');
+        let add = document.getElementById("add_button");
+        left.insertBefore(catNew, add);
+    }
+}
+
+let deletCategory = function(){
+
+}
+
+let submitEdit = function() {
+
+}
