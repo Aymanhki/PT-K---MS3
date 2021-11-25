@@ -23,3 +23,4 @@ let year;
 let month;
 
 let isMonthView = true;
+let doughnutLabels = ['Accommodation', 'Entertainment', 'Food', 'Health', 'Personal', 'Utilities'];

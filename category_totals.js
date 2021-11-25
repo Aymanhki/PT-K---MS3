@@ -3,6 +3,7 @@
 let object = {
     table: []
 }
+let colors = ['rgba(26,134,147)', 'rgba(212,185,94)', 'rgba(78,162,162)',  'rgba(116,26,51)', 'rgba(210,143,52)', 'rgba(179,66,50)']
 
 //let categories = [];
 

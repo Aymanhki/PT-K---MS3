@@ -1,5 +1,5 @@
 
-let doughnutLabels = ['Accommodation', 'Entertainment', 'Food', 'Health', 'Personal', 'Utilities'];
+
 let doughnutColors = [];
 let doughnutChart;
 function drawDoughnut()
@@ -58,7 +58,7 @@ function drawDoughnut()
                         //calculate the percentage based on the total and current item, also this does a rough rounding to give a whole number
                         let percentage = Math.floor(((currentValue / total) * 100) + 0.5);
 
-                        return " " + data.labels[tooltipItem.index]+": " + percentage + "%";
+                        return " " + data.labels[tooltipItem.index]+": " + percentage + "%, $" + dataset.data[tooltipItem.index].toFixed(2);
                     }
                 }
             },
@@ -74,6 +74,11 @@ function drawDoughnut()
         doughnutChart = new Chart(ctx, config);
 
     });
+}
+
+function swapDoughnut()
+{
+    document.getElementById("big-dough").classList.toggle("active");
 }
 
 
