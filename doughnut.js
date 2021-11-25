@@ -56,7 +56,10 @@ function drawDoughnut()
                         //get the current items value
                         let currentValue = dataset.data[tooltipItem.index];
                         //calculate the percentage based on the total and current item, also this does a rough rounding to give a whole number
-                        let percentage = Math.floor(((currentValue / total) * 100) + 0.5);
+                        let i = 1;
+                        if (total < 0)
+                            i = -1;
+                        let percentage = Math.floor(((currentValue / total) * 100 * i) + 0.5);
 
                         return " " + data.labels[tooltipItem.index]+": " + percentage + "%, $" + dataset.data[tooltipItem.index].toFixed(2);
                     }

@@ -197,6 +197,6 @@ function drawLine()
 
     });
 
-    let text = isMonthView ? "Total Spent Until a Given Day" : "Total Spent in a Month";
+    let text = isMonthView ? "Net Change Until a Given Day" : "Net Change in a Month";
     document.getElementById("graph-description-label").innerHTML = text;
 }
