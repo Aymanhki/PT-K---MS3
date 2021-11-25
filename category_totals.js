@@ -51,7 +51,7 @@ function getCategoryTotals()
                 {
                     if(data[j].Category === categories[i] && data[j].Month == month && data[j].Year == year)
                     {
-                        total += Math.abs(data[j].Amount);
+                        total += data[j].Amount;
                     }
                 }
             }
@@ -61,7 +61,7 @@ function getCategoryTotals()
                 {
                     if(data[j].Category === categories[i] && data[j].Year == year)
                     {
-                        total += Math.abs(data[j].Amount);
+                        total += data[j].Amount;
                     }
                 }
             }
