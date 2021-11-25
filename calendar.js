@@ -317,7 +317,11 @@ function checkState() {
         drawLine();
     }
     getCatPopTotals();
-    file.onload();
+    if(file)
+    {
+        file.onload();
+    }
+
 }//checkState
 
 /* -------------------------------------------- the year view ---------------------------------- */

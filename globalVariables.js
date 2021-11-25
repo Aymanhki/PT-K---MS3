@@ -24,3 +24,9 @@ let month;
 
 let isMonthView = true;
 let doughnutLabels = ['Accommodation', 'Entertainment', 'Food', 'Health', 'Personal', 'Utilities'];
+
+let doughnutChart;
+let doughnutChartButBigger;
+
+let lineChart;
+let lineChartButBigger;

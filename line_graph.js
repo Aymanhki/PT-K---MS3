@@ -1,5 +1,4 @@
-let lineChart;
-let lineChartButBigger;
+
 function getTotal(array, index)
 {
     let total = 0;
@@ -398,7 +397,6 @@ function swapLineGraph()
                 data: yearData,
                 options: options
             };
-
             lineChartButBigger = new Chart(ctx, config);
         }
 

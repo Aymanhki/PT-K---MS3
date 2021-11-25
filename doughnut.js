@@ -1,8 +1,7 @@
 
 
 let doughnutColors = [];
-let doughnutChart;
-let doughnutChartButBigger;
+
 function drawDoughnut() {
     $(document).ready(function () {
         let ctx = $("#doughnut").get(0).getContext('2d');
@@ -65,6 +64,7 @@ function recreateNode(el, withChildren) {
   
 
 function swapDoughnut() {
+
     document.getElementById("big-dough").classList.toggle("active");
     document.getElementById("DCC").classList.toggle("active");
     document.getElementById("day-popup-overlay").classList.toggle("active");
