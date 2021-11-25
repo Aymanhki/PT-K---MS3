@@ -197,6 +197,6 @@ function drawLine()
 
     });
 
-    let text = isMonthView ? "Total spent till That day" : "Total spent in that month";
+    let text = isMonthView ? "Total Spent Until a Given Day" : "Total Spent in a Month";
     document.getElementById("graph-description-label").innerHTML = text;
 }

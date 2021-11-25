@@ -30,7 +30,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4563.25
+      'Amount': -4563.25
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120834678151',
@@ -41,7 +41,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5851
+      'Amount': -5851
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP SC103291839668',
@@ -52,7 +52,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1665.54
+      'Amount': -1665.54
    },
     {
       'Title': 'PAYPAL *OZLEY LLC 4029357733- ON',
@@ -63,7 +63,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4188.04
+      'Amount': -4188.04
    },
     {
       'Title': 'Sony Interactive Enter 8003457669 CA',
@@ -107,7 +107,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3449.76
+      'Amount': -3449.76
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000224660',
@@ -140,7 +140,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1178.97
+      'Amount': -1178.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515380970',
@@ -151,7 +151,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8416.31
+      'Amount': -8416.31
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 128319713380 51.74 CAD @ 1.000000',
@@ -195,7 +195,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5376.41
+      'Amount': -5376.41
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL H&M ONLINE 225707013470',
@@ -206,7 +206,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3801.3
+      'Amount': -3801.3
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 119320576697',
@@ -217,7 +217,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7204.35
+      'Amount': -7204.35
    },
     {
       'Title': 'AMZN Mktp CA*2L7ID8VF1 WWW.AMAZON.CA- ON',
@@ -261,7 +261,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1577.69
+      'Amount': -1577.69
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103927439111 Nil',
@@ -272,7 +272,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9757.75
+      'Amount': -9757.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130319587460',
@@ -294,7 +294,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7539.51
+      'Amount': -7539.51
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 123709541432',
@@ -305,7 +305,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1019.92
+      'Amount': -1019.92
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246729',
@@ -349,7 +349,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6762.01
+      'Amount': -6762.01
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000229840',
@@ -360,7 +360,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2219.04
+      'Amount': -2219.04
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214062',
@@ -393,7 +393,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2452.78
+      'Amount': -2452.78
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 100574173390',
@@ -415,7 +415,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9079.21
+      'Amount': -9079.21
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -426,7 +426,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4626.12
+      'Amount': -4626.12
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277987',
@@ -448,7 +448,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5906.56
+      'Amount': -5906.56
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.295000',
@@ -470,7 +470,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2968.26
+      'Amount': -2968.26
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114234127034',
@@ -492,7 +492,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8486.66
+      'Amount': -8486.66
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001173 DOLLARAMA #1286',
@@ -514,7 +514,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 301.62
+      'Amount': -301.62
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129221927298',
@@ -558,7 +558,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 569.25
+      'Amount': -569.25
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515380970',
@@ -569,7 +569,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7124.71
+      'Amount': -7124.71
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000256035',
@@ -602,7 +602,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8230.63
+      'Amount': -8230.63
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 128574487262',
@@ -624,7 +624,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6784.1
+      'Amount': -6784.1
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000249325',
@@ -646,7 +646,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4410.68
+      'Amount': -4410.68
    },
     {
       'Title': 'INSTACART 8882467822- NS',
@@ -712,7 +712,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4673.05
+      'Amount': -4673.05
    },
     {
       'Title': 'Electronic Funds Transfer PREAUTHORIZED DEBIT CIBC-DISATF',
@@ -756,7 +756,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 584.69
+      'Amount': -584.69
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -767,7 +767,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8012.76
+      'Amount': -8012.76
    },
     {
       'Title': 'DOORDASH*OH DOUGHNUTS DOWNTOWN TORO- ON',
@@ -789,7 +789,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5932.62
+      'Amount': -5932.62
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000275373 MASTERCARD- BMO',
@@ -800,7 +800,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9357.07
+      'Amount': -9357.07
    },
     {
       'Title': 'AMZN Mktp CA*2C9PP0MR2 WWW.AMAZON.CAON',
@@ -811,7 +811,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2886.22
+      'Amount': -2886.22
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP SC103291839668',
@@ -822,7 +822,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8386.19
+      'Amount': -8386.19
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 112601145020',
@@ -833,7 +833,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4455.65
+      'Amount': -4455.65
    },
     {
       'Title': 'Branch Transaction WITHDRAWAL IBB FORT RICHMOND SQ BANKING CENTR',
@@ -855,7 +855,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1055.04
+      'Amount': -1055.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 119701211405',
@@ -910,7 +910,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7511.93
+      'Amount': -7511.93
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001029 DOLLARAMA # 503',
@@ -932,7 +932,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2975.48
+      'Amount': -2975.48
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 128574487262',
@@ -943,7 +943,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 692.94
+      'Amount': -692.94
    },
     {
       'Title': 'INSTACART 8882467822- NS',
@@ -954,7 +954,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 776.97
+      'Amount': -776.97
    },
     {
       'Title': 'U OF M REGISTRARS WINNIPEG- MB',
@@ -965,7 +965,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6952.01
+      'Amount': -6952.01
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214441',
@@ -976,7 +976,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8443.71
+      'Amount': -8443.71
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000011359309 AIRLINE LIMOUSI',
@@ -1009,7 +1009,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8882.67
+      'Amount': -8882.67
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000284108 MASTERCARD- BMO',
@@ -1020,7 +1020,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3486.92
+      'Amount': -3486.92
    },
     {
       'Title': 'PAYPAL *ASEELSAFI14 4029357733- ON',
@@ -1097,7 +1097,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 665.38
+      'Amount': -665.38
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 124323231129',
@@ -1108,7 +1108,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3079.92
+      'Amount': -3079.92
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129862345774',
@@ -1119,7 +1119,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9638.23
+      'Amount': -9638.23
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515380970',
@@ -1152,7 +1152,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7621.01
+      'Amount': -7621.01
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 772001001002 7 ELEVEN STORE',
@@ -1174,7 +1174,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3282.97
+      'Amount': -3282.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 121616350114',
@@ -1185,7 +1185,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5118.85
+      'Amount': -5118.85
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000269148',
@@ -1196,7 +1196,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5394.95
+      'Amount': -5394.95
    },
     {
       'Title': 'Internet Banking E-TRANSFER RECLAIM010387129802',
@@ -1218,7 +1218,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3807.17
+      'Amount': -3807.17
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001280019 ULTRACUTS STORE',
@@ -1251,7 +1251,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7354.35
+      'Amount': -7354.35
    },
     {
       'Title': 'APPLE.COM/BILL TORONTO- ON',
@@ -1262,7 +1262,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3568.79
+      'Amount': -3568.79
    },
     {
       'Title': 'SKIPTHEDISHES WINNIPEG- MB',
@@ -1273,7 +1273,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2997.08
+      'Amount': -2997.08
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE NOON 033513110581 700.00 EGP @ 0.085600',
@@ -1295,7 +1295,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5267.05
+      'Amount': -5267.05
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 115231539541',
@@ -1317,7 +1317,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5702.56
+      'Amount': -5702.56
    },
     {
       'Title': 'DOORDASH*SUGAR MARMALA DOWNTOWN TOROON',
@@ -1328,7 +1328,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2387.98
+      'Amount': -2387.98
    },
     {
       'Title': 'DOORDASH*TIM HORTONS DOWNTOWN TOROON',
@@ -1339,7 +1339,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5829.1
+      'Amount': -5829.1
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937244055 Nil',
@@ -1350,7 +1350,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1506.43
+      'Amount': -1506.43
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WINNIPEG TRANSI 121498930642',
@@ -1361,7 +1361,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2593.13
+      'Amount': -2593.13
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937221713 Nil',
@@ -1449,7 +1449,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4244.39
+      'Amount': -4244.39
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -1460,7 +1460,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6450.84
+      'Amount': -6450.84
    },
     {
       'Title': 'SKIPTHEDISHES WINNIPEG- MB',
@@ -1471,7 +1471,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5496.67
+      'Amount': -5496.67
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.252000',
@@ -1493,7 +1493,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1367.89
+      'Amount': -1367.89
    },
     {
       'Title': 'EPC*EPIC GAMES STORE 919-854-0070 59.99 USD @ 1.344390',
@@ -1504,7 +1504,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3097.2
+      'Amount': -3097.2
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951869 Nil',
@@ -1515,7 +1515,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6757.43
+      'Amount': -6757.43
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274886',
@@ -1526,7 +1526,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9467.39
+      'Amount': -9467.39
    },
     {
       'Title': 'DOORDASH*HSIEH FAMILY DOWNTOWN TOROON',
@@ -1570,7 +1570,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1598.1
+      'Amount': -1598.1
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001391 DOLLARAMA #1286',
@@ -1581,7 +1581,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 27.66
+      'Amount': -27.66
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL PIZZA PIZZA LTD 125320842485 30.16 CAD @ 1.000000',
@@ -1603,7 +1603,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 843.66
+      'Amount': -843.66
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000243363',
@@ -1614,7 +1614,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3761.4
+      'Amount': -3761.4
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103780765947 Trina Dela Cruz',
@@ -1625,7 +1625,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4101.06
+      'Amount': -4101.06
    },
     {
       'Title': 'UBER *TRIP AMSTERDAM- ON',
@@ -1658,7 +1658,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7815.25
+      'Amount': -7815.25
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000263993',
@@ -1669,7 +1669,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4549.8
+      'Amount': -4549.8
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 874001001178 7 ELEVEN STORE',
@@ -1680,7 +1680,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2479.57
+      'Amount': -2479.57
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000232460 UNIVERSITY OF MANITOBA',
@@ -1691,7 +1691,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3623.36
+      'Amount': -3623.36
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233795',
@@ -1724,7 +1724,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 169.77
+      'Amount': -169.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MARBLE 119401668024',
@@ -1757,7 +1757,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9697.83
+      'Amount': -9697.83
    },
     {
       'Title': 'Ding 70783768 Dublin',
@@ -1790,7 +1790,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8889.53
+      'Amount': -8889.53
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 821001001034 7 ELEVEN STORE',
@@ -1823,7 +1823,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5353.36
+      'Amount': -5353.36
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -1834,7 +1834,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 711.98
+      'Amount': -711.98
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -1867,7 +1867,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9954.77
+      'Amount': -9954.77
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103782929527 Nil',
@@ -1878,7 +1878,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9802.92
+      'Amount': -9802.92
    },
     {
       'Title': 'APPLE.COM/BILL 866-712-7753- ON',
@@ -1900,7 +1900,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4973.45
+      'Amount': -4973.45
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -1911,7 +1911,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8134.99
+      'Amount': -8134.99
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SP * PALIROOTS 114620880842 37.00 USD @ 1.238378',
@@ -1922,7 +1922,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4849
+      'Amount': -4849
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129013886157',
@@ -1977,7 +1977,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1675.49
+      'Amount': -1675.49
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 124122872769 TIM HORTONS #81',
@@ -1988,7 +1988,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 802.67
+      'Amount': -802.67
    },
     {
       'Title': 'UBER CANADA/UBERTRIP TORONTO ON',
@@ -1999,7 +1999,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4521.1
+      'Amount': -4521.1
    },
     {
       'Title': 'DOORDASH*RED LOBSTER DOWNTOWN TOROON',
@@ -2010,7 +2010,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5226.02
+      'Amount': -5226.02
    },
     {
       'Title': 'PAYPAL *IGLOOB16 4029357733- ON',
@@ -2043,7 +2043,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2522.49
+      'Amount': -2522.49
    },
     {
       'Title': 'MARY BROWNS #8002 WINNIPEG- MB',
@@ -2087,7 +2087,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1481.06
+      'Amount': -1481.06
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 129220350485',
@@ -2098,7 +2098,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 246.92
+      'Amount': -246.92
    },
     {
       'Title': 'AMZN Mktp CA*2L93I8MI2 WWW.AMAZON.CA- ON',
@@ -2120,7 +2120,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4672.24
+      'Amount': -4672.24
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 860001001001 7 ELEVEN STORE',
@@ -2153,7 +2153,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2322.73
+      'Amount': -2322.73
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233795',
@@ -2164,7 +2164,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4020.13
+      'Amount': -4020.13
    },
     {
       'Title': 'Electronic Funds Transfer PREAUTHORIZED DEBIT CIBC-DISATF',
@@ -2197,7 +2197,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9339.23
+      'Amount': -9339.23
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.251000',
@@ -2208,7 +2208,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5945.29
+      'Amount': -5945.29
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000263993',
@@ -2219,7 +2219,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9052.99
+      'Amount': -9052.99
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 115221381293',
@@ -2285,7 +2285,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4514.66
+      'Amount': -4514.66
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001413 DOLLARAMA #1355',
@@ -2296,7 +2296,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8725.99
+      'Amount': -8725.99
    },
     {
       'Title': 'Branch Transaction SERVICE CHARGE DISCOUNT',
@@ -2318,7 +2318,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9404.78
+      'Amount': -9404.78
    },
     {
       'Title': 'AMZN Mktp CA*2L7ID8VF1 WWW.AMAZON.CA- ON',
@@ -2329,7 +2329,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7759.04
+      'Amount': -7759.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115416041043',
@@ -2351,7 +2351,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8368.36
+      'Amount': -8368.36
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120843570813',
@@ -2373,7 +2373,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9071.46
+      'Amount': -9071.46
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129013886157',
@@ -2395,7 +2395,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 171.86
+      'Amount': -171.86
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 114222247236',
@@ -2417,7 +2417,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5009.09
+      'Amount': -5009.09
    },
     {
       'Title': 'Branch Transaction WITHDRAWAL IBB FORT RICHMOND SQ BANKING CENTR',
@@ -2461,7 +2461,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 528.04
+      'Amount': -528.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 125633176134',
@@ -2483,7 +2483,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5333.95
+      'Amount': -5333.95
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103835467191 kijiji controller user',
@@ -2516,7 +2516,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8371.49
+      'Amount': -8371.49
    },
     {
       'Title': 'Ding 73866562 Dublin',
@@ -2560,7 +2560,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 454.29
+      'Amount': -454.29
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129013886157 113.55 CAD @ 1.000000',
@@ -2571,7 +2571,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7208.85
+      'Amount': -7208.85
    },
     {
       'Title': 'APPLE.COM/BILL TORONTO- ON',
@@ -2582,7 +2582,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6968.59
+      'Amount': -6968.59
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 125122780380',
@@ -2593,7 +2593,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 271.81
+      'Amount': -271.81
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 857001001125 7 ELEVEN STORE',
@@ -2604,7 +2604,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7188.44
+      'Amount': -7188.44
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *OZLEY L 120700380712',
@@ -2637,7 +2637,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4866.8
+      'Amount': -4866.8
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 129618381237',
@@ -2681,7 +2681,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2873.1
+      'Amount': -2873.1
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215003 UPS STORE #189',
@@ -2692,7 +2692,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3293.32
+      'Amount': -3293.32
    },
     {
       'Title': 'H&M ONLINE TORONTO- ON',
@@ -2736,7 +2736,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1463.72
+      'Amount': -1463.72
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE UBER CANADA 128622894662',
@@ -2747,7 +2747,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 286.94
+      'Amount': -286.94
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001529055 SOBEYS #5037',
@@ -2758,7 +2758,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4957.02
+      'Amount': -4957.02
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 116118852327',
@@ -2769,7 +2769,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5765.99
+      'Amount': -5765.99
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 120723688008',
@@ -2780,7 +2780,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1447.88
+      'Amount': -1447.88
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 112601145020',
@@ -2802,7 +2802,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4462.48
+      'Amount': -4462.48
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 125122740760 49.63 CAD @ 1.000000',
@@ -2813,7 +2813,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 86.16
+      'Amount': -86.16
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 130519882534',
@@ -2857,7 +2857,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8195.68
+      'Amount': -8195.68
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 124516329556 TIM HORTONS #81',
@@ -2879,7 +2879,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6500.13
+      'Amount': -6500.13
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000011359309 AIRLINE LIMOUSI',
@@ -2890,7 +2890,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1464.81
+      'Amount': -1464.81
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.251000',
@@ -2912,7 +2912,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 287.83
+      'Amount': -287.83
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128600189632',
@@ -2923,7 +2923,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9581.38
+      'Amount': -9581.38
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291835592 Nil 2',
@@ -2956,7 +2956,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3227.48
+      'Amount': -3227.48
    },
     {
       'Title': 'DOORDASH*HSIEH FAMILY DOWNTOWN TOROON',
@@ -2967,7 +2967,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 593.58
+      'Amount': -593.58
    },
     {
       'Title': 'DOORDASH*OH DOUGHNUTS DOWNTOWN TORO- ON',
@@ -2978,7 +2978,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9970.79
+      'Amount': -9970.79
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 125122740760 49.63 CAD @ 1.000000',
@@ -2989,7 +2989,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7835.1
+      'Amount': -7835.1
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 124323231129 140.00 CAD @ 1.000000',
@@ -3000,7 +3000,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7391.68
+      'Amount': -7391.68
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000263993',
@@ -3055,7 +3055,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 335.26
+      'Amount': -335.26
    },
     {
       'Title': 'AMZN Mktp CA*2C9PP0MR2 WWW.AMAZON.CAON',
@@ -3066,7 +3066,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5490.6
+      'Amount': -5490.6
    },
     {
       'Title': 'Electronic Funds Transfer PAY 7-ELEVEN CANADA 7-ELEVEN CANADA INC.',
@@ -3077,7 +3077,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5874.33
+      'Amount': -5874.33
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000288020',
@@ -3088,7 +3088,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4492.07
+      'Amount': -4492.07
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WINNIPEG TRANSI 121498930642',
@@ -3099,7 +3099,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1825.12
+      'Amount': -1825.12
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 125122533908',
@@ -3132,7 +3132,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 633.89
+      'Amount': -633.89
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -3143,7 +3143,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5780.14
+      'Amount': -5780.14
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000263993',
@@ -3165,7 +3165,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2048.34
+      'Amount': -2048.34
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115416041043',
@@ -3187,7 +3187,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 670.08
+      'Amount': -670.08
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115222719641',
@@ -3209,7 +3209,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9251.69
+      'Amount': -9251.69
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233939',
@@ -3220,7 +3220,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 133.89
+      'Amount': -133.89
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 860001001001 7 ELEVEN STORE',
@@ -3242,7 +3242,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 318.69
+      'Amount': -318.69
    },
     {
       'Title': 'AMZ*Farmar Direct WWW.AMAZON.CA- ON',
@@ -3253,7 +3253,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2383.2
+      'Amount': -2383.2
    },
     {
       'Title': 'UBER *TRIP AMSTERDAM- ON',
@@ -3275,7 +3275,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6833.52
+      'Amount': -6833.52
    },
     {
       'Title': 'AMZ*Amazon.ca WWW.AMAZON.CA- ON',
@@ -3385,7 +3385,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9452.11
+      'Amount': -9452.11
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8986489928 128931619986',
@@ -3451,7 +3451,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8802.33
+      'Amount': -8802.33
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280230',
@@ -3473,7 +3473,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 645.68
+      'Amount': -645.68
    },
     {
       'Title': 'MARY BROWNS #8002 WINNIPEG- MB',
@@ -3495,7 +3495,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8912.16
+      'Amount': -8912.16
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DBRAND 033520822515',
@@ -3517,7 +3517,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1707.88
+      'Amount': -1707.88
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001183 UNICITY TAXI #',
@@ -3528,7 +3528,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3297.62
+      'Amount': -3297.62
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114643288469',
@@ -3539,7 +3539,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7818.21
+      'Amount': -7818.21
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -3550,7 +3550,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4451.02
+      'Amount': -4451.02
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291835592 Nil 2',
@@ -3561,7 +3561,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3400.09
+      'Amount': -3400.09
    },
     {
       'Title': 'AMZN Mktp CA*2L84Y3JX0 WWW.AMAZON.CA- ON',
@@ -3572,7 +3572,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5619.19
+      'Amount': -5619.19
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000225749',
@@ -3594,7 +3594,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 831
+      'Amount': -831
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 22.39 CAD @ 1.000000',
@@ -3605,7 +3605,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1369.9
+      'Amount': -1369.9
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -3682,7 +3682,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4682.49
+      'Amount': -4682.49
    },
     {
       'Title': 'SHOPPING WITH POINTS/ACHA T PAR POINTS',
@@ -3693,7 +3693,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5423.2
+      'Amount': -5423.2
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129222472965',
@@ -3704,7 +3704,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7703.93
+      'Amount': -7703.93
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128704270353',
@@ -3715,7 +3715,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4349.12
+      'Amount': -4349.12
    },
     {
       'Title': 'APPLE.COM/US 800-676-2775- CA 10.00 USD @ 1.342000',
@@ -3759,7 +3759,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2180.11
+      'Amount': -2180.11
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000243448',
@@ -3781,7 +3781,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6631.13
+      'Amount': -6631.13
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000011359309 AIRLINE LIMOUSI',
@@ -3792,7 +3792,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6023.36
+      'Amount': -6023.36
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 116118852327',
@@ -3803,7 +3803,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4667.11
+      'Amount': -4667.11
    },
     {
       'Title': 'AMZ*Amazon.ca WWW.AMAZON.CA- ON',
@@ -3836,7 +3836,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2334.05
+      'Amount': -2334.05
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937244055 Nil',
@@ -3847,7 +3847,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2677.97
+      'Amount': -2677.97
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000275373 MASTERCARD- BMO',
@@ -3891,7 +3891,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8687.01
+      'Amount': -8687.01
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280436',
@@ -3902,7 +3902,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8567.73
+      'Amount': -8567.73
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103908455504 ROBERTO DINGAL ORTEGA',
@@ -3913,7 +3913,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2462.07
+      'Amount': -2462.07
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 122817474064',
@@ -3946,7 +3946,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4217.35
+      'Amount': -4217.35
    },
     {
       'Title': 'PONY CORRAL RESTAURANT WINNIPEG MB',
@@ -3957,7 +3957,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1427.51
+      'Amount': -1427.51
    },
     {
       'Title': 'UBER* TRIP TORONTO ON',
@@ -3990,7 +3990,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5157.02
+      'Amount': -5157.02
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 128507513608',
@@ -4001,7 +4001,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 755.64
+      'Amount': -755.64
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114820708324',
@@ -4023,7 +4023,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7152.45
+      'Amount': -7152.45
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129262581781',
@@ -4034,7 +4034,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4874.63
+      'Amount': -4874.63
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 860001001001 7 ELEVEN STORE',
@@ -4056,7 +4056,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4789.39
+      'Amount': -4789.39
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129222472965 30.00 CAD @ 1.000000',
@@ -4078,7 +4078,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 335.26
+      'Amount': -335.26
    },
     {
       'Title': 'AMZN Mktp CA*2L7583XQ0 WWW.AMAZON.CA- ON',
@@ -4100,7 +4100,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3925.84
+      'Amount': -3925.84
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000249325',
@@ -4122,7 +4122,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4499.29
+      'Amount': -4499.29
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103906818459 Cs Tutoring',
@@ -4133,7 +4133,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9193.46
+      'Amount': -9193.46
    },
     {
       'Title': 'SKIPTHEDISHES WINNIPEG- MB',
@@ -4155,7 +4155,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9695.89
+      'Amount': -9695.89
    },
     {
       'Title': 'PONY CORRAL RESTAURANT WINNIPEG MB',
@@ -4166,7 +4166,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1189.07
+      'Amount': -1189.07
    },
     {
       'Title': 'U OF M STUDENTS UNION WINNIPEG- MB',
@@ -4177,7 +4177,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3022.94
+      'Amount': -3022.94
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114621814150',
@@ -4188,7 +4188,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7840.57
+      'Amount': -7840.57
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000259703',
@@ -4199,7 +4199,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3386.04
+      'Amount': -3386.04
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.263000',
@@ -4210,7 +4210,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6880.78
+      'Amount': -6880.78
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280173',
@@ -4243,7 +4243,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5282.8
+      'Amount': -5282.8
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 22.39 CAD @ 1.000000',
@@ -4254,7 +4254,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3741.69
+      'Amount': -3741.69
    },
     {
       'Title': 'Electronic Funds Transfer PREAUTHORIZED DEBIT CIBC-DISATF',
@@ -4298,7 +4298,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7093.82
+      'Amount': -7093.82
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000263993',
@@ -4331,7 +4331,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9650.46
+      'Amount': -9650.46
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000036006148 PEARLE VISION 5',
@@ -4353,7 +4353,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2950.44
+      'Amount': -2950.44
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 125633176134',
@@ -4386,7 +4386,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7057.35
+      'Amount': -7057.35
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000219008',
@@ -4397,7 +4397,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6997.31
+      'Amount': -6997.31
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103877893810 Divagar',
@@ -4419,7 +4419,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2490.74
+      'Amount': -2490.74
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285225',
@@ -4452,7 +4452,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7303.46
+      'Amount': -7303.46
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON- ON',
@@ -4496,7 +4496,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7810.25
+      'Amount': -7810.25
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AIR CAN* 112571064500',
@@ -4518,7 +4518,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3691.69
+      'Amount': -3691.69
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000277385 UNIVERSITY OF MANITOBA',
@@ -4551,7 +4551,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1114.4
+      'Amount': -1114.4
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119401577236',
@@ -4562,7 +4562,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7254.76
+      'Amount': -7254.76
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 117519296233 12.89 CAD @ 1.000000',
@@ -4573,7 +4573,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4289.19
+      'Amount': -4289.19
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280173',
@@ -4584,7 +4584,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6443.79
+      'Amount': -6443.79
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129013886157 113.55 CAD @ 1.000000',
@@ -4617,7 +4617,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4332.99
+      'Amount': -4332.99
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115416041043',
@@ -4639,7 +4639,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2421.42
+      'Amount': -2421.42
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 124323231129 140.00 CAD @ 1.000000',
@@ -4661,7 +4661,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 646.23
+      'Amount': -646.23
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 121110785728 GREENCREST PHAR',
@@ -4683,7 +4683,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2317.67
+      'Amount': -2317.67
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000243009 MASTERCARD- BMO',
@@ -4694,7 +4694,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4179.55
+      'Amount': -4179.55
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000263993',
@@ -4727,7 +4727,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9528.85
+      'Amount': -9528.85
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268205',
@@ -4749,7 +4749,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5420.27
+      'Amount': -5420.27
    },
     {
       'Title': 'DOORDASH*SUGAR MARMALA DOWNTOWN TOROON',
@@ -4760,7 +4760,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6307.72
+      'Amount': -6307.72
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 120723688008',
@@ -4793,7 +4793,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3298.72
+      'Amount': -3298.72
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120907700336 20.00 USD @ 1.292000',
@@ -4804,7 +4804,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9218.1
+      'Amount': -9218.1
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268805',
@@ -4848,7 +4848,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2181.73
+      'Amount': -2181.73
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129221927298',
@@ -4859,7 +4859,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2439.86
+      'Amount': -2439.86
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280173',
@@ -4870,7 +4870,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1851.85
+      'Amount': -1851.85
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -4914,7 +4914,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3056.06
+      'Amount': -3056.06
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000232460 UNIVERSITY OF MANITOBA',
@@ -4936,7 +4936,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2875.5
+      'Amount': -2875.5
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233939',
@@ -4947,7 +4947,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7877.57
+      'Amount': -7877.57
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 121616350114',
@@ -4969,7 +4969,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3045.94
+      'Amount': -3045.94
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3119 WINNIPEG- MB',
@@ -5013,7 +5013,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5157.13
+      'Amount': -5157.13
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3177 WINNIPEG- MB',
@@ -5024,7 +5024,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6890.13
+      'Amount': -6890.13
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 117519296233 12.89 CAD @ 1.000000',
@@ -5035,7 +5035,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5595.68
+      'Amount': -5595.68
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280230',
@@ -5090,7 +5090,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4453.56
+      'Amount': -4453.56
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 125215434629 TIM HORTONS #01',
@@ -5112,7 +5112,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 436.01
+      'Amount': -436.01
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103851939670 Divagar',
@@ -5123,7 +5123,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8020.43
+      'Amount': -8020.43
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL PP*6750CODE 213107008052',
@@ -5134,7 +5134,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 867.56
+      'Amount': -867.56
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120906772646 20.00 USD @ 1.292000',
@@ -5145,7 +5145,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7197.57
+      'Amount': -7197.57
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 036362050688',
@@ -5156,7 +5156,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5683.12
+      'Amount': -5683.12
    },
     {
       'Title': 'UBER* PENDING TORONTO ON',
@@ -5189,7 +5189,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2967.56
+      'Amount': -2967.56
    },
     {
       'Title': 'Internet Banking ',
@@ -5222,7 +5222,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7008.04
+      'Amount': -7008.04
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 144001001014 EDO JAPAN - FOR',
@@ -5255,7 +5255,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1231.07
+      'Amount': -1231.07
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8980740778 125372611826',
@@ -5266,7 +5266,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4087.42
+      'Amount': -4087.42
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000236792',
@@ -5299,7 +5299,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2091.16
+      'Amount': -2091.16
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 772001001002 7 ELEVEN STORE',
@@ -5321,7 +5321,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6306.36
+      'Amount': -6306.36
    },
     {
       'Title': 'PAYPAL *ASEELSAFI14 4029357733- ON',
@@ -5343,7 +5343,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1403.61
+      'Amount': -1403.61
    },
     {
       'Title': 'AMZN Mktp CA*2R17U8FM2 WWW.AMAZON.CA- ON',
@@ -5365,7 +5365,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3351.93
+      'Amount': -3351.93
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103915794773 Nil',
@@ -5376,7 +5376,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7891.82
+      'Amount': -7891.82
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -5409,7 +5409,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3835.54
+      'Amount': -3835.54
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WWW.IKEA.CA 128415214343',
@@ -5420,7 +5420,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7196.64
+      'Amount': -7196.64
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000276467',
@@ -5431,7 +5431,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7734
+      'Amount': -7734
    },
     {
       'Title': 'DOORDASH*PIZZA HUT DOWNTOWN TORO- ON',
@@ -5442,7 +5442,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6303.67
+      'Amount': -6303.67
    },
     {
       'Title': 'OVER LIMIT FEE',
@@ -5475,7 +5475,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6277.99
+      'Amount': -6277.99
    },
     {
       'Title': 'VIMEO.COM 646-470-8422- NY 10.00 USD @ 1.312000',
@@ -5541,7 +5541,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2767.34
+      'Amount': -2767.34
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 874001001178 7 ELEVEN STORE',
@@ -5552,7 +5552,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 207.35
+      'Amount': -207.35
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214441',
@@ -5563,7 +5563,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 652.66
+      'Amount': -652.66
    },
     {
       'Title': 'Branch Transaction WITHDRAWAL IBB FORT RICHMOND SQ BANKING CENTR',
@@ -5574,7 +5574,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6559.95
+      'Amount': -6559.95
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 120220289489',
@@ -5585,7 +5585,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7066.6
+      'Amount': -7066.6
    },
     {
       'Title': 'DOORDASH*7-ELEVEN DOWNTOWN TORO- ON',
@@ -5596,7 +5596,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8114.85
+      'Amount': -8114.85
    },
     {
       'Title': 'MARY BROWNS #8002 WINNIPEG MB',
@@ -5607,7 +5607,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5685.32
+      'Amount': -5685.32
    },
     {
       'Title': 'AMZN Mktp CA*2G8R57Z62 WWW.AMAZON.CA- ON',
@@ -5629,7 +5629,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7948.23
+      'Amount': -7948.23
    },
     {
       'Title': 'PURCHASE INTEREST',
@@ -5640,7 +5640,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2390.95
+      'Amount': -2390.95
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 119320576697',
@@ -5651,7 +5651,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2227.62
+      'Amount': -2227.62
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120843570813',
@@ -5662,7 +5662,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6011.39
+      'Amount': -6011.39
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285648',
@@ -5673,7 +5673,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5021.72
+      'Amount': -5021.72
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 860001001001 7 ELEVEN STORE',
@@ -5695,7 +5695,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5698.96
+      'Amount': -5698.96
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103835467191 kijiji controller user',
@@ -5706,7 +5706,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1589.77
+      'Amount': -1589.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 128319713380',
@@ -5717,7 +5717,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6185.11
+      'Amount': -6185.11
    },
     {
       'Title': 'TIM HORTONS #2856 WINNIPEG- MB',
@@ -5728,7 +5728,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7230.26
+      'Amount': -7230.26
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 125320842485',
@@ -5761,7 +5761,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3785.19
+      'Amount': -3785.19
    },
     {
       'Title': 'TIM HORTONS #8152 WINNIPEG MB',
@@ -5783,7 +5783,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2542.66
+      'Amount': -2542.66
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000283043',
@@ -5794,7 +5794,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1864.72
+      'Amount': -1864.72
    },
     {
       'Title': 'SQ *OH DOUGHNUTS gosq.com MB',
@@ -5816,7 +5816,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7879.04
+      'Amount': -7879.04
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103927439111 Nil',
@@ -5827,7 +5827,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2121.38
+      'Amount': -2121.38
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000238398 UNIVERSITY OF MANITOBA',
@@ -5838,7 +5838,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5834.65
+      'Amount': -5834.65
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103932819240 Cs Tutoring',
@@ -5849,7 +5849,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2627.81
+      'Amount': -2627.81
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000011359309 AIRLINE LIMOUSI',
@@ -5871,7 +5871,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1406.45
+      'Amount': -1406.45
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000220619',
@@ -5893,7 +5893,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5283.72
+      'Amount': -5283.72
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 125122533908',
@@ -5915,7 +5915,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7121.83
+      'Amount': -7121.83
    },
     {
       'Title': 'Point of Sale - Visa Debit CORRECTION PAYPAL *ABBYMAR 114420760500',
@@ -5926,7 +5926,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4758.87
+      'Amount': -4758.87
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 121110785728 GREENCREST PHAR',
@@ -5937,7 +5937,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 983.35
+      'Amount': -983.35
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000235999',
@@ -5948,7 +5948,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1483.86
+      'Amount': -1483.86
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000230250',
@@ -5992,7 +5992,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7750.36
+      'Amount': -7750.36
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239148',
@@ -6014,7 +6014,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4374.53
+      'Amount': -4374.53
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 130101408181',
@@ -6025,7 +6025,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6717.83
+      'Amount': -6717.83
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103813947721 SAIFELESLAM KEWAISY',
@@ -6058,7 +6058,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8128.14
+      'Amount': -8128.14
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 821001001034 7 ELEVEN STORE',
@@ -6069,7 +6069,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2612.82
+      'Amount': -2612.82
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -6135,7 +6135,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6775.93
+      'Amount': -6775.93
    },
     {
       'Title': 'INSTACART SUBSCRIPTION HALIFAX MID-H- NS',
@@ -6157,7 +6157,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9710.2
+      'Amount': -9710.2
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129222472965 30.00 CAD @ 1.000000',
@@ -6168,7 +6168,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5183.55
+      'Amount': -5183.55
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE NOON 033513110581 700.00 EGP @ 0.085600',
@@ -6201,7 +6201,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7207.27
+      'Amount': -7207.27
    },
     {
       'Title': 'Ding 70783768 Dublin',
@@ -6223,7 +6223,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1148.27
+      'Amount': -1148.27
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001724 LONDON DRUGS 66',
@@ -6267,7 +6267,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9121.64
+      'Amount': -9121.64
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000281600',
@@ -6289,7 +6289,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6313.66
+      'Amount': -6313.66
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TOROON',
@@ -6300,7 +6300,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9105.69
+      'Amount': -9105.69
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103780765947 Trina Dela Cruz',
@@ -6322,7 +6322,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8996.53
+      'Amount': -8996.53
    },
     {
       'Title': 'APPLE.COM/US 800-676-2775- CA 10.00 USD @ 1.342000',
@@ -6377,7 +6377,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7021.76
+      'Amount': -7021.76
    },
     {
       'Title': 'UOFMANITOBA-BOOKSTORE WINNIPEG- MB',
@@ -6399,7 +6399,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2415.59
+      'Amount': -2415.59
    },
     {
       'Title': 'AMZN Mktp CA*2L7ID8VF1 WWW.AMAZON.CA- ON',
@@ -6454,7 +6454,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 935.23
+      'Amount': -935.23
    },
     {
       'Title': '7-ELEVEN 17060 D2811 WINNIPEG- MB',
@@ -6509,7 +6509,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1258.28
+      'Amount': -1258.28
    },
     {
       'Title': 'Point of Sale - INTERAC CORRECTION 000653170804 ST VITAL VISION',
@@ -6520,7 +6520,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8869.59
+      'Amount': -8869.59
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 115806783478 15.41 CAD @ 1.000000',
@@ -6531,7 +6531,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9471.17
+      'Amount': -9471.17
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 115221381293',
@@ -6542,7 +6542,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 360
+      'Amount': -360
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG MB',
@@ -6608,7 +6608,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6994.93
+      'Amount': -6994.93
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217320',
@@ -6641,7 +6641,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7162.25
+      'Amount': -7162.25
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL PIZZA PIZZA LTD 125320842485 30.16 CAD @ 1.000000',
@@ -6674,7 +6674,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9471.21
+      'Amount': -9471.21
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 129341124937',
@@ -6707,7 +6707,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1267.33
+      'Amount': -1267.33
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 120731656923',
@@ -6751,7 +6751,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5389.76
+      'Amount': -5389.76
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000248281 MASTERCARD- BMO',
@@ -6773,7 +6773,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 373.97
+      'Amount': -373.97
    },
     {
       'Title': 'PURCHASE INTEREST',
@@ -6795,7 +6795,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1537.94
+      'Amount': -1537.94
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 128507513608',
@@ -6828,7 +6828,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8054.97
+      'Amount': -8054.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129862345774',
@@ -6839,7 +6839,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3394.01
+      'Amount': -3394.01
    },
     {
       'Title': 'U OF M STUDENTS UNION WINNIPEG- MB',
@@ -6872,7 +6872,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6864.85
+      'Amount': -6864.85
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON ON',
@@ -6894,7 +6894,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7991.33
+      'Amount': -7991.33
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001303 UNICITY TAXI #',
@@ -6916,7 +6916,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5738.48
+      'Amount': -5738.48
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 20.39 CAD @ 1.000000',
@@ -6927,7 +6927,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8440.83
+      'Amount': -8440.83
    },
     {
       'Title': 'AMZN Mktp CA*2L7583XQ0 WWW.AMAZON.CA- ON',
@@ -6982,7 +6982,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4558.16
+      'Amount': -4558.16
    },
     {
       'Title': 'AMZN Mktp CA*2L2SG1VY1 WWW.AMAZON.CA- ON',
@@ -6993,7 +6993,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2912.35
+      'Amount': -2912.35
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103775451035 Nil',
@@ -7004,7 +7004,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5093.1
+      'Amount': -5093.1
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -7037,7 +7037,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4687.35
+      'Amount': -4687.35
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL GOOGLE *GOOGLE T21300778584 1320.48 CAD @ 1.000000',
@@ -7081,7 +7081,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2222.62
+      'Amount': -2222.62
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -7092,7 +7092,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1471.08
+      'Amount': -1471.08
    },
     {
       'Title': 'SQ *OH DOUGHNUTS gosq.com MB',
@@ -7103,7 +7103,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9506.27
+      'Amount': -9506.27
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103933806689 Cs Tutoring',
@@ -7136,7 +7136,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7575.83
+      'Amount': -7575.83
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&R BLOCK 122420136933',
@@ -7147,7 +7147,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8583.1
+      'Amount': -8583.1
    },
     {
       'Title': 'Cashback/Remises CR',
@@ -7158,7 +7158,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3640.04
+      'Amount': -3640.04
    },
     {
       'Title': 'DNH*GODADDY.COM EGP 480-505-8855- AZ 933.88 EGP @ .086103',
@@ -7169,7 +7169,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9540.53
+      'Amount': -9540.53
    },
     {
       'Title': 'AMZN Mktp CA*2L7583XQ0 WWW.AMAZON.CA- ON',
@@ -7191,7 +7191,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9424.03
+      'Amount': -9424.03
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 128711822579',
@@ -7224,7 +7224,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3859.03
+      'Amount': -3859.03
    },
     {
       'Title': 'AMZN Mktp CA*2L7ID8VF1 WWW.AMAZON.CA- ON',
@@ -7246,7 +7246,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7142.93
+      'Amount': -7142.93
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130615291106',
@@ -7290,7 +7290,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5338.5
+      'Amount': -5338.5
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 857001001125 7 ELEVEN STORE',
@@ -7301,7 +7301,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 871.8
+      'Amount': -871.8
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -7312,7 +7312,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2456.07
+      'Amount': -2456.07
    },
     {
       'Title': 'REQUEST MONEY 010338709427 Floribert Kamabu',
@@ -7323,7 +7323,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5981.63
+      'Amount': -5981.63
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -7367,7 +7367,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5865.55
+      'Amount': -5865.55
    },
     {
       'Title': 'Sony Interactive Enter 8003457669 CA',
@@ -7378,7 +7378,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 856.5
+      'Amount': -856.5
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000223192',
@@ -7400,7 +7400,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6049.04
+      'Amount': -6049.04
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103775451035 Nil',
@@ -7411,7 +7411,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7534.57
+      'Amount': -7534.57
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128600189632',
@@ -7422,7 +7422,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7387.96
+      'Amount': -7387.96
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130201721079',
@@ -7433,7 +7433,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3644.05
+      'Amount': -3644.05
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -7499,7 +7499,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4335.32
+      'Amount': -4335.32
    },
     {
       'Title': 'SHOPPING WITH POINTS/ACHA T PAR POINTS',
@@ -7510,7 +7510,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3500.02
+      'Amount': -3500.02
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001183 UNICITY TAXI #',
@@ -7554,7 +7554,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6219.86
+      'Amount': -6219.86
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000653170804 ST VITAL VISION',
@@ -7565,7 +7565,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9532.58
+      'Amount': -9532.58
    },
     {
       'Title': 'DOORDASH*RED FOOT KITC DOWNTOWN TORO- ON',
@@ -7598,7 +7598,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4440.7
+      'Amount': -4440.7
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115244629060',
@@ -7609,7 +7609,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6075.1
+      'Amount': -6075.1
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 125122740760 60.00 CAD @ 1.000000',
@@ -7620,7 +7620,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2711.49
+      'Amount': -2711.49
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB T21187134271 12.89 CAD @ 1.000000',
@@ -7664,7 +7664,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 881.55
+      'Amount': -881.55
    },
     {
       'Title': 'LONDON DRUGS 66 WINNIPEG- MB',
@@ -7675,7 +7675,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 513.5
+      'Amount': -513.5
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 036362050688',
@@ -7708,7 +7708,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4918.56
+      'Amount': -4918.56
    },
     {
       'Title': 'PAYPAL *ASEELSAFI14 4029357733- ON',
@@ -7719,7 +7719,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6912.6
+      'Amount': -6912.6
    },
     {
       'Title': 'UBER *TRIP HELP.UBER.COMNLD',
@@ -7730,7 +7730,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1826.41
+      'Amount': -1826.41
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103904721909 Cs Tutoring',
@@ -7763,7 +7763,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5148.51
+      'Amount': -5148.51
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 129233222773',
@@ -7785,7 +7785,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7138.7
+      'Amount': -7138.7
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001413 DOLLARAMA #1355',
@@ -7807,7 +7807,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6402.29
+      'Amount': -6402.29
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215003 UPS STORE #189',
@@ -7818,7 +7818,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 343.62
+      'Amount': -343.62
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -7840,7 +7840,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6224.09
+      'Amount': -6224.09
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115764263401',
@@ -7851,7 +7851,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7495.31
+      'Amount': -7495.31
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL AMZ*Rankie CA 215207007894',
@@ -7862,7 +7862,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3288.09
+      'Amount': -3288.09
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M STUDENTS 114222801307',
@@ -7873,7 +7873,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 527.63
+      'Amount': -527.63
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL GOOGLE *Google 230807006268',
@@ -7884,7 +7884,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5448.99
+      'Amount': -5448.99
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 115221381293',
@@ -7895,7 +7895,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5421.57
+      'Amount': -5421.57
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Patreon* Member 118207667254 18.00 GBP @ 1.762222',
@@ -7906,7 +7906,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4669.9
+      'Amount': -4669.9
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001569 LONDON DRUGS 66',
@@ -7928,7 +7928,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8684.37
+      'Amount': -8684.37
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 119701211405',
@@ -7972,7 +7972,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1875
+      'Amount': -1875
    },
     {
       'Title': 'INSTACART SUBSCRIPTION HALIFAX MID-H- NS',
@@ -7983,7 +7983,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8356.65
+      'Amount': -8356.65
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115521642780',
@@ -8027,7 +8027,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5701.01
+      'Amount': -5701.01
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 119320576697',
@@ -8082,7 +8082,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 367.63
+      'Amount': -367.63
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 125122780380',
@@ -8093,7 +8093,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3146.95
+      'Amount': -3146.95
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001302 COINAMATIC CANA',
@@ -8104,7 +8104,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8103.19
+      'Amount': -8103.19
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285648',
@@ -8115,7 +8115,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7418.17
+      'Amount': -7418.17
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217381',
@@ -8137,7 +8137,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7440.02
+      'Amount': -7440.02
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274886',
@@ -8159,7 +8159,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3149.37
+      'Amount': -3149.37
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000283043',
@@ -8170,7 +8170,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2784.96
+      'Amount': -2784.96
    },
     {
       'Title': 'INSTACART 8882467822- NS',
@@ -8225,7 +8225,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7176.14
+      'Amount': -7176.14
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -8247,7 +8247,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6898.49
+      'Amount': -6898.49
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 115231539541',
@@ -8258,7 +8258,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 794.55
+      'Amount': -794.55
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000283043',
@@ -8269,7 +8269,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5545.05
+      'Amount': -5545.05
    },
     {
       'Title': 'APPLE.COM/BILL 866-712-7753- ON',
@@ -8280,7 +8280,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9080.89
+      'Amount': -9080.89
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274346',
@@ -8291,7 +8291,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 177.01
+      'Amount': -177.01
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000238398 UNIVERSITY OF MANITOBA',
@@ -8302,7 +8302,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6643.57
+      'Amount': -6643.57
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103904096531 Nam Huy Bui',
@@ -8313,7 +8313,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6488.7
+      'Amount': -6488.7
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000036006148 PEARLE VISION 5',
@@ -8324,7 +8324,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3258.65
+      'Amount': -3258.65
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000222121',
@@ -8379,7 +8379,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7496.92
+      'Amount': -7496.92
    },
     {
       'Title': 'AMZN Mktp CA*2L93I8MI2 WWW.AMAZON.CA- ON',
@@ -8412,7 +8412,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6634.42
+      'Amount': -6634.42
    },
     {
       'Title': 'DOORDASH*RED FOOT KITC DOWNTOWN TORO- ON',
@@ -8423,7 +8423,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9033.06
+      'Amount': -9033.06
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000243363',
@@ -8445,7 +8445,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5418.93
+      'Amount': -5418.93
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000223192',
@@ -8456,7 +8456,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9925.17
+      'Amount': -9925.17
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001182 UNICITY TAXI #',
@@ -8467,7 +8467,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2725.34
+      'Amount': -2725.34
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DBRAND 033520822515',
@@ -8478,7 +8478,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9072.79
+      'Amount': -9072.79
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112601145020',
@@ -8489,7 +8489,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8253.07
+      'Amount': -8253.07
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103771414990',
@@ -8500,7 +8500,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4033.81
+      'Amount': -4033.81
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO- ON',
@@ -8511,7 +8511,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8855.52
+      'Amount': -8855.52
    },
     {
       'Title': 'OVERLIMIT FEE',
@@ -8522,7 +8522,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8842.01
+      'Amount': -8842.01
    },
     {
       'Title': 'Electronic Funds Transfer CREDIT MEMO CIBC-DISATF',
@@ -8533,7 +8533,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1146.78
+      'Amount': -1146.78
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TORO- ON',
@@ -8544,7 +8544,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5225.09
+      'Amount': -5225.09
    },
     {
       'Title': 'STARBUCKS COFFEE #48192 WINNIPEG- MB',
@@ -8566,7 +8566,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 656.36
+      'Amount': -656.36
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233596',
@@ -8577,7 +8577,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 727.7
+      'Amount': -727.7
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103904094175 divagar',
@@ -8588,7 +8588,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4699.41
+      'Amount': -4699.41
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115161790291',
@@ -8599,7 +8599,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9544.6
+      'Amount': -9544.6
    },
     {
       'Title': 'PAYMENT RECEIVED - THANK YOU',
@@ -8621,7 +8621,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2548.99
+      'Amount': -2548.99
    },
     {
       'Title': 'U OF M STUDENTS UNION WINNIPEG- MB',
@@ -8676,7 +8676,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8585.34
+      'Amount': -8585.34
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -8698,7 +8698,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2605.06
+      'Amount': -2605.06
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3119 WINNIPEG- MB',
@@ -8731,7 +8731,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 913.05
+      'Amount': -913.05
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL GOOGLE *GOOGLE T21300778584 1320.48 CAD @ 1.000000',
@@ -8742,7 +8742,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 151.66
+      'Amount': -151.66
    },
     {
       'Title': 'UNITED NATIONS HIG GENEVA',
@@ -8753,7 +8753,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1593.78
+      'Amount': -1593.78
    },
     {
       'Title': 'CASH ADVANCE/AVANCE DE FO NDS',
@@ -8775,7 +8775,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7533.2
+      'Amount': -7533.2
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129013886157',
@@ -8808,7 +8808,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8602.7
+      'Amount': -8602.7
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001724 LONDON DRUGS 66',
@@ -8819,7 +8819,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8105.81
+      'Amount': -8105.81
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000211857 MASTERCARD- BMO',
@@ -8841,7 +8841,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7863.79
+      'Amount': -7863.79
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000232460 UNIVERSITY OF MANITOBA',
@@ -8852,7 +8852,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8908.31
+      'Amount': -8908.31
    },
     {
       'Title': 'TIM HORTONS #8152 WINNIPEG- MB',
@@ -8874,7 +8874,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4095.67
+      'Amount': -4095.67
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515380970',
@@ -8885,7 +8885,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3719.21
+      'Amount': -3719.21
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 112517341247',
@@ -8907,7 +8907,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6132.75
+      'Amount': -6132.75
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001372012 NATION WEST INS',
@@ -8940,7 +8940,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2652.5
+      'Amount': -2652.5
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285225',
@@ -8951,7 +8951,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4235.3
+      'Amount': -4235.3
    },
     {
       'Title': 'SKIPTHEDISHES WINNIPEG MB',
@@ -8973,7 +8973,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 79.4
+      'Amount': -79.4
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239148',
@@ -8995,7 +8995,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6665.33
+      'Amount': -6665.33
    },
     {
       'Title': 'DOORDASH*OH DOUGHNUTS DOWNTOWN TORO- ON',
@@ -9017,7 +9017,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6634.46
+      'Amount': -6634.46
    },
     {
       'Title': 'ROGERS ******* 888-764-3771 ON',
@@ -9039,7 +9039,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 771.63
+      'Amount': -771.63
    },
     {
       'Title': 'UBR* PENDING.UBER.COM AMSTERDAM- ON',
@@ -9050,7 +9050,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2452.82
+      'Amount': -2452.82
    },
     {
       'Title': 'AMZN Mktp CA*2L7JZ85B2 WWW.AMAZON.CA- ON',
@@ -9072,7 +9072,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6257.86
+      'Amount': -6257.86
    },
     {
       'Title': 'PAYPAL *IGLOOB16 4029357733- ON',
@@ -9083,7 +9083,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 964.11
+      'Amount': -964.11
    },
     {
       'Title': 'Automated Banking Machine ATM WITHDRAWAL FORT RICHMOND SQ 2A12',
@@ -9105,7 +9105,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6767.36
+      'Amount': -6767.36
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 120723688008',
@@ -9116,7 +9116,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4057.17
+      'Amount': -4057.17
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 115222608388',
@@ -9160,7 +9160,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2720.92
+      'Amount': -2720.92
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000286580',
@@ -9171,7 +9171,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4569.21
+      'Amount': -4569.21
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001143004 UPS STORE #189',
@@ -9193,7 +9193,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9101.39
+      'Amount': -9101.39
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001529055 SOBEYS #5037',
@@ -9204,7 +9204,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2020.52
+      'Amount': -2020.52
    },
     {
       'Title': 'AMZN Mktp CA*2R9IA3ZW2 WWW.AMAZON.CA- ON',
@@ -9215,7 +9215,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2328.66
+      'Amount': -2328.66
    },
     {
       'Title': 'Internet Banking E-TRANSFER RECLAIM010387129802',
@@ -9281,7 +9281,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6496.84
+      'Amount': -6496.84
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260110',
@@ -9292,7 +9292,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3410.88
+      'Amount': -3410.88
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129262581781',
@@ -9314,7 +9314,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7009.75
+      'Amount': -7009.75
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 297001001049 7-ELEVEN 17060',
@@ -9325,7 +9325,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1395.19
+      'Amount': -1395.19
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515540976',
@@ -9369,7 +9369,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9018.81
+      'Amount': -9018.81
    },
     {
       'Title': 'DOORDASH*WAKO SUSHI CA DOWNTOWN TORO- ON',
@@ -9380,7 +9380,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5740.87
+      'Amount': -5740.87
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103915794773 Nil',
@@ -9391,7 +9391,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2965.85
+      'Amount': -2965.85
    },
     {
       'Title': 'PAYMENT PROTECTOR PREMIUM TAX',
@@ -9402,7 +9402,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3422.85
+      'Amount': -3422.85
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120906774319 20.00 USD @ 1.292000',
@@ -9424,7 +9424,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9016.46
+      'Amount': -9016.46
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129721816132',
@@ -9435,7 +9435,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2744.21
+      'Amount': -2744.21
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129220611555',
@@ -9446,7 +9446,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7107.26
+      'Amount': -7107.26
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000218634',
@@ -9490,7 +9490,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5084.45
+      'Amount': -5084.45
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 130101408181',
@@ -9501,7 +9501,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2798.08
+      'Amount': -2798.08
    },
     {
       'Title': 'DNH*GODADDY.COM EGP 480-505-8855- AZ 933.88 EGP @ .086103',
@@ -9512,7 +9512,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4033.13
+      'Amount': -4033.13
    },
     {
       'Title': 'SKIPTHEDISHES WINNIPEG MB',
@@ -9534,7 +9534,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3724.48
+      'Amount': -3724.48
    },
     {
       'Title': 'PAYPAL *GHASSANALNA 4029357733- ON',
@@ -9556,7 +9556,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7401.32
+      'Amount': -7401.32
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 124323231129',
@@ -9578,7 +9578,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7478.59
+      'Amount': -7478.59
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115416041043',
@@ -9589,7 +9589,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 73.2
+      'Amount': -73.2
    },
     {
       'Title': 'INSTACART SUBSCRIPTION HALIFAX MID-H- NS',
@@ -9600,7 +9600,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4446.49
+      'Amount': -4446.49
    },
     {
       'Title': 'DOORDASH*WAKO SUSHI CA DOWNTOWN TORO- ON',
@@ -9622,7 +9622,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4812.87
+      'Amount': -4812.87
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129221927298',
@@ -9633,7 +9633,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3531.17
+      'Amount': -3531.17
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103932819240 Cs Tutoring',
@@ -9666,7 +9666,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 720.68
+      'Amount': -720.68
    },
     {
       'Title': 'Electronic Funds Transfer PAY 7-ELEVEN CANADA 7-ELEVEN CANADA INC.',
@@ -9677,7 +9677,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8571.59
+      'Amount': -8571.59
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG MB',
@@ -9688,7 +9688,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4995.17
+      'Amount': -4995.17
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817280882',
@@ -9699,7 +9699,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7888.07
+      'Amount': -7888.07
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214062',
@@ -9710,7 +9710,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6103.44
+      'Amount': -6103.44
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115021236265',
@@ -9721,7 +9721,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5041.46
+      'Amount': -5041.46
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -9732,7 +9732,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3578.42
+      'Amount': -3578.42
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 128514281914 FAMOUS PLAYER #',
@@ -9754,7 +9754,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9139.55
+      'Amount': -9139.55
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 115222608388',
@@ -9765,7 +9765,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5854.11
+      'Amount': -5854.11
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.246000',
@@ -9776,7 +9776,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6114.53
+      'Amount': -6114.53
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 297001001049 7-ELEVEN 17060',
@@ -9798,7 +9798,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8420.16
+      'Amount': -8420.16
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103904096531 Nam Huy Bui',
@@ -9831,7 +9831,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2318.35
+      'Amount': -2318.35
    },
     {
       'Title': 'Point of Sale - Visa Debit CORRECTION dbrand Order 033515380970',
@@ -9842,7 +9842,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8771.12
+      'Amount': -8771.12
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120906774319 20.00 USD @ 1.292000',
@@ -9853,7 +9853,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1032.53
+      'Amount': -1032.53
    },
     {
       'Title': 'SHOPPING WITH POINTS/ACHA T PAR POINTS',
@@ -9864,7 +9864,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1034.88
+      'Amount': -1034.88
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -9952,7 +9952,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7373.78
+      'Amount': -7373.78
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 115222608388',
@@ -9985,7 +9985,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1658.36
+      'Amount': -1658.36
    },
     {
       'Title': 'PAYMENT THANK YOU/PAIEMEN T MERCI',
@@ -10007,7 +10007,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4830.86
+      'Amount': -4830.86
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114242229059',
@@ -10018,7 +10018,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5045.8
+      'Amount': -5045.8
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114722191577',
@@ -10029,7 +10029,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9113.3
+      'Amount': -9113.3
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515380970',
@@ -10051,7 +10051,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 444.12
+      'Amount': -444.12
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 22.39 CAD @ 1.000000',
@@ -10073,7 +10073,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5060.12
+      'Amount': -5060.12
    },
     {
       'Title': 'MARBLE SLAB CREAMERY WINNIPEG- MB',
@@ -10084,7 +10084,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8691.54
+      'Amount': -8691.54
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001529055 SOBEYS #5037',
@@ -10095,7 +10095,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4861.74
+      'Amount': -4861.74
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128320503371',
@@ -10106,7 +10106,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5423.62
+      'Amount': -5423.62
    },
     {
       'Title': '7-ELEVEN 17060 D2811 WINNIPEG MB',
@@ -10117,7 +10117,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8647.74
+      'Amount': -8647.74
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 128120074581',
@@ -10139,7 +10139,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9671.13
+      'Amount': -9671.13
    },
     {
       'Title': 'DOORDASH*MCDONALDS DOWNTOWN TORO- ON',
@@ -10161,7 +10161,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7252.7
+      'Amount': -7252.7
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239616',
@@ -10172,7 +10172,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1499.81
+      'Amount': -1499.81
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130615818470',
@@ -10183,7 +10183,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3391.91
+      'Amount': -3391.91
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103933806689 Cs Tutoring',
@@ -10205,7 +10205,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4031.56
+      'Amount': -4031.56
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129262581781',
@@ -10227,7 +10227,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2215.8
+      'Amount': -2215.8
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TOROON',
@@ -10238,7 +10238,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 236.66
+      'Amount': -236.66
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217381',
@@ -10249,7 +10249,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5584.02
+      'Amount': -5584.02
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 128507513608',
@@ -10260,7 +10260,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6992.82
+      'Amount': -6992.82
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103935295283 Nil',
@@ -10315,7 +10315,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9106.28
+      'Amount': -9106.28
    },
     {
       'Title': 'UBER CANADA/UBERTRIP TORONTO- ON',
@@ -10326,7 +10326,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5924.93
+      'Amount': -5924.93
    },
     {
       'Title': 'WWW.IKEA.CA BURLINGTON- ON',
@@ -10348,7 +10348,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4422.23
+      'Amount': -4422.23
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB T21187134271 12.89 CAD @ 1.000000',
@@ -10359,7 +10359,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7417.63
+      'Amount': -7417.63
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285648',
@@ -10381,7 +10381,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7238.63
+      'Amount': -7238.63
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129521971315',
@@ -10392,7 +10392,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2356.25
+      'Amount': -2356.25
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239266',
@@ -10414,7 +10414,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2189.33
+      'Amount': -2189.33
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 119320576697',
@@ -10436,7 +10436,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 378.3
+      'Amount': -378.3
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 121110785728 GREENCREST PHAR',
@@ -10447,7 +10447,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 833.05
+      'Amount': -833.05
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103932819240 Cs Tutoring',
@@ -10469,7 +10469,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1798.82
+      'Amount': -1798.82
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PP*6750CODE 112910330964',
@@ -10502,7 +10502,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8847.65
+      'Amount': -8847.65
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WINNIPEG TRANSI 121498930642',
@@ -10513,7 +10513,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7633.09
+      'Amount': -7633.09
    },
     {
       'Title': 'AMZN Mktp CA*2L7583XQ0 WWW.AMAZON.CA- ON',
@@ -10524,7 +10524,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3499.03
+      'Amount': -3499.03
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TOROON',
@@ -10535,7 +10535,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5044.81
+      'Amount': -5044.81
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000249325',
@@ -10568,7 +10568,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3537.16
+      'Amount': -3537.16
    },
     {
       'Title': 'PAY PER USE OVERDRAFT FEE',
@@ -10590,7 +10590,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5964.36
+      'Amount': -5964.36
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103904096531 Nam Huy Bui',
@@ -10612,7 +10612,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7637.01
+      'Amount': -7637.01
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -10623,7 +10623,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4403.55
+      'Amount': -4403.55
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937244055 Nil',
@@ -10634,7 +10634,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6811.76
+      'Amount': -6811.76
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115202624941',
@@ -10645,7 +10645,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2086.83
+      'Amount': -2086.83
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000210291',
@@ -10667,7 +10667,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1519.79
+      'Amount': -1519.79
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001456 LONDON DRUGS 66',
@@ -10678,7 +10678,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2774.99
+      'Amount': -2774.99
    },
     {
       'Title': 'UBER* PENDING TORONTO ON',
@@ -10689,7 +10689,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3447.49
+      'Amount': -3447.49
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 115221381293',
@@ -10700,7 +10700,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9608.72
+      'Amount': -9608.72
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114518716903',
@@ -10744,7 +10744,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1980.85
+      'Amount': -1980.85
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE A0HT96SD0000 Five Guys',
@@ -10755,7 +10755,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3564.12
+      'Amount': -3564.12
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000284108 MASTERCARD- BMO',
@@ -10766,7 +10766,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9573.54
+      'Amount': -9573.54
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114421482951',
@@ -10777,7 +10777,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5857.46
+      'Amount': -5857.46
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBER *TRIP 115806783478 3.00 CAD @ 1.000000',
@@ -10810,7 +10810,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3216.2
+      'Amount': -3216.2
    },
     {
       'Title': 'SHOPPING WITH POINTS/ACHA T PAR POINTS',
@@ -10843,7 +10843,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1609.91
+      'Amount': -1609.91
    },
     {
       'Title': 'Point of Sale - INTERAC CORRECTION 000653170804 ST VITAL VISION',
@@ -10854,7 +10854,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6171.09
+      'Amount': -6171.09
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268205',
@@ -10887,7 +10887,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 445.1
+      'Amount': -445.1
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 115221381293',
@@ -10909,7 +10909,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3356.18
+      'Amount': -3356.18
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000284108 MASTERCARD- BMO',
@@ -10920,7 +10920,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4777.47
+      'Amount': -4777.47
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON ON',
@@ -10931,7 +10931,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3279.35
+      'Amount': -3279.35
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129904406741',
@@ -10942,7 +10942,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1152.05
+      'Amount': -1152.05
    },
     {
       'Title': 'SQ *OH DOUGHNUTS gosq.com MB',
@@ -10953,7 +10953,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 289.58
+      'Amount': -289.58
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 22.39 CAD @ 1.000000',
@@ -10997,7 +10997,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8771.15
+      'Amount': -8771.15
    },
     {
       'Title': 'OVERLIMIT FEE ON BAL $ 1361.43',
@@ -11008,7 +11008,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6782.26
+      'Amount': -6782.26
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260690',
@@ -11030,7 +11030,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3343.68
+      'Amount': -3343.68
    },
     {
       'Title': 'INSTACART 8882467822- NS',
@@ -11041,7 +11041,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7480.57
+      'Amount': -7480.57
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 119320576697',
@@ -11052,7 +11052,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3943.08
+      'Amount': -3943.08
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291835592 Nil 2',
@@ -11063,7 +11063,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3424.83
+      'Amount': -3424.83
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129220611555',
@@ -11074,7 +11074,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1335.62
+      'Amount': -1335.62
    },
     {
       'Title': 'Internet Banking E-TRANSFER RECLAIM010387129802',
@@ -11107,7 +11107,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6879.47
+      'Amount': -6879.47
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000237749',
@@ -11118,7 +11118,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 602.36
+      'Amount': -602.36
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000276467',
@@ -11151,7 +11151,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5585.57
+      'Amount': -5585.57
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001971 PIZZA PIZZA # 4',
@@ -11184,7 +11184,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8120.08
+      'Amount': -8120.08
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000257907 MASTERCARD- BMO',
@@ -11272,7 +11272,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 236.14
+      'Amount': -236.14
    },
     {
       'Title': 'DOORDASH*RED LOBSTER DOWNTOWN TOROON',
@@ -11305,7 +11305,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2870.07
+      'Amount': -2870.07
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL APPLE.COM/CA 215807003250',
@@ -11316,7 +11316,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8845.39
+      'Amount': -8845.39
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 122817474064 67.43 CAD @ 1.000000',
@@ -11349,7 +11349,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7858.17
+      'Amount': -7858.17
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO- ON',
@@ -11393,7 +11393,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1853.22
+      'Amount': -1853.22
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001529055 SOBEYS #5037',
@@ -11415,7 +11415,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4208.52
+      'Amount': -4208.52
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000278050',
@@ -11426,7 +11426,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8361.98
+      'Amount': -8361.98
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 120723688008',
@@ -11459,7 +11459,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4013.4
+      'Amount': -4013.4
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 130004874834',
@@ -11525,7 +11525,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5810.84
+      'Amount': -5810.84
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 815001001156 7 ELEVEN STORE',
@@ -11536,7 +11536,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1034.04
+      'Amount': -1034.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115161790291',
@@ -11547,7 +11547,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1046.38
+      'Amount': -1046.38
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 128319713380 51.74 CAD @ 1.000000',
@@ -11569,7 +11569,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5191.66
+      'Amount': -5191.66
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 125122740760 60.00 CAD @ 1.000000',
@@ -11580,7 +11580,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2217.9
+      'Amount': -2217.9
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274521',
@@ -11624,7 +11624,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1388.96
+      'Amount': -1388.96
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103782929527 Nil',
@@ -11646,7 +11646,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8866.56
+      'Amount': -8866.56
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130201721079',
@@ -11657,7 +11657,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2577.21
+      'Amount': -2577.21
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116343132120',
@@ -11679,7 +11679,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5511.42
+      'Amount': -5511.42
    },
     {
       'Title': 'H&M ONLINE TORONTO- ON',
@@ -11690,7 +11690,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8191.03
+      'Amount': -8191.03
    },
     {
       'Title': 'PAYMENT PROTECTOR PREMIUM 800-893-2862',
@@ -11756,7 +11756,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6616.98
+      'Amount': -6616.98
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114661843188',
@@ -11778,7 +11778,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3310.05
+      'Amount': -3310.05
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MCDONA 119505373520',
@@ -11811,7 +11811,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5963.68
+      'Amount': -5963.68
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246729',
@@ -11822,7 +11822,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3708.28
+      'Amount': -3708.28
    },
     {
       'Title': 'DOORDASH*OH DOUGHNUTS DOWNTOWN TORO- ON',
@@ -11910,7 +11910,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8545.91
+      'Amount': -8545.91
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112517341247',
@@ -11943,7 +11943,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7065.25
+      'Amount': -7065.25
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 129341124937',
@@ -11954,7 +11954,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4568.63
+      'Amount': -4568.63
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000269148',
@@ -11987,7 +11987,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8773.7
+      'Amount': -8773.7
    },
     {
       'Title': 'PAYPAL *IGLOOB16 4029357733- ON',
@@ -11998,7 +11998,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6727.97
+      'Amount': -6727.97
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103775451035 Nil',
@@ -12020,7 +12020,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4086.67
+      'Amount': -4086.67
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000289816',
@@ -12031,7 +12031,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8692.05
+      'Amount': -8692.05
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233939',
@@ -12042,7 +12042,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3857.29
+      'Amount': -3857.29
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 125122533908',
@@ -12064,7 +12064,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 956.03
+      'Amount': -956.03
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL PIZZA PIZZA LTD 125320842485 30.16 CAD @ 1.000000',
@@ -12141,7 +12141,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6264.68
+      'Amount': -6264.68
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000211857 MASTERCARD- BMO',
@@ -12152,7 +12152,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6366.08
+      'Amount': -6366.08
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 115222608388',
@@ -12163,7 +12163,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8837.46
+      'Amount': -8837.46
    },
     {
       'Title': 'PAYPAL *OZLEY LLC 4029357733- ON',
@@ -12174,7 +12174,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7164.76
+      'Amount': -7164.76
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285225',
@@ -12185,7 +12185,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7666.82
+      'Amount': -7666.82
    },
     {
       'Title': 'DOORDASH*7-ELEVEN DOWNTOWN TORO- ON',
@@ -12207,7 +12207,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4590.89
+      'Amount': -4590.89
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114661843188',
@@ -12218,7 +12218,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1211.7
+      'Amount': -1211.7
    },
     {
       'Title': 'TIM HORTONS #8152 WINNIPEG MB',
@@ -12229,7 +12229,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8500.06
+      'Amount': -8500.06
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115764263401',
@@ -12240,7 +12240,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5306.76
+      'Amount': -5306.76
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103893663933 CARLI ALECIA-MARIE MCNABB',
@@ -12251,7 +12251,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 216.05
+      'Amount': -216.05
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001184 UNICITY TAXI #',
@@ -12262,7 +12262,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 666.99
+      'Amount': -666.99
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128704270353',
@@ -12284,7 +12284,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7027.97
+      'Amount': -7027.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 119701211405',
@@ -12295,7 +12295,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1897.04
+      'Amount': -1897.04
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001183 UNICITY TAXI #',
@@ -12339,7 +12339,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7628.56
+      'Amount': -7628.56
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128320503371',
@@ -12361,7 +12361,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5386.17
+      'Amount': -5386.17
    },
     {
       'Title': 'WWW.IKEA.CA BURLINGTON- ON',
@@ -12383,7 +12383,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 803.98
+      'Amount': -803.98
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242922',
@@ -12416,7 +12416,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9684.53
+      'Amount': -9684.53
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 121616350114',
@@ -12438,7 +12438,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 620.97
+      'Amount': -620.97
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -12460,7 +12460,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 162.28
+      'Amount': -162.28
    },
     {
       'Title': 'SQ *OH DOUGHNUTS gosq.com MB',
@@ -12515,7 +12515,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7955.57
+      'Amount': -7955.57
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260110',
@@ -12548,7 +12548,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5361.99
+      'Amount': -5361.99
    },
     {
       'Title': 'WWW.IKEA.CA BURLINGTON- ON',
@@ -12559,7 +12559,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3406.78
+      'Amount': -3406.78
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000243009 MASTERCARD- BMO',
@@ -12570,7 +12570,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 770.68
+      'Amount': -770.68
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -12592,7 +12592,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2720.63
+      'Amount': -2720.63
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116343132120',
@@ -12603,7 +12603,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 565.83
+      'Amount': -565.83
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBER *TRIP T21166833400 3.00 CAD @ 1.000000',
@@ -12625,7 +12625,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6181.45
+      'Amount': -6181.45
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000275767',
@@ -12724,7 +12724,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6201.85
+      'Amount': -6201.85
    },
     {
       'Title': 'SOUQ.COM CAIRO S. -07E 1199.00 EGP @ .086105',
@@ -12735,7 +12735,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4051.61
+      'Amount': -4051.61
    },
     {
       'Title': 'EPC*EPIC GAMES STORE 919-854-0070 59.99 USD @ 1.344390',
@@ -12757,7 +12757,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5824.85
+      'Amount': -5824.85
    },
     {
       'Title': 'UBR* PENDING.UBER.COM AMSTERDAM- ON',
@@ -12768,7 +12768,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2339.65
+      'Amount': -2339.65
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001184 UNICITY TAXI #',
@@ -12790,7 +12790,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3407.98
+      'Amount': -3407.98
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129222472965 30.00 CAD @ 1.000000',
@@ -12801,7 +12801,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9424.94
+      'Amount': -9424.94
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 122817474064 80.00 CAD @ 1.000000',
@@ -12812,7 +12812,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3047.64
+      'Amount': -3047.64
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -12856,7 +12856,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6723.27
+      'Amount': -6723.27
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000223192',
@@ -12867,7 +12867,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6190.17
+      'Amount': -6190.17
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103811946493 Nil',
@@ -12889,7 +12889,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6251.79
+      'Amount': -6251.79
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AIR CAN* 112571064500',
@@ -12944,7 +12944,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3917.9
+      'Amount': -3917.9
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 20.39 CAD @ 1.000000',
@@ -12977,7 +12977,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4192.29
+      'Amount': -4192.29
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3177 WINNIPEG- MB',
@@ -12988,7 +12988,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4567.62
+      'Amount': -4567.62
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SOUQ 033517331671 424.50 EGP @ 0.085606',
@@ -13021,7 +13021,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 152.38
+      'Amount': -152.38
    },
     {
       'Title': 'AMZ*Farmar Direct WWW.AMAZON.CA- ON',
@@ -13032,7 +13032,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6047.44
+      'Amount': -6047.44
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217559',
@@ -13043,7 +13043,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3178.07
+      'Amount': -3178.07
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 125122780380',
@@ -13065,7 +13065,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3080
+      'Amount': -3080
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120843570813',
@@ -13076,7 +13076,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1261.19
+      'Amount': -1261.19
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 120723688008',
@@ -13087,7 +13087,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5906.29
+      'Amount': -5906.29
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129013886157 120.00 CAD @ 1.000000',
@@ -13098,7 +13098,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6574.31
+      'Amount': -6574.31
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000249061 MASTERCARD- BMO',
@@ -13109,7 +13109,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6490.9
+      'Amount': -6490.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 120220634105',
@@ -13120,7 +13120,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3942.79
+      'Amount': -3942.79
    },
     {
       'Title': 'UNITED NATIONS HIG GENEVA',
@@ -13131,7 +13131,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6785.4
+      'Amount': -6785.4
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8980740778 125372611826',
@@ -13142,7 +13142,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7019.58
+      'Amount': -7019.58
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 857001001125 7 ELEVEN STORE',
@@ -13164,7 +13164,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3244.77
+      'Amount': -3244.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL APPLE.COM/CA 215807003249',
@@ -13197,7 +13197,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7856.25
+      'Amount': -7856.25
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217559',
@@ -13219,7 +13219,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4338.29
+      'Amount': -4338.29
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001302 COINAMATIC CANA',
@@ -13230,7 +13230,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1898.65
+      'Amount': -1898.65
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 119618572370',
@@ -13274,7 +13274,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5068.15
+      'Amount': -5068.15
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 128319713380 51.74 CAD @ 1.000000',
@@ -13285,7 +13285,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5459.95
+      'Amount': -5459.95
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 129233222773',
@@ -13318,7 +13318,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 85.37
+      'Amount': -85.37
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001303 UNICITY TAXI #',
@@ -13340,7 +13340,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7271.43
+      'Amount': -7271.43
    },
     {
       'Title': 'PAYPAL *GHASSANALNA 4029357733- ON',
@@ -13351,7 +13351,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 642.2
+      'Amount': -642.2
    },
     {
       'Title': 'UOFMANITOBA-BOOKSTORE WINNIPEG- MB',
@@ -13362,7 +13362,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6314.73
+      'Amount': -6314.73
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TORO- ON',
@@ -13461,7 +13461,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7010.89
+      'Amount': -7010.89
    },
     {
       'Title': 'OVERLIMIT FEE',
@@ -13483,7 +13483,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3856.59
+      'Amount': -3856.59
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119523616250',
@@ -13505,7 +13505,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6679.09
+      'Amount': -6679.09
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214062',
@@ -13516,7 +13516,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5545.93
+      'Amount': -5545.93
    },
     {
       'Title': 'SKIPTHEDISHES WINNIPEG- MB',
@@ -13560,7 +13560,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2008.81
+      'Amount': -2008.81
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001134001 GREENWOODS DENT',
@@ -13604,7 +13604,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9607.01
+      'Amount': -9607.01
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL PP*6750CODE 213107008052',
@@ -13615,7 +13615,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4299.29
+      'Amount': -4299.29
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115521642780',
@@ -13648,7 +13648,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3615.27
+      'Amount': -3615.27
    },
     {
       'Title': 'PAYMENT THANK YOU/PAIEMEN T MERCI',
@@ -13659,7 +13659,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2553.17
+      'Amount': -2553.17
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -13703,7 +13703,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5088.75
+      'Amount': -5088.75
    },
     {
       'Title': 'Electronic Funds Transfer CREDIT MEMO CIBC-DISATF',
@@ -13714,7 +13714,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4864.42
+      'Amount': -4864.42
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115416041043',
@@ -13725,7 +13725,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9118.33
+      'Amount': -9118.33
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000269148',
@@ -13736,7 +13736,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8905.77
+      'Amount': -8905.77
    },
     {
       'Title': '7 ELEVEN STORE #32317 WINNIPEG- MB',
@@ -13802,7 +13802,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6189.82
+      'Amount': -6189.82
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 772001001002 7 ELEVEN STORE',
@@ -13813,7 +13813,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4762.32
+      'Amount': -4762.32
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000223192',
@@ -13846,7 +13846,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7797.27
+      'Amount': -7797.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114234127034',
@@ -13890,7 +13890,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9035.11
+      'Amount': -9035.11
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129521971315',
@@ -13901,7 +13901,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6337.41
+      'Amount': -6337.41
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274521',
@@ -13923,7 +13923,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5307.09
+      'Amount': -5307.09
    },
     {
       'Title': 'PAYMENT RECEIVED - THANK YOU',
@@ -13967,7 +13967,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 721.03
+      'Amount': -721.03
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130201721079',
@@ -13989,7 +13989,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6323.75
+      'Amount': -6323.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 121297656970',
@@ -14033,7 +14033,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2607.84
+      'Amount': -2607.84
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951354 Nam Huy Bui',
@@ -14044,7 +14044,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7695.79
+      'Amount': -7695.79
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -14055,7 +14055,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9193.48
+      'Amount': -9193.48
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -14099,7 +14099,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 111.92
+      'Amount': -111.92
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&R BLOCK 122420136933',
@@ -14110,7 +14110,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9550.37
+      'Amount': -9550.37
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 120220289489',
@@ -14121,7 +14121,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6646.22
+      'Amount': -6646.22
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119300358087',
@@ -14154,7 +14154,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 707.82
+      'Amount': -707.82
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 121616350114',
@@ -14176,7 +14176,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 562.12
+      'Amount': -562.12
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE MPI - ONLINE 124410491306',
@@ -14209,7 +14209,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3176.27
+      'Amount': -3176.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 128711822579',
@@ -14220,7 +14220,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1985.18
+      'Amount': -1985.18
    },
     {
       'Title': 'OVERLIMIT FEE ON BAL $ 1361.43',
@@ -14231,7 +14231,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4386.26
+      'Amount': -4386.26
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001541047 SOBEYS #5037',
@@ -14264,7 +14264,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6890.75
+      'Amount': -6890.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 120723688008',
@@ -14286,7 +14286,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8108.06
+      'Amount': -8108.06
    },
     {
       'Title': 'TIM HORTONS #8152 WINNIPEG- MB',
@@ -14308,7 +14308,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8333.68
+      'Amount': -8333.68
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE PIZZA PIZZA LTD T21257248801 30.07 CAD @ 1.000000',
@@ -14330,7 +14330,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6421.84
+      'Amount': -6421.84
    },
     {
       'Title': 'Sony Interactive Enter 8003457669 CA',
@@ -14363,7 +14363,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 418.64
+      'Amount': -418.64
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128320347743',
@@ -14385,7 +14385,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6953.59
+      'Amount': -6953.59
    },
     {
       'Title': 'UBER *TRIP AMSTERDAM- ON',
@@ -14396,7 +14396,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3951.47
+      'Amount': -3951.47
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214441',
@@ -14418,7 +14418,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 208.9
+      'Amount': -208.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119300358087',
@@ -14473,7 +14473,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2512.08
+      'Amount': -2512.08
    },
     {
       'Title': 'SP * MOFTGLOBAL HTTPSMOFTGLOB- CA 69.15 USD @ 1.260014',
@@ -14484,7 +14484,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7671.01
+      'Amount': -7671.01
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 124122872769 TIM HORTONS #81',
@@ -14495,7 +14495,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 749
+      'Amount': -749
    },
     {
       'Title': 'Ding 73866562 Dublin',
@@ -14572,7 +14572,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6844.74
+      'Amount': -6844.74
    },
     {
       'Title': 'PONY CORRAL RESTAURANT WINNIPEG MB',
@@ -14583,7 +14583,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9181.56
+      'Amount': -9181.56
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG- MB',
@@ -14605,7 +14605,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3668.09
+      'Amount': -3668.09
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242922',
@@ -14638,7 +14638,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1547.77
+      'Amount': -1547.77
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG MB',
@@ -14682,7 +14682,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6829.7
+      'Amount': -6829.7
    },
     {
       'Title': 'INTEREST ADVANCES',
@@ -14748,7 +14748,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9103.61
+      'Amount': -9103.61
    },
     {
       'Title': 'UNITED NATIONS HIG GENEVA',
@@ -14759,7 +14759,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4823.03
+      'Amount': -4823.03
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217320',
@@ -14792,7 +14792,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 861.29
+      'Amount': -861.29
    },
     {
       'Title': 'Automated Banking Machine ATM DEPOSIT FORT RICHMOND SQ 2A12',
@@ -14803,7 +14803,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6539.14
+      'Amount': -6539.14
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268805',
@@ -14836,7 +14836,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2783.59
+      'Amount': -2783.59
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8980740778 125372611826',
@@ -14847,7 +14847,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6023.78
+      'Amount': -6023.78
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 121616350114',
@@ -14869,7 +14869,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4459.94
+      'Amount': -4459.94
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128320347743',
@@ -14891,7 +14891,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 822.19
+      'Amount': -822.19
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&R BLOCK 122420136933',
@@ -14902,7 +14902,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2064.73
+      'Amount': -2064.73
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000230250',
@@ -14913,7 +14913,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7976.68
+      'Amount': -7976.68
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000257907 MASTERCARD- BMO',
@@ -14924,7 +14924,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6761.87
+      'Amount': -6761.87
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 772001001002 7 ELEVEN STORE',
@@ -14968,7 +14968,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 608.72
+      'Amount': -608.72
    },
     {
       'Title': 'AMZN Mktp CA*2L7583XQ0 WWW.AMAZON.CA- ON',
@@ -14990,7 +14990,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1721.6
+      'Amount': -1721.6
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 117519296233 12.89 CAD @ 1.000000',
@@ -15012,7 +15012,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8248.24
+      'Amount': -8248.24
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PP*6750CODE 112910330964',
@@ -15034,7 +15034,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4053.43
+      'Amount': -4053.43
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120907700336 20.00 USD @ 1.292000',
@@ -15045,7 +15045,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1314.89
+      'Amount': -1314.89
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114631763290',
@@ -15067,7 +15067,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2508.03
+      'Amount': -2508.03
    },
     {
       'Title': 'AMZN Mktp CA*2L7583XQ0 WWW.AMAZON.CA- ON',
@@ -15078,7 +15078,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6344.9
+      'Amount': -6344.9
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001853 PIZZA PIZZA # 4',
@@ -15089,7 +15089,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3032.96
+      'Amount': -3032.96
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 297001001049 7-ELEVEN 17060',
@@ -15111,7 +15111,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3112.35
+      'Amount': -3112.35
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000229840',
@@ -15122,7 +15122,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3547.49
+      'Amount': -3547.49
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115764263401',
@@ -15133,7 +15133,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8987.69
+      'Amount': -8987.69
    },
     {
       'Title': 'SKECHERS USA CANADA 833-846-5891- ON',
@@ -15155,7 +15155,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3823.77
+      'Amount': -3823.77
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001182 UNICITY TAXI #',
@@ -15177,7 +15177,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4639.46
+      'Amount': -4639.46
    },
     {
       'Title': 'Ding 73866562 Dublin',
@@ -15188,7 +15188,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7074.67
+      'Amount': -7074.67
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -15232,7 +15232,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6064.77
+      'Amount': -6064.77
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000276467',
@@ -15320,7 +15320,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5892.24
+      'Amount': -5892.24
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000243448',
@@ -15342,7 +15342,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4503.08
+      'Amount': -4503.08
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 123621211044',
@@ -15364,7 +15364,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2037.41
+      'Amount': -2037.41
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001143004 UPS STORE #189',
@@ -15397,7 +15397,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8285.28
+      'Amount': -8285.28
    },
     {
       'Title': 'PONY CORRAL RESTAURANT WINNIPEG MB',
@@ -15419,7 +15419,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1289.89
+      'Amount': -1289.89
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON ON',
@@ -15463,7 +15463,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6124.88
+      'Amount': -6124.88
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103933806689 Cs Tutoring',
@@ -15485,7 +15485,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 356.1
+      'Amount': -356.1
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001140007 UPS STORE #189',
@@ -15518,7 +15518,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3014.36
+      'Amount': -3014.36
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000276467',
@@ -15529,7 +15529,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7192.29
+      'Amount': -7192.29
    },
     {
       'Title': 'INSTACART HALIFAX MID-H- NS',
@@ -15551,7 +15551,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5328.15
+      'Amount': -5328.15
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ABBYMAR 114420760500',
@@ -15573,7 +15573,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4075.66
+      'Amount': -4075.66
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130319587460',
@@ -15584,7 +15584,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4363.22
+      'Amount': -4363.22
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114518716903',
@@ -15617,7 +15617,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4273.23
+      'Amount': -4273.23
    },
     {
       'Title': 'AMZN Mktp CA*2R9IA3ZW2 WWW.AMAZON.CA- ON',
@@ -15650,7 +15650,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4573.57
+      'Amount': -4573.57
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 115231539541',
@@ -15661,7 +15661,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9708.91
+      'Amount': -9708.91
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000232460 UNIVERSITY OF MANITOBA',
@@ -15672,7 +15672,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4726.14
+      'Amount': -4726.14
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129222472965',
@@ -15716,7 +15716,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6005.8
+      'Amount': -6005.8
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000235999',
@@ -15727,7 +15727,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 104.9
+      'Amount': -104.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515380970',
@@ -15738,7 +15738,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2454.42
+      'Amount': -2454.42
    },
     {
       'Title': 'UBER CANADA TORONTO- ON',
@@ -15760,7 +15760,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1042.13
+      'Amount': -1042.13
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -15771,7 +15771,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5023.44
+      'Amount': -5023.44
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000276380',
@@ -15793,7 +15793,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8021.75
+      'Amount': -8021.75
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277987',
@@ -15815,7 +15815,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 112.1
+      'Amount': -112.1
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937221713 Nil',
@@ -15837,7 +15837,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1831.5
+      'Amount': -1831.5
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TOROON',
@@ -15859,7 +15859,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9199.45
+      'Amount': -9199.45
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128320347743',
@@ -15870,7 +15870,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9254.4
+      'Amount': -9254.4
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG- MB',
@@ -15892,7 +15892,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7520.73
+      'Amount': -7520.73
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000278050',
@@ -15903,7 +15903,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5748.77
+      'Amount': -5748.77
    },
     {
       'Title': 'UBER *TRIP AMSTERDAM- ON',
@@ -15914,7 +15914,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7874.79
+      'Amount': -7874.79
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -15936,7 +15936,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9954.93
+      'Amount': -9954.93
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217559',
@@ -15947,7 +15947,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1213.32
+      'Amount': -1213.32
    },
     {
       'Title': '7 ELEVEN STORE #32317 WINNIPEG- MB',
@@ -15958,7 +15958,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 283.15
+      'Amount': -283.15
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000265158 MASTERCARD- BMO',
@@ -15969,7 +15969,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7839.12
+      'Amount': -7839.12
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -15991,7 +15991,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3647.02
+      'Amount': -3647.02
    },
     {
       'Title': 'VIMEO.COM 646-470-8422- NY 10.00 USD @ 1.312000',
@@ -16002,7 +16002,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9564.19
+      'Amount': -9564.19
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103932819240 Cs Tutoring',
@@ -16013,7 +16013,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2636.11
+      'Amount': -2636.11
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001971 PIZZA PIZZA # 4',
@@ -16035,7 +16035,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3655.7
+      'Amount': -3655.7
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 036362050688',
@@ -16068,7 +16068,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2925.46
+      'Amount': -2925.46
    },
     {
       'Title': 'SQ *OH DOUGHNUTS gosq.com MB',
@@ -16079,7 +16079,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4322.06
+      'Amount': -4322.06
    },
     {
       'Title': 'Ding 70783768 Dublin',
@@ -16156,7 +16156,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3001.93
+      'Amount': -3001.93
    },
     {
       'Title': 'PAYPAL *IGLOOB16 4029357733- ON',
@@ -16167,7 +16167,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5772.42
+      'Amount': -5772.42
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ABBYMAR 114420760500',
@@ -16178,7 +16178,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2104.99
+      'Amount': -2104.99
    },
     {
       'Title': 'Crocs Canada- Inc. crocs.ca- ON',
@@ -16211,7 +16211,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6319.57
+      'Amount': -6319.57
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001303 UNICITY TAXI #',
@@ -16222,7 +16222,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4550.09
+      'Amount': -4550.09
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103915794773 Nil',
@@ -16233,7 +16233,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9615.01
+      'Amount': -9615.01
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 112517341247',
@@ -16244,7 +16244,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5666.79
+      'Amount': -5666.79
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 120723688008',
@@ -16255,7 +16255,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5899.51
+      'Amount': -5899.51
    },
     {
       'Title': 'EPC*EPIC GAMES STORE 919-854-0070 59.99 USD @ 1.344390',
@@ -16266,7 +16266,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3074.01
+      'Amount': -3074.01
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001569 LONDON DRUGS 66',
@@ -16299,7 +16299,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4811.28
+      'Amount': -4811.28
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 125215434629 TIM HORTONS #01',
@@ -16310,7 +16310,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7638.03
+      'Amount': -7638.03
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 125320842485',
@@ -16321,7 +16321,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7458.44
+      'Amount': -7458.44
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Patreon* Member 118207718434 27.00 USD @ 1.273704',
@@ -16332,7 +16332,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7616.87
+      'Amount': -7616.87
    },
     {
       'Title': 'PONY CORRAL RESTAURANT WINNIPEG MB',
@@ -16354,7 +16354,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2425.24
+      'Amount': -2425.24
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114643288469',
@@ -16431,7 +16431,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9610.15
+      'Amount': -9610.15
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248000',
@@ -16442,7 +16442,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9149.67
+      'Amount': -9149.67
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 128319713380 75.00 CAD @ 1.000000',
@@ -16464,7 +16464,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5013.31
+      'Amount': -5013.31
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000229840',
@@ -16475,7 +16475,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6412.68
+      'Amount': -6412.68
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115021236265',
@@ -16486,7 +16486,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2742.41
+      'Amount': -2742.41
    },
     {
       'Title': 'MARY BROWNS #8002 WINNIPEG- MB',
@@ -16497,7 +16497,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4273.37
+      'Amount': -4273.37
    },
     {
       'Title': 'FAMOUS PLAYER 2402QPS WINNIPEG MB',
@@ -16530,7 +16530,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6660.27
+      'Amount': -6660.27
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103925120118 Cs Tutoring',
@@ -16541,7 +16541,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 184.13
+      'Amount': -184.13
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 297001001049 7-ELEVEN 17060',
@@ -16563,7 +16563,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4847.63
+      'Amount': -4847.63
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277819',
@@ -16574,7 +16574,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7950.06
+      'Amount': -7950.06
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115135455508',
@@ -16585,7 +16585,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8401.95
+      'Amount': -8401.95
    },
     {
       'Title': 'GREENCREST PHARMACY WINNIPEG MB',
@@ -16618,7 +16618,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3750.93
+      'Amount': -3750.93
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&M ONLINE 123521470714',
@@ -16640,7 +16640,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8363.14
+      'Amount': -8363.14
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103927439111 Nil',
@@ -16662,7 +16662,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4603.73
+      'Amount': -4603.73
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001140007 UPS STORE #189',
@@ -16673,7 +16673,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7426.47
+      'Amount': -7426.47
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000249325',
@@ -16717,7 +16717,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6806.13
+      'Amount': -6806.13
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000289816',
@@ -16728,7 +16728,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7867.14
+      'Amount': -7867.14
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -16739,7 +16739,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9089.39
+      'Amount': -9089.39
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000259703',
@@ -16761,7 +16761,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7024.5
+      'Amount': -7024.5
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103935295283 Nil',
@@ -16772,7 +16772,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7995.21
+      'Amount': -7995.21
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 124323231129 129.00 CAD @ 1.000000',
@@ -16805,7 +16805,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1325.12
+      'Amount': -1325.12
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *EMPIREF 120700700976',
@@ -16816,7 +16816,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9697.4
+      'Amount': -9697.4
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114820687805',
@@ -16849,7 +16849,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5208.27
+      'Amount': -5208.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE UBER CANADA 128622894662',
@@ -16882,7 +16882,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6034.83
+      'Amount': -6034.83
    },
     {
       'Title': 'Ding 70781731 Dublin',
@@ -16893,7 +16893,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1688.69
+      'Amount': -1688.69
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103800587602 Nil',
@@ -16915,7 +16915,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4097.24
+      'Amount': -4097.24
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217559',
@@ -16926,7 +16926,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7751.59
+      'Amount': -7751.59
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128222143267',
@@ -16937,7 +16937,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 432.75
+      'Amount': -432.75
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000211857 MASTERCARD- BMO',
@@ -16948,7 +16948,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5636.69
+      'Amount': -5636.69
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 125320842485',
@@ -16959,7 +16959,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5676.01
+      'Amount': -5676.01
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*CINNAH 119300812554',
@@ -16992,7 +16992,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7573.68
+      'Amount': -7573.68
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 120731656923',
@@ -17014,7 +17014,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7962.99
+      'Amount': -7962.99
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000218634',
@@ -17036,7 +17036,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6383.19
+      'Amount': -6383.19
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TORO- ON',
@@ -17047,7 +17047,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3685.84
+      'Amount': -3685.84
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 128319713380',
@@ -17069,7 +17069,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2868.78
+      'Amount': -2868.78
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 115222608388',
@@ -17080,7 +17080,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5755.1
+      'Amount': -5755.1
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SOUQ 033520005685 568.00 EGP @ 0.085616',
@@ -17113,7 +17113,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 657.21
+      'Amount': -657.21
    },
     {
       'Title': 'SHOPPING WITH POINTS/ACHA T PAR POINTS',
@@ -17135,7 +17135,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8166.9
+      'Amount': -8166.9
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -17146,7 +17146,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9356.01
+      'Amount': -9356.01
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000276467',
@@ -17168,7 +17168,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1901.88
+      'Amount': -1901.88
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285648',
@@ -17201,7 +17201,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1420.18
+      'Amount': -1420.18
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000263993',
@@ -17223,7 +17223,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6162.3
+      'Amount': -6162.3
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 120723688008',
@@ -17267,7 +17267,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9278.59
+      'Amount': -9278.59
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PP*6750CODE 112910330964',
@@ -17289,7 +17289,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2820.32
+      'Amount': -2820.32
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129013886157 113.55 CAD @ 1.000000',
@@ -17322,7 +17322,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4037.88
+      'Amount': -4037.88
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000036006148 PEARLE VISION 5',
@@ -17333,7 +17333,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9205.16
+      'Amount': -9205.16
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116343132120',
@@ -17344,7 +17344,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2790.25
+      'Amount': -2790.25
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233596',
@@ -17388,7 +17388,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2782.15
+      'Amount': -2782.15
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115021236265',
@@ -17432,7 +17432,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5666.24
+      'Amount': -5666.24
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103775451035 Nil',
@@ -17465,7 +17465,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6794.25
+      'Amount': -6794.25
    },
     {
       'Title': 'PAYPAL *GHASSANALNA 4029357733- ON',
@@ -17476,7 +17476,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8938.13
+      'Amount': -8938.13
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 115231539541',
@@ -17509,7 +17509,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2114.45
+      'Amount': -2114.45
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129222472965',
@@ -17520,7 +17520,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2020.19
+      'Amount': -2020.19
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DBRAND 033516821111',
@@ -17531,7 +17531,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2077.52
+      'Amount': -2077.52
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000219008',
@@ -17542,7 +17542,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1866.62
+      'Amount': -1866.62
    },
     {
       'Title': 'AMZ*Farmar Direct WWW.AMAZON.CA- ON',
@@ -17553,7 +17553,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6529.01
+      'Amount': -6529.01
    },
     {
       'Title': 'PAY PER USE OVERDRAFT FEE',
@@ -17564,7 +17564,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6834.57
+      'Amount': -6834.57
    },
     {
       'Title': 'Crocs Canada- Inc. crocs.ca- ON',
@@ -17586,7 +17586,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9908.55
+      'Amount': -9908.55
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 128319713380',
@@ -17597,7 +17597,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5241.15
+      'Amount': -5241.15
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129862345774',
@@ -17608,7 +17608,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9771.36
+      'Amount': -9771.36
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 125122533908',
@@ -17630,7 +17630,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8597.32
+      'Amount': -8597.32
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 119701211405',
@@ -17652,7 +17652,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3261.02
+      'Amount': -3261.02
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG MB',
@@ -17663,7 +17663,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2000.75
+      'Amount': -2000.75
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000249325',
@@ -17696,7 +17696,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8960.86
+      'Amount': -8960.86
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000242901 MASTERCARD- BMO',
@@ -17707,7 +17707,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6267.61
+      'Amount': -6267.61
    },
     {
       'Title': 'EDO JAPAN - FORT RICHM WINNIPEG MB',
@@ -17718,7 +17718,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1620.1
+      'Amount': -1620.1
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233596',
@@ -17762,7 +17762,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 627.03
+      'Amount': -627.03
    },
     {
       'Title': 'SKIPTHEDISHES WINNIPEG- MB',
@@ -17773,7 +17773,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9189.93
+      'Amount': -9189.93
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129222472965 30.00 CAD @ 1.000000',
@@ -17784,7 +17784,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7941.82
+      'Amount': -7941.82
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 112601145020',
@@ -17795,7 +17795,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5904.21
+      'Amount': -5904.21
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 124323231129',
@@ -17806,7 +17806,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1995.82
+      'Amount': -1995.82
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TORO- ON',
@@ -17883,7 +17883,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1227.76
+      'Amount': -1227.76
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 036362050688',
@@ -17894,7 +17894,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2181.75
+      'Amount': -2181.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128704270353',
@@ -17916,7 +17916,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3047.21
+      'Amount': -3047.21
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001541047 SOBEYS #5037',
@@ -17927,7 +17927,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2786.15
+      'Amount': -2786.15
    },
     {
       'Title': 'INSTACART 8882467822- NS',
@@ -17938,7 +17938,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9912.19
+      'Amount': -9912.19
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246729',
@@ -17949,7 +17949,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4472.47
+      'Amount': -4472.47
    },
     {
       'Title': 'DOORDASH*OH DOUGHNUTS DOWNTOWN TORO- ON',
@@ -17960,7 +17960,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4916.86
+      'Amount': -4916.86
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114421482951',
@@ -18026,7 +18026,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3477.21
+      'Amount': -3477.21
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 22.39 CAD @ 1.000000',
@@ -18048,7 +18048,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5028.61
+      'Amount': -5028.61
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MCDONA 119505373520',
@@ -18059,7 +18059,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8216.99
+      'Amount': -8216.99
    },
     {
       'Title': 'Electronic Funds Transfer PREAUTHORIZED DEBIT PAYPAL',
@@ -18092,7 +18092,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 744.02
+      'Amount': -744.02
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119820331428',
@@ -18114,7 +18114,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9821.65
+      'Amount': -9821.65
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129013886157 120.00 CAD @ 1.000000',
@@ -18158,7 +18158,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5459.32
+      'Amount': -5459.32
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000240361',
@@ -18213,7 +18213,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2313.21
+      'Amount': -2313.21
    },
     {
       'Title': 'DOORDASH*OH DOUGHNUTS DOWNTOWN TORO- ON',
@@ -18290,7 +18290,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5524.12
+      'Amount': -5524.12
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120906772646 20.00 USD @ 1.292000',
@@ -18356,7 +18356,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8357.26
+      'Amount': -8357.26
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP 103291839668',
@@ -18389,7 +18389,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1631.53
+      'Amount': -1631.53
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&M ONLINE 123521470714',
@@ -18433,7 +18433,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 646.88
+      'Amount': -646.88
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114661843188',
@@ -18444,7 +18444,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7641.96
+      'Amount': -7641.96
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000269148',
@@ -18455,7 +18455,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1781.29
+      'Amount': -1781.29
    },
     {
       'Title': 'DOORDASH*PIZZA HUT DOWNTOWN TORO- ON',
@@ -18477,7 +18477,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4176.74
+      'Amount': -4176.74
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8989078410 100175533173',
@@ -18499,7 +18499,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7112.18
+      'Amount': -7112.18
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129904406741',
@@ -18510,7 +18510,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 672.98
+      'Amount': -672.98
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260110',
@@ -18532,7 +18532,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6419.6
+      'Amount': -6419.6
    },
     {
       'Title': 'UPS STORE #189 WINNIPEG- MB',
@@ -18554,7 +18554,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5656.15
+      'Amount': -5656.15
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129862345774',
@@ -18565,7 +18565,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3963.58
+      'Amount': -3963.58
    },
     {
       'Title': 'PURCHASE INTEREST',
@@ -18587,7 +18587,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6390.69
+      'Amount': -6390.69
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115021236265',
@@ -18598,7 +18598,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7109.31
+      'Amount': -7109.31
    },
     {
       'Title': 'AWL*PEARSON EDUCATION PRSONCS.COM- NJ 94.99 USD @ 1.250131',
@@ -18609,7 +18609,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7574.42
+      'Amount': -7574.42
    },
     {
       'Title': 'Electronic Funds Transfer PREAUTHORIZED DEBIT PAYPAL',
@@ -18620,7 +18620,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4841.2
+      'Amount': -4841.2
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 119320576697',
@@ -18631,7 +18631,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9359.66
+      'Amount': -9359.66
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 129618381237',
@@ -18653,7 +18653,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3705.37
+      'Amount': -3705.37
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001130002 GREENWOODS DENT',
@@ -18664,7 +18664,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5219.32
+      'Amount': -5219.32
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114722191577',
@@ -18675,7 +18675,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4290.83
+      'Amount': -4290.83
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.243000',
@@ -18741,7 +18741,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7691.81
+      'Amount': -7691.81
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 129618381237',
@@ -18763,7 +18763,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4904.14
+      'Amount': -4904.14
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000287755',
@@ -18785,7 +18785,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6476.68
+      'Amount': -6476.68
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217381',
@@ -18807,7 +18807,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1199.58
+      'Amount': -1199.58
    },
     {
       'Title': 'REQUEST MONEY 010338709427 Floribert Kamabu',
@@ -18829,7 +18829,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3240.59
+      'Amount': -3240.59
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103780765947 Trina Dela Cruz',
@@ -18884,7 +18884,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9486
+      'Amount': -9486
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000256035',
@@ -18895,7 +18895,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8129.19
+      'Amount': -8129.19
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL GOOGLE *Google 230807006268',
@@ -18950,7 +18950,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2263.39
+      'Amount': -2263.39
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120907700336 20.00 USD @ 1.292000',
@@ -19005,7 +19005,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6548.24
+      'Amount': -6548.24
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001184 UNICITY TAXI #',
@@ -19016,7 +19016,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3840.64
+      'Amount': -3840.64
    },
     {
       'Title': 'Ding 70781731 Dublin',
@@ -19049,7 +19049,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5567.68
+      'Amount': -5567.68
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 112601145020',
@@ -19071,7 +19071,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2901.14
+      'Amount': -2901.14
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239266',
@@ -19093,7 +19093,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8987.87
+      'Amount': -8987.87
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114242229059',
@@ -19126,7 +19126,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1370.02
+      'Amount': -1370.02
    },
     {
       'Title': 'U OF M REGISTRARS WINNIPEG- MB',
@@ -19148,7 +19148,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1356.99
+      'Amount': -1356.99
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 117519296233 12.89 CAD @ 1.000000',
@@ -19159,7 +19159,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9089.8
+      'Amount': -9089.8
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TORO- ON',
@@ -19214,7 +19214,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 353.25
+      'Amount': -353.25
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL APPLE.COM/BILL T21007062033 39.18 CAD @ 1.000000',
@@ -19236,7 +19236,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6400.71
+      'Amount': -6400.71
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL H&M ONLINE 225707013470',
@@ -19269,7 +19269,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5430.65
+      'Amount': -5430.65
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 815001001156 7 ELEVEN STORE',
@@ -19291,7 +19291,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 274.21
+      'Amount': -274.21
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112601145020',
@@ -19302,7 +19302,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1371.9
+      'Amount': -1371.9
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000235999',
@@ -19335,7 +19335,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3023.97
+      'Amount': -3023.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130201721079',
@@ -19346,7 +19346,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 965.21
+      'Amount': -965.21
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260690',
@@ -19379,7 +19379,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1628.43
+      'Amount': -1628.43
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -19390,7 +19390,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5634.04
+      'Amount': -5634.04
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000283043',
@@ -19401,7 +19401,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6338.93
+      'Amount': -6338.93
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG MB',
@@ -19412,7 +19412,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5707.78
+      'Amount': -5707.78
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 122817474064 80.00 CAD @ 1.000000',
@@ -19423,7 +19423,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1221.24
+      'Amount': -1221.24
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 130101408181',
@@ -19434,7 +19434,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6347.74
+      'Amount': -6347.74
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 123721541177',
@@ -19467,7 +19467,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7076.12
+      'Amount': -7076.12
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291836407 Nil 2',
@@ -19478,7 +19478,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 634.18
+      'Amount': -634.18
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3177 WINNIPEG- MB',
@@ -19500,7 +19500,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8355.68
+      'Amount': -8355.68
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG MB',
@@ -19511,7 +19511,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9080.9
+      'Amount': -9080.9
    },
     {
       'Title': 'Electronic Funds Transfer PREAUTHORIZED DEBIT CIBC-DISATF',
@@ -19533,7 +19533,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6835.35
+      'Amount': -6835.35
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001303 UNICITY TAXI #',
@@ -19544,7 +19544,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7473.98
+      'Amount': -7473.98
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103932819240 Cs Tutoring',
@@ -19555,7 +19555,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3328.71
+      'Amount': -3328.71
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001184 UNICITY TAXI #',
@@ -19566,7 +19566,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 948.34
+      'Amount': -948.34
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 20.39 CAD @ 1.000000',
@@ -19577,7 +19577,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5821.45
+      'Amount': -5821.45
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SOUQ 033517331671 424.50 EGP @ 0.085606',
@@ -19588,7 +19588,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3100.34
+      'Amount': -3100.34
    },
     {
       'Title': 'Ding 70781731 Dublin',
@@ -19599,7 +19599,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8378.35
+      'Amount': -8378.35
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 112601145020',
@@ -19610,7 +19610,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4714.43
+      'Amount': -4714.43
    },
     {
       'Title': 'UBER* TRIP TORONTO ON',
@@ -19632,7 +19632,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3863.36
+      'Amount': -3863.36
    },
     {
       'Title': 'AMZ*Amazon.ca WWW.AMAZON.CA- ON',
@@ -19643,7 +19643,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9174.59
+      'Amount': -9174.59
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001173 DOLLARAMA #1286',
@@ -19654,7 +19654,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1581.38
+      'Amount': -1581.38
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000289816',
@@ -19665,7 +19665,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 936.66
+      'Amount': -936.66
    },
     {
       'Title': 'AMZN Mktp CA*2L7JZ85B2 WWW.AMAZON.CA- ON',
@@ -19676,7 +19676,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 524.31
+      'Amount': -524.31
    },
     {
       'Title': 'DOORDASH*HSIEH FAMILY DOWNTOWN TOROON',
@@ -19709,7 +19709,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4155.28
+      'Amount': -4155.28
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.287000',
@@ -19731,7 +19731,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1868.34
+      'Amount': -1868.34
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103908455504 ROBERTO DINGAL ORTEGA',
@@ -19753,7 +19753,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2782.31
+      'Amount': -2782.31
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285648',
@@ -19786,7 +19786,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6822.1
+      'Amount': -6822.1
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 036362050688',
@@ -19797,7 +19797,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7385.43
+      'Amount': -7385.43
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115135455508',
@@ -19830,7 +19830,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4198.7
+      'Amount': -4198.7
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Patreon* Member 118207667254 18.00 GBP @ 1.762222',
@@ -19885,7 +19885,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2640.95
+      'Amount': -2640.95
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280436',
@@ -19929,7 +19929,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6743.86
+      'Amount': -6743.86
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000281600',
@@ -19940,7 +19940,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5131.04
+      'Amount': -5131.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 119701211405',
@@ -19951,7 +19951,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4681.17
+      'Amount': -4681.17
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103808804769 Nil',
@@ -19973,7 +19973,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1518.66
+      'Amount': -1518.66
    },
     {
       'Title': 'DOORDASH*OH DOUGHNUTS DOWNTOWN TORO- ON',
@@ -20006,7 +20006,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2665.07
+      'Amount': -2665.07
    },
     {
       'Title': 'UBER *TRIP HELP.UBER.COMNLD',
@@ -20028,7 +20028,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8816.49
+      'Amount': -8816.49
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103811946493 Nil',
@@ -20083,7 +20083,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1622.36
+      'Amount': -1622.36
    },
     {
       'Title': 'APPLE.COM/BILL 866-712-7753- ON',
@@ -20105,7 +20105,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1927.99
+      'Amount': -1927.99
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285648',
@@ -20127,7 +20127,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6700.59
+      'Amount': -6700.59
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115202624941',
@@ -20149,7 +20149,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7503.02
+      'Amount': -7503.02
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280436',
@@ -20160,7 +20160,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 439.77
+      'Amount': -439.77
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001541047 SOBEYS #5037',
@@ -20171,7 +20171,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8863.72
+      'Amount': -8863.72
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239266',
@@ -20182,7 +20182,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6385.8
+      'Amount': -6385.8
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120834678151',
@@ -20281,7 +20281,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4324.8
+      'Amount': -4324.8
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M STUDENTS 114222801307',
@@ -20347,7 +20347,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8247.3
+      'Amount': -8247.3
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001853 PIZZA PIZZA # 4',
@@ -20369,7 +20369,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1418.05
+      'Amount': -1418.05
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000226377',
@@ -20380,7 +20380,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1546.9
+      'Amount': -1546.9
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129222472965 28.03 CAD @ 1.000000',
@@ -20402,7 +20402,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7536.55
+      'Amount': -7536.55
    },
     {
       'Title': 'AMZN Mktp CA*2L84Y3JX0 WWW.AMAZON.CA- ON',
@@ -20435,7 +20435,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1568.09
+      'Amount': -1568.09
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.287000',
@@ -20446,7 +20446,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1378.18
+      'Amount': -1378.18
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000235999',
@@ -20457,7 +20457,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9463.14
+      'Amount': -9463.14
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3119 WINNIPEG- MB',
@@ -20490,7 +20490,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7877.23
+      'Amount': -7877.23
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114234127034',
@@ -20501,7 +20501,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8234.94
+      'Amount': -8234.94
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260110',
@@ -20545,7 +20545,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1005.29
+      'Amount': -1005.29
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOGOINFLIGHT* 112534098337',
@@ -20556,7 +20556,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 505.42
+      'Amount': -505.42
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 119320576697',
@@ -20578,7 +20578,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3168.63
+      'Amount': -3168.63
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000225749',
@@ -20600,7 +20600,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9610.85
+      'Amount': -9610.85
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 125633176134',
@@ -20611,7 +20611,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9919.34
+      'Amount': -9919.34
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001134001 GREENWOODS DENT',
@@ -20633,7 +20633,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8621.35
+      'Amount': -8621.35
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -20644,7 +20644,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9231.68
+      'Amount': -9231.68
    },
     {
       'Title': 'INSTACART HALIFAX MID-H- NS',
@@ -20677,7 +20677,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2504.85
+      'Amount': -2504.85
    },
     {
       'Title': 'PAYPAL *OZLEY LLC 4029357733- ON',
@@ -20721,7 +20721,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9869.74
+      'Amount': -9869.74
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000238278',
@@ -20732,7 +20732,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8413.35
+      'Amount': -8413.35
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 144001001014 EDO JAPAN - FOR',
@@ -20743,7 +20743,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 263.79
+      'Amount': -263.79
    },
     {
       'Title': 'DOORDASH*WAKO SUSHI CA DOWNTOWN TORO- ON',
@@ -20765,7 +20765,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1312.13
+      'Amount': -1312.13
    },
     {
       'Title': 'SQ *OH DOUGHNUTS gosq.com MB',
@@ -20776,7 +20776,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 71.71
+      'Amount': -71.71
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130201721079',
@@ -20787,7 +20787,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3816.04
+      'Amount': -3816.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129721816132',
@@ -20798,7 +20798,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8744.29
+      'Amount': -8744.29
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000243363',
@@ -20820,7 +20820,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4747.56
+      'Amount': -4747.56
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE PIZZA PIZZA LTD T21257248801 30.07 CAD @ 1.000000',
@@ -20831,7 +20831,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1898.17
+      'Amount': -1898.17
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 112517341247',
@@ -20864,7 +20864,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8314.29
+      'Amount': -8314.29
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103933806689 Cs Tutoring',
@@ -20875,7 +20875,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9069.43
+      'Amount': -9069.43
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 125633176134',
@@ -20908,7 +20908,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1468.82
+      'Amount': -1468.82
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 112517341247',
@@ -20919,7 +20919,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5249.56
+      'Amount': -5249.56
    },
     {
       'Title': 'ST VITAL VISION CENTRE WINNIPEG MB',
@@ -20985,7 +20985,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2555.41
+      'Amount': -2555.41
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001456 LONDON DRUGS 66',
@@ -20996,7 +20996,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6390.93
+      'Amount': -6390.93
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 119618572370',
@@ -21018,7 +21018,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7028.76
+      'Amount': -7028.76
    },
     {
       'Title': 'DOORDASH*WAKO SUSHI CA DOWNTOWN TORO- ON',
@@ -21029,7 +21029,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3880.81
+      'Amount': -3880.81
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130615818470',
@@ -21040,7 +21040,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8227.4
+      'Amount': -8227.4
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001724 LONDON DRUGS 66',
@@ -21051,7 +21051,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1975.85
+      'Amount': -1975.85
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 036362050688',
@@ -21095,7 +21095,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 445.11
+      'Amount': -445.11
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000243363',
@@ -21128,7 +21128,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6326.82
+      'Amount': -6326.82
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120906772646 20.00 USD @ 1.292000',
@@ -21150,7 +21150,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7897.4
+      'Amount': -7897.4
    },
     {
       'Title': 'PAYPAL *OZLEY LLC 4029357733- ON',
@@ -21183,7 +21183,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6009.96
+      'Amount': -6009.96
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE Amazon Download 128543291383',
@@ -21216,7 +21216,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6397.68
+      'Amount': -6397.68
    },
     {
       'Title': 'AMZN Mktp CA*2L1RK2AP0 WWW.AMAZON.CA- ON',
@@ -21249,7 +21249,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 566.48
+      'Amount': -566.48
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120834678151',
@@ -21271,7 +21271,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2831.04
+      'Amount': -2831.04
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103933806689 Cs Tutoring',
@@ -21348,7 +21348,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2441.34
+      'Amount': -2441.34
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOGOINFLIGHT* 112534098337',
@@ -21359,7 +21359,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6966.25
+      'Amount': -6966.25
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277819',
@@ -21370,7 +21370,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5068.86
+      'Amount': -5068.86
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL APPLE.COM/CA 215807003250',
@@ -21392,7 +21392,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5150.44
+      'Amount': -5150.44
    },
     {
       'Title': 'UBER* PENDING TORONTO ON',
@@ -21403,7 +21403,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4533.16
+      'Amount': -4533.16
    },
     {
       'Title': 'Point of Sale - Visa Debit CORRECTION dbrand Order 033515540976',
@@ -21425,7 +21425,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6684.27
+      'Amount': -6684.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128600189632',
@@ -21436,7 +21436,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 578.43
+      'Amount': -578.43
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG MB',
@@ -21458,7 +21458,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7811.47
+      'Amount': -7811.47
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248000',
@@ -21502,7 +21502,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 511.83
+      'Amount': -511.83
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001302 COINAMATIC CANA',
@@ -21513,7 +21513,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2191.72
+      'Amount': -2191.72
    },
     {
       'Title': 'Automated Banking Machine ATM WITHDRAWAL FORT RICHMOND SQ 2A12',
@@ -21524,7 +21524,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6273.73
+      'Amount': -6273.73
    },
     {
       'Title': 'DOORDASH*MCDONALDS DOWNTOWN TORO- ON',
@@ -21546,7 +21546,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 86.52
+      'Amount': -86.52
    },
     {
       'Title': 'DOORDASH*SUGAR MARMALA DOWNTOWN TOROON',
@@ -21601,7 +21601,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9499.94
+      'Amount': -9499.94
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000226377',
@@ -21623,7 +21623,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8285.33
+      'Amount': -8285.33
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 120723688008',
@@ -21634,7 +21634,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5.17
+      'Amount': -5.17
    },
     {
       'Title': 'Automated Banking Machine ATM DEPOSIT FORT RICHMOND SQ 2A12',
@@ -21678,7 +21678,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2367.16
+      'Amount': -2367.16
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246317',
@@ -21689,7 +21689,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 719.42
+      'Amount': -719.42
    },
     {
       'Title': 'AMZ*Duolihui US WWW.AMAZON.CA- ON',
@@ -21711,7 +21711,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7613.97
+      'Amount': -7613.97
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103893663933 CARLI ALECIA-MARIE MCNABB',
@@ -21722,7 +21722,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7490.19
+      'Amount': -7490.19
    },
     {
       'Title': '7-ELEVEN 17060 D2811 WINNIPEG MB',
@@ -21755,7 +21755,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9165.17
+      'Amount': -9165.17
    },
     {
       'Title': 'AMZN Mktp CA*WQ25P26Z3 WWW.AMAZON.CA- ON',
@@ -21777,7 +21777,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5371.08
+      'Amount': -5371.08
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000224660',
@@ -21799,7 +21799,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8443.13
+      'Amount': -8443.13
    },
     {
       'Title': 'SKIPTHEDISHES WINNIPEG MB',
@@ -21854,7 +21854,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8992.1
+      'Amount': -8992.1
    },
     {
       'Title': 'Electronic Funds Transfer CREDIT MEMO CIBC-DISATF',
@@ -21887,7 +21887,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6567.7
+      'Amount': -6567.7
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 115222608388',
@@ -21898,7 +21898,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8218.02
+      'Amount': -8218.02
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001456 LONDON DRUGS 66',
@@ -21931,7 +21931,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6262.43
+      'Amount': -6262.43
    },
     {
       'Title': 'AMZN Mktp CA*2R17U8FM2 WWW.AMAZON.CA- ON',
@@ -21942,7 +21942,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5837.05
+      'Amount': -5837.05
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 114222247236',
@@ -21964,7 +21964,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 625.55
+      'Amount': -625.55
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114518716903',
@@ -21975,7 +21975,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6457.59
+      'Amount': -6457.59
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.263000',
@@ -21986,7 +21986,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2317.99
+      'Amount': -2317.99
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO- ON',
@@ -22008,7 +22008,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6161.84
+      'Amount': -6161.84
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000259703',
@@ -22019,7 +22019,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7971.33
+      'Amount': -7971.33
    },
     {
       'Title': 'EDO JAPAN - FORT RICHM WINNIPEG MB',
@@ -22030,7 +22030,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8941.17
+      'Amount': -8941.17
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260690',
@@ -22041,7 +22041,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5254.73
+      'Amount': -5254.73
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951869 Nil',
@@ -22063,7 +22063,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2750.97
+      'Amount': -2750.97
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000235999',
@@ -22107,7 +22107,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9841.6
+      'Amount': -9841.6
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001326 COINAMATIC CANA',
@@ -22118,7 +22118,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 411.57
+      'Amount': -411.57
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 128319713380',
@@ -22151,7 +22151,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2919.53
+      'Amount': -2919.53
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TOROON',
@@ -22173,7 +22173,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2644.37
+      'Amount': -2644.37
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL AMZ*Rankie CA 215207007894',
@@ -22184,7 +22184,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3126.32
+      'Amount': -3126.32
    },
     {
       'Title': 'PAYPAL *IGLOOB16 4029357733- ON',
@@ -22261,7 +22261,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8485.84
+      'Amount': -8485.84
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8986489928 128931619986',
@@ -22294,7 +22294,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1477.43
+      'Amount': -1477.43
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129220611555',
@@ -22327,7 +22327,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4895.35
+      'Amount': -4895.35
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000226259',
@@ -22415,7 +22415,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3853.3
+      'Amount': -3853.3
    },
     {
       'Title': 'AMZN Mktp CA*2G4JL98T0 WWW.AMAZON.CA- ON',
@@ -22492,7 +22492,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2529.86
+      'Amount': -2529.86
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 297001001049 7-ELEVEN 17060',
@@ -22514,7 +22514,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4073.66
+      'Amount': -4073.66
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBER *TRIP T21166833400 3.00 CAD @ 1.000000',
@@ -22536,7 +22536,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9120.08
+      'Amount': -9120.08
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000218634',
@@ -22591,7 +22591,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4644.86
+      'Amount': -4644.86
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114661843188',
@@ -22613,7 +22613,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4477.72
+      'Amount': -4477.72
    },
     {
       'Title': 'AMZN Mktp CA*2L84Y3JX0 WWW.AMAZON.CA- ON',
@@ -22624,7 +22624,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6354.39
+      'Amount': -6354.39
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 20.39 CAD @ 1.000000',
@@ -22646,7 +22646,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5774.03
+      'Amount': -5774.03
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000269148',
@@ -22668,7 +22668,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1667.85
+      'Amount': -1667.85
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SP * PALIROOTS 114620880842 37.00 USD @ 1.238378',
@@ -22701,7 +22701,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2104.42
+      'Amount': -2104.42
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8986489928 128931619986',
@@ -22712,7 +22712,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4485.79
+      'Amount': -4485.79
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274521',
@@ -22745,7 +22745,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4524.62
+      'Amount': -4524.62
    },
     {
       'Title': 'STARBUCKS COFFEE #48192 WINNIPEG- MB',
@@ -22800,7 +22800,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2916.9
+      'Amount': -2916.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114722720851',
@@ -22844,7 +22844,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2737.96
+      'Amount': -2737.96
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.252000',
@@ -22866,7 +22866,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3260.33
+      'Amount': -3260.33
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -22877,7 +22877,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8021.79
+      'Amount': -8021.79
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000222121',
@@ -22888,7 +22888,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1444.95
+      'Amount': -1444.95
    },
     {
       'Title': 'Point of Sale - Visa Debit CORRECTION dbrand Order 033515380970',
@@ -22899,7 +22899,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3899.46
+      'Amount': -3899.46
    },
     {
       'Title': 'WWW.IKEA.CA BURLINGTON- ON',
@@ -22932,7 +22932,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 142.83
+      'Amount': -142.83
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001413 DOLLARAMA #1355',
@@ -22965,7 +22965,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3011.79
+      'Amount': -3011.79
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 116118852327',
@@ -22976,7 +22976,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5270.29
+      'Amount': -5270.29
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 730001001074 7 ELEVEN STORE',
@@ -22987,7 +22987,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9465.69
+      'Amount': -9465.69
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937244055 Nil',
@@ -23020,7 +23020,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3906.52
+      'Amount': -3906.52
    },
     {
       'Title': 'AMZN Mktp CA*2L93I8MI2 WWW.AMAZON.CA- ON',
@@ -23042,7 +23042,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2566.5
+      'Amount': -2566.5
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129220611555',
@@ -23053,7 +23053,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5204.13
+      'Amount': -5204.13
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119820331428',
@@ -23064,7 +23064,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6066.79
+      'Amount': -6066.79
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001391 DOLLARAMA #1286',
@@ -23075,7 +23075,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5345.28
+      'Amount': -5345.28
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129013886157',
@@ -23086,7 +23086,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7589.66
+      'Amount': -7589.66
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 123621211044',
@@ -23097,7 +23097,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8667.94
+      'Amount': -8667.94
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285648',
@@ -23119,7 +23119,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6378.86
+      'Amount': -6378.86
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO ON',
@@ -23130,7 +23130,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4860.49
+      'Amount': -4860.49
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280173',
@@ -23141,7 +23141,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1832.82
+      'Amount': -1832.82
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001182 UNICITY TAXI #',
@@ -23152,7 +23152,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7727.05
+      'Amount': -7727.05
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000230250',
@@ -23185,7 +23185,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 925.95
+      'Amount': -925.95
    },
     {
       'Title': 'UOFMANITOBA-BOOKSTORE WINNIPEG- MB',
@@ -23196,7 +23196,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6023.5
+      'Amount': -6023.5
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951354 Nam Huy Bui',
@@ -23207,7 +23207,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4904.03
+      'Amount': -4904.03
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.263000',
@@ -23284,7 +23284,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6746.9
+      'Amount': -6746.9
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001413 DOLLARAMA #1355',
@@ -23339,7 +23339,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6219.34
+      'Amount': -6219.34
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000238278',
@@ -23350,7 +23350,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1242.92
+      'Amount': -1242.92
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119820331428',
@@ -23361,7 +23361,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8516.5
+      'Amount': -8516.5
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -23405,7 +23405,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6735.51
+      'Amount': -6735.51
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -23416,7 +23416,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9677.67
+      'Amount': -9677.67
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129220611555',
@@ -23438,7 +23438,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8908.21
+      'Amount': -8908.21
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*CINNAH 119300812554',
@@ -23449,7 +23449,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 28.11
+      'Amount': -28.11
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119820331428',
@@ -23471,7 +23471,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3243.71
+      'Amount': -3243.71
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103775451035 Nil',
@@ -23515,7 +23515,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4087.35
+      'Amount': -4087.35
    },
     {
       'Title': 'MARY BROWNS #8002 WINNIPEG- MB',
@@ -23526,7 +23526,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3760.95
+      'Amount': -3760.95
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 120723688008',
@@ -23559,7 +23559,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7860.14
+      'Amount': -7860.14
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001724 LONDON DRUGS 66',
@@ -23592,7 +23592,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2088.3
+      'Amount': -2088.3
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130319587460',
@@ -23636,7 +23636,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9833.7
+      'Amount': -9833.7
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL APPLE.COM/CA 215807003249',
@@ -23658,7 +23658,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7832.02
+      'Amount': -7832.02
    },
     {
       'Title': 'Electronic Funds Transfer PREAUTHORIZED DEBIT PAYPAL',
@@ -23691,7 +23691,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1443.09
+      'Amount': -1443.09
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8989078410 100175533173',
@@ -23702,7 +23702,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8960.33
+      'Amount': -8960.33
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937221713 Nil',
@@ -23713,7 +23713,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7149.66
+      'Amount': -7149.66
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129013886157',
@@ -23724,7 +23724,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9808.14
+      'Amount': -9808.14
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 112601145020',
@@ -23757,7 +23757,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7568.82
+      'Amount': -7568.82
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246317',
@@ -23768,7 +23768,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 922.21
+      'Amount': -922.21
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WWW.IKEA.CA 128415214343',
@@ -23790,7 +23790,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9615.09
+      'Amount': -9615.09
    },
     {
       'Title': 'GREENCREST PHARMACY WINNIPEG MB',
@@ -23823,7 +23823,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1641.18
+      'Amount': -1641.18
    },
     {
       'Title': 'UBER* PENDING TORONTO ON',
@@ -23845,7 +23845,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3710.95
+      'Amount': -3710.95
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515380970',
@@ -23856,7 +23856,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 644.41
+      'Amount': -644.41
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 128319713380 75.00 CAD @ 1.000000',
@@ -23867,7 +23867,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2187.59
+      'Amount': -2187.59
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 128319713380 75.00 CAD @ 1.000000',
@@ -23889,7 +23889,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9426.69
+      'Amount': -9426.69
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 124323231129 129.00 CAD @ 1.000000',
@@ -23900,7 +23900,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4384.42
+      'Amount': -4384.42
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 860001001001 7 ELEVEN STORE',
@@ -23944,7 +23944,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7820.64
+      'Amount': -7820.64
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 115231539541',
@@ -23955,7 +23955,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4739.05
+      'Amount': -4739.05
    },
     {
       'Title': 'MARY BROWNS #8002 WINNIPEG- MB',
@@ -23966,7 +23966,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8141.61
+      'Amount': -8141.61
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001183 UNICITY TAXI #',
@@ -23977,7 +23977,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4718.51
+      'Amount': -4718.51
    },
     {
       'Title': 'Automated Banking Machine ATM DEPOSIT FORT RICHMOND SQ 2A12',
@@ -23988,7 +23988,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1644.44
+      'Amount': -1644.44
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG MB',
@@ -24010,7 +24010,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9978.53
+      'Amount': -9978.53
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114518716903',
@@ -24021,7 +24021,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2660.99
+      'Amount': -2660.99
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001714027 KIMCHI',
@@ -24032,7 +24032,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6883.58
+      'Amount': -6883.58
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE A0HT96SD0000 Five Guys',
@@ -24043,7 +24043,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7093.23
+      'Amount': -7093.23
    },
     {
       'Title': 'DOORDASH*RED LOBSTER DOWNTOWN TOROON',
@@ -24076,7 +24076,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3000.21
+      'Amount': -3000.21
    },
     {
       'Title': 'PAYPAL *RAGHDA 4029357733- ON',
@@ -24087,7 +24087,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5861.17
+      'Amount': -5861.17
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000236792',
@@ -24109,7 +24109,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6411.17
+      'Amount': -6411.17
    },
     {
       'Title': 'MARBLE SLAB CREAMERY WINNIPEG- MB',
@@ -24120,7 +24120,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1416.87
+      'Amount': -1416.87
    },
     {
       'Title': 'UBER* PENDING TORONTO ON',
@@ -24164,7 +24164,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5290.11
+      'Amount': -5290.11
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL AMZ*Rankie CA 215207007894',
@@ -24208,7 +24208,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4769.51
+      'Amount': -4769.51
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114820687805',
@@ -24219,7 +24219,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 152.09
+      'Amount': -152.09
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215012 UPS STORE #189',
@@ -24252,7 +24252,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8691.83
+      'Amount': -8691.83
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248361',
@@ -24285,7 +24285,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2127.23
+      'Amount': -2127.23
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000237749',
@@ -24296,7 +24296,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9245.91
+      'Amount': -9245.91
    },
     {
       'Title': 'UBER *TRIP HELP.UBER.COMNLD',
@@ -24340,7 +24340,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9370.77
+      'Amount': -9370.77
    },
     {
       'Title': 'PAYPAL *IGLOOB16 4029357733- ON',
@@ -24362,7 +24362,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9442.9
+      'Amount': -9442.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115021236265',
@@ -24373,7 +24373,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 432.34
+      'Amount': -432.34
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000222121',
@@ -24384,7 +24384,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8776.26
+      'Amount': -8776.26
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 874001001178 7 ELEVEN STORE',
@@ -24428,7 +24428,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8708.01
+      'Amount': -8708.01
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120906774319 20.00 USD @ 1.292000',
@@ -24439,7 +24439,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4471.05
+      'Amount': -4471.05
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 120731656923',
@@ -24450,7 +24450,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4777.6
+      'Amount': -4777.6
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277987',
@@ -24461,7 +24461,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 661.62
+      'Amount': -661.62
    },
     {
       'Title': 'UBER CANADA/UBERTRIP TORONTO- ON',
@@ -24483,7 +24483,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2261.73
+      'Amount': -2261.73
    },
     {
       'Title': 'H&M ONLINE TORONTO- ON',
@@ -24527,7 +24527,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2866.54
+      'Amount': -2866.54
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 119505451956',
@@ -24538,7 +24538,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5878.92
+      'Amount': -5878.92
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8989078410 100175533173',
@@ -24549,7 +24549,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1712.64
+      'Amount': -1712.64
    },
     {
       'Title': 'Ding 73180577 Dublin',
@@ -24593,7 +24593,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4430.15
+      'Amount': -4430.15
    },
     {
       'Title': 'OVERLIMIT FEE',
@@ -24615,7 +24615,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8708.1
+      'Amount': -8708.1
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115416041043',
@@ -24626,7 +24626,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5509.27
+      'Amount': -5509.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 130519882534',
@@ -24637,7 +24637,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1907.44
+      'Amount': -1907.44
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951869 Nil',
@@ -24648,7 +24648,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6463.46
+      'Amount': -6463.46
    },
     {
       'Title': 'PAYMENT PROTECTOR PREMIUM TAX',
@@ -24659,7 +24659,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3456.36
+      'Amount': -3456.36
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 772001001002 7 ELEVEN STORE',
@@ -24681,7 +24681,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9072.76
+      'Amount': -9072.76
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000248281 MASTERCARD- BMO',
@@ -24703,7 +24703,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8263.4
+      'Amount': -8263.4
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M STUDENTS 114222801307',
@@ -24725,7 +24725,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3450.09
+      'Amount': -3450.09
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130319154781',
@@ -24736,7 +24736,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1961.83
+      'Amount': -1961.83
    },
     {
       'Title': 'Internet Banking E-TRANSFER RECLAIM010387129802',
@@ -24769,7 +24769,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7063.61
+      'Amount': -7063.61
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000275373 MASTERCARD- BMO',
@@ -24802,7 +24802,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7228.95
+      'Amount': -7228.95
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000210291',
@@ -24813,7 +24813,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8608.7
+      'Amount': -8608.7
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000653170804 ST VITAL VISION',
@@ -24824,7 +24824,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2227.67
+      'Amount': -2227.67
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3177 WINNIPEG- MB',
@@ -24835,7 +24835,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7183.11
+      'Amount': -7183.11
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3177 WINNIPEG- MB',
@@ -24879,7 +24879,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7471.04
+      'Amount': -7471.04
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000277385 UNIVERSITY OF MANITOBA',
@@ -24890,7 +24890,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2750.27
+      'Amount': -2750.27
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 128319713380 75.00 CAD @ 1.000000',
@@ -24901,7 +24901,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7436.9
+      'Amount': -7436.9
    },
     {
       'Title': 'Point of Sale - INTERAC CORRECTION 000653170804 ST VITAL VISION',
@@ -24912,7 +24912,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6631.28
+      'Amount': -6631.28
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000222121',
@@ -24923,7 +24923,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2329.05
+      'Amount': -2329.05
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000243448',
@@ -24945,7 +24945,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7154.89
+      'Amount': -7154.89
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233939',
@@ -24967,7 +24967,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9581.43
+      'Amount': -9581.43
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 130519882534',
@@ -24989,7 +24989,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2728.95
+      'Amount': -2728.95
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON- ON',
@@ -25000,7 +25000,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 163.72
+      'Amount': -163.72
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001971 PIZZA PIZZA # 4',
@@ -25033,7 +25033,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2660.41
+      'Amount': -2660.41
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277819',
@@ -25066,7 +25066,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5103.34
+      'Amount': -5103.34
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TOROON',
@@ -25077,7 +25077,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9120.58
+      'Amount': -9120.58
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001853 PIZZA PIZZA # 4',
@@ -25099,7 +25099,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 842.97
+      'Amount': -842.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -25110,7 +25110,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9272.26
+      'Amount': -9272.26
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114820687805',
@@ -25121,7 +25121,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2615.45
+      'Amount': -2615.45
    },
     {
       'Title': 'AMZN Mktp CA*2L2SG1VY1 WWW.AMAZON.CA- ON',
@@ -25132,7 +25132,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 546
+      'Amount': -546
    },
     {
       'Title': 'OVERLIMIT FEE',
@@ -25143,7 +25143,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2452.36
+      'Amount': -2452.36
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 128319713380 51.74 CAD @ 1.000000',
@@ -25198,7 +25198,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4675.89
+      'Amount': -4675.89
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON- ON',
@@ -25209,7 +25209,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8017.93
+      'Amount': -8017.93
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112517341247',
@@ -25220,7 +25220,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2404.65
+      'Amount': -2404.65
    },
     {
       'Title': 'EPC*EPIC GAMES STORE 919-854-0070 59.99 USD @ 1.344390',
@@ -25264,7 +25264,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1204.05
+      'Amount': -1204.05
    },
     {
       'Title': 'AMZN Mktp CA*2L7583XQ0 WWW.AMAZON.CA- ON',
@@ -25286,7 +25286,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1123.78
+      'Amount': -1123.78
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130615818470',
@@ -25297,7 +25297,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1177.59
+      'Amount': -1177.59
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000226259',
@@ -25308,7 +25308,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8276.03
+      'Amount': -8276.03
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291836407 Nil 2',
@@ -25330,7 +25330,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2008.48
+      'Amount': -2008.48
    },
     {
       'Title': 'SP * MOFTGLOBAL HTTPSMOFTGLOB- CA 69.15 USD @ 1.260014',
@@ -25352,7 +25352,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3351.85
+      'Amount': -3351.85
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 120723688008',
@@ -25363,7 +25363,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 953.99
+      'Amount': -953.99
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103925120118 Cs Tutoring',
@@ -25374,7 +25374,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7291.66
+      'Amount': -7291.66
    },
     {
       'Title': 'ESHOPWORLD 35318809114',
@@ -25396,7 +25396,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8809.39
+      'Amount': -8809.39
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114643288469',
@@ -25418,7 +25418,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6030.02
+      'Amount': -6030.02
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103935295283 Nil',
@@ -25451,7 +25451,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7397.09
+      'Amount': -7397.09
    },
     {
       'Title': 'Branch Transaction WITHDRAWAL IBB FORT RICHMOND SQ BANKING CENTR',
@@ -25473,7 +25473,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5274.54
+      'Amount': -5274.54
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120843570813',
@@ -25484,7 +25484,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1689.37
+      'Amount': -1689.37
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103932819240 Cs Tutoring',
@@ -25495,7 +25495,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7323.22
+      'Amount': -7323.22
    },
     {
       'Title': 'Ding 70783768 Dublin',
@@ -25528,7 +25528,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3488.88
+      'Amount': -3488.88
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 121110785728 GREENCREST PHAR',
@@ -25539,7 +25539,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1916.7
+      'Amount': -1916.7
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001184 UNICITY TAXI #',
@@ -25583,7 +25583,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6623.15
+      'Amount': -6623.15
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 123709541432',
@@ -25627,7 +25627,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 905.49
+      'Amount': -905.49
    },
     {
       'Title': 'Point of Sale - Visa Debit CORRECTION dbrand Order 033515540976',
@@ -25649,7 +25649,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9317.43
+      'Amount': -9317.43
    },
     {
       'Title': 'UPS STORE #189 WINNIPEG- MB',
@@ -25682,7 +25682,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2524.1
+      'Amount': -2524.1
    },
     {
       'Title': 'EDO JAPAN - FORT RICHM WINNIPEG MB',
@@ -25704,7 +25704,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3181.9
+      'Amount': -3181.9
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103907720458 Nil',
@@ -25737,7 +25737,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1516.6
+      'Amount': -1516.6
    },
     {
       'Title': 'UBER* PENDING TORONTO ON',
@@ -25759,7 +25759,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 193.75
+      'Amount': -193.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114631763290',
@@ -25781,7 +25781,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8139.03
+      'Amount': -8139.03
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL H&M ONLINE 225707013470',
@@ -25803,7 +25803,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2485.79
+      'Amount': -2485.79
    },
     {
       'Title': 'OVERLIMIT FEE',
@@ -25825,7 +25825,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5847.34
+      'Amount': -5847.34
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103922078186 Nam Huy Bui',
@@ -25858,7 +25858,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7075.03
+      'Amount': -7075.03
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129222472965 28.03 CAD @ 1.000000',
@@ -25891,7 +25891,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2941.43
+      'Amount': -2941.43
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP SC103291839668',
@@ -25924,7 +25924,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7077.49
+      'Amount': -7077.49
    },
     {
       'Title': 'AMZN Mktp CA*2R17U8FM2 WWW.AMAZON.CA- ON',
@@ -25946,7 +25946,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 846.46
+      'Amount': -846.46
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MCDONA 119505373520',
@@ -25957,7 +25957,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9224.49
+      'Amount': -9224.49
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3177 WINNIPEG- MB',
@@ -25979,7 +25979,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2348.69
+      'Amount': -2348.69
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 860001001001 7 ELEVEN STORE',
@@ -26012,7 +26012,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6645.87
+      'Amount': -6645.87
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP SC103291839668',
@@ -26023,7 +26023,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7775.2
+      'Amount': -7775.2
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114234127034',
@@ -26056,7 +26056,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5803.16
+      'Amount': -5803.16
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000243009 MASTERCARD- BMO',
@@ -26122,7 +26122,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4991.05
+      'Amount': -4991.05
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 114222247236',
@@ -26133,7 +26133,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9675.47
+      'Amount': -9675.47
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WINNIPEG TRANSI 121498930642',
@@ -26177,7 +26177,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9752.99
+      'Amount': -9752.99
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 119320576697',
@@ -26188,7 +26188,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6767.28
+      'Amount': -6767.28
    },
     {
       'Title': 'Automated Banking Machine ATM WITHDRAWAL GTAA T-1 DEPARTURE L-2 3A51',
@@ -26232,7 +26232,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 244.49
+      'Amount': -244.49
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103907720458 Nil',
@@ -26243,7 +26243,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5943.68
+      'Amount': -5943.68
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 119701211405',
@@ -26254,7 +26254,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9917.24
+      'Amount': -9917.24
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001431182 SOBEYS #5037',
@@ -26276,7 +26276,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5592.26
+      'Amount': -5592.26
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119401577236',
@@ -26309,7 +26309,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3775.92
+      'Amount': -3775.92
    },
     {
       'Title': 'DOORDASH*RED FOOT KITC DOWNTOWN TORO- ON',
@@ -26331,7 +26331,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5379.25
+      'Amount': -5379.25
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000238398 UNIVERSITY OF MANITOBA',
@@ -26342,7 +26342,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2312.71
+      'Amount': -2312.71
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115562225836',
@@ -26353,7 +26353,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1159.3
+      'Amount': -1159.3
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103932819240 Cs Tutoring',
@@ -26364,7 +26364,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 427.63
+      'Amount': -427.63
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3119 WINNIPEG- MB',
@@ -26397,7 +26397,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5603.71
+      'Amount': -5603.71
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&M ONLINE 123521470714',
@@ -26408,7 +26408,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4779.38
+      'Amount': -4779.38
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001824 GREENWOODS DENT',
@@ -26430,7 +26430,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 262.64
+      'Amount': -262.64
    },
     {
       'Title': 'PAY PER USE OVERDRAFT FEE',
@@ -26452,7 +26452,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8413.23
+      'Amount': -8413.23
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO- ON',
@@ -26474,7 +26474,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8168.54
+      'Amount': -8168.54
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000283043',
@@ -26485,7 +26485,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4420.37
+      'Amount': -4420.37
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000237749',
@@ -26496,7 +26496,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2620.29
+      'Amount': -2620.29
    },
     {
       'Title': 'Ding 73180577 Dublin',
@@ -26507,7 +26507,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5999.81
+      'Amount': -5999.81
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -26562,7 +26562,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5169.88
+      'Amount': -5169.88
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951354 Nam Huy Bui',
@@ -26573,7 +26573,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9426.23
+      'Amount': -9426.23
    },
     {
       'Title': 'DOORDASH*MCDONALDS DOWNTOWN TORO- ON',
@@ -26595,7 +26595,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 196.8
+      'Amount': -196.8
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 121110785728 GREENCREST PHAR',
@@ -26606,7 +26606,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3961.27
+      'Amount': -3961.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 110244018102',
@@ -26617,7 +26617,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8124.51
+      'Amount': -8124.51
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL GOOGLE *GOOGLE T21300778584 1320.48 CAD @ 1.000000',
@@ -26639,7 +26639,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 342.4
+      'Amount': -342.4
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG MB',
@@ -26650,7 +26650,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6349.71
+      'Amount': -6349.71
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217320',
@@ -26672,7 +26672,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5256.8
+      'Amount': -5256.8
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130319587460',
@@ -26683,7 +26683,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2628.37
+      'Amount': -2628.37
    },
     {
       'Title': '7 ELEVEN STORE #32317 WINNIPEG- MB',
@@ -26694,7 +26694,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9637.99
+      'Amount': -9637.99
    },
     {
       'Title': 'PAYPAL *RAGHDA 4029357733- ON',
@@ -26727,7 +26727,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2607.45
+      'Amount': -2607.45
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112517341247',
@@ -26771,7 +26771,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5664.55
+      'Amount': -5664.55
    },
     {
       'Title': 'UBER CANADA TORONTO- ON',
@@ -26815,7 +26815,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6340.29
+      'Amount': -6340.29
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129013886157 113.55 CAD @ 1.000000',
@@ -26826,7 +26826,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2340.01
+      'Amount': -2340.01
    },
     {
       'Title': 'AMZN Mktp CA*2L84Y3JX0 WWW.AMAZON.CA- ON',
@@ -26837,7 +26837,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8889.25
+      'Amount': -8889.25
    },
     {
       'Title': 'AMZN Mktp CA*2C9PP0MR2 WWW.AMAZON.CAON',
@@ -26848,7 +26848,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 424.92
+      'Amount': -424.92
    },
     {
       'Title': 'AMZN Mktp CA*SR64P9QY3 WWW.AMAZON.CA- ON',
@@ -26870,7 +26870,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3155.37
+      'Amount': -3155.37
    },
     {
       'Title': 'FAMOUS PLAYER 2402QPS WINNIPEG MB',
@@ -26958,7 +26958,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4515.85
+      'Amount': -4515.85
    },
     {
       'Title': 'AMZN Mktp CA*2R9IA3ZW2 WWW.AMAZON.CA- ON',
@@ -26969,7 +26969,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1701.31
+      'Amount': -1701.31
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -27013,7 +27013,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7491.08
+      'Amount': -7491.08
    },
     {
       'Title': 'ROGERS ******* 888-764-3771 ON',
@@ -27024,7 +27024,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4160.36
+      'Amount': -4160.36
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL H&M ONLINE 225707013470',
@@ -27035,7 +27035,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7216.82
+      'Amount': -7216.82
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129862345774',
@@ -27046,7 +27046,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5127.75
+      'Amount': -5127.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 121616350114',
@@ -27068,7 +27068,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4961.89
+      'Amount': -4961.89
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001130002 GREENWOODS DENT',
@@ -27079,7 +27079,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6064.77
+      'Amount': -6064.77
    },
     {
       'Title': 'MARY BROWNS #8002 WINNIPEG MB',
@@ -27112,7 +27112,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2553.83
+      'Amount': -2553.83
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000224660',
@@ -27156,7 +27156,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1117.46
+      'Amount': -1117.46
    },
     {
       'Title': 'DOORDASH*RED FOOT KITC DOWNTOWN TORO- ON',
@@ -27167,7 +27167,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8704.3
+      'Amount': -8704.3
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 124323231129 140.00 CAD @ 1.000000',
@@ -27189,7 +27189,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5962.05
+      'Amount': -5962.05
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103808804769 Nil',
@@ -27244,7 +27244,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6932.66
+      'Amount': -6932.66
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000281600',
@@ -27255,7 +27255,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6289.41
+      'Amount': -6289.41
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&M ONLINE 121007465422',
@@ -27266,7 +27266,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7057.56
+      'Amount': -7057.56
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -27288,7 +27288,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3046.09
+      'Amount': -3046.09
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242922',
@@ -27299,7 +27299,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3593.18
+      'Amount': -3593.18
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 117519296233 12.89 CAD @ 1.000000',
@@ -27310,7 +27310,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6325.15
+      'Amount': -6325.15
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 144001001014 EDO JAPAN - FOR',
@@ -27343,7 +27343,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5458.69
+      'Amount': -5458.69
    },
     {
       'Title': 'Branch Transaction CREDIT MEMO',
@@ -27365,7 +27365,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3051.62
+      'Amount': -3051.62
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000287755',
@@ -27376,7 +27376,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 456.37
+      'Amount': -456.37
    },
     {
       'Title': 'AMZN Mktp CA*2L7JZ85B2 WWW.AMAZON.CA- ON',
@@ -27387,7 +27387,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4373.44
+      'Amount': -4373.44
    },
     {
       'Title': 'DOORDASH*RED LOBSTER DOWNTOWN TOROON',
@@ -27409,7 +27409,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1887.68
+      'Amount': -1887.68
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130615818470',
@@ -27431,7 +27431,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8395.69
+      'Amount': -8395.69
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL GOOGLE *Google 230807006268',
@@ -27475,7 +27475,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7281.83
+      'Amount': -7281.83
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129862345774',
@@ -27486,7 +27486,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7454.43
+      'Amount': -7454.43
    },
     {
       'Title': 'ST VITAL VISION CENTRE WINNIPEG MB',
@@ -27497,7 +27497,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1003.69
+      'Amount': -1003.69
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 119320576697',
@@ -27530,7 +27530,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 148.73
+      'Amount': -148.73
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SOUQ 033517331671 424.50 EGP @ 0.085606',
@@ -27541,7 +27541,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1168.11
+      'Amount': -1168.11
    },
     {
       'Title': 'AMZ*Amazon.ca WWW.AMAZON.CA- ON',
@@ -27574,7 +27574,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4191.82
+      'Amount': -4191.82
    },
     {
       'Title': 'AMZN Mktp CA*2L2SG1VY1 WWW.AMAZON.CA- ON',
@@ -27585,7 +27585,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7316.6
+      'Amount': -7316.6
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -27607,7 +27607,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 158.12
+      'Amount': -158.12
    },
     {
       'Title': 'OVERLIMIT FEE ON BAL $ 1437.17',
@@ -27662,7 +27662,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4787.06
+      'Amount': -4787.06
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001029 DOLLARAMA # 503',
@@ -27673,7 +27673,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3420.45
+      'Amount': -3420.45
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001541047 SOBEYS #5037',
@@ -27684,7 +27684,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6690.93
+      'Amount': -6690.93
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000275767',
@@ -27695,7 +27695,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7102.66
+      'Amount': -7102.66
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DBRAND 033516821111',
@@ -27706,7 +27706,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6896.56
+      'Amount': -6896.56
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -27717,7 +27717,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8097.89
+      'Amount': -8097.89
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000222121',
@@ -27739,7 +27739,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8240.24
+      'Amount': -8240.24
    },
     {
       'Title': 'PAYPAL *OZLEY LLC 4029357733- ON',
@@ -27750,7 +27750,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5436.03
+      'Amount': -5436.03
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 122817474064 67.43 CAD @ 1.000000',
@@ -27772,7 +27772,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7114.12
+      'Amount': -7114.12
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000289816',
@@ -27794,7 +27794,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4946.47
+      'Amount': -4946.47
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Patreon* Member 118207718434 27.00 USD @ 1.273704',
@@ -27805,7 +27805,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4788.73
+      'Amount': -4788.73
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 144001001014 EDO JAPAN - FOR',
@@ -27816,7 +27816,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9629.47
+      'Amount': -9629.47
    },
     {
       'Title': 'SHOPPING WITH POINTS/ACHA T PAR POINTS',
@@ -27827,7 +27827,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2992.44
+      'Amount': -2992.44
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 121110785728 GREENCREST PHAR',
@@ -27849,7 +27849,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5760.12
+      'Amount': -5760.12
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280230',
@@ -27882,7 +27882,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5445.14
+      'Amount': -5445.14
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129013886157 113.55 CAD @ 1.000000',
@@ -27904,7 +27904,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6079.43
+      'Amount': -6079.43
    },
     {
       'Title': 'UNITED NATIONS HIG GENEVA',
@@ -27959,7 +27959,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1386.7
+      'Amount': -1386.7
    },
     {
       'Title': 'Sony Interactive Enter 8003457669 CA',
@@ -27970,7 +27970,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 834.02
+      'Amount': -834.02
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000230250',
@@ -28003,7 +28003,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6536.8
+      'Amount': -6536.8
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE UBER CANADA 128622894662',
@@ -28036,7 +28036,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4317.49
+      'Amount': -4317.49
    },
     {
       'Title': 'DOORDASH*HSIEH FAMILY DOWNTOWN TOROON',
@@ -28047,7 +28047,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5568.96
+      'Amount': -5568.96
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129013886157 120.00 CAD @ 1.000000',
@@ -28058,7 +28058,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2251.64
+      'Amount': -2251.64
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000211857 MASTERCARD- BMO',
@@ -28069,7 +28069,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6192.77
+      'Amount': -6192.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129262581781',
@@ -28080,7 +28080,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5011.09
+      'Amount': -5011.09
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001714027 KIMCHI',
@@ -28091,7 +28091,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7877.65
+      'Amount': -7877.65
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000653170804 ST VITAL VISION',
@@ -28113,7 +28113,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1216.27
+      'Amount': -1216.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128320503371',
@@ -28157,7 +28157,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7303.66
+      'Amount': -7303.66
    },
     {
       'Title': 'CREDIT ADJUSTMENT',
@@ -28168,7 +28168,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1786.11
+      'Amount': -1786.11
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103904096531 Nam Huy Bui',
@@ -28179,7 +28179,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1098.64
+      'Amount': -1098.64
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000278050',
@@ -28201,7 +28201,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6410.69
+      'Amount': -6410.69
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000229840',
@@ -28234,7 +28234,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6385.95
+      'Amount': -6385.95
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001280019 ULTRACUTS STORE',
@@ -28267,7 +28267,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9763.11
+      'Amount': -9763.11
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001029 DOLLARAMA # 503',
@@ -28278,7 +28278,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3500.48
+      'Amount': -3500.48
    },
     {
       'Title': 'DOORDASH*PIZZA HUT DOWNTOWN TORO- ON',
@@ -28289,7 +28289,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 346.75
+      'Amount': -346.75
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001143004 UPS STORE #189',
@@ -28300,7 +28300,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8091.32
+      'Amount': -8091.32
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 119701211405',
@@ -28344,7 +28344,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4695.2
+      'Amount': -4695.2
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000289816',
@@ -28355,7 +28355,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 855.41
+      'Amount': -855.41
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MARBLE 119401668024',
@@ -28366,7 +28366,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2279.32
+      'Amount': -2279.32
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8986489928 128931619986',
@@ -28388,7 +28388,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6353.5
+      'Amount': -6353.5
    },
     {
       'Title': 'MARBLE SLAB CREAMERY WINNIPEG- MB',
@@ -28410,7 +28410,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7647.14
+      'Amount': -7647.14
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001029 DOLLARAMA # 503',
@@ -28421,7 +28421,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5374.81
+      'Amount': -5374.81
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103904721909 Cs Tutoring',
@@ -28432,7 +28432,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4023.25
+      'Amount': -4023.25
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001130002 GREENWOODS DENT',
@@ -28465,7 +28465,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1462.48
+      'Amount': -1462.48
    },
     {
       'Title': 'SQ *SHANG HAI 360 Winnipeg- MB',
@@ -28531,7 +28531,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5524.85
+      'Amount': -5524.85
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -28553,7 +28553,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3738.71
+      'Amount': -3738.71
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103808804769 Nil',
@@ -28586,7 +28586,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8982
+      'Amount': -8982
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON- ON',
@@ -28597,7 +28597,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6749.22
+      'Amount': -6749.22
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114631763290',
@@ -28608,7 +28608,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 887.26
+      'Amount': -887.26
    },
     {
       'Title': 'MARY BROWNS #8002 WINNIPEG- MB',
@@ -28630,7 +28630,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6993.79
+      'Amount': -6993.79
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103906818459 Cs Tutoring',
@@ -28685,7 +28685,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4613.09
+      'Amount': -4613.09
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 119505451956',
@@ -28696,7 +28696,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6586.18
+      'Amount': -6586.18
    },
     {
       'Title': 'AMZN Mktp CA*2L7ID8VF1 WWW.AMAZON.CA- ON',
@@ -28740,7 +28740,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6525.89
+      'Amount': -6525.89
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280230',
@@ -28751,7 +28751,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3477.8
+      'Amount': -3477.8
    },
     {
       'Title': 'UBER* TRIP TORONTO ON',
@@ -28784,7 +28784,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9011.97
+      'Amount': -9011.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 129233222773',
@@ -28795,7 +28795,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 464.08
+      'Amount': -464.08
    },
     {
       'Title': 'AMZ*Amazon.ca WWW.AMAZON.CA- ON',
@@ -28806,7 +28806,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3849.13
+      'Amount': -3849.13
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130615291106',
@@ -28817,7 +28817,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9961.73
+      'Amount': -9961.73
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001824 GREENWOODS DENT',
@@ -28850,7 +28850,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 269.11
+      'Amount': -269.11
    },
     {
       'Title': 'AMZN Mktp CA*2L84Y3JX0 WWW.AMAZON.CA- ON',
@@ -28861,7 +28861,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3456.71
+      'Amount': -3456.71
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114234127034',
@@ -28894,7 +28894,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5221.83
+      'Amount': -5221.83
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103890816362 Nil',
@@ -28905,7 +28905,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4780.18
+      'Amount': -4780.18
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291836407 Nil 2',
@@ -28927,7 +28927,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 477.5
+      'Amount': -477.5
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WINNIPEG TRANSI 121498930642',
@@ -28949,7 +28949,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8376.56
+      'Amount': -8376.56
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 129931113626',
@@ -28960,7 +28960,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5000.28
+      'Amount': -5000.28
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -28982,7 +28982,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2893.47
+      'Amount': -2893.47
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON- ON',
@@ -28993,7 +28993,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7524.97
+      'Amount': -7524.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -29015,7 +29015,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8667.08
+      'Amount': -8667.08
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO ON',
@@ -29037,7 +29037,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4282.24
+      'Amount': -4282.24
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001372012 NATION WEST INS',
@@ -29070,7 +29070,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7728.42
+      'Amount': -7728.42
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 121297656970',
@@ -29092,7 +29092,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5551.87
+      'Amount': -5551.87
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000220619',
@@ -29125,7 +29125,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8694.39
+      'Amount': -8694.39
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 297001001049 7-ELEVEN 17060',
@@ -29136,7 +29136,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5426.42
+      'Amount': -5426.42
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 128514281914 FAMOUS PLAYER #',
@@ -29158,7 +29158,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6668.6
+      'Amount': -6668.6
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129222472965',
@@ -29180,7 +29180,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9640.84
+      'Amount': -9640.84
    },
     {
       'Title': 'TIM HORTONS #2856 WINNIPEG- MB',
@@ -29202,7 +29202,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9450.3
+      'Amount': -9450.3
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 100574173390',
@@ -29213,7 +29213,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3811.78
+      'Amount': -3811.78
    },
     {
       'Title': 'DOORDASH*RED FOOT KITC DOWNTOWN TORO- ON',
@@ -29235,7 +29235,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4983.73
+      'Amount': -4983.73
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.287000',
@@ -29246,7 +29246,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3978.57
+      'Amount': -3978.57
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG- MB',
@@ -29257,7 +29257,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2649.52
+      'Amount': -2649.52
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120906774319 20.00 USD @ 1.292000',
@@ -29268,7 +29268,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1342.14
+      'Amount': -1342.14
    },
     {
       'Title': 'PAYPAL *RAGHDA 4029357733- ON',
@@ -29290,7 +29290,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5340.99
+      'Amount': -5340.99
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000243363',
@@ -29323,7 +29323,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6926.21
+      'Amount': -6926.21
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215003 UPS STORE #189',
@@ -29367,7 +29367,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3649.58
+      'Amount': -3649.58
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 123621211044',
@@ -29378,7 +29378,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4107.06
+      'Amount': -4107.06
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -29400,7 +29400,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4680.05
+      'Amount': -4680.05
    },
     {
       'Title': 'DOORDASH*WAKO SUSHI CA DOWNTOWN TORO- ON',
@@ -29411,7 +29411,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 629.86
+      'Amount': -629.86
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 100574173390',
@@ -29444,7 +29444,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8687.66
+      'Amount': -8687.66
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000219008',
@@ -29466,7 +29466,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4088.24
+      'Amount': -4088.24
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&M ONLINE 121007465422',
@@ -29477,7 +29477,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1827.27
+      'Amount': -1827.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WINNIPEG TRANSI 129710298809',
@@ -29488,7 +29488,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3359.48
+      'Amount': -3359.48
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 815001001156 7 ELEVEN STORE',
@@ -29521,7 +29521,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9585.98
+      'Amount': -9585.98
    },
     {
       'Title': 'GREENCREST PHARMACY WINNIPEG MB',
@@ -29554,7 +29554,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4069.64
+      'Amount': -4069.64
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001449010 NATION WEST INS',
@@ -29565,7 +29565,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7043.98
+      'Amount': -7043.98
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000225749',
@@ -29576,7 +29576,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4856.84
+      'Amount': -4856.84
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000218634',
@@ -29609,7 +29609,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7150.58
+      'Amount': -7150.58
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000276467',
@@ -29631,7 +29631,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5575.41
+      'Amount': -5575.41
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277987',
@@ -29653,7 +29653,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7887.23
+      'Amount': -7887.23
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SOUQ 033517331671 424.50 EGP @ 0.085606',
@@ -29675,7 +29675,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6835.28
+      'Amount': -6835.28
    },
     {
       'Title': 'AMZN Mktp CA*WQ25P26Z3 WWW.AMAZON.CA- ON',
@@ -29708,7 +29708,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8833.39
+      'Amount': -8833.39
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -29719,7 +29719,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3629.84
+      'Amount': -3629.84
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217320',
@@ -29730,7 +29730,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9961.16
+      'Amount': -9961.16
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 130519882534',
@@ -29752,7 +29752,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1638.25
+      'Amount': -1638.25
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG MB',
@@ -29763,7 +29763,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1386.18
+      'Amount': -1386.18
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115161790291',
@@ -29785,7 +29785,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1140.4
+      'Amount': -1140.4
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001449010 NATION WEST INS',
@@ -29807,7 +29807,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3699.65
+      'Amount': -3699.65
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103904721909 Cs Tutoring',
@@ -29829,7 +29829,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6484.94
+      'Amount': -6484.94
    },
     {
       'Title': 'Ding 73180577 Dublin',
@@ -29840,7 +29840,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1305.63
+      'Amount': -1305.63
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 120723688008',
@@ -29873,7 +29873,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1230.52
+      'Amount': -1230.52
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 128319713380',
@@ -29895,7 +29895,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 547.89
+      'Amount': -547.89
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG MB',
@@ -29917,7 +29917,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 265
+      'Amount': -265
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115764263401',
@@ -29950,7 +29950,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9909.15
+      'Amount': -9909.15
    },
     {
       'Title': 'AMZN Mktp CA*2G8R57Z62 WWW.AMAZON.CA- ON',
@@ -29961,7 +29961,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 530.97
+      'Amount': -530.97
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001029 DOLLARAMA # 503',
@@ -29994,7 +29994,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5693.86
+      'Amount': -5693.86
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242922',
@@ -30005,7 +30005,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1243.08
+      'Amount': -1243.08
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115161790291',
@@ -30027,7 +30027,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1207.97
+      'Amount': -1207.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 119701211405',
@@ -30060,7 +30060,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3226.36
+      'Amount': -3226.36
    },
     {
       'Title': 'Ding 70783768 Dublin',
@@ -30104,7 +30104,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1628.67
+      'Amount': -1628.67
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115202624941',
@@ -30115,7 +30115,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8659.73
+      'Amount': -8659.73
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000284108 MASTERCARD- BMO',
@@ -30137,7 +30137,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4345.47
+      'Amount': -4345.47
    },
     {
       'Title': 'AMZN Mktp CA*2C9PP0MR2 WWW.AMAZON.CAON',
@@ -30170,7 +30170,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6613.73
+      'Amount': -6613.73
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001182 UNICITY TAXI #',
@@ -30181,7 +30181,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3172.61
+      'Amount': -3172.61
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000289816',
@@ -30214,7 +30214,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1205.91
+      'Amount': -1205.91
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214441',
@@ -30236,7 +30236,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5361.52
+      'Amount': -5361.52
    },
     {
       'Title': 'APPLE.COM/US 800-676-2775- CA 10.00 USD @ 1.342000',
@@ -30302,7 +30302,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5557.74
+      'Amount': -5557.74
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116241781183',
@@ -30324,7 +30324,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9575.11
+      'Amount': -9575.11
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE PIZZA PIZZA LTD T21257248801 30.07 CAD @ 1.000000',
@@ -30346,7 +30346,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 246.69
+      'Amount': -246.69
    },
     {
       'Title': 'ESHOPWORLD 35318809114',
@@ -30357,7 +30357,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6852.71
+      'Amount': -6852.71
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115021236265',
@@ -30379,7 +30379,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1615.66
+      'Amount': -1615.66
    },
     {
       'Title': 'Point of Sale - Visa Debit CORRECTION PAYPAL *ABBYMAR 114420760500',
@@ -30390,7 +30390,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 401.71
+      'Amount': -401.71
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 815001001156 7 ELEVEN STORE',
@@ -30456,7 +30456,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9993.84
+      'Amount': -9993.84
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 119701211405',
@@ -30478,7 +30478,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 34.33
+      'Amount': -34.33
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 129220350485',
@@ -30489,7 +30489,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 562.06
+      'Amount': -562.06
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268205',
@@ -30511,7 +30511,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3989.65
+      'Amount': -3989.65
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951869 Nil',
@@ -30588,7 +30588,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 243.11
+      'Amount': -243.11
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE NOON 033513110581 700.00 EGP @ 0.085600',
@@ -30599,7 +30599,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2256.24
+      'Amount': -2256.24
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130615818470',
@@ -30610,7 +30610,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 205.27
+      'Amount': -205.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 119320576697',
@@ -30632,7 +30632,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5066.34
+      'Amount': -5066.34
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 772001001002 7 ELEVEN STORE',
@@ -30676,7 +30676,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9419.48
+      'Amount': -9419.48
    },
     {
       'Title': 'UNITED NATIONS HIG GENEVA',
@@ -30731,7 +30731,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9742.66
+      'Amount': -9742.66
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000288020',
@@ -30764,7 +30764,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4532.23
+      'Amount': -4532.23
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO ON',
@@ -30775,7 +30775,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2520.02
+      'Amount': -2520.02
    },
     {
       'Title': 'DOORDASH*MCDONALDS DOWNTOWN TORO- ON',
@@ -30808,7 +30808,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 878.88
+      'Amount': -878.88
    },
     {
       'Title': 'AMZN Mktp CA*WQ25P26Z3 WWW.AMAZON.CA- ON',
@@ -30819,7 +30819,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 272.95
+      'Amount': -272.95
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000249061 MASTERCARD- BMO',
@@ -30830,7 +30830,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5664.14
+      'Amount': -5664.14
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB T21187134271 12.89 CAD @ 1.000000',
@@ -30841,7 +30841,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8332.26
+      'Amount': -8332.26
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 122817474064 80.00 CAD @ 1.000000',
@@ -30885,7 +30885,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1514.51
+      'Amount': -1514.51
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG MB',
@@ -30918,7 +30918,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5342.47
+      'Amount': -5342.47
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -30951,7 +30951,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4803.33
+      'Amount': -4803.33
    },
     {
       'Title': 'PONY CORRAL RESTAURANT WINNIPEG MB',
@@ -31006,7 +31006,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2324.66
+      'Amount': -2324.66
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 20.39 CAD @ 1.000000',
@@ -31050,7 +31050,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9536.66
+      'Amount': -9536.66
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 20.39 CAD @ 1.000000',
@@ -31061,7 +31061,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9634.77
+      'Amount': -9634.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DOORDAS 114315330225',
@@ -31072,7 +31072,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6078.52
+      'Amount': -6078.52
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285648',
@@ -31116,7 +31116,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5426.83
+      'Amount': -5426.83
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246729',
@@ -31138,7 +31138,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3650.69
+      'Amount': -3650.69
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001824 GREENWOODS DENT',
@@ -31160,7 +31160,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2948.33
+      'Amount': -2948.33
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116343132120',
@@ -31182,7 +31182,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1702.79
+      'Amount': -1702.79
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 114222247236',
@@ -31204,7 +31204,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2123.52
+      'Amount': -2123.52
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000235999',
@@ -31237,7 +31237,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1515.3
+      'Amount': -1515.3
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000278050',
@@ -31248,7 +31248,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9875.42
+      'Amount': -9875.42
    },
     {
       'Title': 'AMZN Mktp CA*2L1RK2AP0 WWW.AMAZON.CA- ON',
@@ -31259,7 +31259,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2375.76
+      'Amount': -2375.76
    },
     {
       'Title': 'Branch Transaction WITHDRAWAL IBB FORT RICHMOND SQ BANKING CENTR',
@@ -31292,7 +31292,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9696.84
+      'Amount': -9696.84
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000288020',
@@ -31303,7 +31303,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7757.37
+      'Amount': -7757.37
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103904721909 Cs Tutoring',
@@ -31314,7 +31314,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6166.57
+      'Amount': -6166.57
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 772001001002 7 ELEVEN STORE',
@@ -31325,7 +31325,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3569.49
+      'Amount': -3569.49
    },
     {
       'Title': 'AMZN Mktp CA*2G4JL98T0 WWW.AMAZON.CA- ON',
@@ -31347,7 +31347,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3089.67
+      'Amount': -3089.67
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 129220350485',
@@ -31358,7 +31358,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2884.77
+      'Amount': -2884.77
    },
     {
       'Title': 'EDO JAPAN - FORT RICHM WINNIPEG MB',
@@ -31369,7 +31369,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6130.96
+      'Amount': -6130.96
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103800587602 Nil',
@@ -31380,7 +31380,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2260.22
+      'Amount': -2260.22
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119523616250',
@@ -31391,7 +31391,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7501.05
+      'Amount': -7501.05
    },
     {
       'Title': 'AMZN Mktp CA*2L84Y3JX0 WWW.AMAZON.CA- ON',
@@ -31402,7 +31402,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5982.17
+      'Amount': -5982.17
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000248281 MASTERCARD- BMO',
@@ -31413,7 +31413,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8184.28
+      'Amount': -8184.28
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 110244018102',
@@ -31424,7 +31424,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3282.16
+      'Amount': -3282.16
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119820331428',
@@ -31446,7 +31446,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6517.18
+      'Amount': -6517.18
    },
     {
       'Title': 'LONDON DRUGS 66 WINNIPEG- MB',
@@ -31468,7 +31468,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4405.8
+      'Amount': -4405.8
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 123721541177',
@@ -31479,7 +31479,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3171.24
+      'Amount': -3171.24
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*CINNAH 119300812554',
@@ -31490,7 +31490,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5126.19
+      'Amount': -5126.19
    },
     {
       'Title': 'DOORDASH*WAKO SUSHI CA DOWNTOWN TORO- ON',
@@ -31501,7 +31501,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6666.09
+      'Amount': -6666.09
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000262105',
@@ -31523,7 +31523,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6658.19
+      'Amount': -6658.19
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114234127034',
@@ -31534,7 +31534,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1750.07
+      'Amount': -1750.07
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129221927298',
@@ -31545,7 +31545,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9184.61
+      'Amount': -9184.61
    },
     {
       'Title': 'EPC*EPIC GAMES STORE 919-854-0070 59.99 USD @ 1.344390',
@@ -31567,7 +31567,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3797
+      'Amount': -3797
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000277385 UNIVERSITY OF MANITOBA',
@@ -31578,7 +31578,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8832.84
+      'Amount': -8832.84
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114234127034',
@@ -31589,7 +31589,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8435.99
+      'Amount': -8435.99
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE UBER CANADA 128622894662',
@@ -31622,7 +31622,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4718.87
+      'Amount': -4718.87
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001714027 KIMCHI',
@@ -31633,7 +31633,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2179.83
+      'Amount': -2179.83
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115562225836',
@@ -31666,7 +31666,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6857.38
+      'Amount': -6857.38
    },
     {
       'Title': 'SKECHERS USA CANADA 833-846-5891- ON',
@@ -31688,7 +31688,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7842.76
+      'Amount': -7842.76
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.252000',
@@ -31710,7 +31710,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1118.39
+      'Amount': -1118.39
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 125122740760 49.63 CAD @ 1.000000',
@@ -31732,7 +31732,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9528.64
+      'Amount': -9528.64
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000242901 MASTERCARD- BMO',
@@ -31754,7 +31754,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1367.93
+      'Amount': -1367.93
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8987807342 114434941244',
@@ -31765,7 +31765,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5944.67
+      'Amount': -5944.67
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -31798,7 +31798,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7530.56
+      'Amount': -7530.56
    },
     {
       'Title': 'APPLE.COM/BILL TORONTO- ON',
@@ -31820,7 +31820,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9032.44
+      'Amount': -9032.44
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL APPLE.COM/CA 215807003249',
@@ -31831,7 +31831,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7318.69
+      'Amount': -7318.69
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 128319713380 75.00 CAD @ 1.000000',
@@ -31842,7 +31842,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4419.37
+      'Amount': -4419.37
    },
     {
       'Title': 'SOUQ.COM CAIRO S. -07E 1199.00 EGP @ .086105',
@@ -31853,7 +31853,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8868.49
+      'Amount': -8868.49
    },
     {
       'Title': 'UBER *TRIP AMSTERDAM- ON',
@@ -31864,7 +31864,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5625.43
+      'Amount': -5625.43
    },
     {
       'Title': 'Electronic Funds Transfer CREDIT MEMO CIBC-DISATF',
@@ -31886,7 +31886,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7813.01
+      'Amount': -7813.01
    },
     {
       'Title': 'PAYMENT PROTECTOR PREMIUM TAX',
@@ -31897,7 +31897,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1185.13
+      'Amount': -1185.13
    },
     {
       'Title': 'Ding 70783768 Dublin',
@@ -31908,7 +31908,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5687.04
+      'Amount': -5687.04
    },
     {
       'Title': 'STARBUCKS COFFEE #48192 WINNIPEG- MB',
@@ -31941,7 +31941,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3768.76
+      'Amount': -3768.76
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *OZLEY L 120700380712',
@@ -31952,7 +31952,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8409.3
+      'Amount': -8409.3
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233939',
@@ -31963,7 +31963,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1920.59
+      'Amount': -1920.59
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 129341124937',
@@ -31985,7 +31985,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4238.09
+      'Amount': -4238.09
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL APPLE.COM/CA 215807003250',
@@ -31996,7 +31996,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3815.95
+      'Amount': -3815.95
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129013886157 113.55 CAD @ 1.000000',
@@ -32062,7 +32062,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5367.52
+      'Amount': -5367.52
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -32084,7 +32084,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 558.73
+      'Amount': -558.73
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 121110785728 GREENCREST PHAR',
@@ -32095,7 +32095,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 832.04
+      'Amount': -832.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130615291106',
@@ -32106,7 +32106,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7120.24
+      'Amount': -7120.24
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 730001001074 7 ELEVEN STORE',
@@ -32139,7 +32139,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9637.02
+      'Amount': -9637.02
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001853 PIZZA PIZZA # 4',
@@ -32150,7 +32150,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8283.55
+      'Amount': -8283.55
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 125122533908',
@@ -32172,7 +32172,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6785.87
+      'Amount': -6785.87
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000249325',
@@ -32183,7 +32183,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3315.12
+      'Amount': -3315.12
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 128514281914 FAMOUS PLAYER #',
@@ -32194,7 +32194,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7264.37
+      'Amount': -7264.37
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103813947721 SAIFELESLAM KEWAISY',
@@ -32205,7 +32205,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5181.72
+      'Amount': -5181.72
    },
     {
       'Title': 'Point of Sale - Visa Debit CORRECTION PAYPAL *ABBYMAR 114420760500',
@@ -32238,7 +32238,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1084.74
+      'Amount': -1084.74
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 124122872769 TIM HORTONS #81',
@@ -32249,7 +32249,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3055.72
+      'Amount': -3055.72
    },
     {
       'Title': 'Branch Transaction WITHDRAWAL IBB FORT RICHMOND SQ BANKING CENTR',
@@ -32260,7 +32260,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9313.31
+      'Amount': -9313.31
    },
     {
       'Title': 'SOUQ.COM CAIRO S. -07E 1199.00 EGP @ .086105',
@@ -32271,7 +32271,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2749.01
+      'Amount': -2749.01
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 128514281914 FAMOUS PLAYER #',
@@ -32282,7 +32282,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4913.26
+      'Amount': -4913.26
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PP*6750CODE 112910330964',
@@ -32293,7 +32293,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7714.74
+      'Amount': -7714.74
    },
     {
       'Title': 'ST VITAL VISION CENTRE WINNIPEG MB',
@@ -32326,7 +32326,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4850.9
+      'Amount': -4850.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WINNIPEG TRANSI 129710298809',
@@ -32337,7 +32337,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7538.98
+      'Amount': -7538.98
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -32348,7 +32348,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7361.38
+      'Amount': -7361.38
    },
     {
       'Title': 'AMZN Mktp CA*WQ25P26Z3 WWW.AMAZON.CA- ON',
@@ -32359,7 +32359,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4147.29
+      'Amount': -4147.29
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 129233222773',
@@ -32370,7 +32370,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3789.45
+      'Amount': -3789.45
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114242229059',
@@ -32403,7 +32403,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8587.82
+      'Amount': -8587.82
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291836407 Nil 2',
@@ -32414,7 +32414,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1624.33
+      'Amount': -1624.33
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103890816362 Nil',
@@ -32469,7 +32469,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5748.63
+      'Amount': -5748.63
    },
     {
       'Title': 'DOORDASH*WAKO SUSHI CA DOWNTOWN TORO- ON',
@@ -32546,7 +32546,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8418.95
+      'Amount': -8418.95
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP 103291839668',
@@ -32557,7 +32557,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4040.94
+      'Amount': -4040.94
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -32612,7 +32612,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9882.68
+      'Amount': -9882.68
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -32623,7 +32623,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3963.43
+      'Amount': -3963.43
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103835467191 kijiji controller user',
@@ -32656,7 +32656,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5810.61
+      'Amount': -5810.61
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103935295283 Nil',
@@ -32678,7 +32678,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3022.62
+      'Amount': -3022.62
    },
     {
       'Title': 'AMZN Mktp CA*2R17U8FM2 WWW.AMAZON.CA- ON',
@@ -32689,7 +32689,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2530.99
+      'Amount': -2530.99
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBER *TRIP 115806783478 3.00 CAD @ 1.000000',
@@ -32722,7 +32722,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1766.07
+      'Amount': -1766.07
    },
     {
       'Title': 'AMZN Mktp CA*2L93I8MI2 WWW.AMAZON.CA- ON',
@@ -32733,7 +32733,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3186.32
+      'Amount': -3186.32
    },
     {
       'Title': 'TIM HORTONS #2856 WINNIPEG- MB',
@@ -32744,7 +32744,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9487.86
+      'Amount': -9487.86
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000249325',
@@ -32766,7 +32766,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7863.97
+      'Amount': -7863.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114722191577',
@@ -32810,7 +32810,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1183.83
+      'Amount': -1183.83
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG- MB',
@@ -32821,7 +32821,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4609
+      'Amount': -4609
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*CINNAH 119300812554',
@@ -32832,7 +32832,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5834.27
+      'Amount': -5834.27
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000248281 MASTERCARD- BMO',
@@ -32843,7 +32843,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8867.44
+      'Amount': -8867.44
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103932819240 Cs Tutoring',
@@ -32865,7 +32865,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2382.76
+      'Amount': -2382.76
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000653170804 ST VITAL VISION',
@@ -32920,7 +32920,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3929.03
+      'Amount': -3929.03
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG MB',
@@ -32942,7 +32942,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5641.27
+      'Amount': -5641.27
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TORO- ON',
@@ -32964,7 +32964,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7969.9
+      'Amount': -7969.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128600189632',
@@ -32997,7 +32997,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8834.71
+      'Amount': -8834.71
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 144001001014 EDO JAPAN - FOR',
@@ -33008,7 +33008,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3035.9
+      'Amount': -3035.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129521971315',
@@ -33041,7 +33041,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6531.28
+      'Amount': -6531.28
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000226259',
@@ -33085,7 +33085,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3223.03
+      'Amount': -3223.03
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000222121',
@@ -33107,7 +33107,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2828.36
+      'Amount': -2828.36
    },
     {
       'Title': 'Ding 70781731 Dublin',
@@ -33129,7 +33129,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4109.42
+      'Amount': -4109.42
    },
     {
       'Title': 'PAYPAL *IGLOOB16 4029357733- ON',
@@ -33151,7 +33151,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4928.21
+      'Amount': -4928.21
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000226377',
@@ -33162,7 +33162,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7917.21
+      'Amount': -7917.21
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000236792',
@@ -33173,7 +33173,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9727.33
+      'Amount': -9727.33
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG- MB',
@@ -33195,7 +33195,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3484.78
+      'Amount': -3484.78
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001134001 GREENWOODS DENT',
@@ -33206,7 +33206,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9606.53
+      'Amount': -9606.53
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000287755',
@@ -33250,7 +33250,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6376.02
+      'Amount': -6376.02
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 119618572370',
@@ -33283,7 +33283,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4722.11
+      'Amount': -4722.11
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001714027 KIMCHI',
@@ -33327,7 +33327,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6755.91
+      'Amount': -6755.91
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114820708324',
@@ -33338,7 +33338,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1682.59
+      'Amount': -1682.59
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103811946493 Nil',
@@ -33382,7 +33382,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 459.89
+      'Amount': -459.89
    },
     {
       'Title': 'LONDON DRUGS 66 WINNIPEG- MB',
@@ -33393,7 +33393,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 593.27
+      'Amount': -593.27
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000276380',
@@ -33404,7 +33404,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3671.13
+      'Amount': -3671.13
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128600189632',
@@ -33426,7 +33426,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7065.58
+      'Amount': -7065.58
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -33437,7 +33437,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7157.48
+      'Amount': -7157.48
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103908455504 ROBERTO DINGAL ORTEGA',
@@ -33448,7 +33448,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3383.75
+      'Amount': -3383.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129013886157',
@@ -33481,7 +33481,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4401.7
+      'Amount': -4401.7
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE A0HT96SD0000 Five Guys',
@@ -33514,7 +33514,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6056.14
+      'Amount': -6056.14
    },
     {
       'Title': 'MARY BROWNS #8002 WINNIPEG MB',
@@ -33525,7 +33525,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4364.79
+      'Amount': -4364.79
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277819',
@@ -33558,7 +33558,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6156.71
+      'Amount': -6156.71
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.252000',
@@ -33580,7 +33580,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 437.5
+      'Amount': -437.5
    },
     {
       'Title': 'Electronic Funds Transfer PAY 7-ELEVEN CANADA 7-ELEVEN CANADA INC.',
@@ -33591,7 +33591,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5762.85
+      'Amount': -5762.85
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000210291',
@@ -33613,7 +33613,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7905.67
+      'Amount': -7905.67
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 120723688008',
@@ -33635,7 +33635,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9391.62
+      'Amount': -9391.62
    },
     {
       'Title': 'AMZN Mktp CA*SR64P9QY3 WWW.AMAZON.CA- ON',
@@ -33646,7 +33646,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9598.73
+      'Amount': -9598.73
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114643288469',
@@ -33657,7 +33657,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9734.5
+      'Amount': -9734.5
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -33668,7 +33668,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8796.55
+      'Amount': -8796.55
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000236792',
@@ -33690,7 +33690,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8430.15
+      'Amount': -8430.15
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112601145020',
@@ -33701,7 +33701,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8215.59
+      'Amount': -8215.59
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 124323231129 140.00 CAD @ 1.000000',
@@ -33712,7 +33712,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5327.91
+      'Amount': -5327.91
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON- ON',
@@ -33723,7 +33723,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8112.55
+      'Amount': -8112.55
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL GOOGLE *Google 230807006268',
@@ -33734,7 +33734,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3702.85
+      'Amount': -3702.85
    },
     {
       'Title': 'H&M ONLINE TORONTO- ON',
@@ -33745,7 +33745,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6311.01
+      'Amount': -6311.01
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130201721079',
@@ -33756,7 +33756,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7321.78
+      'Amount': -7321.78
    },
     {
       'Title': 'Automated Banking Machine ATM WITHDRAWAL FORT RICHMOND SQ 2A12',
@@ -33811,7 +33811,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1311.82
+      'Amount': -1311.82
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129521971315',
@@ -33833,7 +33833,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9945.89
+      'Amount': -9945.89
    },
     {
       'Title': 'SP * MOFTGLOBAL HTTPSMOFTGLOB- CA 69.15 USD @ 1.260014',
@@ -33855,7 +33855,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3087.61
+      'Amount': -3087.61
    },
     {
       'Title': 'SOUQ.COM CAIRO S. -07E 1199.00 EGP @ .086105',
@@ -33866,7 +33866,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3026.49
+      'Amount': -3026.49
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000653170804 ST VITAL VISION',
@@ -33877,7 +33877,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5195.54
+      'Amount': -5195.54
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130319587460',
@@ -33899,7 +33899,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2347.3
+      'Amount': -2347.3
    },
     {
       'Title': 'EDO JAPAN - FORT RICHM WINNIPEG MB',
@@ -33910,7 +33910,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9307.31
+      'Amount': -9307.31
    },
     {
       'Title': 'APPLE.COM/BILL TORONTO- ON',
@@ -33921,7 +33921,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1323.05
+      'Amount': -1323.05
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MARBLE 119401668024',
@@ -33943,7 +33943,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6699.87
+      'Amount': -6699.87
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 120220634105',
@@ -33954,7 +33954,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4620.56
+      'Amount': -4620.56
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129013886157 113.55 CAD @ 1.000000',
@@ -33965,7 +33965,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7901.34
+      'Amount': -7901.34
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 125122740760',
@@ -33976,7 +33976,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2388.95
+      'Amount': -2388.95
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103890816362 Nil',
@@ -33998,7 +33998,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3374.36
+      'Amount': -3374.36
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 20.39 CAD @ 1.000000',
@@ -34009,7 +34009,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5119
+      'Amount': -5119
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO ON',
@@ -34020,7 +34020,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1561.53
+      'Amount': -1561.53
    },
     {
       'Title': 'DOORDASH*SUGAR MARMALA DOWNTOWN TOROON',
@@ -34042,7 +34042,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 767.23
+      'Amount': -767.23
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.263000',
@@ -34053,7 +34053,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9921.46
+      'Amount': -9921.46
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -34064,7 +34064,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 836.31
+      'Amount': -836.31
    },
     {
       'Title': 'DOORDASH*OH DOUGHNUTS DOWNTOWN TORO- ON',
@@ -34075,7 +34075,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6945.56
+      'Amount': -6945.56
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103890816362 Nil',
@@ -34152,7 +34152,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9351
+      'Amount': -9351
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103908455504 ROBERTO DINGAL ORTEGA',
@@ -34163,7 +34163,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3548.38
+      'Amount': -3548.38
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *EMPIREF 120700700976',
@@ -34174,7 +34174,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4181.01
+      'Amount': -4181.01
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001456 LONDON DRUGS 66',
@@ -34207,7 +34207,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6315.02
+      'Amount': -6315.02
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116241781183',
@@ -34229,7 +34229,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4592
+      'Amount': -4592
    },
     {
       'Title': 'DNH*GODADDY.COM EGP 480-505-8855- AZ 933.88 EGP @ .086103',
@@ -34251,7 +34251,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4397.94
+      'Amount': -4397.94
    },
     {
       'Title': 'CASH ADVANCE/AVANCE DE FO NDS',
@@ -34284,7 +34284,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1267.94
+      'Amount': -1267.94
    },
     {
       'Title': 'DNH*GODADDY.COM EGP 480-505-8855- AZ 933.88 EGP @ .086103',
@@ -34295,7 +34295,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6420.2
+      'Amount': -6420.2
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3177 WINNIPEG- MB',
@@ -34317,7 +34317,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9957.32
+      'Amount': -9957.32
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001724 LONDON DRUGS 66',
@@ -34339,7 +34339,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 792.26
+      'Amount': -792.26
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ABBYMAR 114420760500',
@@ -34350,7 +34350,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 51.1
+      'Amount': -51.1
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -34361,7 +34361,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5632.23
+      'Amount': -5632.23
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 120220634105',
@@ -34372,7 +34372,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7491.97
+      'Amount': -7491.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 129931113626',
@@ -34394,7 +34394,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8870.53
+      'Amount': -8870.53
    },
     {
       'Title': 'UBR* PENDING.UBER.COM AMSTERDAM- ON',
@@ -34416,7 +34416,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7963.25
+      'Amount': -7963.25
    },
     {
       'Title': 'AWL*PEARSON EDUCATION PRSONCS.COM- NJ 94.99 USD @ 1.250131',
@@ -34438,7 +34438,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5764.99
+      'Amount': -5764.99
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515540976',
@@ -34449,7 +34449,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2436.92
+      'Amount': -2436.92
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937221713 Nil',
@@ -34460,7 +34460,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1386.41
+      'Amount': -1386.41
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 115222608388',
@@ -34482,7 +34482,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1649.11
+      'Amount': -1649.11
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -34493,7 +34493,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1846.15
+      'Amount': -1846.15
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001183 UNICITY TAXI #',
@@ -34504,7 +34504,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8020.6
+      'Amount': -8020.6
    },
     {
       'Title': 'DOORDASH*HSIEH FAMILY DOWNTOWN TOROON',
@@ -34515,7 +34515,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3351.12
+      'Amount': -3351.12
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239616',
@@ -34581,7 +34581,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6235.21
+      'Amount': -6235.21
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 821001001034 7 ELEVEN STORE',
@@ -34592,7 +34592,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4270.99
+      'Amount': -4270.99
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000288020',
@@ -34625,7 +34625,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 862.76
+      'Amount': -862.76
    },
     {
       'Title': 'SKECHERS USA CANADA 833-846-5891- ON',
@@ -34647,7 +34647,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3115.9
+      'Amount': -3115.9
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000219008',
@@ -34691,7 +34691,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8794.08
+      'Amount': -8794.08
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AIR CAN* 112571064500',
@@ -34724,7 +34724,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 939.06
+      'Amount': -939.06
    },
     {
       'Title': 'Ding 70781731 Dublin',
@@ -34735,7 +34735,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9978.28
+      'Amount': -9978.28
    },
     {
       'Title': '7-ELEVEN 17060 D2811 WINNIPEG MB',
@@ -34779,7 +34779,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6890.95
+      'Amount': -6890.95
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000240361',
@@ -34790,7 +34790,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7279.97
+      'Amount': -7279.97
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -34812,7 +34812,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3688.39
+      'Amount': -3688.39
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001140007 UPS STORE #189',
@@ -34823,7 +34823,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3290.77
+      'Amount': -3290.77
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 122817474064 67.43 CAD @ 1.000000',
@@ -34867,7 +34867,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 831.74
+      'Amount': -831.74
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 122817474064 67.43 CAD @ 1.000000',
@@ -34878,7 +34878,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1018.83
+      'Amount': -1018.83
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001326 COINAMATIC CANA',
@@ -34900,7 +34900,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8561.21
+      'Amount': -8561.21
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291835592 Nil 2',
@@ -34911,7 +34911,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9502.47
+      'Amount': -9502.47
    },
     {
       'Title': 'DOORDASH*MCDONALDS DOWNTOWN TORO- ON',
@@ -34922,7 +34922,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5890.07
+      'Amount': -5890.07
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -34933,7 +34933,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6783.87
+      'Amount': -6783.87
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268205',
@@ -34955,7 +34955,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2372.33
+      'Amount': -2372.33
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 120723688008',
@@ -34977,7 +34977,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2173.72
+      'Amount': -2173.72
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129222472965',
@@ -34999,7 +34999,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3795.49
+      'Amount': -3795.49
    },
     {
       'Title': 'TIM HORTONS #2856 WINNIPEG- MB',
@@ -35010,7 +35010,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6820.4
+      'Amount': -6820.4
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 297001001049 7-ELEVEN 17060',
@@ -35065,7 +35065,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6216.21
+      'Amount': -6216.21
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103877893810 Divagar',
@@ -35098,7 +35098,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8871.73
+      'Amount': -8871.73
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 815001001156 7 ELEVEN STORE',
@@ -35109,7 +35109,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6273.15
+      'Amount': -6273.15
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103922078186 Nam Huy Bui',
@@ -35120,7 +35120,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5514.94
+      'Amount': -5514.94
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001971 PIZZA PIZZA # 4',
@@ -35142,7 +35142,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9891.45
+      'Amount': -9891.45
    },
     {
       'Title': 'DOORDASH*MCDONALDS DOWNTOWN TORO- ON',
@@ -35153,7 +35153,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3873.14
+      'Amount': -3873.14
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 100574173390',
@@ -35164,7 +35164,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3624.27
+      'Amount': -3624.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MARBLE 119401668024',
@@ -35175,7 +35175,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7600.86
+      'Amount': -7600.86
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115161790291',
@@ -35219,7 +35219,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3800.67
+      'Amount': -3800.67
    },
     {
       'Title': 'UOFMANITOBA-BOOKSTORE WINNIPEG- MB',
@@ -35230,7 +35230,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1215.77
+      'Amount': -1215.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116343132120',
@@ -35241,7 +35241,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3241.53
+      'Amount': -3241.53
    },
     {
       'Title': 'AMZN Mktp CA*2L84Y3JX0 WWW.AMAZON.CA- ON',
@@ -35252,7 +35252,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5760.26
+      'Amount': -5760.26
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Patreon* Member 118207718434 27.00 USD @ 1.273704',
@@ -35263,7 +35263,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7162.46
+      'Amount': -7162.46
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO- ON',
@@ -35274,7 +35274,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2298.97
+      'Amount': -2298.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8982929769 120773525764',
@@ -35285,7 +35285,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3453.57
+      'Amount': -3453.57
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114518716903',
@@ -35296,7 +35296,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2278.35
+      'Amount': -2278.35
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -35307,7 +35307,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9730.62
+      'Amount': -9730.62
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 20.39 CAD @ 1.000000',
@@ -35318,7 +35318,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5116.36
+      'Amount': -5116.36
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 125122740760 49.63 CAD @ 1.000000',
@@ -35351,7 +35351,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 959.96
+      'Amount': -959.96
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 130101408181',
@@ -35362,7 +35362,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9457.33
+      'Amount': -9457.33
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AIR CAN* 112571064500',
@@ -35373,7 +35373,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 501.47
+      'Amount': -501.47
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000236792',
@@ -35384,7 +35384,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9875.8
+      'Amount': -9875.8
    },
     {
       'Title': 'SHOPPING WITH POINTS/ACHA T PAR POINTS',
@@ -35395,7 +35395,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 577.18
+      'Amount': -577.18
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 123621211044',
@@ -35406,7 +35406,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 858.87
+      'Amount': -858.87
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115244629060',
@@ -35428,7 +35428,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1079.61
+      'Amount': -1079.61
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115764263401',
@@ -35439,7 +35439,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9283.2
+      'Amount': -9283.2
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001183 UNICITY TAXI #',
@@ -35450,7 +35450,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1993.74
+      'Amount': -1993.74
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -35472,7 +35472,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1633.33
+      'Amount': -1633.33
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129222472965 30.00 CAD @ 1.000000',
@@ -35483,7 +35483,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8879.76
+      'Amount': -8879.76
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291835592 Nil 2',
@@ -35494,7 +35494,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2399.26
+      'Amount': -2399.26
    },
     {
       'Title': 'SQ *OH DOUGHNUTS gosq.com MB',
@@ -35560,7 +35560,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 449.97
+      'Amount': -449.97
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000284108 MASTERCARD- BMO',
@@ -35637,7 +35637,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2625.9
+      'Amount': -2625.9
    },
     {
       'Title': 'SKECHERS USA CANADA 833-846-5891- ON',
@@ -35648,7 +35648,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1347.75
+      'Amount': -1347.75
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001391 DOLLARAMA #1286',
@@ -35692,7 +35692,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8433.77
+      'Amount': -8433.77
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001134001 GREENWOODS DENT',
@@ -35703,7 +35703,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7636.13
+      'Amount': -7636.13
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000275767',
@@ -35714,7 +35714,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1001.76
+      'Amount': -1001.76
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239616',
@@ -35725,7 +35725,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2227.21
+      'Amount': -2227.21
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246729',
@@ -35747,7 +35747,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3855.87
+      'Amount': -3855.87
    },
     {
       'Title': 'UBER *TRIP HELP.UBER.COMNLD',
@@ -35780,7 +35780,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8017.51
+      'Amount': -8017.51
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214062',
@@ -35791,7 +35791,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6813.43
+      'Amount': -6813.43
    },
     {
       'Title': 'DOORDASH*HSIEH FAMILY DOWNTOWN TOROON',
@@ -35813,7 +35813,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4549.78
+      'Amount': -4549.78
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 128574487262',
@@ -35824,7 +35824,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5360.38
+      'Amount': -5360.38
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 120723688008',
@@ -35835,7 +35835,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 130.37
+      'Amount': -130.37
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260690',
@@ -35857,7 +35857,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4732.37
+      'Amount': -4732.37
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOGOINFLIGHT* 112534098337',
@@ -35879,7 +35879,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8794.18
+      'Amount': -8794.18
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285225',
@@ -35901,7 +35901,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2024.01
+      'Amount': -2024.01
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000288020',
@@ -35934,7 +35934,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8947.37
+      'Amount': -8947.37
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515540976',
@@ -35945,7 +35945,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1215.72
+      'Amount': -1215.72
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000247264',
@@ -35956,7 +35956,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8912.2
+      'Amount': -8912.2
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280173',
@@ -35967,7 +35967,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2054.35
+      'Amount': -2054.35
    },
     {
       'Title': 'UNITED NATIONS HIG GENEVA',
@@ -35978,7 +35978,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3495.85
+      'Amount': -3495.85
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103782929527 Nil',
@@ -36011,7 +36011,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7072.06
+      'Amount': -7072.06
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000287755',
@@ -36044,7 +36044,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5271.87
+      'Amount': -5271.87
    },
     {
       'Title': 'INSTACART 8882467822- NS',
@@ -36055,7 +36055,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 848.09
+      'Amount': -848.09
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000225749',
@@ -36066,7 +36066,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9612.24
+      'Amount': -9612.24
    },
     {
       'Title': 'AMZN Mktp CA*2L2SG1VY1 WWW.AMAZON.CA- ON',
@@ -36143,7 +36143,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1843.23
+      'Amount': -1843.23
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000265158 MASTERCARD- BMO',
@@ -36209,7 +36209,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1051.16
+      'Amount': -1051.16
    },
     {
       'Title': 'AMZ*Amazon.ca WWW.AMAZON.CA- ON',
@@ -36220,7 +36220,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1491.09
+      'Amount': -1491.09
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 121297656970',
@@ -36253,7 +36253,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1529.26
+      'Amount': -1529.26
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 119320576697',
@@ -36275,7 +36275,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3116.24
+      'Amount': -3116.24
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 128711822579',
@@ -36297,7 +36297,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9376.96
+      'Amount': -9376.96
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103851939670 Divagar',
@@ -36308,7 +36308,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5041.64
+      'Amount': -5041.64
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 772001001002 7 ELEVEN STORE',
@@ -36352,7 +36352,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 688.37
+      'Amount': -688.37
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000281600',
@@ -36385,7 +36385,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9724.63
+      'Amount': -9724.63
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000243009 MASTERCARD- BMO',
@@ -36407,7 +36407,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2302.12
+      'Amount': -2302.12
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114722191577',
@@ -36462,7 +36462,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1572.52
+      'Amount': -1572.52
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 125122740760 60.00 CAD @ 1.000000',
@@ -36495,7 +36495,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5886.64
+      'Amount': -5886.64
    },
     {
       'Title': 'OVERLIMIT FEE ON BAL $ 1437.17',
@@ -36517,7 +36517,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3229.29
+      'Amount': -3229.29
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 130519882534',
@@ -36528,7 +36528,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8156.1
+      'Amount': -8156.1
    },
     {
       'Title': 'UBER* TRIP TORONTO ON',
@@ -36550,7 +36550,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8861.47
+      'Amount': -8861.47
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000284108 MASTERCARD- BMO',
@@ -36583,7 +36583,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3722.95
+      'Amount': -3722.95
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000240361',
@@ -36616,7 +36616,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7061.33
+      'Amount': -7061.33
    },
     {
       'Title': 'AMZN Mktp CA*2L7ID8VF1 WWW.AMAZON.CA- ON',
@@ -36627,7 +36627,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8648.99
+      'Amount': -8648.99
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129013886157 120.00 CAD @ 1.000000',
@@ -36638,7 +36638,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 794.24
+      'Amount': -794.24
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 124323231129 129.00 CAD @ 1.000000',
@@ -36649,7 +36649,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3836.97
+      'Amount': -3836.97
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PP*6750CODE 112910330964',
@@ -36660,7 +36660,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5162.34
+      'Amount': -5162.34
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.252000',
@@ -36693,7 +36693,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4015.75
+      'Amount': -4015.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115161790291',
@@ -36726,7 +36726,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5701.58
+      'Amount': -5701.58
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -36770,7 +36770,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2428.55
+      'Amount': -2428.55
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 124122872769 TIM HORTONS #81',
@@ -36781,7 +36781,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4875.24
+      'Amount': -4875.24
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115521642780',
@@ -36792,7 +36792,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6961.73
+      'Amount': -6961.73
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000232460 UNIVERSITY OF MANITOBA',
@@ -36803,7 +36803,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1598.59
+      'Amount': -1598.59
    },
     {
       'Title': 'MARY BROWNS #8002 WINNIPEG- MB',
@@ -36814,7 +36814,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1247.56
+      'Amount': -1247.56
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937221713 Nil',
@@ -36836,7 +36836,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2783.03
+      'Amount': -2783.03
    },
     {
       'Title': 'PAY PER USE OVERDRAFT FEE',
@@ -36869,7 +36869,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 961.84
+      'Amount': -961.84
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129721552614',
@@ -36880,7 +36880,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7815
+      'Amount': -7815
    },
     {
       'Title': 'Ding 70781731 Dublin',
@@ -36891,7 +36891,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7332.18
+      'Amount': -7332.18
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 124323231129 129.00 CAD @ 1.000000',
@@ -36913,7 +36913,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9823.11
+      'Amount': -9823.11
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001029 DOLLARAMA # 503',
@@ -36957,7 +36957,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1372.77
+      'Amount': -1372.77
    },
     {
       'Title': 'OVER LIMIT FEE',
@@ -36979,7 +36979,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9528.78
+      'Amount': -9528.78
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114421482951',
@@ -36990,7 +36990,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1532.4
+      'Amount': -1532.4
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -37023,7 +37023,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7044.7
+      'Amount': -7044.7
    },
     {
       'Title': 'MARBLE SLAB CREAMERY WINNIPEG- MB',
@@ -37078,7 +37078,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2399.69
+      'Amount': -2399.69
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001173 DOLLARAMA #1286',
@@ -37089,7 +37089,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6113.77
+      'Amount': -6113.77
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 124323231129 129.00 CAD @ 1.000000',
@@ -37111,7 +37111,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2352.18
+      'Amount': -2352.18
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114234127034',
@@ -37122,7 +37122,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8317.87
+      'Amount': -8317.87
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001173 DOLLARAMA #1286',
@@ -37133,7 +37133,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1197.77
+      'Amount': -1197.77
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001569 LONDON DRUGS 66',
@@ -37177,7 +37177,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1129.69
+      'Amount': -1129.69
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 115231539541',
@@ -37199,7 +37199,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8880.45
+      'Amount': -8880.45
    },
     {
       'Title': 'REQUEST MONEY 010338709427 Floribert Kamabu',
@@ -37243,7 +37243,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4249.68
+      'Amount': -4249.68
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114234127034',
@@ -37265,7 +37265,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7098.23
+      'Amount': -7098.23
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -37287,7 +37287,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6437.39
+      'Amount': -6437.39
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8986489928 128931619986',
@@ -37298,7 +37298,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9668.82
+      'Amount': -9668.82
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG- MB',
@@ -37331,7 +37331,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8652.2
+      'Amount': -8652.2
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 128120074581',
@@ -37353,7 +37353,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7881.61
+      'Amount': -7881.61
    },
     {
       'Title': 'CREDIT ADJUSTMENT',
@@ -37364,7 +37364,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5595.48
+      'Amount': -5595.48
    },
     {
       'Title': 'TIM HORTONS #2856 WINNIPEG- MB',
@@ -37375,7 +37375,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8236.71
+      'Amount': -8236.71
    },
     {
       'Title': 'PAYPAL *GHASSANALNA 4029357733- ON',
@@ -37408,7 +37408,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8535.96
+      'Amount': -8535.96
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248000',
@@ -37441,7 +37441,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8522.34
+      'Amount': -8522.34
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 115231539541',
@@ -37474,7 +37474,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6501.49
+      'Amount': -6501.49
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260690',
@@ -37518,7 +37518,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8016.51
+      'Amount': -8016.51
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103808804769 Nil',
@@ -37540,7 +37540,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1333.52
+      'Amount': -1333.52
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001134001 GREENWOODS DENT',
@@ -37562,7 +37562,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8886.47
+      'Amount': -8886.47
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239266',
@@ -37573,7 +37573,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3077.74
+      'Amount': -3077.74
    },
     {
       'Title': 'AWL*PEARSON EDUCATION PRSONCS.COM- NJ 94.99 USD @ 1.250131',
@@ -37628,7 +37628,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7779.55
+      'Amount': -7779.55
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Patreon* Member 118207718434 27.00 USD @ 1.273704',
@@ -37650,7 +37650,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6433.13
+      'Amount': -6433.13
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 125320842485',
@@ -37661,7 +37661,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5714.71
+      'Amount': -5714.71
    },
     {
       'Title': 'PAYPAL *RAGHDA 4029357733- ON',
@@ -37683,7 +37683,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1533.25
+      'Amount': -1533.25
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG- MB',
@@ -37738,7 +37738,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6986.77
+      'Amount': -6986.77
    },
     {
       'Title': 'AMZN Mktp CA*2R17U8FM2 WWW.AMAZON.CA- ON',
@@ -37749,7 +37749,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1235.16
+      'Amount': -1235.16
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120834678151',
@@ -37760,7 +37760,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6412.81
+      'Amount': -6412.81
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103932819240 Cs Tutoring',
@@ -37771,7 +37771,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 413.51
+      'Amount': -413.51
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103933806689 Cs Tutoring',
@@ -37793,7 +37793,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7210.21
+      'Amount': -7210.21
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129013886157 113.55 CAD @ 1.000000',
@@ -37815,7 +37815,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6010.14
+      'Amount': -6010.14
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937244055 Nil',
@@ -37837,7 +37837,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5357.02
+      'Amount': -5357.02
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000236792',
@@ -37870,7 +37870,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7433.98
+      'Amount': -7433.98
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000226259',
@@ -37903,7 +37903,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6362.08
+      'Amount': -6362.08
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001143004 UPS STORE #189',
@@ -37925,7 +37925,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3971.07
+      'Amount': -3971.07
    },
     {
       'Title': 'U OF M REGISTRARS WINNIPEG- MB',
@@ -37947,7 +37947,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8605.56
+      'Amount': -8605.56
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 125215434629 TIM HORTONS #01',
@@ -37991,7 +37991,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1049.7
+      'Amount': -1049.7
    },
     {
       'Title': 'DOORDASH*MCDONALDS DOWNTOWN TORO- ON',
@@ -38057,7 +38057,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 15.79
+      'Amount': -15.79
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 119701211405',
@@ -38090,7 +38090,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 196.61
+      'Amount': -196.61
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274346',
@@ -38101,7 +38101,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9428.28
+      'Amount': -9428.28
    },
     {
       'Title': 'Branch Transaction WITHDRAWAL IBB FORT RICHMOND SQ BANKING CENTR',
@@ -38112,7 +38112,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5105.17
+      'Amount': -5105.17
    },
     {
       'Title': 'APPLE.COM/BILL 866-712-7753- ON',
@@ -38134,7 +38134,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9007.95
+      'Amount': -9007.95
    },
     {
       'Title': 'UBR* PENDING.UBER.COM AMSTERDAM- ON',
@@ -38167,7 +38167,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5231.1
+      'Amount': -5231.1
    },
     {
       'Title': 'DOORDASH*MCDONALDS DOWNTOWN TORO- ON',
@@ -38178,7 +38178,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5964.85
+      'Amount': -5964.85
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115161790291',
@@ -38189,7 +38189,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7522.62
+      'Amount': -7522.62
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DBRAND 033516821111',
@@ -38200,7 +38200,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7194.65
+      'Amount': -7194.65
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *OZLEY L 120700380712',
@@ -38233,7 +38233,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6415.59
+      'Amount': -6415.59
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*CINNAH 119300812554',
@@ -38244,7 +38244,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5622.18
+      'Amount': -5622.18
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129904406741',
@@ -38255,7 +38255,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8323.43
+      'Amount': -8323.43
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112601145020',
@@ -38277,7 +38277,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6073.71
+      'Amount': -6073.71
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103915794773 Nil',
@@ -38299,7 +38299,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 948.94
+      'Amount': -948.94
    },
     {
       'Title': 'Branch Transaction WITHDRAWAL IBB FORT RICHMOND SQ BANKING CENTR',
@@ -38310,7 +38310,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7829.16
+      'Amount': -7829.16
    },
     {
       'Title': 'SKIPTHEDISHES WINNIPEG- MB',
@@ -38332,7 +38332,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8233.36
+      'Amount': -8233.36
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL PP*6750CODE 213107008052',
@@ -38354,7 +38354,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7936.38
+      'Amount': -7936.38
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -38376,7 +38376,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9793.04
+      'Amount': -9793.04
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000269148',
@@ -38420,7 +38420,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8286.5
+      'Amount': -8286.5
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 22.39 CAD @ 1.000000',
@@ -38442,7 +38442,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5378.16
+      'Amount': -5378.16
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001971 PIZZA PIZZA # 4',
@@ -38453,7 +38453,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2282.49
+      'Amount': -2282.49
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114722720851',
@@ -38475,7 +38475,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 477.99
+      'Amount': -477.99
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 122817474064 80.00 CAD @ 1.000000',
@@ -38508,7 +38508,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6366.38
+      'Amount': -6366.38
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 874001001178 7 ELEVEN STORE',
@@ -38541,7 +38541,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5651.05
+      'Amount': -5651.05
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 112601145020',
@@ -38552,7 +38552,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8854.27
+      'Amount': -8854.27
    },
     {
       'Title': 'MARY BROWNS #8002 WINNIPEG- MB',
@@ -38563,7 +38563,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3096.96
+      'Amount': -3096.96
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON- ON',
@@ -38574,7 +38574,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7441.27
+      'Amount': -7441.27
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001413 DOLLARAMA #1355',
@@ -38607,7 +38607,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8143.67
+      'Amount': -8143.67
    },
     {
       'Title': 'UNITED NATIONS HIG GENEVA',
@@ -38662,7 +38662,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4187.24
+      'Amount': -4187.24
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL PP*6750CODE 213107008052',
@@ -38673,7 +38673,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4774.12
+      'Amount': -4774.12
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 119505451956',
@@ -38717,7 +38717,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4930.52
+      'Amount': -4930.52
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 128574487262',
@@ -38739,7 +38739,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 383.07
+      'Amount': -383.07
    },
     {
       'Title': 'AMZN Mktp CA*2L1RK2AP0 WWW.AMAZON.CA- ON',
@@ -38761,7 +38761,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6866.11
+      'Amount': -6866.11
    },
     {
       'Title': 'PONY CORRAL RESTAURANT WINNIPEG MB',
@@ -38772,7 +38772,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3116.62
+      'Amount': -3116.62
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001143004 UPS STORE #189',
@@ -38794,7 +38794,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5856.28
+      'Amount': -5856.28
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129222472965',
@@ -38816,7 +38816,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6098.72
+      'Amount': -6098.72
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DBRAND 033520822515',
@@ -38827,7 +38827,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7671.09
+      'Amount': -7671.09
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103922078186 Nam Huy Bui',
@@ -38838,7 +38838,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5626.54
+      'Amount': -5626.54
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000248281 MASTERCARD- BMO',
@@ -38871,7 +38871,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3230.62
+      'Amount': -3230.62
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120906772646 20.00 USD @ 1.292000',
@@ -38893,7 +38893,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6455.56
+      'Amount': -6455.56
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE MPI - ONLINE 124410491306',
@@ -38904,7 +38904,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3072.29
+      'Amount': -3072.29
    },
     {
       'Title': 'Cashback/Remises CR',
@@ -38926,7 +38926,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1765.6
+      'Amount': -1765.6
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000276467',
@@ -38937,7 +38937,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4629.54
+      'Amount': -4629.54
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114222113411',
@@ -38948,7 +38948,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8377.78
+      'Amount': -8377.78
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *EMPIREF 120700700976',
@@ -38970,7 +38970,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5620.56
+      'Amount': -5620.56
    },
     {
       'Title': 'MARBLE SLAB CREAMERY WINNIPEG- MB',
@@ -38992,7 +38992,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6548.09
+      'Amount': -6548.09
    },
     {
       'Title': 'OVERLIMIT FEE',
@@ -39014,7 +39014,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8123.45
+      'Amount': -8123.45
    },
     {
       'Title': 'PAYMENT PROTECTOR PREMIUM 800-893-2862',
@@ -39047,7 +39047,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2735.77
+      'Amount': -2735.77
    },
     {
       'Title': '7-ELEVEN 17060 D2811 WINNIPEG- MB',
@@ -39058,7 +39058,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 819.1
+      'Amount': -819.1
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129862345774',
@@ -39069,7 +39069,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2083.17
+      'Amount': -2083.17
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 119701211405',
@@ -39080,7 +39080,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2989.96
+      'Amount': -2989.96
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 121616350114',
@@ -39091,7 +39091,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2439.49
+      'Amount': -2439.49
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000232460 UNIVERSITY OF MANITOBA',
@@ -39113,7 +39113,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4773.78
+      'Amount': -4773.78
    },
     {
       'Title': 'OVERLIMIT FEE ON BAL $ 1437.17',
@@ -39146,7 +39146,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4416.46
+      'Amount': -4416.46
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214062',
@@ -39157,7 +39157,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1159.17
+      'Amount': -1159.17
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 123709541432',
@@ -39212,7 +39212,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9622.72
+      'Amount': -9622.72
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -39234,7 +39234,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 290.71
+      'Amount': -290.71
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO- ON',
@@ -39245,7 +39245,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5239.54
+      'Amount': -5239.54
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268805',
@@ -39256,7 +39256,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1983.04
+      'Amount': -1983.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112517341247',
@@ -39289,7 +39289,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2339.31
+      'Amount': -2339.31
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130615818470',
@@ -39300,7 +39300,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6721.37
+      'Amount': -6721.37
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TORO- ON',
@@ -39322,7 +39322,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3178.46
+      'Amount': -3178.46
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280230',
@@ -39333,7 +39333,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4331.74
+      'Amount': -4331.74
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000238278',
@@ -39355,7 +39355,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7345.81
+      'Amount': -7345.81
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103933806689 Cs Tutoring',
@@ -39366,7 +39366,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 85.43
+      'Amount': -85.43
    },
     {
       'Title': 'DNH*GODADDY.COM EGP 480-505-8855- AZ 933.88 EGP @ .086103',
@@ -39377,7 +39377,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9472.32
+      'Amount': -9472.32
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000276380',
@@ -39399,7 +39399,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8910.43
+      'Amount': -8910.43
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -39432,7 +39432,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3215.91
+      'Amount': -3215.91
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103811946493 Nil',
@@ -39487,7 +39487,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2631.79
+      'Amount': -2631.79
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000237749',
@@ -39498,7 +39498,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9306.64
+      'Amount': -9306.64
    },
     {
       'Title': 'Ding 73180577 Dublin',
@@ -39520,7 +39520,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7314.6
+      'Amount': -7314.6
    },
     {
       'Title': 'Branch Transaction CREDIT MEMO',
@@ -39542,7 +39542,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9746.27
+      'Amount': -9746.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115135455508',
@@ -39553,7 +39553,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 159.81
+      'Amount': -159.81
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 112517341247',
@@ -39564,7 +39564,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3660.8
+      'Amount': -3660.8
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TORO- ON',
@@ -39586,7 +39586,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3218.5
+      'Amount': -3218.5
    },
     {
       'Title': 'Ding 73866562 Dublin',
@@ -39597,7 +39597,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6286.59
+      'Amount': -6286.59
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO ON',
@@ -39608,7 +39608,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1556.33
+      'Amount': -1556.33
    },
     {
       'Title': 'AMZN Mktp CA*WQ25P26Z3 WWW.AMAZON.CA- ON',
@@ -39619,7 +39619,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 919.84
+      'Amount': -919.84
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001541047 SOBEYS #5037',
@@ -39663,7 +39663,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1617.67
+      'Amount': -1617.67
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001326 COINAMATIC CANA',
@@ -39696,7 +39696,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3214.25
+      'Amount': -3214.25
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 22.39 CAD @ 1.000000',
@@ -39707,7 +39707,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4240.26
+      'Amount': -4240.26
    },
     {
       'Title': 'PONY CORRAL RESTAURANT WINNIPEG MB',
@@ -39729,7 +39729,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2481.67
+      'Amount': -2481.67
    },
     {
       'Title': 'SERVICE CHARGE',
@@ -39740,7 +39740,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3980.61
+      'Amount': -3980.61
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129013886157',
@@ -39751,7 +39751,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 675.54
+      'Amount': -675.54
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129862345774',
@@ -39762,7 +39762,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1907.81
+      'Amount': -1907.81
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130201721079',
@@ -39773,7 +39773,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3693.78
+      'Amount': -3693.78
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 128319713380',
@@ -39784,7 +39784,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1178.34
+      'Amount': -1178.34
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103782929527 Nil',
@@ -39806,7 +39806,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4857.76
+      'Amount': -4857.76
    },
     {
       'Title': 'Sony Interactive Enter 8003457669 CA',
@@ -39817,7 +39817,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2664.31
+      'Amount': -2664.31
    },
     {
       'Title': 'PONY CORRAL RESTAURANT WINNIPEG MB',
@@ -39828,7 +39828,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 30.23
+      'Amount': -30.23
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001724 LONDON DRUGS 66',
@@ -39839,7 +39839,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2164.51
+      'Amount': -2164.51
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 129220350485',
@@ -39850,7 +39850,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8979.11
+      'Amount': -8979.11
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 119320576697',
@@ -39861,7 +39861,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9269.35
+      'Amount': -9269.35
    },
     {
       'Title': 'EPC*EPIC GAMES STORE 919-854-0070 59.99 USD @ 1.344390',
@@ -39872,7 +39872,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6772.09
+      'Amount': -6772.09
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Patreon* Member 118207718434 27.00 USD @ 1.273704',
@@ -39894,7 +39894,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6712.88
+      'Amount': -6712.88
    },
     {
       'Title': 'PAYPAL *OZLEY LLC 4029357733- ON',
@@ -39905,7 +39905,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2492.39
+      'Amount': -2492.39
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000278050',
@@ -39916,7 +39916,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4947.65
+      'Amount': -4947.65
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274346',
@@ -39927,7 +39927,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 675.13
+      'Amount': -675.13
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103893663933 CARLI ALECIA-MARIE MCNABB',
@@ -39949,7 +39949,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3912.61
+      'Amount': -3912.61
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO- ON',
@@ -39960,7 +39960,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2863.17
+      'Amount': -2863.17
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103800587602 Nil',
@@ -39971,7 +39971,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7405.98
+      'Amount': -7405.98
    },
     {
       'Title': '7-ELEVEN 17060 D2811 WINNIPEG- MB',
@@ -39993,7 +39993,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8368.86
+      'Amount': -8368.86
    },
     {
       'Title': 'APPLE.COM/BILL TORONTO- ON',
@@ -40015,7 +40015,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5339.95
+      'Amount': -5339.95
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233596',
@@ -40026,7 +40026,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5865.55
+      'Amount': -5865.55
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.252000',
@@ -40037,7 +40037,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2971.04
+      'Amount': -2971.04
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129222472965 28.03 CAD @ 1.000000',
@@ -40048,7 +40048,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6668.83
+      'Amount': -6668.83
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL APPLE.COM/BILL T21007062033 39.18 CAD @ 1.000000',
@@ -40059,7 +40059,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8806.39
+      'Amount': -8806.39
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 857001001125 7 ELEVEN STORE',
@@ -40081,7 +40081,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1985.33
+      'Amount': -1985.33
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DOORDAS 114315330225',
@@ -40092,7 +40092,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1333.64
+      'Amount': -1333.64
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000235999',
@@ -40103,7 +40103,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4500.18
+      'Amount': -4500.18
    },
     {
       'Title': 'FAMOUS PLAYER 2402QPS WINNIPEG MB',
@@ -40114,7 +40114,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2546.02
+      'Amount': -2546.02
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116343132120',
@@ -40125,7 +40125,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3856.11
+      'Amount': -3856.11
    },
     {
       'Title': 'DOORDASH*SUGAR MARMALA DOWNTOWN TOROON',
@@ -40136,7 +40136,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9416.82
+      'Amount': -9416.82
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AIR CAN* 112571064500',
@@ -40147,7 +40147,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8127.41
+      'Amount': -8127.41
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 100574173390',
@@ -40158,7 +40158,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4395.5
+      'Amount': -4395.5
    },
     {
       'Title': 'AMZN Mktp CA*2C4GU87A1 WWW.AMAZON.CAON',
@@ -40180,7 +40180,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1362.98
+      'Amount': -1362.98
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128222143267',
@@ -40202,7 +40202,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7037.27
+      'Amount': -7037.27
    },
     {
       'Title': 'APPLE.COM/US 800-676-2775- CA 10.00 USD @ 1.342000',
@@ -40224,7 +40224,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9996.03
+      'Amount': -9996.03
    },
     {
       'Title': 'AMZN Mktp CA*2L1RK2AP0 WWW.AMAZON.CA- ON',
@@ -40235,7 +40235,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 958.2
+      'Amount': -958.2
    },
     {
       'Title': 'EPC*EPIC GAMES STORE 919-854-0070 59.99 USD @ 1.344390',
@@ -40301,7 +40301,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1624.55
+      'Amount': -1624.55
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000262105',
@@ -40334,7 +40334,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8647.17
+      'Amount': -8647.17
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000238278',
@@ -40345,7 +40345,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9149.71
+      'Amount': -9149.71
    },
     {
       'Title': 'Telephone Banking Personal TELEPHONE TRANSFER000000017983',
@@ -40356,7 +40356,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1430.49
+      'Amount': -1430.49
    },
     {
       'Title': 'Point of Sale - INTERAC CORRECTION 000653170804 ST VITAL VISION',
@@ -40400,7 +40400,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8209.55
+      'Amount': -8209.55
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129904406741',
@@ -40422,7 +40422,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 281.04
+      'Amount': -281.04
    },
     {
       'Title': 'AMZN Mktp CA*2L7ID8VF1 WWW.AMAZON.CA- ON',
@@ -40510,7 +40510,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3215.18
+      'Amount': -3215.18
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3177 WINNIPEG- MB',
@@ -40521,7 +40521,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6166.54
+      'Amount': -6166.54
    },
     {
       'Title': 'AMZN Mktp CA*SR64P9QY3 WWW.AMAZON.CA- ON',
@@ -40554,7 +40554,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9724.15
+      'Amount': -9724.15
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 297001001049 7-ELEVEN 17060',
@@ -40587,7 +40587,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9412.66
+      'Amount': -9412.66
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 144001001014 EDO JAPAN - FOR',
@@ -40598,7 +40598,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9658.43
+      'Amount': -9658.43
    },
     {
       'Title': 'PAYPAL *ASEELSAFI14 4029357733- ON',
@@ -40620,7 +40620,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7154.66
+      'Amount': -7154.66
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116241781183',
@@ -40664,7 +40664,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5446.93
+      'Amount': -5446.93
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000222121',
@@ -40697,7 +40697,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4098.09
+      'Amount': -4098.09
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103932819240 Cs Tutoring',
@@ -40708,7 +40708,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9640.07
+      'Amount': -9640.07
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129222472965 30.00 CAD @ 1.000000',
@@ -40752,7 +40752,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7627.26
+      'Amount': -7627.26
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP 103291839668',
@@ -40763,7 +40763,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9725.9
+      'Amount': -9725.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 129233222773',
@@ -40774,7 +40774,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 125.26
+      'Amount': -125.26
    },
     {
       'Title': 'EPC*EPIC GAMES STORE 919-854-0070 59.99 USD @ 1.344390',
@@ -40796,7 +40796,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1199.76
+      'Amount': -1199.76
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114621814150',
@@ -40807,7 +40807,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2110.11
+      'Amount': -2110.11
    },
     {
       'Title': 'APPLE.COM/BILL TORONTO- ON',
@@ -40873,7 +40873,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5792.14
+      'Amount': -5792.14
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 119618572370',
@@ -40884,7 +40884,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3795.5
+      'Amount': -3795.5
    },
     {
       'Title': 'SKECHERS USA CANADA 833-846-5891- ON',
@@ -40950,7 +40950,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4189.43
+      'Amount': -4189.43
    },
     {
       'Title': 'AMZN Mktp CA*2L7583XQ0 WWW.AMAZON.CA- ON',
@@ -40961,7 +40961,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7893.07
+      'Amount': -7893.07
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 852001001138 7 ELEVEN STORE',
@@ -40972,7 +40972,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3556.74
+      'Amount': -3556.74
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -40983,7 +40983,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5821.38
+      'Amount': -5821.38
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112517341247',
@@ -41005,7 +41005,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5262.95
+      'Amount': -5262.95
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8982929769 120773525764',
@@ -41016,7 +41016,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 881
+      'Amount': -881
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239616',
@@ -41038,7 +41038,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3283.58
+      'Amount': -3283.58
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -41060,7 +41060,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8931.87
+      'Amount': -8931.87
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214062',
@@ -41071,7 +41071,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5140.64
+      'Amount': -5140.64
    },
     {
       'Title': 'UBER *TRIP AMSTERDAM- ON',
@@ -41082,7 +41082,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3409.7
+      'Amount': -3409.7
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214062',
@@ -41115,7 +41115,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3609.69
+      'Amount': -3609.69
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MCDONA 119505373520',
@@ -41137,7 +41137,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9452.33
+      'Amount': -9452.33
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951869 Nil',
@@ -41159,7 +41159,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9732.43
+      'Amount': -9732.43
    },
     {
       'Title': 'PAYMENT PROTECTOR PREMIUM TAX',
@@ -41170,7 +41170,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6128.48
+      'Amount': -6128.48
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951354 Nam Huy Bui',
@@ -41203,7 +41203,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8610.33
+      'Amount': -8610.33
    },
     {
       'Title': 'Internet Banking E-TRANSFER RECLAIM010387129802',
@@ -41225,7 +41225,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6388.27
+      'Amount': -6388.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8982929769 120773525764',
@@ -41247,7 +41247,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2791.2
+      'Amount': -2791.2
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130615291106',
@@ -41269,7 +41269,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5136.98
+      'Amount': -5136.98
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 121297656970',
@@ -41280,7 +41280,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1211.56
+      'Amount': -1211.56
    },
     {
       'Title': 'AMZN Mktp CA*2L7ID8VF1 WWW.AMAZON.CA- ON',
@@ -41291,7 +41291,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4762.99
+      'Amount': -4762.99
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001853 PIZZA PIZZA # 4',
@@ -41324,7 +41324,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9636.61
+      'Amount': -9636.61
    },
     {
       'Title': 'OVER LIMIT FEE',
@@ -41335,7 +41335,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4639.09
+      'Amount': -4639.09
    },
     {
       'Title': 'INSTACART SUBSCRIPTION HALIFAX MID-H- NS',
@@ -41412,7 +41412,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7465.39
+      'Amount': -7465.39
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116343132146',
@@ -41478,7 +41478,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5748.46
+      'Amount': -5748.46
    },
     {
       'Title': 'Internet Banking E-TRANSFER RECLAIM010387129802',
@@ -41511,7 +41511,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1679.25
+      'Amount': -1679.25
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268205',
@@ -41522,7 +41522,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1622.88
+      'Amount': -1622.88
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 815001001156 7 ELEVEN STORE',
@@ -41566,7 +41566,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6421.86
+      'Amount': -6421.86
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129220611555',
@@ -41588,7 +41588,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 275.92
+      'Amount': -275.92
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114518716903',
@@ -41610,7 +41610,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4220.22
+      'Amount': -4220.22
    },
     {
       'Title': 'GREENCREST PHARMACY WINNIPEG MB',
@@ -41643,7 +41643,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9196.11
+      'Amount': -9196.11
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE UBER CANADA 128622894662',
@@ -41654,7 +41654,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7749.77
+      'Amount': -7749.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120843570813',
@@ -41665,7 +41665,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6742.71
+      'Amount': -6742.71
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8980740778 125372611826',
@@ -41676,7 +41676,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8174.03
+      'Amount': -8174.03
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 125633176134',
@@ -41698,7 +41698,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1083.58
+      'Amount': -1083.58
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP SC103291839668',
@@ -41709,7 +41709,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1354.78
+      'Amount': -1354.78
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103933806689 Cs Tutoring',
@@ -41720,7 +41720,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1120.36
+      'Amount': -1120.36
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -41731,7 +41731,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3488.57
+      'Amount': -3488.57
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233939',
@@ -41753,7 +41753,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7471.99
+      'Amount': -7471.99
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 110244018102',
@@ -41764,7 +41764,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1494.24
+      'Amount': -1494.24
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -41775,7 +41775,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3485.86
+      'Amount': -3485.86
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 125122740760 60.00 CAD @ 1.000000',
@@ -41786,7 +41786,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8906.09
+      'Amount': -8906.09
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129521971315',
@@ -41808,7 +41808,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5700.75
+      'Amount': -5700.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130201721079',
@@ -41819,7 +41819,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2205.99
+      'Amount': -2205.99
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ABBYMAR 114420760500',
@@ -41841,7 +41841,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8948.33
+      'Amount': -8948.33
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817280882',
@@ -41852,7 +41852,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7519.54
+      'Amount': -7519.54
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115521642780',
@@ -41896,7 +41896,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8360.23
+      'Amount': -8360.23
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103835467191 kijiji controller user',
@@ -41907,7 +41907,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7987.13
+      'Amount': -7987.13
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 119701211405',
@@ -41929,7 +41929,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5224.63
+      'Amount': -5224.63
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129262581781',
@@ -41984,7 +41984,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1185.09
+      'Amount': -1185.09
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103771414990',
@@ -42006,7 +42006,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2974.15
+      'Amount': -2974.15
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000287755',
@@ -42028,7 +42028,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 251.28
+      'Amount': -251.28
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE Amazon Download 128543291383',
@@ -42039,7 +42039,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 699.14
+      'Amount': -699.14
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE NOON 033513110581 700.00 EGP @ 0.085600',
@@ -42061,7 +42061,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9319.81
+      'Amount': -9319.81
    },
     {
       'Title': 'Ding 70783768 Dublin',
@@ -42105,7 +42105,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6771.54
+      'Amount': -6771.54
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 122817474064',
@@ -42116,7 +42116,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3063.86
+      'Amount': -3063.86
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 860001001001 7 ELEVEN STORE',
@@ -42127,7 +42127,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3722.83
+      'Amount': -3722.83
    },
     {
       'Title': 'Crocs Canada- Inc. crocs.ca- ON',
@@ -42149,7 +42149,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7019.85
+      'Amount': -7019.85
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115521642780',
@@ -42160,7 +42160,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 681.2
+      'Amount': -681.2
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001529055 SOBEYS #5037',
@@ -42182,7 +42182,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9838.72
+      'Amount': -9838.72
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129262581781',
@@ -42193,7 +42193,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4900.59
+      'Amount': -4900.59
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 112601145020',
@@ -42237,7 +42237,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6982.44
+      'Amount': -6982.44
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114621814150',
@@ -42259,7 +42259,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 920.44
+      'Amount': -920.44
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 115222608388',
@@ -42270,7 +42270,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6013.27
+      'Amount': -6013.27
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -42303,7 +42303,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7778.7
+      'Amount': -7778.7
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114621814150',
@@ -42314,7 +42314,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9205.43
+      'Amount': -9205.43
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115244629060',
@@ -42336,7 +42336,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 618.74
+      'Amount': -618.74
    },
     {
       'Title': 'Ding 73866562 Dublin',
@@ -42347,7 +42347,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8496.93
+      'Amount': -8496.93
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -42358,7 +42358,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7006.31
+      'Amount': -7006.31
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103925120118 Cs Tutoring',
@@ -42413,7 +42413,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8433.46
+      'Amount': -8433.46
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000232460 UNIVERSITY OF MANITOBA',
@@ -42435,7 +42435,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5476.72
+      'Amount': -5476.72
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291836407 Nil 2',
@@ -42468,7 +42468,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4913.59
+      'Amount': -4913.59
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE A0HT96SD0000 Five Guys',
@@ -42479,7 +42479,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5883.11
+      'Amount': -5883.11
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260690',
@@ -42490,7 +42490,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8527.64
+      'Amount': -8527.64
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 115806783478 15.41 CAD @ 1.000000',
@@ -42523,7 +42523,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8513.04
+      'Amount': -8513.04
    },
     {
       'Title': 'Electronic Funds Transfer CREDIT MEMO CIBC-DISATF',
@@ -42567,7 +42567,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7199.87
+      'Amount': -7199.87
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129013886157 113.55 CAD @ 1.000000',
@@ -42578,7 +42578,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4526.11
+      'Amount': -4526.11
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001372012 NATION WEST INS',
@@ -42589,7 +42589,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8551.07
+      'Amount': -8551.07
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000036006148 PEARLE VISION 5',
@@ -42600,7 +42600,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7960.28
+      'Amount': -7960.28
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129220611555',
@@ -42611,7 +42611,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6497.41
+      'Amount': -6497.41
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128600189632',
@@ -42655,7 +42655,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8997.88
+      'Amount': -8997.88
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL APPLE.COM/CA 215807003249',
@@ -42677,7 +42677,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7426.53
+      'Amount': -7426.53
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 115221381293',
@@ -42743,7 +42743,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4651.17
+      'Amount': -4651.17
    },
     {
       'Title': 'U OF M STUDENTS UNION WINNIPEG- MB',
@@ -42754,7 +42754,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2244.07
+      'Amount': -2244.07
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515380970',
@@ -42765,7 +42765,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3986.64
+      'Amount': -3986.64
    },
     {
       'Title': 'AMZN Mktp CA*2L7JZ85B2 WWW.AMAZON.CA- ON',
@@ -42809,7 +42809,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7937.85
+      'Amount': -7937.85
    },
     {
       'Title': 'Electronic Funds Transfer PAY 7-ELEVEN CANADA 7-ELEVEN CANADA INC.',
@@ -42831,7 +42831,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4718.84
+      'Amount': -4718.84
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000243009 MASTERCARD- BMO',
@@ -42842,7 +42842,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7825.93
+      'Amount': -7825.93
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 130519882534',
@@ -42853,7 +42853,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9639.59
+      'Amount': -9639.59
    },
     {
       'Title': 'LONDON DRUGS 66 WINNIPEG- MB',
@@ -42886,7 +42886,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4167.46
+      'Amount': -4167.46
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -42897,7 +42897,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2465.59
+      'Amount': -2465.59
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL APPLE.COM/BILL T21007062033 39.18 CAD @ 1.000000',
@@ -42930,7 +42930,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9208.47
+      'Amount': -9208.47
    },
     {
       'Title': 'AMZN Mktp CA*2R9IA3ZW2 WWW.AMAZON.CA- ON',
@@ -42974,7 +42974,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6773.5
+      'Amount': -6773.5
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000256035',
@@ -43007,7 +43007,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5783.99
+      'Amount': -5783.99
    },
     {
       'Title': 'Crocs Canada- Inc. crocs.ca- ON',
@@ -43018,7 +43018,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1631.27
+      'Amount': -1631.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115202624941',
@@ -43029,7 +43029,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5953.01
+      'Amount': -5953.01
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*CINNAH 119300812554',
@@ -43051,7 +43051,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6069.39
+      'Amount': -6069.39
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBER *TRIP 115806783478 3.00 CAD @ 1.000000',
@@ -43062,7 +43062,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6753.83
+      'Amount': -6753.83
    },
     {
       'Title': 'Electronic Funds Transfer PREAUTHORIZED DEBIT CIBC-DISATF',
@@ -43073,7 +43073,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6276.53
+      'Amount': -6276.53
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO- ON',
@@ -43095,7 +43095,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3066.04
+      'Amount': -3066.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115161790291',
@@ -43117,7 +43117,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2590.78
+      'Amount': -2590.78
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DBRAND 033520822515',
@@ -43128,7 +43128,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7986.38
+      'Amount': -7986.38
    },
     {
       'Title': '7 ELEVEN STORE #32317 WINNIPEG- MB',
@@ -43172,7 +43172,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8143.9
+      'Amount': -8143.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 112517341247',
@@ -43183,7 +43183,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3548.99
+      'Amount': -3548.99
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114820708324',
@@ -43205,7 +43205,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 700.85
+      'Amount': -700.85
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG MB',
@@ -43216,7 +43216,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8438.59
+      'Amount': -8438.59
    },
     {
       'Title': 'WWW.IKEA.CA BURLINGTON- ON',
@@ -43227,7 +43227,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9483.07
+      'Amount': -9483.07
    },
     {
       'Title': 'Automated Banking Machine ATM WITHDRAWAL FORT RICHMOND SQ 2A12',
@@ -43238,7 +43238,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9687.68
+      'Amount': -9687.68
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 129220350485',
@@ -43249,7 +43249,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9672.95
+      'Amount': -9672.95
    },
     {
       'Title': 'SKIPTHEDISHES WINNIPEG- MB',
@@ -43260,7 +43260,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9656.29
+      'Amount': -9656.29
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291836407 Nil 2',
@@ -43293,7 +43293,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4154.46
+      'Amount': -4154.46
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248361',
@@ -43304,7 +43304,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9886.63
+      'Amount': -9886.63
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937221713 Nil',
@@ -43348,7 +43348,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8973.23
+      'Amount': -8973.23
    },
     {
       'Title': 'PAYPAL *GHASSANALNA 4029357733- ON',
@@ -43359,7 +43359,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8242.31
+      'Amount': -8242.31
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129904406741',
@@ -43381,7 +43381,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9237.67
+      'Amount': -9237.67
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 20.39 CAD @ 1.000000',
@@ -43392,7 +43392,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 81.12
+      'Amount': -81.12
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119300358087',
@@ -43414,7 +43414,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 668.95
+      'Amount': -668.95
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBER *TRIP T21166833400 3.00 CAD @ 1.000000',
@@ -43425,7 +43425,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 339.78
+      'Amount': -339.78
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103904721909 Cs Tutoring',
@@ -43458,7 +43458,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1451.41
+      'Amount': -1451.41
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 125122740760 60.00 CAD @ 1.000000',
@@ -43480,7 +43480,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6890.04
+      'Amount': -6890.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 121297656970',
@@ -43502,7 +43502,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5150.19
+      'Amount': -5150.19
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217381',
@@ -43535,7 +43535,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5668.18
+      'Amount': -5668.18
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114421482951',
@@ -43568,7 +43568,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8050.75
+      'Amount': -8050.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119300358087',
@@ -43579,7 +43579,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2782.99
+      'Amount': -2782.99
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 772001001002 7 ELEVEN STORE',
@@ -43590,7 +43590,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9801.45
+      'Amount': -9801.45
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114722720851',
@@ -43612,7 +43612,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6986.16
+      'Amount': -6986.16
    },
     {
       'Title': 'STARBUCKS COFFEE #48192 WINNIPEG- MB',
@@ -43623,7 +43623,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6167.47
+      'Amount': -6167.47
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001326 COINAMATIC CANA',
@@ -43667,7 +43667,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2437.61
+      'Amount': -2437.61
    },
     {
       'Title': 'PAYMENT RECEIVED - THANK YOU',
@@ -43689,7 +43689,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 497.31
+      'Amount': -497.31
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -43711,7 +43711,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8948.27
+      'Amount': -8948.27
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215012 UPS STORE #189',
@@ -43733,7 +43733,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1956.46
+      'Amount': -1956.46
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DBRAND 033520822515',
@@ -43755,7 +43755,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1630.51
+      'Amount': -1630.51
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000222121',
@@ -43766,7 +43766,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7779.58
+      'Amount': -7779.58
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000265158 MASTERCARD- BMO',
@@ -43777,7 +43777,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8383.35
+      'Amount': -8383.35
    },
     {
       'Title': 'UNITED NATIONS HIG GENEVA',
@@ -43799,7 +43799,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3334.88
+      'Amount': -3334.88
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114643288469',
@@ -43810,7 +43810,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2200.98
+      'Amount': -2200.98
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000243363',
@@ -43821,7 +43821,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 563.5
+      'Amount': -563.5
    },
     {
       'Title': 'Point of Sale - Visa Debit CORRECTION PAYPAL *ABBYMAR 114420760500',
@@ -43832,7 +43832,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7316.2
+      'Amount': -7316.2
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268205',
@@ -43843,7 +43843,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 52.99
+      'Amount': -52.99
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280436',
@@ -43854,7 +43854,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 90.64
+      'Amount': -90.64
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL AMZ*Rankie CA 215207007894',
@@ -43865,7 +43865,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 365.65
+      'Amount': -365.65
    },
     {
       'Title': '7-ELEVEN 17060 D2811 WINNIPEG- MB',
@@ -43876,7 +43876,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3356.03
+      'Amount': -3356.03
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 112517341247',
@@ -43887,7 +43887,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4991.03
+      'Amount': -4991.03
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000237749',
@@ -43909,7 +43909,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1425.52
+      'Amount': -1425.52
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 125122533908',
@@ -43920,7 +43920,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8570.34
+      'Amount': -8570.34
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP SC103291839668',
@@ -43931,7 +43931,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5472.86
+      'Amount': -5472.86
    },
     {
       'Title': 'UBER CANADA/UBERTRIP TORONTO- ON',
@@ -43942,7 +43942,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3122.63
+      'Amount': -3122.63
    },
     {
       'Title': 'SQ *SHANG HAI 360 Winnipeg- MB',
@@ -43953,7 +43953,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 646.31
+      'Amount': -646.31
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246317',
@@ -43986,7 +43986,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1099.98
+      'Amount': -1099.98
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SP * PALIROOTS 114620880842 37.00 USD @ 1.238378',
@@ -44041,7 +44041,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8101.15
+      'Amount': -8101.15
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP SC103291839668',
@@ -44063,7 +44063,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 903.46
+      'Amount': -903.46
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8982929769 120773525764',
@@ -44118,7 +44118,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9732.46
+      'Amount': -9732.46
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248000',
@@ -44129,7 +44129,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1249.77
+      'Amount': -1249.77
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001529055 SOBEYS #5037',
@@ -44162,7 +44162,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8568.28
+      'Amount': -8568.28
    },
     {
       'Title': 'PAYMENT PROTECTOR PREMIUM 800-893-2862',
@@ -44184,7 +44184,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2844.53
+      'Amount': -2844.53
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515540976',
@@ -44239,7 +44239,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1970.75
+      'Amount': -1970.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128320503371',
@@ -44261,7 +44261,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6602.7
+      'Amount': -6602.7
    },
     {
       'Title': 'AMZN Mktp CA*2R17U8FM2 WWW.AMAZON.CA- ON',
@@ -44272,7 +44272,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4062.47
+      'Amount': -4062.47
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 130519882534',
@@ -44283,7 +44283,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6647.31
+      'Amount': -6647.31
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 125122740760 60.00 CAD @ 1.000000',
@@ -44294,7 +44294,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2518.45
+      'Amount': -2518.45
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -44305,7 +44305,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3238.26
+      'Amount': -3238.26
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 117519296233 12.89 CAD @ 1.000000',
@@ -44338,7 +44338,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4890.49
+      'Amount': -4890.49
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ABBYMAR 114420760500',
@@ -44349,7 +44349,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4398.05
+      'Amount': -4398.05
    },
     {
       'Title': 'Ding 70783768 Dublin',
@@ -44360,7 +44360,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8720.18
+      'Amount': -8720.18
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114722191577',
@@ -44393,7 +44393,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2559.26
+      'Amount': -2559.26
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -44437,7 +44437,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1133.07
+      'Amount': -1133.07
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 129341124937',
@@ -44514,7 +44514,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5495.22
+      'Amount': -5495.22
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -44525,7 +44525,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3648.3
+      'Amount': -3648.3
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246729',
@@ -44536,7 +44536,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2558.69
+      'Amount': -2558.69
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.243000',
@@ -44547,7 +44547,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6806.53
+      'Amount': -6806.53
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277819',
@@ -44558,7 +44558,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3958.7
+      'Amount': -3958.7
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 115231539541',
@@ -44580,7 +44580,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4850.16
+      'Amount': -4850.16
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103907720458 Nil',
@@ -44624,7 +44624,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 579.79
+      'Amount': -579.79
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120907700336 20.00 USD @ 1.292000',
@@ -44646,7 +44646,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3584.85
+      'Amount': -3584.85
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103922078186 Nam Huy Bui',
@@ -44679,7 +44679,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8067.61
+      'Amount': -8067.61
    },
     {
       'Title': 'PONY CORRAL RESTAURANT WINNIPEG MB',
@@ -44701,7 +44701,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5936.18
+      'Amount': -5936.18
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON ON',
@@ -44712,7 +44712,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6311.66
+      'Amount': -6311.66
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119401577236',
@@ -44734,7 +44734,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1775.06
+      'Amount': -1775.06
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114242229059',
@@ -44745,7 +44745,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4740.74
+      'Amount': -4740.74
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103291836407 Nil 2',
@@ -44756,7 +44756,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9821.3
+      'Amount': -9821.3
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 125320842485',
@@ -44767,7 +44767,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3871.05
+      'Amount': -3871.05
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274521',
@@ -44789,7 +44789,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1713.07
+      'Amount': -1713.07
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000288020',
@@ -44811,7 +44811,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4486.82
+      'Amount': -4486.82
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL APPLE.COM/CA 215807003250',
@@ -44833,7 +44833,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4710.36
+      'Amount': -4710.36
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103811946493 Nil',
@@ -44844,7 +44844,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4733.25
+      'Amount': -4733.25
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 122817474064 80.00 CAD @ 1.000000',
@@ -44866,7 +44866,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4266.79
+      'Amount': -4266.79
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129904406741',
@@ -44877,7 +44877,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4917.95
+      'Amount': -4917.95
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001724 LONDON DRUGS 66',
@@ -44888,7 +44888,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9367.77
+      'Amount': -9367.77
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103811946493 Nil',
@@ -44899,7 +44899,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2074.05
+      'Amount': -2074.05
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.287000',
@@ -44932,7 +44932,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4790.95
+      'Amount': -4790.95
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 117519296233 12.89 CAD @ 1.000000',
@@ -44943,7 +44943,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9552.44
+      'Amount': -9552.44
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000249325',
@@ -44987,7 +44987,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 532.25
+      'Amount': -532.25
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WINNIPEG TRANSI 129710298809',
@@ -44998,7 +44998,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5175.8
+      'Amount': -5175.8
    },
     {
       'Title': 'INSTACART SUBSCRIPTION HALIFAX MID-H- NS',
@@ -45009,7 +45009,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1849.79
+      'Amount': -1849.79
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG- MB',
@@ -45031,7 +45031,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1312.34
+      'Amount': -1312.34
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215012 UPS STORE #189',
@@ -45053,7 +45053,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3765.58
+      'Amount': -3765.58
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&M ONLINE 123521470714',
@@ -45097,7 +45097,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6569.46
+      'Amount': -6569.46
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248000',
@@ -45152,7 +45152,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1151.26
+      'Amount': -1151.26
    },
     {
       'Title': 'Electronic Funds Transfer CREDIT MEMO CIBC-DISATF',
@@ -45174,7 +45174,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7794.88
+      'Amount': -7794.88
    },
     {
       'Title': 'EPC*EPIC GAMES STORE 919-854-0070 59.99 USD @ 1.335722',
@@ -45196,7 +45196,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4191.11
+      'Amount': -4191.11
    },
     {
       'Title': 'AMZN Mktp CA*2L1RK2AP0 WWW.AMAZON.CA- ON',
@@ -45218,7 +45218,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7868.35
+      'Amount': -7868.35
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248361',
@@ -45240,7 +45240,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9887.89
+      'Amount': -9887.89
    },
     {
       'Title': 'PAYMENT THANK YOU/PAIEMEN T MERCI',
@@ -45251,7 +45251,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2433.2
+      'Amount': -2433.2
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103908455504 ROBERTO DINGAL ORTEGA',
@@ -45262,7 +45262,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6300.5
+      'Amount': -6300.5
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001130002 GREENWOODS DENT',
@@ -45295,7 +45295,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1162.42
+      'Amount': -1162.42
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129721552614',
@@ -45339,7 +45339,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 607
+      'Amount': -607
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103907720458 Nil',
@@ -45350,7 +45350,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 877.24
+      'Amount': -877.24
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE NOON 033513110581 700.00 EGP @ 0.085600',
@@ -45361,7 +45361,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8307.53
+      'Amount': -8307.53
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -45394,7 +45394,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4552.7
+      'Amount': -4552.7
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL GOOGLE *GOOGLE T21300778584 1320.48 CAD @ 1.000000',
@@ -45416,7 +45416,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1653.86
+      'Amount': -1653.86
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 123721541177',
@@ -45438,7 +45438,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 720.39
+      'Amount': -720.39
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -45460,7 +45460,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6283.78
+      'Amount': -6283.78
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951354 Nam Huy Bui',
@@ -45471,7 +45471,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 286.35
+      'Amount': -286.35
    },
     {
       'Title': 'SQ *OH DOUGHNUTS gosq.com MB',
@@ -45482,7 +45482,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5577
+      'Amount': -5577
    },
     {
       'Title': 'Automated Banking Machine ATM DEPOSIT FORT RICHMOND SQ 2A12',
@@ -45515,7 +45515,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3872.98
+      'Amount': -3872.98
    },
     {
       'Title': 'PAYPAL *ASEELSAFI14 4029357733- ON',
@@ -45537,7 +45537,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6732.5
+      'Amount': -6732.5
    },
     {
       'Title': 'Crocs Canada- Inc. crocs.ca- ON',
@@ -45548,7 +45548,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4628.67
+      'Amount': -4628.67
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000278050',
@@ -45559,7 +45559,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1469
+      'Amount': -1469
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000036006148 PEARLE VISION 5',
@@ -45570,7 +45570,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9454.81
+      'Amount': -9454.81
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116343132146',
@@ -45603,7 +45603,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 480.21
+      'Amount': -480.21
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -45614,7 +45614,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4934.69
+      'Amount': -4934.69
    },
     {
       'Title': 'Point of Sale - Visa Debit CORRECTION PAYPAL *ABBYMAR 114420760500',
@@ -45625,7 +45625,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8656.61
+      'Amount': -8656.61
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 22.39 CAD @ 1.000000',
@@ -45647,7 +45647,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5545.93
+      'Amount': -5545.93
    },
     {
       'Title': 'AMZN Mktp CA*2L7ID8VF1 WWW.AMAZON.CA- ON',
@@ -45669,7 +45669,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 163.2
+      'Amount': -163.2
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000229840',
@@ -45680,7 +45680,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8670.4
+      'Amount': -8670.4
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001824 GREENWOODS DENT',
@@ -45691,7 +45691,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4473.13
+      'Amount': -4473.13
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE UBER CANADA 128622894662',
@@ -45735,7 +45735,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3376.52
+      'Amount': -3376.52
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000259703',
@@ -45746,7 +45746,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7140.12
+      'Amount': -7140.12
    },
     {
       'Title': 'Cashback/Remises CR',
@@ -45779,7 +45779,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7727.4
+      'Amount': -7727.4
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000249061 MASTERCARD- BMO',
@@ -45790,7 +45790,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1018.14
+      'Amount': -1018.14
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL APPLE.COM/BILL T21007062033 39.18 CAD @ 1.000000',
@@ -45812,7 +45812,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9848.46
+      'Amount': -9848.46
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268205',
@@ -45834,7 +45834,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1601.26
+      'Amount': -1601.26
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Patreon* Member 118207718434 27.00 USD @ 1.273704',
@@ -45845,7 +45845,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3565.37
+      'Amount': -3565.37
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 119320576697',
@@ -45856,7 +45856,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6945.92
+      'Amount': -6945.92
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000256035',
@@ -45878,7 +45878,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4028.43
+      'Amount': -4028.43
    },
     {
       'Title': 'UPS STORE #189 WINNIPEG- MB',
@@ -45889,7 +45889,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2022.12
+      'Amount': -2022.12
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TOROON',
@@ -45911,7 +45911,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6620.32
+      'Amount': -6620.32
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL APPLE.COM/CA 215807003250',
@@ -45922,7 +45922,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2692.55
+      'Amount': -2692.55
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001824 GREENWOODS DENT',
@@ -45933,7 +45933,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9301.39
+      'Amount': -9301.39
    },
     {
       'Title': 'DOORDASH*MCDONALDS DOWNTOWN TORO- ON',
@@ -45955,7 +45955,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4061.36
+      'Amount': -4061.36
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 128507513608',
@@ -45977,7 +45977,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6192.95
+      'Amount': -6192.95
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515540976',
@@ -45999,7 +45999,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7625.78
+      'Amount': -7625.78
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103808804769 Nil',
@@ -46010,7 +46010,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8494.55
+      'Amount': -8494.55
    },
     {
       'Title': 'Branch Transaction SERVICE CHARGE DISCOUNT',
@@ -46021,7 +46021,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2995.77
+      'Amount': -2995.77
    },
     {
       'Title': 'PIZZA PIZZA LTD TORONTO ON',
@@ -46032,7 +46032,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9652.69
+      'Amount': -9652.69
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 100574173390',
@@ -46043,7 +46043,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6968.86
+      'Amount': -6968.86
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3119 WINNIPEG- MB',
@@ -46054,7 +46054,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3367.99
+      'Amount': -3367.99
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 124323231129 129.00 CAD @ 1.000000',
@@ -46065,7 +46065,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3269.63
+      'Amount': -3269.63
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 119320576697',
@@ -46109,7 +46109,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2719.51
+      'Amount': -2719.51
    },
     {
       'Title': 'AMZN Mktp CA*2R17U8FM2 WWW.AMAZON.CA- ON',
@@ -46175,7 +46175,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6985.82
+      'Amount': -6985.82
    },
     {
       'Title': 'DOORDASH*MCDONALDS DOWNTOWN TORO- ON',
@@ -46208,7 +46208,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1076.61
+      'Amount': -1076.61
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000283043',
@@ -46274,7 +46274,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3363.28
+      'Amount': -3363.28
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215012 UPS STORE #189',
@@ -46296,7 +46296,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4686.06
+      'Amount': -4686.06
    },
     {
       'Title': 'APPLE.COM/US 800-676-2775- CA 10.00 USD @ 1.342000',
@@ -46307,7 +46307,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2717.03
+      'Amount': -2717.03
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114234127034',
@@ -46340,7 +46340,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2113.22
+      'Amount': -2113.22
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260690',
@@ -46351,7 +46351,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6912.69
+      'Amount': -6912.69
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 100574173390',
@@ -46362,7 +46362,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8410.01
+      'Amount': -8410.01
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129013886157 113.55 CAD @ 1.000000',
@@ -46373,7 +46373,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3484.25
+      'Amount': -3484.25
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000269148',
@@ -46384,7 +46384,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9656.07
+      'Amount': -9656.07
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 125122533908',
@@ -46417,7 +46417,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6798.69
+      'Amount': -6798.69
    },
     {
       'Title': 'AMZN Mktp CA*2L7JZ85B2 WWW.AMAZON.CA- ON',
@@ -46439,7 +46439,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8764.9
+      'Amount': -8764.9
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB T21187134271 12.89 CAD @ 1.000000',
@@ -46450,7 +46450,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9004.43
+      'Amount': -9004.43
    },
     {
       'Title': 'AMZN Mktp CA*2L7JZ85B2 WWW.AMAZON.CA- ON',
@@ -46461,7 +46461,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9103.23
+      'Amount': -9103.23
    },
     {
       'Title': 'INSTACART HALIFAX MID-H- NS',
@@ -46472,7 +46472,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7238.21
+      'Amount': -7238.21
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129904406741',
@@ -46483,7 +46483,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1378.44
+      'Amount': -1378.44
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 120723688008',
@@ -46505,7 +46505,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6230.61
+      'Amount': -6230.61
    },
     {
       'Title': 'Branch Transaction OVERDRAFT INTEREST CHARGE',
@@ -46549,7 +46549,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8406.77
+      'Amount': -8406.77
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 124323231129 129.00 CAD @ 1.000000',
@@ -46615,7 +46615,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7934.69
+      'Amount': -7934.69
    },
     {
       'Title': 'Point of Sale - Visa Debit CORRECTION dbrand Order 033515380970',
@@ -46637,7 +46637,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2875.82
+      'Amount': -2875.82
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3119 WINNIPEG- MB',
@@ -46659,7 +46659,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9295.26
+      'Amount': -9295.26
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001372012 NATION WEST INS',
@@ -46670,7 +46670,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3237.51
+      'Amount': -3237.51
    },
     {
       'Title': 'OVERLIMIT FEE',
@@ -46703,7 +46703,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7412.58
+      'Amount': -7412.58
    },
     {
       'Title': 'Electronic Funds Transfer PREAUTHORIZED DEBIT CIBC-DISATF',
@@ -46725,7 +46725,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4554.29
+      'Amount': -4554.29
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115764263401',
@@ -46747,7 +46747,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6228.81
+      'Amount': -6228.81
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000265158 MASTERCARD- BMO',
@@ -46758,7 +46758,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1561.6
+      'Amount': -1561.6
    },
     {
       'Title': 'Branch Transaction SERVICE CHARGE DISCOUNT',
@@ -46802,7 +46802,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7412.51
+      'Amount': -7412.51
    },
     {
       'Title': 'UPS STORE #189 WINNIPEG- MB',
@@ -46813,7 +46813,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3989.54
+      'Amount': -3989.54
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129222472965 30.00 CAD @ 1.000000',
@@ -46824,7 +46824,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7629.59
+      'Amount': -7629.59
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -46835,7 +46835,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 26.31
+      'Amount': -26.31
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 120220634105',
@@ -46846,7 +46846,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2543.96
+      'Amount': -2543.96
    },
     {
       'Title': 'INSTACART 8882467822- NS',
@@ -46890,7 +46890,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2966.74
+      'Amount': -2966.74
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000237749',
@@ -46923,7 +46923,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3086.74
+      'Amount': -3086.74
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233596',
@@ -46934,7 +46934,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8718.52
+      'Amount': -8718.52
    },
     {
       'Title': 'TIM HORTONS #8152 WINNIPEG MB',
@@ -46956,7 +46956,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9629.79
+      'Amount': -9629.79
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119300358087',
@@ -46967,7 +46967,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1064.6
+      'Amount': -1064.6
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000278050',
@@ -46989,7 +46989,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5946.1
+      'Amount': -5946.1
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103890816362 Nil',
@@ -47011,7 +47011,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5261.11
+      'Amount': -5261.11
    },
     {
       'Title': 'AMZN Mktp CA*SR64P9QY3 WWW.AMAZON.CA- ON',
@@ -47022,7 +47022,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7537.42
+      'Amount': -7537.42
    },
     {
       'Title': 'UBER CANADA/UBERTRIP TORONTO- ON',
@@ -47055,7 +47055,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 715.64
+      'Amount': -715.64
    },
     {
       'Title': 'INTEREST ADVANCES',
@@ -47066,7 +47066,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5613.99
+      'Amount': -5613.99
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268205',
@@ -47077,7 +47077,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6618.68
+      'Amount': -6618.68
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.295000',
@@ -47132,7 +47132,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3342.39
+      'Amount': -3342.39
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -47143,7 +47143,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6339.78
+      'Amount': -6339.78
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 123709541432',
@@ -47154,7 +47154,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3565.09
+      'Amount': -3565.09
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103782929527 Nil',
@@ -47187,7 +47187,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8188.66
+      'Amount': -8188.66
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114820687805',
@@ -47231,7 +47231,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1226.26
+      'Amount': -1226.26
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115764263401',
@@ -47242,7 +47242,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3460.23
+      'Amount': -3460.23
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000262105',
@@ -47253,7 +47253,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7423.75
+      'Amount': -7423.75
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277819',
@@ -47275,7 +47275,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2568.92
+      'Amount': -2568.92
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000278050',
@@ -47297,7 +47297,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7725.38
+      'Amount': -7725.38
    },
     {
       'Title': 'AMZN Mktp CA*2L84Y3JX0 WWW.AMAZON.CA- ON',
@@ -47308,7 +47308,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6679.92
+      'Amount': -6679.92
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&M ONLINE 123521470714',
@@ -47330,7 +47330,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7274.9
+      'Amount': -7274.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&M ONLINE 121007465422',
@@ -47363,7 +47363,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3625.34
+      'Amount': -3625.34
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WWW.IKEA.CA 128415214343',
@@ -47374,7 +47374,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6664.77
+      'Amount': -6664.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114661843188',
@@ -47429,7 +47429,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5271.44
+      'Amount': -5271.44
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 125122740760',
@@ -47451,7 +47451,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 792.46
+      'Amount': -792.46
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 128120074581',
@@ -47462,7 +47462,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5432.15
+      'Amount': -5432.15
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937244055 Nil',
@@ -47484,7 +47484,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3014.32
+      'Amount': -3014.32
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 821001001034 7 ELEVEN STORE',
@@ -47495,7 +47495,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5655.39
+      'Amount': -5655.39
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP 103291839668',
@@ -47506,7 +47506,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8796.59
+      'Amount': -8796.59
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114643288469',
@@ -47528,7 +47528,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5463.95
+      'Amount': -5463.95
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120907700336 20.00 USD @ 1.292000',
@@ -47550,7 +47550,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9876.04
+      'Amount': -9876.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 116118852327',
@@ -47561,7 +47561,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3912.37
+      'Amount': -3912.37
    },
     {
       'Title': 'DOORDASH*RED FOOT KITC DOWNTOWN TORO- ON',
@@ -47583,7 +47583,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8155.56
+      'Amount': -8155.56
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129904421813',
@@ -47605,7 +47605,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7525.86
+      'Amount': -7525.86
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SOUQ 033520005685 568.00 EGP @ 0.085616',
@@ -47616,7 +47616,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6660.18
+      'Amount': -6660.18
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217381',
@@ -47649,7 +47649,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 274.41
+      'Amount': -274.41
    },
     {
       'Title': 'UBER* PENDING TORONTO ON',
@@ -47660,7 +47660,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4837.52
+      'Amount': -4837.52
    },
     {
       'Title': 'EPC*EPIC GAMES STORE 919-854-0070 59.99 USD @ 1.344390',
@@ -47693,7 +47693,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7453.28
+      'Amount': -7453.28
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Patreon* Member 118207718434 27.00 USD @ 1.273704',
@@ -47704,7 +47704,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 23.95
+      'Amount': -23.95
    },
     {
       'Title': 'INSTACART SUBSCRIPTION HALIFAX MID-H- NS',
@@ -47715,7 +47715,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1126.17
+      'Amount': -1126.17
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.251000',
@@ -47726,7 +47726,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9012.14
+      'Amount': -9012.14
    },
     {
       'Title': 'Ding 70783768 Dublin',
@@ -47737,7 +47737,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 353.8
+      'Amount': -353.8
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.252000',
@@ -47803,7 +47803,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4894.66
+      'Amount': -4894.66
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 124323231129 129.00 CAD @ 1.000000',
@@ -47825,7 +47825,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 919.83
+      'Amount': -919.83
    },
     {
       'Title': 'EDO JAPAN - FORT RICHM WINNIPEG MB',
@@ -47847,7 +47847,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3768.22
+      'Amount': -3768.22
    },
     {
       'Title': 'PAYPAL *IGLOOB16 4029357733- ON',
@@ -47858,7 +47858,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3511.01
+      'Amount': -3511.01
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001449010 NATION WEST INS',
@@ -47880,7 +47880,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6714.08
+      'Amount': -6714.08
    },
     {
       'Title': 'PAYMENT PROTECTOR PREMIUM 800-893-2862',
@@ -47891,7 +47891,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4541.21
+      'Amount': -4541.21
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WINNIPEG TRANSI 129710298809',
@@ -47913,7 +47913,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1985.8
+      'Amount': -1985.8
    },
     {
       'Title': 'TIM HORTONS #2856 WINNIPEG- MB',
@@ -47946,7 +47946,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9968.76
+      'Amount': -9968.76
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 120723688008',
@@ -47968,7 +47968,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1993.49
+      'Amount': -1993.49
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817307906',
@@ -47979,7 +47979,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4102.7
+      'Amount': -4102.7
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116241781183',
@@ -47990,7 +47990,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6030.21
+      'Amount': -6030.21
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129721552614',
@@ -48001,7 +48001,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2469.13
+      'Amount': -2469.13
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001303 UNICITY TAXI #',
@@ -48012,7 +48012,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3552.66
+      'Amount': -3552.66
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130201721079',
@@ -48056,7 +48056,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8656.05
+      'Amount': -8656.05
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 125122740760 49.63 CAD @ 1.000000',
@@ -48067,7 +48067,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1543.84
+      'Amount': -1543.84
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103927439111 Nil',
@@ -48078,7 +48078,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3055.64
+      'Amount': -3055.64
    },
     {
       'Title': 'AMZN Mktp CA*2R17U8FM2 WWW.AMAZON.CA- ON',
@@ -48111,7 +48111,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5745.93
+      'Amount': -5745.93
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.252000',
@@ -48122,7 +48122,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8197.06
+      'Amount': -8197.06
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000247264',
@@ -48133,7 +48133,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6086.19
+      'Amount': -6086.19
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000248281 MASTERCARD- BMO',
@@ -48144,7 +48144,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 349.08
+      'Amount': -349.08
    },
     {
       'Title': 'DOORDASH*TIM HORTONS DOWNTOWN TOROON',
@@ -48155,7 +48155,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6168.55
+      'Amount': -6168.55
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *EMPIREF 120700700976',
@@ -48166,7 +48166,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6417.18
+      'Amount': -6417.18
    },
     {
       'Title': 'Internet Banking ',
@@ -48199,7 +48199,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1093.62
+      'Amount': -1093.62
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 125122533908',
@@ -48221,7 +48221,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2546.4
+      'Amount': -2546.4
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 125215434629 TIM HORTONS #01',
@@ -48265,7 +48265,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9538.66
+      'Amount': -9538.66
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217320',
@@ -48276,7 +48276,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5373.04
+      'Amount': -5373.04
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 22.39 CAD @ 1.000000',
@@ -48287,7 +48287,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9912.47
+      'Amount': -9912.47
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON- ON',
@@ -48298,7 +48298,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3800.57
+      'Amount': -3800.57
    },
     {
       'Title': 'GREENCREST PHARMACY WINNIPEG MB',
@@ -48353,7 +48353,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8266.9
+      'Amount': -8266.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MARBLE 119401668024',
@@ -48364,7 +48364,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3254.41
+      'Amount': -3254.41
    },
     {
       'Title': 'APPLE.COM/BILL TORONTO- ON',
@@ -48419,7 +48419,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8039.32
+      'Amount': -8039.32
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000036006148 PEARLE VISION 5',
@@ -48441,7 +48441,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5779.04
+      'Amount': -5779.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8989078410 100175533173',
@@ -48452,7 +48452,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8803.66
+      'Amount': -8803.66
    },
     {
       'Title': 'PAYMENT RECEIVED - THANK YOU',
@@ -48463,7 +48463,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3068.69
+      'Amount': -3068.69
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -48496,7 +48496,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2859.53
+      'Amount': -2859.53
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246317',
@@ -48518,7 +48518,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7620.49
+      'Amount': -7620.49
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 128574487262',
@@ -48529,7 +48529,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4418.18
+      'Amount': -4418.18
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL AMZ*Rankie CA 215207007894',
@@ -48551,7 +48551,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9761.25
+      'Amount': -9761.25
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103877893810 Divagar',
@@ -48573,7 +48573,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5062.24
+      'Amount': -5062.24
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 119701211405',
@@ -48584,7 +48584,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2682.68
+      'Amount': -2682.68
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248000',
@@ -48628,7 +48628,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3061.32
+      'Amount': -3061.32
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 128120074581',
@@ -48639,7 +48639,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5009.81
+      'Amount': -5009.81
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 124323231129',
@@ -48661,7 +48661,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7716.7
+      'Amount': -7716.7
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE NOON 033513110581 700.00 EGP @ 0.085600',
@@ -48683,7 +48683,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7467.05
+      'Amount': -7467.05
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129904421813',
@@ -48716,7 +48716,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2507.13
+      'Amount': -2507.13
    },
     {
       'Title': 'AMZN Mktp CA*WQ25P26Z3 WWW.AMAZON.CA- ON',
@@ -48727,7 +48727,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3305.52
+      'Amount': -3305.52
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 120220634105',
@@ -48738,7 +48738,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3613.68
+      'Amount': -3613.68
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000011359309 AIRLINE LIMOUSI',
@@ -48782,7 +48782,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9769.74
+      'Amount': -9769.74
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242922',
@@ -48793,7 +48793,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4090.23
+      'Amount': -4090.23
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 125122740760',
@@ -48815,7 +48815,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1114.43
+      'Amount': -1114.43
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951354 Nam Huy Bui',
@@ -48837,7 +48837,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7035.94
+      'Amount': -7035.94
    },
     {
       'Title': 'INSTACART HALIFAX MID-H- NS',
@@ -48870,7 +48870,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4268.99
+      'Amount': -4268.99
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000220619',
@@ -48881,7 +48881,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6137.67
+      'Amount': -6137.67
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103775451035 Nil',
@@ -48892,7 +48892,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1153.84
+      'Amount': -1153.84
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103925120118 Cs Tutoring',
@@ -48914,7 +48914,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4999.98
+      'Amount': -4999.98
    },
     {
       'Title': 'SHOPPING WITH POINTS/ACHA T PAR POINTS',
@@ -48969,7 +48969,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1184.7
+      'Amount': -1184.7
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001391 DOLLARAMA #1286',
@@ -48980,7 +48980,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7578.72
+      'Amount': -7578.72
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001280019 ULTRACUTS STORE',
@@ -48991,7 +48991,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6787.77
+      'Amount': -6787.77
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001529055 SOBEYS #5037',
@@ -49002,7 +49002,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6416.95
+      'Amount': -6416.95
    },
     {
       'Title': 'Internet Banking INTERNET DOM TRANSFER 103807220198',
@@ -49013,7 +49013,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2075.49
+      'Amount': -2075.49
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115202624941',
@@ -49024,7 +49024,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8015.62
+      'Amount': -8015.62
    },
     {
       'Title': 'PAYPAL *OZLEY LLC 4029357733- ON',
@@ -49057,7 +49057,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4667.6
+      'Amount': -4667.6
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000265158 MASTERCARD- BMO',
@@ -49068,7 +49068,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6782.09
+      'Amount': -6782.09
    },
     {
       'Title': 'UBER *TRIP HELP.UBER.COMNLD',
@@ -49079,7 +49079,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 38.88
+      'Amount': -38.88
    },
     {
       'Title': 'UBER *TRIP HELP.UBER.COMNLD',
@@ -49101,7 +49101,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8745.14
+      'Amount': -8745.14
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DBRAND 033516821111',
@@ -49134,7 +49134,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8806.34
+      'Amount': -8806.34
    },
     {
       'Title': 'WAL-MART SUPERCENTER#3119 WINNIPEG- MB',
@@ -49145,7 +49145,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3354.01
+      'Amount': -3354.01
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268805',
@@ -49156,7 +49156,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1485.74
+      'Amount': -1485.74
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129220611555',
@@ -49200,7 +49200,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6009.2
+      'Amount': -6009.2
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103927439111 Nil',
@@ -49211,7 +49211,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8169.8
+      'Amount': -8169.8
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 112601145020',
@@ -49244,7 +49244,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1920.49
+      'Amount': -1920.49
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937244055 Nil',
@@ -49255,7 +49255,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 473.43
+      'Amount': -473.43
    },
     {
       'Title': 'APPLE.COM/BILL 866-712-7753- ON',
@@ -49266,7 +49266,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 434.47
+      'Amount': -434.47
    },
     {
       'Title': 'SP * MOFTGLOBAL HTTPSMOFTGLOB- CA 69.15 USD @ 1.260014',
@@ -49299,7 +49299,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 699.04
+      'Amount': -699.04
    },
     {
       'Title': 'INSTACART 8882467822- NS',
@@ -49310,7 +49310,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7174.17
+      'Amount': -7174.17
    },
     {
       'Title': 'PAY PER USE OVERDRAFT FEE',
@@ -49321,7 +49321,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5879.89
+      'Amount': -5879.89
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130319587460',
@@ -49332,7 +49332,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6541.75
+      'Amount': -6541.75
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -49376,7 +49376,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6719.42
+      'Amount': -6719.42
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -49420,7 +49420,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7328.41
+      'Amount': -7328.41
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000249061 MASTERCARD- BMO',
@@ -49464,7 +49464,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7234.94
+      'Amount': -7234.94
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000287755',
@@ -49497,7 +49497,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2957.92
+      'Amount': -2957.92
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115135455508',
@@ -49508,7 +49508,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7640.03
+      'Amount': -7640.03
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280230',
@@ -49530,7 +49530,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8412.07
+      'Amount': -8412.07
    },
     {
       'Title': 'U OF M REGISTRARS WINNIPEG- MB',
@@ -49541,7 +49541,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4605.48
+      'Amount': -4605.48
    },
     {
       'Title': 'Internet Banking ',
@@ -49563,7 +49563,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 526.15
+      'Amount': -526.15
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280173',
@@ -49574,7 +49574,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9050.66
+      'Amount': -9050.66
    },
     {
       'Title': 'PAYPAL *OZLEY LLC 4029357733- ON',
@@ -49596,7 +49596,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4701.49
+      'Amount': -4701.49
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129222472965 28.03 CAD @ 1.000000',
@@ -49629,7 +49629,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 266.7
+      'Amount': -266.7
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000238278',
@@ -49640,7 +49640,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 539.98
+      'Amount': -539.98
    },
     {
       'Title': 'DOORDASH*WAKO SUSHI CA DOWNTOWN TORO- ON',
@@ -49684,7 +49684,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 335.96
+      'Amount': -335.96
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 036362050688',
@@ -49706,7 +49706,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1521.17
+      'Amount': -1521.17
    },
     {
       'Title': 'AMZN Mktp CA*SR64P9QY3 WWW.AMAZON.CA- ON',
@@ -49761,7 +49761,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 632.69
+      'Amount': -632.69
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215003 UPS STORE #189',
@@ -49783,7 +49783,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6332.05
+      'Amount': -6332.05
    },
     {
       'Title': 'UBER *TRIP HELP.UBER.COMNLD',
@@ -49805,7 +49805,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 247.83
+      'Amount': -247.83
    },
     {
       'Title': 'EDO JAPAN - FORT RICHM WINNIPEG MB',
@@ -49849,7 +49849,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1906.9
+      'Amount': -1906.9
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -49860,7 +49860,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1980.86
+      'Amount': -1980.86
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128600189632',
@@ -49893,7 +49893,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1828.23
+      'Amount': -1828.23
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114661843188',
@@ -49915,7 +49915,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1551.26
+      'Amount': -1551.26
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 128711822579',
@@ -49948,7 +49948,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6490.94
+      'Amount': -6490.94
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DBRAND 033516821111',
@@ -49970,7 +49970,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6669.83
+      'Amount': -6669.83
    },
     {
       'Title': 'APPLE.COM/BILL 866-712-7753- ON',
@@ -50003,7 +50003,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8473.34
+      'Amount': -8473.34
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239266',
@@ -50014,7 +50014,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9648.71
+      'Amount': -9648.71
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217381',
@@ -50025,7 +50025,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4920.66
+      'Amount': -4920.66
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -50036,7 +50036,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2649.27
+      'Amount': -2649.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 119701211405',
@@ -50102,7 +50102,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4404.71
+      'Amount': -4404.71
    },
     {
       'Title': 'DOORDASH*OH DOUGHNUTS DOWNTOWN TORO- ON',
@@ -50113,7 +50113,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3537.06
+      'Amount': -3537.06
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 120723688008',
@@ -50124,7 +50124,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8752.04
+      'Amount': -8752.04
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277819',
@@ -50168,7 +50168,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4546.1
+      'Amount': -4546.1
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000256035',
@@ -50179,7 +50179,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5077.43
+      'Amount': -5077.43
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000249061 MASTERCARD- BMO',
@@ -50190,7 +50190,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9391.77
+      'Amount': -9391.77
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG MB',
@@ -50212,7 +50212,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9719.16
+      'Amount': -9719.16
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103907720458 Nil',
@@ -50234,7 +50234,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6191.69
+      'Amount': -6191.69
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239266',
@@ -50245,7 +50245,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9749.2
+      'Amount': -9749.2
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115135455508',
@@ -50256,7 +50256,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7329.91
+      'Amount': -7329.91
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001130002 GREENWOODS DENT',
@@ -50289,7 +50289,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5797.34
+      'Amount': -5797.34
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 120220634105',
@@ -50300,7 +50300,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4212.62
+      'Amount': -4212.62
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -50311,7 +50311,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6472.54
+      'Amount': -6472.54
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001853 PIZZA PIZZA # 4',
@@ -50322,7 +50322,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 944.97
+      'Amount': -944.97
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246729',
@@ -50366,7 +50366,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5908.73
+      'Amount': -5908.73
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON ON',
@@ -50399,7 +50399,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6616.28
+      'Amount': -6616.28
    },
     {
       'Title': 'DOORDASH*RED FOOT KITC DOWNTOWN TORO- ON',
@@ -50410,7 +50410,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6661.87
+      'Amount': -6661.87
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115244629060',
@@ -50432,7 +50432,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4287.92
+      'Amount': -4287.92
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129220611555',
@@ -50443,7 +50443,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3079.14
+      'Amount': -3079.14
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001449010 NATION WEST INS',
@@ -50465,7 +50465,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9440.04
+      'Amount': -9440.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129862345774',
@@ -50509,7 +50509,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8367.29
+      'Amount': -8367.29
    },
     {
       'Title': 'UBER *TRIP HELP.UBER.COMNLD',
@@ -50520,7 +50520,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4370.95
+      'Amount': -4370.95
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000224660',
@@ -50531,7 +50531,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 872.42
+      'Amount': -872.42
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215003 UPS STORE #189',
@@ -50553,7 +50553,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7847.06
+      'Amount': -7847.06
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112517341247',
@@ -50564,7 +50564,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5338.19
+      'Amount': -5338.19
    },
     {
       'Title': 'AMZN Mktp CA*2C9PP0MR2 WWW.AMAZON.CAON',
@@ -50586,7 +50586,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5593.44
+      'Amount': -5593.44
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -50608,7 +50608,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8171.4
+      'Amount': -8171.4
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120834678151',
@@ -50619,7 +50619,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5675.54
+      'Amount': -5675.54
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001391 DOLLARAMA #1286',
@@ -50641,7 +50641,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6311.94
+      'Amount': -6311.94
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129220611555',
@@ -50685,7 +50685,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1880.97
+      'Amount': -1880.97
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103925120118 Cs Tutoring',
@@ -50696,7 +50696,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8806.15
+      'Amount': -8806.15
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 20.39 CAD @ 1.000000',
@@ -50740,7 +50740,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9400.11
+      'Amount': -9400.11
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE A0HT96SD0000 Five Guys',
@@ -50762,7 +50762,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3964.42
+      'Amount': -3964.42
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TOROON',
@@ -50773,7 +50773,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8974.69
+      'Amount': -8974.69
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/CA 114661843188',
@@ -50795,7 +50795,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7028.59
+      'Amount': -7028.59
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000226377',
@@ -50817,7 +50817,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9924.39
+      'Amount': -9924.39
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239148',
@@ -50828,7 +50828,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5159.3
+      'Amount': -5159.3
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG- MB',
@@ -50839,7 +50839,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7719.7
+      'Amount': -7719.7
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -50850,7 +50850,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2328.73
+      'Amount': -2328.73
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 128120074581',
@@ -50872,7 +50872,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3134.31
+      'Amount': -3134.31
    },
     {
       'Title': 'LONDON DRUGS 66 WINNIPEG- MB',
@@ -50894,7 +50894,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4575.77
+      'Amount': -4575.77
    },
     {
       'Title': 'AMZ*Amazon.ca WWW.AMAZON.CA- ON',
@@ -50905,7 +50905,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3939.1
+      'Amount': -3939.1
    },
     {
       'Title': 'UOFMANITOBA-BOOKSTORE WINNIPEG- MB',
@@ -50916,7 +50916,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3128.49
+      'Amount': -3128.49
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129817280882',
@@ -50927,7 +50927,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6487.93
+      'Amount': -6487.93
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 852001001138 7 ELEVEN STORE',
@@ -50960,7 +50960,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 899.75
+      'Amount': -899.75
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000289816',
@@ -50971,7 +50971,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4495.77
+      'Amount': -4495.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 119505451956',
@@ -50982,7 +50982,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4661.83
+      'Amount': -4661.83
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 121297656970',
@@ -51037,7 +51037,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6653.28
+      'Amount': -6653.28
    },
     {
       'Title': 'VIMEO.COM 646-470-8422- NY 10.00 USD @ 1.312000',
@@ -51059,7 +51059,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 949.76
+      'Amount': -949.76
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000286580',
@@ -51081,7 +51081,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5223.01
+      'Amount': -5223.01
    },
     {
       'Title': 'AWL*PEARSON EDUCATION PRSONCS.COM- NJ 94.99 USD @ 1.250131',
@@ -51147,7 +51147,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4229.99
+      'Amount': -4229.99
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001130002 GREENWOODS DENT',
@@ -51191,7 +51191,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2518.1
+      'Amount': -2518.1
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000288020',
@@ -51202,7 +51202,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2189.4
+      'Amount': -2189.4
    },
     {
       'Title': 'UBER *TRIP HELP.UBER.COMNLD',
@@ -51246,7 +51246,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4768.2
+      'Amount': -4768.2
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001303 UNICITY TAXI #',
@@ -51268,7 +51268,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1409.85
+      'Amount': -1409.85
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129721552614',
@@ -51290,7 +51290,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6644.05
+      'Amount': -6644.05
    },
     {
       'Title': 'AMZ*Duolihui US WWW.AMAZON.CA- ON',
@@ -51334,7 +51334,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9412.13
+      'Amount': -9412.13
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103782929527 Nil',
@@ -51356,7 +51356,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8019.12
+      'Amount': -8019.12
    },
     {
       'Title': '7 ELEVEN STORE #32317 WINNIPEG- MB',
@@ -51367,7 +51367,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1128.23
+      'Amount': -1128.23
    },
     {
       'Title': 'SERVICE CHARGE',
@@ -51378,7 +51378,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1582.4
+      'Amount': -1582.4
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP SC103291839668',
@@ -51422,7 +51422,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8772.26
+      'Amount': -8772.26
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937221713 Nil',
@@ -51433,7 +51433,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2740.95
+      'Amount': -2740.95
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000236792',
@@ -51455,7 +51455,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3618.96
+      'Amount': -3618.96
    },
     {
       'Title': 'AMZN Mktp CA*SR64P9QY3 WWW.AMAZON.CA- ON',
@@ -51488,7 +51488,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6492.97
+      'Amount': -6492.97
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -51510,7 +51510,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9964.84
+      'Amount': -9964.84
    },
     {
       'Title': 'Ding 70781731 Dublin',
@@ -51543,7 +51543,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9607.68
+      'Amount': -9607.68
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -51554,7 +51554,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1034.46
+      'Amount': -1034.46
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277987',
@@ -51576,7 +51576,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8114.76
+      'Amount': -8114.76
    },
     {
       'Title': 'UBER CANADA/UBERTRIP TORONTO- ON',
@@ -51609,7 +51609,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1822.88
+      'Amount': -1822.88
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951354 Nam Huy Bui',
@@ -51631,7 +51631,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9827.9
+      'Amount': -9827.9
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000240361',
@@ -51642,7 +51642,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1459.12
+      'Amount': -1459.12
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Patreon* Member 118207667254 18.00 GBP @ 1.762222',
@@ -51653,7 +51653,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1597.12
+      'Amount': -1597.12
    },
     {
       'Title': 'AMZN Mktp CA*2C4GU87A1 WWW.AMAZON.CAON',
@@ -51664,7 +51664,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3752.48
+      'Amount': -3752.48
    },
     {
       'Title': 'Internet Banking E-TRANSFER RECLAIM010387129802',
@@ -51686,7 +51686,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6319.31
+      'Amount': -6319.31
    },
     {
       'Title': 'SKECHERS USA CANADA 833-846-5891- ON',
@@ -51697,7 +51697,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 397.36
+      'Amount': -397.36
    },
     {
       'Title': 'Automated Banking Machine ATM DEPOSIT FORT RICHMOND SQ 2A12',
@@ -51708,7 +51708,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3164.17
+      'Amount': -3164.17
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8989078410 100175533173',
@@ -51741,7 +51741,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3888.62
+      'Amount': -3888.62
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 144001001014 EDO JAPAN - FOR',
@@ -51763,7 +51763,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5837.95
+      'Amount': -5837.95
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937244055 Nil',
@@ -51774,7 +51774,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7854.12
+      'Amount': -7854.12
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 128507513608',
@@ -51807,7 +51807,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2246.9
+      'Amount': -2246.9
    },
     {
       'Title': 'AMZN Mktp CA*2L1RK2AP0 WWW.AMAZON.CA- ON',
@@ -51818,7 +51818,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5731.82
+      'Amount': -5731.82
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103935295283 Nil',
@@ -51840,7 +51840,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5970.61
+      'Amount': -5970.61
    },
     {
       'Title': 'AMZN Mktp CA*2G4JL98T0 WWW.AMAZON.CA- ON',
@@ -51851,7 +51851,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8075.1
+      'Amount': -8075.1
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 852001001138 7 ELEVEN STORE',
@@ -51895,7 +51895,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5754.95
+      'Amount': -5754.95
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115521642780',
@@ -51939,7 +51939,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5616.16
+      'Amount': -5616.16
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248000',
@@ -51961,7 +51961,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4171.88
+      'Amount': -4171.88
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.251000',
@@ -51983,7 +51983,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5522.56
+      'Amount': -5522.56
    },
     {
       'Title': 'AMZ*Amazon.ca WWW.AMAZON.CA- ON',
@@ -52005,7 +52005,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 306
+      'Amount': -306
    },
     {
       'Title': 'Crocs Canada- Inc. crocs.ca- ON',
@@ -52016,7 +52016,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4396.88
+      'Amount': -4396.88
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720786149 22.39 CAD @ 1.000000',
@@ -52038,7 +52038,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3391.16
+      'Amount': -3391.16
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 120220634105',
@@ -52082,7 +52082,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 974.89
+      'Amount': -974.89
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MARBLE 119401668024',
@@ -52104,7 +52104,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7941.21
+      'Amount': -7941.21
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103835467191 kijiji controller user',
@@ -52115,7 +52115,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5399.03
+      'Amount': -5399.03
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233596',
@@ -52126,7 +52126,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 96.66
+      'Amount': -96.66
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000011359309 AIRLINE LIMOUSI',
@@ -52148,7 +52148,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2422.96
+      'Amount': -2422.96
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8982929769 120773525764',
@@ -52159,7 +52159,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7419.68
+      'Amount': -7419.68
    },
     {
       'Title': 'AWL*PEARSON EDUCATION PRSONCS.COM- NJ 94.99 USD @ 1.250131',
@@ -52181,7 +52181,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4467.77
+      'Amount': -4467.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114421482951',
@@ -52192,7 +52192,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5093.28
+      'Amount': -5093.28
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242922',
@@ -52203,7 +52203,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3809.78
+      'Amount': -3809.78
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP 103291839668',
@@ -52214,7 +52214,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6460.46
+      'Amount': -6460.46
    },
     {
       'Title': 'DOORDASH*MCDONALDS DOWNTOWN TORO- ON',
@@ -52225,7 +52225,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 208.48
+      'Amount': -208.48
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 129341124937',
@@ -52269,7 +52269,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9810.29
+      'Amount': -9810.29
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120834678151',
@@ -52280,7 +52280,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3553.42
+      'Amount': -3553.42
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 112517341247',
@@ -52291,7 +52291,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 253.99
+      'Amount': -253.99
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000277385 UNIVERSITY OF MANITOBA',
@@ -52302,7 +52302,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9485.16
+      'Amount': -9485.16
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 112517341247',
@@ -52313,7 +52313,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9695.9
+      'Amount': -9695.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114222113411',
@@ -52324,7 +52324,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8834.56
+      'Amount': -8834.56
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MCDONA 119505373520',
@@ -52335,7 +52335,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8917.04
+      'Amount': -8917.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 125633176134',
@@ -52368,7 +52368,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8209.67
+      'Amount': -8209.67
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120843570813',
@@ -52379,7 +52379,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 863.45
+      'Amount': -863.45
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001431182 SOBEYS #5037',
@@ -52401,7 +52401,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 773.91
+      'Amount': -773.91
    },
     {
       'Title': 'AMZN Mktp CA*2L93I8MI2 WWW.AMAZON.CA- ON',
@@ -52412,7 +52412,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2127.28
+      'Amount': -2127.28
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260690',
@@ -52467,7 +52467,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8093.55
+      'Amount': -8093.55
    },
     {
       'Title': 'REQUEST MONEY 010338709427 Floribert Kamabu',
@@ -52478,7 +52478,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1580.6
+      'Amount': -1580.6
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000218634',
@@ -52500,7 +52500,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3485.37
+      'Amount': -3485.37
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 128514281914 FAMOUS PLAYER #',
@@ -52511,7 +52511,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6651.11
+      'Amount': -6651.11
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL H&M ONLINE 225707013470',
@@ -52522,7 +52522,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8172.69
+      'Amount': -8172.69
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001326 COINAMATIC CANA',
@@ -52533,7 +52533,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5137.14
+      'Amount': -5137.14
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -52577,7 +52577,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 455.27
+      'Amount': -455.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 120220289489',
@@ -52588,7 +52588,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5047.07
+      'Amount': -5047.07
    },
     {
       'Title': 'OVERLIMIT FEE',
@@ -52599,7 +52599,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2413.57
+      'Amount': -2413.57
    },
     {
       'Title': 'AMZN Mktp CA*2G4JL98T0 WWW.AMAZON.CA- ON',
@@ -52610,7 +52610,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6068.69
+      'Amount': -6068.69
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233795',
@@ -52621,7 +52621,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1775.29
+      'Amount': -1775.29
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515380970',
@@ -52643,7 +52643,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8626.54
+      'Amount': -8626.54
    },
     {
       'Title': 'AMZN Mktp CA*2R9IA3ZW2 WWW.AMAZON.CA- ON',
@@ -52654,7 +52654,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 183.4
+      'Amount': -183.4
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280230',
@@ -52676,7 +52676,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3743.36
+      'Amount': -3743.36
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -52698,7 +52698,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2334.69
+      'Amount': -2334.69
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268805',
@@ -52709,7 +52709,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5536.97
+      'Amount': -5536.97
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 297001001049 7-ELEVEN 17060',
@@ -52786,7 +52786,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2822.57
+      'Amount': -2822.57
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 100574173390',
@@ -52830,7 +52830,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5568.5
+      'Amount': -5568.5
    },
     {
       'Title': 'Branch Transaction CREDIT MEMO',
@@ -52841,7 +52841,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9558.62
+      'Amount': -9558.62
    },
     {
       'Title': 'AMZN Mktp CA*SR64P9QY3 WWW.AMAZON.CA- ON',
@@ -52874,7 +52874,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1275.43
+      'Amount': -1275.43
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WWW.IKEA.CA 128415214343',
@@ -52896,7 +52896,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3333.83
+      'Amount': -3333.83
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268205',
@@ -52907,7 +52907,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3960.38
+      'Amount': -3960.38
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 128507513608',
@@ -52918,7 +52918,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5270.46
+      'Amount': -5270.46
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116241781183',
@@ -52929,7 +52929,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2486.68
+      'Amount': -2486.68
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000249061 MASTERCARD- BMO',
@@ -52973,7 +52973,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7705.94
+      'Amount': -7705.94
    },
     {
       'Title': 'DOORDASH*PIZZA HUT DOWNTOWN TORO- ON',
@@ -52984,7 +52984,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6867.62
+      'Amount': -6867.62
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 128319713380 51.74 CAD @ 1.000000',
@@ -53050,7 +53050,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9794.94
+      'Amount': -9794.94
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103908455504 ROBERTO DINGAL ORTEGA',
@@ -53083,7 +53083,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7470.12
+      'Amount': -7470.12
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 122817474064 67.43 CAD @ 1.000000',
@@ -53094,7 +53094,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1662.11
+      'Amount': -1662.11
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129862345774',
@@ -53138,7 +53138,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1016.42
+      'Amount': -1016.42
    },
     {
       'Title': 'REQUEST MONEY 010338709427 Floribert Kamabu',
@@ -53160,7 +53160,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7507.06
+      'Amount': -7507.06
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -53171,7 +53171,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9564.14
+      'Amount': -9564.14
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217381',
@@ -53182,7 +53182,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1568.77
+      'Amount': -1568.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 120723688008',
@@ -53204,7 +53204,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9366.74
+      'Amount': -9366.74
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 874001001178 7 ELEVEN STORE',
@@ -53215,7 +53215,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8717.09
+      'Amount': -8717.09
    },
     {
       'Title': 'AMZN Mktp CA*SR64P9QY3 WWW.AMAZON.CA- ON',
@@ -53226,7 +53226,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2532.62
+      'Amount': -2532.62
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515540976',
@@ -53248,7 +53248,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1702.89
+      'Amount': -1702.89
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128600189632',
@@ -53259,7 +53259,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2281.75
+      'Amount': -2281.75
    },
     {
       'Title': 'Point of Sale - Visa Debit CORRECTION PAYPAL *ABBYMAR 114420760500',
@@ -53270,7 +53270,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8432.32
+      'Amount': -8432.32
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000210291',
@@ -53281,7 +53281,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6002.24
+      'Amount': -6002.24
    },
     {
       'Title': 'PAYPAL *IGLOOB16 4029357733- ON',
@@ -53292,7 +53292,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7570.96
+      'Amount': -7570.96
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 115231539541',
@@ -53303,7 +53303,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 356.96
+      'Amount': -356.96
    },
     {
       'Title': 'UBR* PENDING.UBER.COM AMSTERDAM- ON',
@@ -53358,7 +53358,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7385.92
+      'Amount': -7385.92
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000243363',
@@ -53369,7 +53369,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 696.03
+      'Amount': -696.03
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103851939670 Divagar',
@@ -53435,7 +53435,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6078.81
+      'Amount': -6078.81
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL PP*6750CODE 213107008052',
@@ -53446,7 +53446,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1067
+      'Amount': -1067
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE Amazon Download 128543291383',
@@ -53545,7 +53545,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7195.8
+      'Amount': -7195.8
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE A0HT96SD0000 Five Guys',
@@ -53567,7 +53567,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7017.23
+      'Amount': -7017.23
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 121616350114',
@@ -53611,7 +53611,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7996.96
+      'Amount': -7996.96
    },
     {
       'Title': 'FAMOUS PLAYER 2402QPS WINNIPEG MB',
@@ -53633,7 +53633,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8966.09
+      'Amount': -8966.09
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215003 UPS STORE #189',
@@ -53655,7 +53655,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6126.2
+      'Amount': -6126.2
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DOORDAS 114315330225',
@@ -53666,7 +53666,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4665.15
+      'Amount': -4665.15
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8982929769 120773525764',
@@ -53677,7 +53677,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4183.84
+      'Amount': -4183.84
    },
     {
       'Title': 'AMZN Mktp CA*2C4GU87A1 WWW.AMAZON.CAON',
@@ -53754,7 +53754,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9252.99
+      'Amount': -9252.99
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.295000',
@@ -53787,7 +53787,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9103.54
+      'Amount': -9103.54
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001449010 NATION WEST INS',
@@ -53798,7 +53798,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8413.06
+      'Amount': -8413.06
    },
     {
       'Title': 'Telephone Banking Personal TELEPHONE TRANSFER000000017983',
@@ -53820,7 +53820,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 650.05
+      'Amount': -650.05
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280436',
@@ -53831,7 +53831,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 678.61
+      'Amount': -678.61
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285225',
@@ -53853,7 +53853,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 423.9
+      'Amount': -423.9
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 129222472965',
@@ -53886,7 +53886,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8105.34
+      'Amount': -8105.34
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115416041043',
@@ -53908,7 +53908,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6004.73
+      'Amount': -6004.73
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 121297656970',
@@ -53930,7 +53930,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9832.51
+      'Amount': -9832.51
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103877893810 Divagar',
@@ -53952,7 +53952,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8557.72
+      'Amount': -8557.72
    },
     {
       'Title': 'AMZN Mktp CA*2R17U8FM2 WWW.AMAZON.CA- ON',
@@ -53974,7 +53974,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8588.47
+      'Amount': -8588.47
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000210291',
@@ -53996,7 +53996,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8151
+      'Amount': -8151
    },
     {
       'Title': 'AMZN Mktp CA*2L1RK2AP0 WWW.AMAZON.CA- ON',
@@ -54018,7 +54018,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5150.19
+      'Amount': -5150.19
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL PIZZA PIZZA LTD 125320842485 30.16 CAD @ 1.000000',
@@ -54051,7 +54051,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3759.16
+      'Amount': -3759.16
    },
     {
       'Title': 'DOORDASH*RED FOOT KITC DOWNTOWN TORO- ON',
@@ -54062,7 +54062,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4346.28
+      'Amount': -4346.28
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000285648',
@@ -54095,7 +54095,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1500.87
+      'Amount': -1500.87
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215003 UPS STORE #189',
@@ -54106,7 +54106,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8489.61
+      'Amount': -8489.61
    },
     {
       'Title': 'ESHOPWORLD 35318809114',
@@ -54128,7 +54128,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7397.15
+      'Amount': -7397.15
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SOUQ 033517331671 424.50 EGP @ 0.085606',
@@ -54150,7 +54150,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1483.74
+      'Amount': -1483.74
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.243000',
@@ -54183,7 +54183,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7503.1
+      'Amount': -7503.1
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 115222608388',
@@ -54205,7 +54205,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3104.45
+      'Amount': -3104.45
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB T21187134271 12.89 CAD @ 1.000000',
@@ -54227,7 +54227,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1497.41
+      'Amount': -1497.41
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128704270353',
@@ -54238,7 +54238,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2089.2
+      'Amount': -2089.2
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103893663933 CARLI ALECIA-MARIE MCNABB',
@@ -54249,7 +54249,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5926.66
+      'Amount': -5926.66
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 128507513608',
@@ -54260,7 +54260,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5213.48
+      'Amount': -5213.48
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000220619',
@@ -54271,7 +54271,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2334.39
+      'Amount': -2334.39
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 860001001001 7 ELEVEN STORE',
@@ -54293,7 +54293,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 387.07
+      'Amount': -387.07
    },
     {
       'Title': 'Sony Interactive Enter 8003457669 CA',
@@ -54359,7 +54359,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8886.22
+      'Amount': -8886.22
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000260110',
@@ -54370,7 +54370,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9810.57
+      'Amount': -9810.57
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SOUQ 033520005685 568.00 EGP @ 0.085616',
@@ -54425,7 +54425,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7811.39
+      'Amount': -7811.39
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 772001001002 7 ELEVEN STORE',
@@ -54458,7 +54458,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 858.52
+      'Amount': -858.52
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000248281 MASTERCARD- BMO',
@@ -54480,7 +54480,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8569.28
+      'Amount': -8569.28
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 20.39 CAD @ 1.000000',
@@ -54502,7 +54502,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4107.38
+      'Amount': -4107.38
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DBRAND 033520822515',
@@ -54557,7 +54557,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2449.36
+      'Amount': -2449.36
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103835467191 kijiji controller user',
@@ -54568,7 +54568,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7634.84
+      'Amount': -7634.84
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 115521642780',
@@ -54579,7 +54579,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1805.06
+      'Amount': -1805.06
    },
     {
       'Title': '7 ELEVEN STORE #32317 WINNIPEG- MB',
@@ -54590,7 +54590,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 930.15
+      'Amount': -930.15
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL PP*6750CODE 213107008052',
@@ -54612,7 +54612,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7790.28
+      'Amount': -7790.28
    },
     {
       'Title': 'TIM HORTONS #8152 WINNIPEG MB',
@@ -54623,7 +54623,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7766.15
+      'Amount': -7766.15
    },
     {
       'Title': 'DOORDASH*WAKO SUSHI CA DOWNTOWN TORO- ON',
@@ -54656,7 +54656,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7158.17
+      'Amount': -7158.17
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 125122740760 49.63 CAD @ 1.000000',
@@ -54678,7 +54678,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2275.74
+      'Amount': -2275.74
    },
     {
       'Title': 'UNITED NATIONS HIG GENEVA',
@@ -54689,7 +54689,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1187.08
+      'Amount': -1187.08
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 852001001138 7 ELEVEN STORE',
@@ -54700,7 +54700,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 234.44
+      'Amount': -234.44
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000277987',
@@ -54711,7 +54711,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4026.68
+      'Amount': -4026.68
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128320503371',
@@ -54722,7 +54722,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4544.46
+      'Amount': -4544.46
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000236792',
@@ -54733,7 +54733,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 331.17
+      'Amount': -331.17
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL H&M ONLINE 225707013470',
@@ -54744,7 +54744,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9884.37
+      'Amount': -9884.37
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001173 DOLLARAMA #1286',
@@ -54766,7 +54766,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5471.86
+      'Amount': -5471.86
    },
     {
       'Title': 'PAYMENT RECEIVED - THANK YOU',
@@ -54810,7 +54810,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7354.3
+      'Amount': -7354.3
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951354 Nam Huy Bui',
@@ -54843,7 +54843,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1566.11
+      'Amount': -1566.11
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 128319713380',
@@ -54887,7 +54887,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8282.46
+      'Amount': -8282.46
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000287755',
@@ -54909,7 +54909,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9625.76
+      'Amount': -9625.76
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120907700336 20.00 USD @ 1.292000',
@@ -54920,7 +54920,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1312.07
+      'Amount': -1312.07
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119523616250',
@@ -54931,7 +54931,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5550.59
+      'Amount': -5550.59
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120906772646 20.00 USD @ 1.292000',
@@ -55008,7 +55008,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9649.33
+      'Amount': -9649.33
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000252936',
@@ -55019,7 +55019,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2196.02
+      'Amount': -2196.02
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL GOOGLE *Google 230807006268',
@@ -55030,7 +55030,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7654.01
+      'Amount': -7654.01
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937221713 Nil',
@@ -55041,7 +55041,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6994.58
+      'Amount': -6994.58
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBER *TRIP 115806783478 3.00 CAD @ 1.000000',
@@ -55063,7 +55063,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9201.45
+      'Amount': -9201.45
    },
     {
       'Title': 'PAYPAL *GHASSANALNA 4029357733- ON',
@@ -55107,7 +55107,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2300.45
+      'Amount': -2300.45
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129013886157 120.00 CAD @ 1.000000',
@@ -55118,7 +55118,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5851.43
+      'Amount': -5851.43
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 116118852327',
@@ -55151,7 +55151,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6542.58
+      'Amount': -6542.58
    },
     {
       'Title': 'UOFMANITOBA-BOOKSTORE WINNIPEG- MB',
@@ -55162,7 +55162,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2626.85
+      'Amount': -2626.85
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE A0HT96SD0000 Five Guys',
@@ -55195,7 +55195,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5725.76
+      'Amount': -5725.76
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *DOORDAS 114315330225',
@@ -55206,7 +55206,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 728.48
+      'Amount': -728.48
    },
     {
       'Title': 'UBER CANADA TORONTO- ON',
@@ -55217,7 +55217,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1228.47
+      'Amount': -1228.47
    },
     {
       'Title': 'OVER LIMIT FEE',
@@ -55239,7 +55239,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3241.18
+      'Amount': -3241.18
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103835467191 kijiji controller user',
@@ -55250,7 +55250,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 83.74
+      'Amount': -83.74
    },
     {
       'Title': 'AMZN Mktp CA*2C9PP0MR2 WWW.AMAZON.CAON',
@@ -55272,7 +55272,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4662.76
+      'Amount': -4662.76
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 114222247236',
@@ -55294,7 +55294,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7826.36
+      'Amount': -7826.36
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116343132120',
@@ -55305,7 +55305,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8845.86
+      'Amount': -8845.86
    },
     {
       'Title': 'Internet Banking E-TRANSFER STOP SC103291839668',
@@ -55327,7 +55327,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2528.27
+      'Amount': -2528.27
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -55338,7 +55338,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9503.08
+      'Amount': -9503.08
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274521',
@@ -55349,7 +55349,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 565.65
+      'Amount': -565.65
    },
     {
       'Title': 'UBER CANADA TORONTO- ON',
@@ -55360,7 +55360,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8270.29
+      'Amount': -8270.29
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115161790291',
@@ -55371,7 +55371,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8218.19
+      'Amount': -8218.19
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 128320503371',
@@ -55415,7 +55415,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1474.62
+      'Amount': -1474.62
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 128319713380 75.00 CAD @ 1.000000',
@@ -55426,7 +55426,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3444.83
+      'Amount': -3444.83
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PIZZA PIZZA LTD 119505451956',
@@ -55437,7 +55437,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1447.7
+      'Amount': -1447.7
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 114720281741 17.39 CAD @ 1.000000',
@@ -55459,7 +55459,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9782.42
+      'Amount': -9782.42
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000249061 MASTERCARD- BMO',
@@ -55470,7 +55470,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7541.04
+      'Amount': -7541.04
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TOROON',
@@ -55481,7 +55481,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8229.66
+      'Amount': -8229.66
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.263000',
@@ -55525,7 +55525,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2953.39
+      'Amount': -2953.39
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 821001001034 7 ELEVEN STORE',
@@ -55547,7 +55547,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8598.72
+      'Amount': -8598.72
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG- MB',
@@ -55569,7 +55569,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9938.25
+      'Amount': -9938.25
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 116118852327',
@@ -55591,7 +55591,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7559.12
+      'Amount': -7559.12
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129013886157 120.00 CAD @ 1.000000',
@@ -55613,7 +55613,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4137.72
+      'Amount': -4137.72
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 120731656923',
@@ -55635,7 +55635,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6623.47
+      'Amount': -6623.47
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE Patreon* Member 118207718434 27.00 USD @ 1.273704',
@@ -55668,7 +55668,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4278.13
+      'Amount': -4278.13
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE A0HT96SD0000 Five Guys',
@@ -55679,7 +55679,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3583.28
+      'Amount': -3583.28
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 121616350114',
@@ -55701,7 +55701,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6787.7
+      'Amount': -6787.7
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000222121',
@@ -55712,7 +55712,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6881.14
+      'Amount': -6881.14
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 110244018102',
@@ -55723,7 +55723,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3763.77
+      'Amount': -3763.77
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103906818459 Cs Tutoring',
@@ -55745,7 +55745,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3198.92
+      'Amount': -3198.92
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114820687805',
@@ -55756,7 +55756,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8267.04
+      'Amount': -8267.04
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951354 Nam Huy Bui',
@@ -55767,7 +55767,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 926.23
+      'Amount': -926.23
    },
     {
       'Title': 'Electronic Funds Transfer PAY 7-ELEVEN CANADA 7-ELEVEN CANADA INC.',
@@ -55822,7 +55822,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2813.13
+      'Amount': -2813.13
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE CINEPLEX #8030 128507513608',
@@ -55844,7 +55844,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5257.77
+      'Amount': -5257.77
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000269148',
@@ -55855,7 +55855,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7639.68
+      'Amount': -7639.68
    },
     {
       'Title': 'DOLLARAMA #1286 WINNIPEG- MB',
@@ -55888,7 +55888,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5404.2
+      'Amount': -5404.2
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937244055 Nil',
@@ -55899,7 +55899,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 850.62
+      'Amount': -850.62
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129262581781',
@@ -55965,7 +55965,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3458.04
+      'Amount': -3458.04
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001372012 NATION WEST INS',
@@ -55976,7 +55976,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5859.17
+      'Amount': -5859.17
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000226377',
@@ -55987,7 +55987,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3792.13
+      'Amount': -3792.13
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001029 DOLLARAMA # 503',
@@ -55998,7 +55998,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9088.14
+      'Amount': -9088.14
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274346',
@@ -56031,7 +56031,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2695.58
+      'Amount': -2695.58
    },
     {
       'Title': 'PAYPAL *ASEELSAFI14 4029357733- ON',
@@ -56042,7 +56042,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4511.08
+      'Amount': -4511.08
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 119320576697',
@@ -56075,7 +56075,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5901.14
+      'Amount': -5901.14
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG- MB',
@@ -56086,7 +56086,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6677.74
+      'Amount': -6677.74
    },
     {
       'Title': 'PAYPAL *RAGHDA 4029357733- ON',
@@ -56097,7 +56097,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3700.27
+      'Amount': -3700.27
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103851939670 Divagar',
@@ -56152,7 +56152,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1802.77
+      'Amount': -1802.77
    },
     {
       'Title': 'TIM HORTONS #2856 WINNIPEG- MB',
@@ -56163,7 +56163,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2432.75
+      'Amount': -2432.75
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103937221713 Nil',
@@ -56196,7 +56196,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3393.27
+      'Amount': -3393.27
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000287755',
@@ -56218,7 +56218,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3201.42
+      'Amount': -3201.42
    },
     {
       'Title': 'PAYMENT PROTECTOR PREMIUM TAX',
@@ -56273,7 +56273,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8777.87
+      'Amount': -8777.87
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 114222247236',
@@ -56361,7 +56361,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 655.22
+      'Amount': -655.22
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000259703',
@@ -56372,7 +56372,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8026.17
+      'Amount': -8026.17
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248361',
@@ -56416,7 +56416,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4380.85
+      'Amount': -4380.85
    },
     {
       'Title': 'Ding 70781731 Dublin',
@@ -56471,7 +56471,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6240.16
+      'Amount': -6240.16
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 115231539541',
@@ -56482,7 +56482,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4856.86
+      'Amount': -4856.86
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001449010 NATION WEST INS',
@@ -56493,7 +56493,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5356.78
+      'Amount': -5356.78
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 124122872769 TIM HORTONS #81',
@@ -56504,7 +56504,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8240.79
+      'Amount': -8240.79
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000217381',
@@ -56515,7 +56515,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3356.94
+      'Amount': -3356.94
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129721816132',
@@ -56526,7 +56526,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6421.38
+      'Amount': -6421.38
    },
     {
       'Title': 'Point of Sale - INTERAC CORRECTION 000653170804 ST VITAL VISION',
@@ -56570,7 +56570,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3059.74
+      'Amount': -3059.74
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&M ONLINE 121007465422',
@@ -56581,7 +56581,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1113.12
+      'Amount': -1113.12
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001183 UNICITY TAXI #',
@@ -56592,7 +56592,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4319.28
+      'Amount': -4319.28
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114722720851',
@@ -56614,7 +56614,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8288.5
+      'Amount': -8288.5
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129721816132',
@@ -56636,7 +56636,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8065.85
+      'Amount': -8065.85
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001029 DOLLARAMA # 503',
@@ -56680,7 +56680,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9414.55
+      'Amount': -9414.55
    },
     {
       'Title': 'Electronic Funds Transfer CREDIT MEMO CIBC-DISATF',
@@ -56691,7 +56691,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5168.79
+      'Amount': -5168.79
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001173 DOLLARAMA #1286',
@@ -56713,7 +56713,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7087.41
+      'Amount': -7087.41
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -56724,7 +56724,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8895.27
+      'Amount': -8895.27
    },
     {
       'Title': 'PAYMENT THANK YOU/PAIEMEN T MERCI',
@@ -56779,7 +56779,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 812.93
+      'Amount': -812.93
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001541047 SOBEYS #5037',
@@ -56812,7 +56812,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9716.36
+      'Amount': -9716.36
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 128711822579',
@@ -56834,7 +56834,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5332.74
+      'Amount': -5332.74
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*MCDONA 119505373520',
@@ -56845,7 +56845,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4149.75
+      'Amount': -4149.75
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 119300358087',
@@ -56900,7 +56900,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 853.45
+      'Amount': -853.45
    },
     {
       'Title': 'PURCHASE INTEREST',
@@ -56933,7 +56933,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5824.8
+      'Amount': -5824.8
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114518716903',
@@ -56955,7 +56955,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8667.97
+      'Amount': -8667.97
    },
     {
       'Title': 'LaunchGood Inc. 855-9991947- MI 10.00 USD @ 1.295000',
@@ -56966,7 +56966,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8182.19
+      'Amount': -8182.19
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 123621211044',
@@ -56977,7 +56977,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5860.04
+      'Amount': -5860.04
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000274521',
@@ -56988,7 +56988,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8683.64
+      'Amount': -8683.64
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114631763290',
@@ -56999,7 +56999,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8073.75
+      'Amount': -8073.75
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000263993',
@@ -57021,7 +57021,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3737.69
+      'Amount': -3737.69
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130615818470',
@@ -57032,7 +57032,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5573.85
+      'Amount': -5573.85
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000223192',
@@ -57043,7 +57043,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4741.83
+      'Amount': -4741.83
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129013886157 120.00 CAD @ 1.000000',
@@ -57076,7 +57076,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4662.55
+      'Amount': -4662.55
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114621814150',
@@ -57098,7 +57098,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6564.44
+      'Amount': -6564.44
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 125122780380',
@@ -57109,7 +57109,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 583.52
+      'Amount': -583.52
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 124323231129 140.00 CAD @ 1.000000',
@@ -57142,7 +57142,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 332.52
+      'Amount': -332.52
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103931951354 Nam Huy Bui',
@@ -57153,7 +57153,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6913.05
+      'Amount': -6913.05
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000280436',
@@ -57175,7 +57175,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9049.65
+      'Amount': -9049.65
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SOUQ 033517331671 424.50 EGP @ 0.085606',
@@ -57219,7 +57219,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9517.53
+      'Amount': -9517.53
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 125122740760 60.00 CAD @ 1.000000',
@@ -57263,7 +57263,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6507.36
+      'Amount': -6507.36
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103904721909 Cs Tutoring',
@@ -57285,7 +57285,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8312.71
+      'Amount': -8312.71
    },
     {
       'Title': 'AMZN Mktp CA*WQ25P26Z3 WWW.AMAZON.CA- ON',
@@ -57318,7 +57318,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3669.79
+      'Amount': -3669.79
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 124323231129',
@@ -57340,7 +57340,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1792.08
+      'Amount': -1792.08
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116241781183',
@@ -57351,7 +57351,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2816.26
+      'Amount': -2816.26
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE BDS-INFO.CH 120907700336 20.00 USD @ 1.292000',
@@ -57373,7 +57373,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2789.12
+      'Amount': -2789.12
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 036362050688',
@@ -57384,7 +57384,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8826.39
+      'Amount': -8826.39
    },
     {
       'Title': 'AMZN Mktp CA*2L84Y3JX0 WWW.AMAZON.CA- ON',
@@ -57428,7 +57428,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 780.81
+      'Amount': -780.81
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&R BLOCK 122420136933',
@@ -57461,7 +57461,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6629.72
+      'Amount': -6629.72
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TORO- ON',
@@ -57483,7 +57483,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7954.46
+      'Amount': -7954.46
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000275373 MASTERCARD- BMO',
@@ -57494,7 +57494,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6831.24
+      'Amount': -6831.24
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 128319713380',
@@ -57516,7 +57516,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 168.63
+      'Amount': -168.63
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000230250',
@@ -57527,7 +57527,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2984.92
+      'Amount': -2984.92
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001001971 PIZZA PIZZA # 4',
@@ -57549,7 +57549,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2909.62
+      'Amount': -2909.62
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112601145020',
@@ -57582,7 +57582,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5680.74
+      'Amount': -5680.74
    },
     {
       'Title': 'Ding 70781731 Dublin',
@@ -57637,7 +57637,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8386
+      'Amount': -8386
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001215012 UPS STORE #189',
@@ -57648,7 +57648,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2707.54
+      'Amount': -2707.54
    },
     {
       'Title': 'Electronic Funds Transfer PREAUTHORIZED DEBIT CIBC-DISATF',
@@ -57659,7 +57659,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2158.89
+      'Amount': -2158.89
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE U OF M REGISTRA 114222247236',
@@ -57714,7 +57714,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9161.46
+      'Amount': -9161.46
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 120220634105',
@@ -57758,7 +57758,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1141.48
+      'Amount': -1141.48
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268805',
@@ -57769,7 +57769,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5454.94
+      'Amount': -5454.94
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE SP * PALIROOTS 114620880842 37.00 USD @ 1.238378',
@@ -57780,7 +57780,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9554.18
+      'Amount': -9554.18
    },
     {
       'Title': 'UBER* PENDING TORONTO ON',
@@ -57813,7 +57813,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5248.13
+      'Amount': -5248.13
    },
     {
       'Title': 'Internet Banking INTERNET BILL PAY 000000242901 MASTERCARD- BMO',
@@ -57824,7 +57824,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6326.25
+      'Amount': -6326.25
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129862345774',
@@ -57835,7 +57835,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7372.36
+      'Amount': -7372.36
    },
     {
       'Title': 'PAYPAL *OZLEY LLC 4029357733- ON',
@@ -57846,7 +57846,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9831.96
+      'Amount': -9831.96
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000225749',
@@ -57857,7 +57857,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9489.66
+      'Amount': -9489.66
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 125122780380',
@@ -57868,7 +57868,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1801.62
+      'Amount': -1801.62
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214441',
@@ -57912,7 +57912,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9532.57
+      'Amount': -9532.57
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000268205',
@@ -57934,7 +57934,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1826.07
+      'Amount': -1826.07
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DOORDASH*TIM HO 125122780380',
@@ -57967,7 +57967,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1560.67
+      'Amount': -1560.67
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103933806689 Cs Tutoring',
@@ -57989,7 +57989,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3891.68
+      'Amount': -3891.68
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248361',
@@ -58011,7 +58011,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3990.03
+      'Amount': -3990.03
    },
     {
       'Title': 'SKECHERS USA CANADA 833-846-5891- ON',
@@ -58033,7 +58033,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2796.02
+      'Amount': -2796.02
    },
     {
       'Title': 'Branch Transaction CREDIT MEMO',
@@ -58044,7 +58044,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9363.85
+      'Amount': -9363.85
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 100574173390',
@@ -58055,7 +58055,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3548.87
+      'Amount': -3548.87
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 852001001138 7 ELEVEN STORE',
@@ -58066,7 +58066,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7307.55
+      'Amount': -7307.55
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214441',
@@ -58088,7 +58088,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3621.75
+      'Amount': -3621.75
    },
     {
       'Title': 'UBER CANADA/UBERTRIP TORONTO ON',
@@ -58110,7 +58110,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1494.9
+      'Amount': -1494.9
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103800587602 Nil',
@@ -58154,7 +58154,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1045.27
+      'Amount': -1045.27
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000246317',
@@ -58165,7 +58165,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9109.05
+      'Amount': -9109.05
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000210291',
@@ -58187,7 +58187,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4498.32
+      'Amount': -4498.32
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 129222472965 28.03 CAD @ 1.000000',
@@ -58198,7 +58198,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5035.38
+      'Amount': -5035.38
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE GOOGLE *Google 129262581781',
@@ -58209,7 +58209,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6225.93
+      'Amount': -6225.93
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000001280019 ULTRACUTS STORE',
@@ -58231,7 +58231,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 831.77
+      'Amount': -831.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 119618572370',
@@ -58242,7 +58242,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6493.41
+      'Amount': -6493.41
    },
     {
       'Title': 'SQ *SHANG HAI 360 Winnipeg- MB',
@@ -58308,7 +58308,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 495.99
+      'Amount': -495.99
    },
     {
       'Title': 'AMZ*Duolihui US WWW.AMAZON.CA- ON',
@@ -58352,7 +58352,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 525.01
+      'Amount': -525.01
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000242642',
@@ -58363,7 +58363,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2771
+      'Amount': -2771
    },
     {
       'Title': 'SOBEYS #5037 WINNIPEG MB',
@@ -58374,7 +58374,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4264.74
+      'Amount': -4264.74
    },
     {
       'Title': 'DOORDASH*RED FOOT KITC DOWNTOWN TORO- ON',
@@ -58385,7 +58385,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2784.27
+      'Amount': -2784.27
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT MERCHANDISE RET REV INSTACART 112517341247',
@@ -58396,7 +58396,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4967.29
+      'Amount': -4967.29
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 000011359309 AIRLINE LIMOUSI',
@@ -58407,7 +58407,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2402.39
+      'Amount': -2402.39
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 129721552614',
@@ -58418,7 +58418,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3464.6
+      'Amount': -3464.6
    },
     {
       'Title': 'Ding 73179606 Dublin',
@@ -58440,7 +58440,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6828.6
+      'Amount': -6828.6
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 121012411104 GREENCREST PHAR',
@@ -58462,7 +58462,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 185.3
+      'Amount': -185.3
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 115135455508',
@@ -58473,7 +58473,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5728.43
+      'Amount': -5728.43
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 124516329556 TIM HORTONS #81',
@@ -58506,7 +58506,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9301.32
+      'Amount': -9301.32
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE DD 130101408181',
@@ -58517,7 +58517,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6679.88
+      'Amount': -6679.88
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 110244018102',
@@ -58550,7 +58550,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1569.77
+      'Amount': -1569.77
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE APPLE.COM/BILL 109543153082',
@@ -58583,7 +58583,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3106.75
+      'Amount': -3106.75
    },
     {
       'Title': 'Automated Banking Machine ATM DEPOSIT FORT RICHMOND SQ 2A12',
@@ -58594,7 +58594,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9980.05
+      'Amount': -9980.05
    },
     {
       'Title': 'DOORDASH*RED FOOT KITC DOWNTOWN TORO- ON',
@@ -58616,7 +58616,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7092.49
+      'Amount': -7092.49
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *RAGHDA 128711822579',
@@ -58627,7 +58627,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4121.1
+      'Amount': -4121.1
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 129341124937',
@@ -58649,7 +58649,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 905.12
+      'Amount': -905.12
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 129618381237',
@@ -58660,7 +58660,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8582.19
+      'Amount': -8582.19
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *ASEELSA 129618381237',
@@ -58682,7 +58682,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4778.99
+      'Amount': -4778.99
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000248361',
@@ -58693,7 +58693,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7777.08
+      'Amount': -7777.08
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103907720458 Nil',
@@ -58737,7 +58737,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4976.61
+      'Amount': -4976.61
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL INSTACART 129013886157 120.00 CAD @ 1.000000',
@@ -58748,7 +58748,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 619.49
+      'Amount': -619.49
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000226259',
@@ -58759,7 +58759,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3241.21
+      'Amount': -3241.21
    },
     {
       'Title': 'UNITED NATIONS HIG GENEVA',
@@ -58803,7 +58803,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2225.76
+      'Amount': -2225.76
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 120843570813',
@@ -58836,7 +58836,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7250.44
+      'Amount': -7250.44
    },
     {
       'Title': 'UNITED NATIONS HIG GENEVA',
@@ -58847,7 +58847,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7499.11
+      'Amount': -7499.11
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL APPLE.COM/CA 215807003249',
@@ -58858,7 +58858,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8385.32
+      'Amount': -8385.32
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000214062',
@@ -58902,7 +58902,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8286.86
+      'Amount': -8286.86
    },
     {
       'Title': 'DOORDASH*RED LOBSTER DOWNTOWN TOROON',
@@ -58913,7 +58913,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 371.98
+      'Amount': -371.98
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 130201721079',
@@ -58935,7 +58935,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2543.75
+      'Amount': -2543.75
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL APPLE.COM/BILL T21007062033 39.18 CAD @ 1.000000',
@@ -58946,7 +58946,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6004.7
+      'Amount': -6004.7
    },
     {
       'Title': 'Point of Sale - INTERAC RETAIL PURCHASE 815001001156 7 ELEVEN STORE',
@@ -58957,7 +58957,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3470.29
+      'Amount': -3470.29
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE PIZZA PIZZA LTD T21257248801 30.07 CAD @ 1.000000',
@@ -58979,7 +58979,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3511.91
+      'Amount': -3511.91
    },
     {
       'Title': 'AMZN Mktp CA*2L7ID8VF1 WWW.AMAZON.CA- ON',
@@ -58990,7 +58990,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1936.03
+      'Amount': -1936.03
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239616',
@@ -59001,7 +59001,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 89.98
+      'Amount': -89.98
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 115806783478 12.41 CAD @ 1.000000',
@@ -59012,7 +59012,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4426.56
+      'Amount': -4426.56
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000233939',
@@ -59034,7 +59034,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6275
+      'Amount': -6275
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE ROGERS *** 129233222773',
@@ -59045,7 +59045,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3704.04
+      'Amount': -3704.04
    },
     {
       'Title': 'DOORDASH*CIRCLE K DOWNTOWN TOROON',
@@ -59056,7 +59056,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 7260.96
+      'Amount': -7260.96
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB T21187134271 12.89 CAD @ 1.000000',
@@ -59067,7 +59067,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 1646.72
+      'Amount': -1646.72
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE INSTACART 120723688008',
@@ -59100,7 +59100,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4429.26
+      'Amount': -4429.26
    },
     {
       'Title': 'MARBLE SLAB CREAMERY WINNIPEG- MB',
@@ -59111,7 +59111,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 893.11
+      'Amount': -893.11
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8982929769 120773525764',
@@ -59122,7 +59122,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 693.4
+      'Amount': -693.4
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT PURCHASE REVERSAL INSTACART 112517341247',
@@ -59188,7 +59188,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 2252.79
+      'Amount': -2252.79
    },
     {
       'Title': 'Point of Sale - Visa Debit INT VISA DEB PURCHASE REVERSAL UBR* PENDING.UB 114720786149 19.39 CAD @ 1.000000',
@@ -59199,7 +59199,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6651.62
+      'Amount': -6651.62
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000239148',
@@ -59210,7 +59210,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9581.32
+      'Amount': -9581.32
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 129931113626',
@@ -59221,7 +59221,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5382.37
+      'Amount': -5382.37
    },
     {
       'Title': 'Internet Banking E-TRANSFER 103811946493 Nil',
@@ -59276,7 +59276,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 628.55
+      'Amount': -628.55
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000288020',
@@ -59298,7 +59298,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3844.04
+      'Amount': -3844.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 120220289489',
@@ -59342,7 +59342,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9881.72
+      'Amount': -9881.72
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE H&M ONLINE 123521470714',
@@ -59353,7 +59353,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5663.24
+      'Amount': -5663.24
    },
     {
       'Title': 'Point of Sale - INTERAC CORRECTION 000653170804 ST VITAL VISION',
@@ -59364,7 +59364,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 9331.95
+      'Amount': -9331.95
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE dbrand Order 033515380970',
@@ -59397,7 +59397,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5707.98
+      'Amount': -5707.98
    },
     {
       'Title': 'IKEA WINNIPEG #249 BURLINGTON ON',
@@ -59441,7 +59441,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3053.62
+      'Amount': -3053.62
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WINNIPEG TRANSI 121498930642',
@@ -59474,7 +59474,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8661.21
+      'Amount': -8661.21
    },
     {
       'Title': 'Internet Banking INTERNET TRANSFER 000000289816',
@@ -59507,7 +59507,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 3396.04
+      'Amount': -3396.04
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 129341124937',
@@ -59518,7 +59518,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 8989.08
+      'Amount': -8989.08
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE SKIPTHEDISHES 114421482951',
@@ -59551,7 +59551,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6446.72
+      'Amount': -6446.72
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE PAYPAL *OZLEY L 120700380712',
@@ -59584,7 +59584,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 6907.57
+      'Amount': -6907.57
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE INSTACART 128319713380 51.74 CAD @ 1.000000',
@@ -59639,7 +59639,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4013.93
+      'Amount': -4013.93
    },
     {
       'Title': 'Point of Sale - Visa Debit INTL VISA DEB RETAIL PURCHASE UBR* PENDING.UB 115806783478 15.41 CAD @ 1.000000',
@@ -59661,7 +59661,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 5289.14
+      'Amount': -5289.14
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 114234127034',
@@ -59694,7 +59694,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4319.51
+      'Amount': -4319.51
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE AMZN Mktp CA 116241781183',
@@ -59705,7 +59705,7 @@ fakeData = [
       'Income': {
          'Expense': 'Expense'
       },
-      'Amount': 4553.82
+      'Amount': -4553.82
    },
     {
       'Title': 'Point of Sale - Visa Debit VISA DEBIT RETAIL PURCHASE WU *8989078410 100175533173',
