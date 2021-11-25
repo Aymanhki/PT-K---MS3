@@ -27,15 +27,12 @@ li {
 .calendar-content .calendar-header {
     
     position: relative;
-    
     place-items: center;
-    height: 90px;
     display: flex;
     width: 100%;
     height: auto;
     
 }
-
 
 /* month header */
 .month {
@@ -153,6 +150,8 @@ li {
     height: 80vh;
 }
 
+
+
 /* week day headings */
 .week-day {
     border-radius: 10px;
@@ -184,7 +183,6 @@ li {
     
     
 }
-
 
 /*actual calendar blocking */
 .days-grid{

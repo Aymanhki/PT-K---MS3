@@ -422,14 +422,18 @@ function drawAllTransactions() {
 
         // let category = categories2.find(categories => categories2.categoryID === transaction.Category);
         // console.log(categories2);
-    
-        if(transaction.Income.Expense === "Expense") {
-            newSpending.setAttribute("style", value = `background-color: red;`);
+        let catName = transaction.Category;
+        let catNum = -1;
+        for(let i=0; i<doughnutLabels.length && catNum !== -1; i++)
+        {
+            if(catName === doughnutLabels[i])
+            {
+                catNum = i;
+            }
         }
-        else {
-            newSpending.setAttribute("style", value = `background-color: green;`);
-        }
-        
+        console.log(catName, catNum, colors[catNum]);
+        let coloValue = 'background-color:'+colors[catNum]+';';
+        newSpending.setAttribute("style", value = coloValue);
         return newSpending;
         getCatPopTotals();
     }
