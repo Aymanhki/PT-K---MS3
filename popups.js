@@ -141,17 +141,45 @@ let submitCat = function() {
         let catNew = document.createElement("div");
         catNew.setAttribute("class", "cat7");
         let newButton = document.createElement("button");
-        newButton.setAttribute("class", `category ${name}`);
-        let pullOut = document.createElement("i");
-        pullOut.setAttribute("class", `${iconVal}`);
+        newButton.setAttribute("class", `category new`);
+        let sign = document.createElement("i");
+        sign.style.color = color;
+        let pullOut = document.createElement("div");
+        pullOut.setAttribute("class", "cat-pop");
+        pullOut.setAttribute("id", "catt7")
+        pullOut.innerText = name;
+        pullOut.style.color = color;
+        sign.setAttribute("class", `${iconVal}`);
         newButton.setAttribute("style", `border-color: ${color};`);
 
-        newButton.appendChild(pullOut);
+        var css = `new:hover{background-color: ${color};}`;
+        var style = document.createElement('style');
+
+        style.appendChild(document.createTextNode(css));
+
+        newButton.appendChild(style);
+
+        newButton.appendChild(sign);
         catNew.appendChild(newButton);
+        catNew.appendChild(pullOut);
 
         let left = document.getElementById('left_panel');
         let add = document.getElementById("add_button");
         left.insertBefore(catNew, add);
+
+        let newCat = [name,
+            0.00,
+            color,
+            color];
+        doughnutLabels.push(name);
+        categories.push(newCat);
+        console.log(categories[categories.length - 2])
+        console.log(categories[categories.length - 1])
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
     }
 }
 
