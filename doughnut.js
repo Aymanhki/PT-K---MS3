@@ -67,6 +67,7 @@ function recreateNode(el, withChildren) {
 function swapDoughnut() {
     document.getElementById("big-dough").classList.toggle("active");
     document.getElementById("DCC").classList.toggle("active");
+    document.getElementById("day-popup-overlay").classList.toggle("active");
 
     //Draw small calendar
     document.getElementById("DCC").innerHTML = "";
@@ -162,6 +163,7 @@ function swapDoughnut() {
 function swapDoughnutBack() {
     document.getElementById("big-dough").classList.remove("active");
     document.getElementById("DCC").classList.remove("active");
+    document.getElementById("day-popup-overlay").classList.remove("active");
     doughnutChartButBigger.destroy();
 }
 
