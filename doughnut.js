@@ -2,6 +2,7 @@
 
 let doughnutColors = [];
 let doughnutChart;
+let doughnutChartButBigger;
 function drawDoughnut() {
     $(document).ready(function () {
         let ctx = $("#doughnut").get(0).getContext('2d');
@@ -154,12 +155,13 @@ function swapDoughnut() {
         options: options
     };
 
-    let doughnutChartButBigger = new Chart(ctx, config);
+    doughnutChartButBigger = new Chart(ctx, config);
 
 }
 
 function swapDoughnutBack() {
     document.getElementById("big-dough").classList.remove("active");
     document.getElementById("DCC").classList.remove("active");
+    doughnutChartButBigger.destroy();
 }
 
