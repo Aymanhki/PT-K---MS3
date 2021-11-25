@@ -137,6 +137,7 @@ let submitCat = function() {
         catNew.setAttribute("class", "cat7");
         let newButton = document.createElement("button");
         newButton.setAttribute("class", `category new`);
+        newButton.setAttribute("onclick", `funcOpenTransac()`);
         let sign = document.createElement("i");
         sign.style.color = color;
         let pullOut = document.createElement("div");
@@ -162,13 +163,18 @@ let submitCat = function() {
         let add = document.getElementById("add_button");
         left.insertBefore(catNew, add);
 
-        let option = document.createElement("option");
-        option.setAttribute("value", name);
-        option.innerText = name;
-        document.getElementById("transacCat").appendChild(option);
 
-
-
+        let newData = {
+            Amount: 10,
+            Category: name,
+            Day: 1,
+            Income: {Expense: 'Income'},
+            Month: 1,
+            Title: "random added",
+            Year: 2019
+        };
+        data.push(newData);
+        console.log(data[data.length-1]);
 
         let newCat = [name,
             0.00,
@@ -177,6 +183,7 @@ let submitCat = function() {
         doughnutLabels.push(name);
         categories.push(newCat);
         getCategoryTotals();
+        getCatPopTotals();
         doughnutChart.destroy();
         lineChart.destroy();
         drawDoughnut();
