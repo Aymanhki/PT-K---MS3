@@ -2,9 +2,8 @@
 
 ## How to run?
 1. Unzip our zip file.
-2. Navigate into extracted folder.
-2.5. You should already be here. If you're reading this and aren't, kudos!
-3. Open the index.html file with your favorite browser.
+2. Navigate into extracted folder.  
+3. Open the `index.html` file with your favorite browser.
 
 ## Usage
 - It works best when the browser window is full size of the screen. The UI is responsive but it still get a bit messed up when the window size is too small.
@@ -14,3 +13,5 @@
 - Click on the graphs to expand and see the data details.
 
 
+## Write-up
+You can find our write up in file `PT-K MS3.pdf`.
