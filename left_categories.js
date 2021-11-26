@@ -6,10 +6,11 @@ getCatPopTotals = function() {
             
             for (let j = 0; j <cats; j++) {
                 let cat_pop = document.getElementById(`catt${j+1}`);
-                if(cat_pop.innerText.includes(`${categories[i][0]}`)) {
-                    cat_pop.innerText = "";
-                    cat_pop.innerText += `${categories[i][0]}\n\$${categories[i][1].toFixed(2)}`
-                }
+                if( $(`#catt${j+1}`).length )
+                    if(cat_pop.innerText.includes(`${categories[i][0]}`)) {
+                        cat_pop.innerText = "";
+                        cat_pop.innerText += `${categories[i][0]}\n\$${categories[i][1].toFixed(2)}`
+                    }
             }
             
             
