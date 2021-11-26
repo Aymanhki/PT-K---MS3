@@ -4,7 +4,6 @@ let doughnutColors = [];
 
 function drawDoughnut() {
     $(document).ready(function () {
-        categories.sort();
         let ctx = $("#doughnut").get(0).getContext('2d');
 
         let doughnutData = []
