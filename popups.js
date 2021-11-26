@@ -71,7 +71,7 @@ let new_transac = function() {
         Year: year
     }
 
-    if(amt.trim()!= "" && name.trim() != "") {
+    if(amt.trim()!== "" && (name.trim() !== "" && document.getElementById("transacDate").value !== "")) {
         funcCloseTransac();
 
         data.push(newTransac);
@@ -89,9 +89,13 @@ let new_transac = function() {
         if(  name.trim() === "" ) {
             document.getElementById("transacName").className = 'error';
         }
+        if( document.getElementById("transacDate").value === "" ) {
+            document.getElementById("transacDate").className = 'error';
+        }
         setTimeout(function() {
             document.getElementById("transacAmt").className = '';
             document.getElementById("transacName").className = '';
+            document.getElementById("transacDate").className = '';
         }, 500);
     }
 

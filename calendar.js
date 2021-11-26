@@ -321,10 +321,10 @@ function checkState() {
         drawLine();
     }
     getCatPopTotals();
-    if(file)
-    {
-        file.onload();
-    }
+    // if(file)
+    // {
+    //     file.onload();
+    // }
 
 }//checkState
 
