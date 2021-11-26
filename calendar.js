@@ -80,6 +80,9 @@ function createNonMonthDay(date, month, year) {
     if (month > 12) {
         month = month%12;
         year = year + 1;
+    } else if (month < 1) {
+        month = 12;
+        year = year - 1;
     }
     let dateElement = createDate(date, month, year)
     dateElement.innerHTML = `<span style="color:rgb(180, 180, 180)">${date}</span>`;
