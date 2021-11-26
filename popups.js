@@ -8,6 +8,9 @@ let funcOpenTransac = function () {
 
 let funcCloseTransac = function () {
     document.getElementById('addTransac').style.display = 'none';
+    document.getElementById("transacAmt").value = "";
+    document.getElementById("transacName").value = "";
+    document.getElementById("transacDate").value = "";
 }
 
 let funcOpenCat = function () {
@@ -16,6 +19,7 @@ let funcOpenCat = function () {
 
 let funcCloseCat = function () {
     document.getElementById('addCateg').style.display = 'none';
+    document.getElementById('catName').value = "";
 }
 
 let funcOpenDir = function (valueToSelect) {
@@ -65,9 +69,6 @@ let new_transac = function() {
 
     if(amt.trim()!= "" && name.trim() != "") {
         funcCloseTransac();
-        document.getElementById("transacAmt").value = "";
-        document.getElementById("transacName").value = "";
-        document.getElementById("transacDate").value = "";
 
         data.push(newTransac);
         reloadCalendar();
@@ -130,7 +131,6 @@ let submitCat = function() {
     }
     else {
         funcCloseCat();
-        document.getElementById('catName').value = "";
         icon.selectedIndex = 0;
 
         let catNew = document.createElement("div");
