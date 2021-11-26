@@ -211,6 +211,7 @@ function swapDoughnutBack() {
     document.getElementById("big-dough").classList.remove("active");
     document.getElementById("DCC").classList.remove("active");
     doughnutChartButBigger.destroy();
+    document.getElementById("day-popup-overlay").classList.remove("active");
 
 }
 

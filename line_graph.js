@@ -413,4 +413,5 @@ function swapLineGraphBack()
     document.getElementById("big-line").classList.remove("active");
     document.getElementById("LCC").classList.remove("active");
     lineChartButBigger.destroy();
+    document.getElementById("day-popup-overlay").classList.remove("active");
 }
