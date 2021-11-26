@@ -241,4 +241,6 @@ let deleteCategory = function(){
 
 let submitEdit = function() {
     alert("The current function hasn't been implemented.");
+    let toEdit = document.getElementById("editCat").value;
+    
 }
