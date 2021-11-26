@@ -120,10 +120,10 @@
     transition: 0.6s;
     position: relative;
     display: flexbox;
-    height: auto;
+    height: fit-content;
     align-items: center;
     justify-content: center;
-    margin-bottom: 18%;
+    margin-bottom: 3vw;
 }
 
 #catt1 {
@@ -163,10 +163,10 @@
     transition: 0.6s;
     position: relative;
     display: flexbox;
-    height: auto;
+    height: fit-content;
     align-items: center;
     justify-content: center;
-    margin-bottom: 18%;
+    margin-bottom: 3vw;
 }
 
 #catt2 {
@@ -206,10 +206,10 @@
     transition: 0.6s;
     position: relative;
     display: flexbox;
-    height: auto;
+    height: fit-content;
     align-items: center;
     justify-content: center;
-    margin-bottom: 18%;
+    margin-bottom: 3vw;
 }
 
 #catt3 {
@@ -249,10 +249,10 @@
     transition: 0.6s;
     position: relative;
     display: flexbox;
-    height: auto;
+    height: fit-content;
     align-items: center;
     justify-content: center;
-    margin-bottom: 18%;
+    margin-bottom: 3vw;
 }
 
 #catt4 {
@@ -292,10 +292,10 @@
     transition: 0.6s;
     position: relative;
     display: flexbox;
-    height: auto;
+    height: fit-content;
     align-items: center;
     justify-content: center;
-    margin-bottom: 18%;
+    margin-bottom: 3vw;
 }
 
 #catt5 {
@@ -335,10 +335,10 @@
     transition: 0.6s;
     position: relative;
     display: flexbox;
-    height: auto;
+    height: fit-content;
     align-items: center;
     justify-content: center;
-    margin-bottom: 18%;
+    margin-bottom: 3vw;
 }
 
 #catt6 {
@@ -376,10 +376,10 @@
     transition: 0.6s;
     position: relative;
     display: flexbox;
-    height: auto;
+    height: fit-content;
     align-items: center;
     justify-content: center;
-    margin-bottom: 18%;
+    margin-bottom: 3vw;
 }
 
 #catt7 {
