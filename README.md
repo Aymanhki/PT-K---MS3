@@ -3,6 +3,7 @@
 ## How to run?
 1. Unzip our zip file.
 2. Navigate into extracted folder.
+2.5. You should already be here. If you're reading this and aren't, kudos!
 3. Open the index.html file with your favorite browser.
 
 ## Usage
