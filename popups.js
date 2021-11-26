@@ -8,6 +8,7 @@ let funcOpenTransac = function () {
 
 let funcCloseTransac = function () {
     document.getElementById('addTransac').style.display = 'none';
+    document.getElementById("editCat").value = "";
 }
 
 let funcOpenCat = function () {
@@ -16,13 +17,17 @@ let funcOpenCat = function () {
 
 let funcCloseCat = function () {
     document.getElementById('addCateg').style.display = 'none';
+    document.getElementById("editCat").value = "";
 }
 
-let funcOpenDir = function (valueToSelect) {
+let funcOpenDir = function (valueToSelect, editValue) {
     // document.getElementById('directory').style.display = 'block';
     document.getElementById("transacCat").value = valueToSelect;
     document.getElementById('addTransac').style.display = 'block';
     document.getElementById('directory').style.display = 'none';
+    document.getElementById("editCat").value = editValue;
+
+    console.log(categories[0]);
 
 }
 
@@ -38,6 +43,7 @@ let funcOpenEdit = function () {
 
 let funcCloseEdit = function () {
     document.getElementById('editor').style.display = 'none';
+    document.getElementById("editCat").value = "";
 }
 
 let new_transac = function() {
@@ -163,6 +169,12 @@ let submitCat = function() {
         let add = document.getElementById("add_button");
         left.insertBefore(catNew, add);
 
+        colors.push(color);
+        let newOption = document.createElement("option");
+        newOption.setAttribute("value", name);
+        newOption.innerText = name;
+        document.getElementById("transacCat").appendChild(newOption);
+
 
         let newData = {
             Amount: 10,
@@ -191,7 +203,38 @@ let submitCat = function() {
     }
 }
 
-let deletCategory = function(){
+let deleteCategory = function(){
+    let toDelete = document.getElementById("editCat").value;
+    let catToDelete = document.getElementById(toDelete);
+    let catString = document.getElementById("editCat").options[document.getElementById("editCat").selectedIndex].innerText;
+    if (confirm(`This action will delete the ${catString} category.`)) {
+        
+        data = data.filter(data => data.Category !== `${catString}`);
+        doughnutLabels = doughnutLabels.filter(doughnutLabels => doughnutLabels !== `${catString}`);
+        let catFound = categories[0];
+        for( let i = 0; i < categories.length; i++){
+            if(categories[i][0] === catString){
+                catFound = categories[i];
+            }
+        }
+        colors = colors.filter(colors => colors !== catFound[2]);
+        categories = categories.filter(categories => categories !== catFound);
+        reloadCalendar();
+        getCategoryTotals();
+        doughnutChart.destroy();
+        lineChart.destroy();
+        drawDoughnut();
+        drawLine();
+        getCatPopTotals();
+
+        catToDelete.remove();
+        document.getElementById(`${toDelete}Edit`).remove();
+        document.getElementById("editCat").value = "";
+        funcCloseEdit();
+    }
+    else {
+
+    }
 
 }
 

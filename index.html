@@ -67,47 +67,47 @@
             </div>
         </div>
         <div class="left-panel" id="left_panel">
-            <div class="cat1"> <!-- ----------------------------------------------------------------------------------Accomodation-->
-                <button onclick="funcOpenDir('Accommodation')" class="category accommodation" type="button" title="add transaction">
+            <div class="cat1" id="cat1"> <!-- ----------------------------------------------------------------------------------Accomodation-->
+                <button onclick="funcOpenDir('Accommodation', 'cat1')" class="category accommodation" type="button" title="add transaction">
                     <i class="fas fa-bed fa-2x"></i>
                 </button>
-                <div class = "cat-pop" id="catt1">Accomodation</div>
+                <div class = "cat-pop" id="catt1">Accommodation</div>
 
             </div>
 
-            <div class="cat2"> <!-- ----------------------------------------------------------------------------------Entertainment -->
-                <button onclick="funcOpenDir('Entertainment')" class="category entertainment" type="button" title="add transaction">
+            <div class="cat2" id="cat2"> <!-- ----------------------------------------------------------------------------------Entertainment -->
+                <button onclick="funcOpenDir('Entertainment', 'cat2')" class="category entertainment" type="button" title="add transaction">
                     <i class="fas fa-gamepad fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt2">Entertainment</div>
             </div>
 
-            <div class="cat3"> <!-- ----------------------------------------------------------------------------------Food-->
-                <button onclick="funcOpenDir('Food')" class="category food" type="button" title="add transaction">
+            <div class="cat3" id="cat3"> <!-- ----------------------------------------------------------------------------------Food-->
+                <button onclick="funcOpenDir('Food', 'cat3')" class="category food" type="button" title="add transaction">
                     <i class="fas fa-hamburger fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt3">Food</div>
             </div>
 
-            <div class="cat4"> <!-- ----------------------------------------------------------------------------------Health-->
-                <button onclick="funcOpenDir('Health')" class="category health" type="button" title="add transaction">
+            <div class="cat4" id="cat4"> <!-- ----------------------------------------------------------------------------------Health-->
+                <button onclick="funcOpenDir('Health', 'cat4')" class="category health" type="button" title="add transaction">
                     <i class="fas fa-medkit fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt4">Health</div>
             </div>
 
-            <div class="cat5"> <!-- ----------------------------------------------------------------------------------Personal-->
-                <button onclick="funcOpenDir('Personal')" class="category personal" type="button" title="add transaction">
+            <div class="cat5" id="cat5"> <!-- ----------------------------------------------------------------------------------Personal-->
+                <button onclick="funcOpenDir('Personal', 'cat5')" class="category personal" type="button" title="add transaction">
                     <i class="fas fa-smile fa-2x"></i>
                 </button>
                 <div class = "cat-pop" id="catt5">Personal</div>
             </div>
 
-            <div class="cat6"> <!-- ----------------------------------------------------------------------------------Utilities-->
-                <button onclick="funcOpenDir('Utilities')" class="category utilities" type="button" title="add transaction">
+            <div class="cat6" id="cat6"> <!-- ----------------------------------------------------------------------------------Utilities-->
+                <button onclick="funcOpenDir('Utilities', 'cat6')" class="category utilities" type="button" title="add transaction">
                     <i class="fas fa-tools fa-2x"></i>
                 </button>
-                <div class = "cat-pop" id="catt6">Utilites</div>
+                <div class = "cat-pop" id="catt6">Utilities</div>
             </div>
 
             <button onclick="funcOpenCat()" id="add_button" class="category addCat" type="button">+</button>
@@ -295,6 +295,16 @@
                 <button class="tablinks" onclick="funcOpenTransac()"><h2>Add Transaction</h2></button>
                 <button class="tablinks active" onclick="funcOpenEdit()" ><h2>Edit Category</h2></button>
             </div>
+
+            <label for="editCat">CURRENT CATEGORY</label>
+            <select name="editCat" id="editCat">
+                <option value="cat1" id="cat1Edit">Accommodation</option>
+                <option value="cat2" id="cat2Edit">Entertainment</option>
+                <option value="cat3" id="cat3Edit">Food</option>
+                <option value="cat4" id="cat4Edit">Health</option>
+                <option value="cat5" id="cat5Edit">Personal</option>
+                <option value="cat6" id="cat6Edit">Utilities</option>
+            </select>
 
             <label for="editName">NEW NAME</label>
             <input type="text" id="editName" name="name" placeholder="Savings, Gifts, Miscellaneous...">

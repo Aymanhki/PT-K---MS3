@@ -1,11 +1,19 @@
 getCatPopTotals = function() {
     $(document).ready(function () {
-        // getCategoryTotals();
+        getCategoryTotals();
         let cats = categories.length ;
+        console.log(categories);
         for (let i = 0; i < cats; i++) {
-            let cat_pop = document.getElementById(`catt${i+1}`);
-            cat_pop.innerText = "";
-            cat_pop.innerText = `${categories[i][0]}\n\$${categories[i][1].toFixed(2)}`
+            
+            for (let j = 0; j <cats; j++) {
+                let cat_pop = document.getElementById(`catt${j+1}`);
+                if(cat_pop.innerText.includes(`${categories[i][0]}`)) {
+                    cat_pop.innerText = "";
+                    cat_pop.innerText += `${categories[i][0]}\n\$${categories[i][1].toFixed(2)}`
+                }
+            }
+            
+            
         }
         
         
