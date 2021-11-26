@@ -31,8 +31,6 @@ let funcOpenDir = function (valueToSelect, editValue) {
     document.getElementById('directory').style.display = 'none';
     document.getElementById("editCat").value = editValue;
 
-    console.log(categories[0]);
-
 }
 
 let funcCloseDir = function () {
@@ -186,7 +184,6 @@ let submitCat = function() {
             Year: 2019
         };
         data.push(newData);
-        console.log(data[data.length-1]);
 
         let newCat = [name,
             0.00,

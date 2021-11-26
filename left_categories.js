@@ -2,7 +2,6 @@ getCatPopTotals = function() {
     $(document).ready(function () {
         getCategoryTotals();
         let cats = categories.length ;
-        console.log(categories);
         for (let i = 0; i < cats; i++) {
             
             for (let j = 0; j <cats; j++) {
