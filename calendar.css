@@ -34,6 +34,11 @@ li {
     
 }
 
+
+#calendar-prev, #calendar-next, #calendar-header-month, #calendar-header-year {
+    font-size: 4vmin;
+}
+
 /* month header */
 .month {
     position: inherit;
