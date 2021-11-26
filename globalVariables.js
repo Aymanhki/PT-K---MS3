@@ -5,7 +5,6 @@
 //----------------------------
 
 //Data variables
-// TODO: move data variables from dataGenerator to here
 // let data;
 
 let categories = [];

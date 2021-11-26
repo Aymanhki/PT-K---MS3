@@ -3,7 +3,6 @@ function getTransactionsInDay (data, year, month, day) {
 
     let result = [];
 
-    //TODO: (Optional) improve searching method later if have time
     for (let transaction in transactionInMonth) {
         if (transaction.day == day) {
             result.push(transaction);
@@ -17,7 +16,7 @@ function getTransactionsInMonth (data, year, month) {
 
     let result = [];
 
-    //TODO: (Optional) improve searching method later if have time
+
     for (let transaction in transactionInYear) {
         if (transaction.month == month) {
             result.push(transaction);
@@ -30,7 +29,7 @@ function getTransactionsInMonth (data, year, month) {
 function getTransactionsInYear (data, year) {
     let result = [];
 
-    //TODO: (Optional) improve searching method later if have time
+
     for (let transaction in data) {
         if (transaction.year == year) {
             result.push(transaction);
