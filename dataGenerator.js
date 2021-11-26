@@ -66,8 +66,7 @@ $(document).ready(()=> {
 
 //-------------------------------
 // Sanitize data 
-// TODO: creating category list from data
-// TODO: add transactionID to each transaction
+
 //-------------------------------
 
 function sanitize (data) {
