@@ -80,12 +80,16 @@ function createNonMonthDay(date, month, year) {
     if (month > 12) {
         month = month%12;
         year = year + 1;
+    } else if (month < 1) {
+        month = 12;
+        year = year - 1;
     }
     let dateElement = createDate(date, month, year)
     dateElement.innerHTML = `<span style="color:rgb(180, 180, 180)">${date}</span>`;
     dates.push({
         //pushing a new date element in the date array
         //will hold the transactions later on
+        dateElement: dateElement,
         day: date,
         month: month,
         year: year,
@@ -102,6 +106,7 @@ function createCurrentMonthDay(date, month, year) {
     dates.push({
         //pushing a new date element in the date array
         //used to hold transactions later on
+        dateElement: dateElement,
         day: date,
         month: month,
         year: year,
@@ -447,12 +452,12 @@ function drawAllTransactions() {
     }
 
     lookForTransactions = function(day) {
-        let date = document.getElementById(`${day.day}-${day.month}-${day.year}`);
+        let date = day.dateElement;
         let transactions_all = document.createElement("ol");
         transactions_all.setAttribute("class", "transaction");
         let transactions = data;
         transactions = transactions.filter(transactions => transactions.Day === day.day);
-        transactionsFinal = transactions.filter(transactions => transactions.Month === month);
+        transactionsFinal = transactions.filter(transactions => transactions.Month === (day.month-1));
         transactionsFinal = transactionsFinal.filter(transactions => transactions.Year === day.year);
         // console.log(transactionsFinal);
         transactionsFinal.forEach(element => {
