@@ -77,6 +77,10 @@ function clearCalendar() {
 }
 
 function createNonMonthDay(date, month, year) {
+    if (month > 12) {
+        month = month%12;
+        year = year + 1;
+    }
     let dateElement = createDate(date, month, year)
     dateElement.innerHTML = `<span style="color:rgb(180, 180, 180)">${date}</span>`;
     dates.push({
@@ -317,7 +321,11 @@ function checkState() {
         drawLine();
     }
     getCatPopTotals();
-    file.onload();
+    if(file)
+    {
+        file.onload();
+    }
+
 }//checkState
 
 /* -------------------------------------------- the year view ---------------------------------- */

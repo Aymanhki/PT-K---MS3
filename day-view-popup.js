@@ -19,7 +19,18 @@ function openDayView(day, month, year)
 function closeDayView()
 {
     document.getElementById("day-popup").classList.remove("active");
+    if(doughnutChartButBigger)
+    {
+        swapDoughnutBack();
+    }
+
+    if(lineChartButBigger)
+    {
+        swapLineGraphBack();
+    }
+
     document.getElementById("day-popup-overlay").classList.remove("active");
+
 }
 
 function loadDayView()

@@ -70,6 +70,7 @@ body {
 } */
 
 .right-top {
+    position: relative;
     grid-column: 3;
     grid-row-start: 1;
     grid-row-end: 3;
@@ -125,15 +126,32 @@ body {
 }
 
 .big-doughnut {
-    display: none;
-
-    opacity: 1;
+    width: 0;
+    height: 0;
+    opacity: 0;
     z-index: 10;
     transition: all 300ms ease-in-out;
 }
 
 .big-doughnut.active {
-    display: block;
+    width: 98%;
+    height: 95%;
+    opacity: 1;
+    background-color: white;
+    transition: all 300ms ease-in-out;
+}
+
+.big-line-graph {
+    width: 0;
+    height: 0;
+    opacity: 0;
+    z-index: 10;
+    transition: all 300ms ease-in-out;
+}
+
+.big-line-graph.active {
+    width: 98%;
+    height: 95%;
     opacity: 1;
     background-color: white;
     transition: all 300ms ease-in-out;
@@ -153,19 +171,59 @@ body {
 
 }
 
+.big-line-graph .swap-line-close-button {
+    position: relative;
+    left: 97%;
+    width: 30px;
+    height: 30px;
+    background: #222;
+    color: white;
+    font-size: 25px;;
+    line-height: 27px;
+    text-align: center;
+    border-radius: 100%;
+
+}
+
+.big-line-graph .swap-line-close-button:hover {
+    background: rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+}
+
 .big-doughnut .swap-doughnut-close-button:hover {
     background: rgba(0, 0, 0, 0.5);
     cursor: pointer;
+}
+
+.line-calendar-cover {
+    position: absolute;
+    width: 0;
+    height: 0;
+    top: -1vh;
+    left: 0;
+    opacity: 0;
+    z-index: -1;
+    transition: all 300ms ease-in-out;
 }
 
 .doughnut-calendar-cover {
     position: absolute;
     width: 0;
     height: 0;
-    top: -10px;
+    top: -1vh;
     left: 0;
     opacity: 0;
     z-index: -1;
+    transition: all 300ms ease-in-out;
+}
+
+.line-calendar-cover.active {
+    opacity: 1;
+    height: 100%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    z-index: 10;
     transition: all 300ms ease-in-out;
 }
 
@@ -177,4 +235,14 @@ body {
     margin: 0;
     z-index: 10;
     transition: all 300ms ease-in-out;
+}
+
+.center-panel-but-for-bigger {
+    font-size: 2vw;
+    text-align: center;
+}
+
+.GDLBBB {
+    font-size: 1vw;
+   text-align: center;
 }
