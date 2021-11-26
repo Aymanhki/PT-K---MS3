@@ -210,7 +210,6 @@ li {
 .days > span {
     display: inline;
     align-items: center;
-    position: absolute;
     text-align: center;
     width: 100%;
 }
