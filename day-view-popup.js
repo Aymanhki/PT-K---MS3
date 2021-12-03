@@ -115,14 +115,9 @@ function getDayTotal()
 
     for(let i=0; i<transactions_dayView.length; i++)
     {
-        if(transactions_dayView[i].Income.Expense === "Income")
-        {
-            dayTotal += transactions_dayView[i].Amount;
-        }
-        else
-        {
-            dayTotal -= transactions_dayView[i].Amount;
-        }
+
+        dayTotal += transactions_dayView[i].Amount;
+
     }
     let totalSection = "";
 
@@ -159,11 +154,11 @@ function viewDayTransactions()
         let deleteBtn = "<delete class='day-view-delete-button'  id='delete-transaction-btn' onclick=deleteTransaction("+i+")>-</delete>";
         if(transactions_dayView[i].Income.Expense === "Income")
         {
-            amount = "<div class = day-view-transaction-amount style='color: green;'>+$"+transactions_dayView[i].Amount+"</div>";
+            amount = "<div class = day-view-transaction-amount style='color: green;'>$+"+transactions_dayView[i].Amount+"</div>";
         }
         else
         {
-            amount = "<div class = day-view-transaction-amount style='color: red;'>-$"+transactions_dayView[i].Amount+"</div>";
+            amount = "<div class = day-view-transaction-amount style='color: red;'>$"+transactions_dayView[i].Amount+"</div>";
         }
         let titleShortened = "";
         let titleString = transactions_dayView[i].Title;
